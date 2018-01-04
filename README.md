@@ -1,3 +1,5 @@
 # Pixel Experience #
 
-### Official devices repository (used in website and OTA) ###
+### Official Devices repository ###
+
+https://github.com/PixelExperience-Devices/
