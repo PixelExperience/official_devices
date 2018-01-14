@@ -7,5 +7,14 @@
       "maintainer_name":"Henrique Silva (jhenrique09)",
       "maintainer_xda_profile":"https://forum.xda-developers.com/member.php?u=6519039",
       "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064"
+   },   
+   {
+      "name":"Redmi Note 4",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "afh_folder": "https://www.androidfilehost.com/?w=files&flid=229792",
+      "maintainer_name":"Anderson Mendes",
+      "maintainer_xda_profile":"https://forum.xda-developers.com/member.php?u=5696327",
+      "xda_thread":"#"
    }
 ]
