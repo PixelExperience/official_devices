@@ -16,5 +16,14 @@
       "maintainer_name":"Anderson Mendes",
       "maintainer_xda_profile":"https://forum.xda-developers.com/member.php?u=5696327",
       "xda_thread":"#"
+   },
+   {
+      "name":"Z2 Plus",
+      "brand":"ZUK",
+      "codename":"z2_plus",
+      "afh_folder": "https://www.androidfilehost.com/?w=files&flid=229533",
+      "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
+      "maintainer_xda_profile":"https://forum.xda-developers.com/member.php?u=7509777",
+      "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
    }
 ]
