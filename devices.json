@@ -34,5 +34,14 @@
       "maintainer_name":"Ritesh Saxena",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5704419",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3722663"
+   },
+   {
+      "name":"Moto G 2015",
+      "brand":"Motorola",
+      "codename":"osprey",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240600",
+      "maintainer_name":"Zilberto Junior (ZJRDroid)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7233293",
+      "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3717863"
    }
 ]
