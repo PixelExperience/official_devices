@@ -70,5 +70,14 @@
       "maintainer_name":"Shiva Teja Peddi (shivatejapeddi)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
       "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990"
+   },
+   {
+      "name":"Vibe K5",
+      "brand":"Lenovo",
+      "codename":"A6020",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236610",
+      "maintainer_name":"Sounak Kundu (Sounak9434)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8259465",
+      "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
    }
 ]
