@@ -30,4 +30,5 @@ Our system is automatic, you should not worry about updating some script, just u
 | maintainer_url | Your personal URL, eg: https://github.com/jhenrique09/ or https://forum.xda-developers.com/member.php?u=6519039 | No  |
 | xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064 | No |
 
-**Please format your JSON code properly, [here](https://jsonformatter.curiousconcept.com/).**
+### 5. Build type
+You need to add 'export CUSTOM_BUILD_TYPE=OFFICIAL' in your build environment so OTA app will be included.
