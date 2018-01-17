@@ -1,6 +1,8 @@
 # Pixel Experience
 ## Official devices application
 
+Devices repository: https://github.com/PixelExperience-Devices
+
 Before open a pull request to add your device into our list of official devices, you should know a few simple things:
 
 ### 1. Hosting
