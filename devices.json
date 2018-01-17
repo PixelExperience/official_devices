@@ -27,6 +27,15 @@
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
    },
    {
+      "name":"OnePlus 3/3T",
+      "brand":"OnePlus",
+      "codename":"oneplus3",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241561",
+      "maintainer_name":"Prasoon Mehra (phantom-1402), Jagrav Naik",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5947980",
+      "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+   },
+   {
       "name":"Redmi 3S/3X",
       "brand":"Xiaomi",
       "codename":"land",
