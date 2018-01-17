@@ -36,6 +36,15 @@
       "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
    },
    {
+      "name":"Moto G5S Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=234743",
+      "maintainer_name":"Keertesh",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
+      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658"
+   },
+   {
       "name":"Redmi 3S/3X",
       "brand":"Xiaomi",
       "codename":"land",
