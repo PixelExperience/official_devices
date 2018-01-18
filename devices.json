@@ -96,5 +96,14 @@
       "maintainer_name":"Ravi Pingat (SeekNDstroy)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7955635",
       "xda_thread":"http://forums.yuplaygod.com/threads/volte-rom-8-1-0_r1-pixel-experience-lettuce-02-01-2018.50989/"
+   },
+   {
+      "name":"Moto G4/G4 Plus",
+      "brand":"Motorola",
+      "codename":"athene",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=239787",
+      "maintainer_name":"Keerten",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7376519",
+      "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pixel-experience-t3732226"
    }
 ]
