@@ -79,5 +79,13 @@
       "maintainer_name":"Sounak Kundu (Sounak9434)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8259465",
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
+   },
+   {
+      "name":"Vibe P2",
+      "brand":"Lenovo",
+      "codename":"kuntao",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
+      "maintainer_name":"BabluS",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
    }
 ]
