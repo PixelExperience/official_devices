@@ -105,5 +105,14 @@
       "maintainer_name":"Keerten",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7376519",
       "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pixel-experience-t3732226"
+   },
+   {
+      "name":"Redmi Note 3 Pro",
+      "brand":"Xiaomi",
+      "codename":"kenzo",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242009",
+      "maintainer_name":"Shamith",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8215844",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
    }
 ]
