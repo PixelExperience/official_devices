@@ -114,5 +114,14 @@
       "maintainer_name":"Shamith",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8215844",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
+   },
+   {
+      "name":" Moto G4 Play",
+      "brand":"Motorola",
+      "codename":"harpia",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242559",
+      "maintainer_name":"@ki",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
+      "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
    }
 ]
