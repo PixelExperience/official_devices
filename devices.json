@@ -18,7 +18,7 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
    },
    {
-      "name":"ZUK Z1",
+      "name":"Z1",
       "brand":"ZUK",
       "codename":"ham",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236586",
@@ -36,7 +36,7 @@
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
    },
    {
-      "name":"OnePlus 3/3T",
+      "name":"3/3T",
       "brand":"OnePlus",
       "codename":"oneplus3",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241561",
@@ -98,7 +98,7 @@
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
    },
    {
-      "name":"Vibe P2",
+      "name":"P2",
       "brand":"Lenovo",
       "codename":"kuntao",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
@@ -106,7 +106,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
    },
    {
-      "name":"Yu Yuphoria",
+      "name":"Yuphoria",
       "brand":"Yu",
       "codename":"lettuce",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241730",
@@ -133,7 +133,7 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
    },
    {
-      "name":" Moto G4 Play",
+      "name":"Moto G4 Play",
       "brand":"Motorola",
       "codename":"harpia",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242559",
