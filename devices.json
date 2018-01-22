@@ -72,6 +72,14 @@
       "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3717863"
    },
    {
+      "name":"Moto G Turbo",
+      "brand":"Motorola",
+      "codename":"merlin",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242844",
+      "maintainer_name":"INFINITY (Innfinite4evr)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7444358"
+   },
+   {
       "name":"Le Max 2",
       "brand":"Leeco",
       "codename":"x2",
