@@ -18,6 +18,15 @@
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
    },
    {
+      "name":"ZUK Z1",
+      "brand":"ZUK",
+      "codename":"ham",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236586",
+      "maintainer_name":"Shubham Bhise (shubhambhise)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+      "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515"
+   },
+   {
       "name":"Z2 Plus",
       "brand":"ZUK",
       "codename":"z2_plus",
