@@ -140,5 +140,14 @@
       "maintainer_name":"@ki",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
       "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
+   },
+   {
+      "name":"Redmi 3",
+      "brand":"Xiaomi",
+      "codename":"ido",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=245064",
+      "maintainer_name":"bond_ua",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8901923",
+      "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
    }
 ]
