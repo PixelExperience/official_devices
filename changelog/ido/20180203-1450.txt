@@ -1,0 +1,5 @@
+- Fix battery drain
+- Add led notification settings
+- ROM source updates
+- Offline charging animation
+- Other minor changes
