@@ -149,5 +149,13 @@
       "maintainer_name":"bond_ua",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8901923",
       "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
+   },
+   {
+      "name":"MI 5",
+      "brand":"Xiaomi",
+      "codename":"gemini",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246141",
+      "maintainer_name":"Sebastian (Dzienny)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765"
    }
 ]
