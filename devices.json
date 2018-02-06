@@ -158,5 +158,14 @@
       "maintainer_name":"Sebastian (Dzienny)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
       "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
+   },
+   {
+      "name":"Redmi 4/4X",
+      "brand":"Xiaomi",
+      "codename":"santoni",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246016",
+      "maintainer_name":"Vimal Raj (Vimalraj1)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
+      "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
    }
 ]
