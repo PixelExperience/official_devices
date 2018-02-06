@@ -1,6 +1,8 @@
 # Pixel Experience
 ## Official devices application
 
+Devices repository: https://github.com/PixelExperience-Devices
+
 Before open a pull request to add your device into our list of official devices, you should know a few simple things:
 
 ### 1. Hosting
@@ -32,3 +34,6 @@ Our system is automatic, you should not worry about updating some script, just u
 
 ### 5. Build type
 You need to add 'export CUSTOM_BUILD_TYPE=OFFICIAL' in your build environment so OTA app will be included.
+
+### 6. Device tree
+Maintainers should upload the device tree on https://github.com/PixelExperience-Devices

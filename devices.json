@@ -3,28 +3,55 @@
       "name":"Moto G5 Plus",
       "brand":"Motorola",
       "codename":"potter",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=229608",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241606",
       "maintainer_name":"Henrique Silva (jhenrique09)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
       "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064"
    },
    {
-      "name":"Redmi Note 4",
+      "name":"Redmi Note 4/4X",
       "brand":"Xiaomi",
       "codename":"mido",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=229792",
-      "maintainer_name":"Anderson Mendes",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5696327",
-      "xda_thread":"#"
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242436",
+      "maintainer_name":"Adesh (Adesh15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7037776",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
+   },
+   {
+      "name":"Z1",
+      "brand":"ZUK",
+      "codename":"ham",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236586",
+      "maintainer_name":"Shubham Bhise (shubhambhise)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+      "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515"
    },
    {
       "name":"Z2 Plus",
       "brand":"ZUK",
       "codename":"z2_plus",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=229533",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241581",
       "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
+   },
+   {
+      "name":"3/3T",
+      "brand":"OnePlus",
+      "codename":"oneplus3",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241561",
+      "maintainer_name":"Prasoon Mehra (phantom-1402)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5947980",
+      "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+   },
+   {
+      "name":"Moto G5S Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=234743",
+      "maintainer_name":"Keertesh",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
+      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658"
    },
    {
       "name":"Redmi 3S/3X",
@@ -39,18 +66,97 @@
       "name":"Moto G 2015",
       "brand":"Motorola",
       "codename":"osprey",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240600",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241574",
       "maintainer_name":"Zilberto Junior (ZJRDroid)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7233293",
       "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3717863"
    },
    {
-      "name":"Max 2",
+      "name":"Moto G Turbo",
+      "brand":"Motorola",
+      "codename":"merlin",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242844",
+      "maintainer_name":"INFINITY (Innfinite4evr)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7444358"
+   },
+   {
+      "name":"Le Max 2",
       "brand":"Leeco",
       "codename":"x2",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240885",
       "maintainer_name":"Shiva Teja Peddi (shivatejapeddi)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
       "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990"
+   },
+   {
+      "name":"Vibe K5",
+      "brand":"Lenovo",
+      "codename":"A6020",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236610",
+      "maintainer_name":"Sounak Kundu (Sounak9434)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8259465",
+      "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
+   },
+   {
+      "name":"P2",
+      "brand":"Lenovo",
+      "codename":"kuntao",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
+      "maintainer_name":"BabluS",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
+   },
+   {
+      "name":"Yuphoria",
+      "brand":"Yu",
+      "codename":"lettuce",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241730",
+      "maintainer_name":"Ravi Pingat (SeekNDstroy)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7955635",
+      "xda_thread":"http://forums.yuplaygod.com/threads/volte-rom-8-1-0_r1-pixel-experience-lettuce-02-01-2018.50989/"
+   },
+   {
+      "name":"Moto G4/G4 Plus",
+      "brand":"Motorola",
+      "codename":"athene",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=239787",
+      "maintainer_name":"Keerten",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7376519",
+      "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pixel-experience-t3732226"
+   },
+   {
+      "name":"Redmi Note 3 Pro",
+      "brand":"Xiaomi",
+      "codename":"kenzo",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242009",
+      "maintainer_name":"Shamith",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8215844",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
+   },
+   {
+      "name":"Moto G4 Play",
+      "brand":"Motorola",
+      "codename":"harpia",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242559",
+      "maintainer_name":"@ki",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
+      "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
+   },
+   {
+      "name":"Redmi 3",
+      "brand":"Xiaomi",
+      "codename":"ido",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=245064",
+      "maintainer_name":"bond_ua",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8901923",
+      "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
+   },
+   {
+      "name":"MI 5",
+      "brand":"Xiaomi",
+      "codename":"gemini",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246141",
+      "maintainer_name":"Sebastian (Dzienny)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
+      "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
    }
 ]
