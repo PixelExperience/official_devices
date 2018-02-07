@@ -6,7 +6,6 @@ Update graphic stack
 Update GPS stack
 February security patch
 Updated APN's
-Add ability to exit screen pinning by long pressing power button
 Ambient Music ticker
 Heads up qs tile is back
 Fix issues on black/dark theme
