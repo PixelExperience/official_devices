@@ -167,5 +167,12 @@
       "maintainer_name":"Vimal Raj (Vimalraj1)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
+   },
+   {
+      "name":"Moto G 2013",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=247363",
+      "maintainer_name":"ricksanchez17"
    }
 ]
