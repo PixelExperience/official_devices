@@ -5,7 +5,8 @@
 - dex2oat improvements
 - Add ability to exit screen pinning by long pressing power button
 - Ambient Music ticker
-- Heads up qs tile is back
+- Heads up quick tile is back
+- Fix download icon sometimes not appearing
 - Fix issues on black/dark theme
 - Ability to change theme accent color
 - Translations synced
