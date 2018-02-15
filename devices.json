@@ -185,5 +185,14 @@
       "maintainer_name":"Verevka",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
       "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
-   }
+   },
+  {
+      "name":"Yunique",
+      "brand":"Yu",
+      "codename":"jalebi",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
+      "maintainer_name":"Shaik Jaleel (iamsj7)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
+      "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+   } 
 ]
