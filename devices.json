@@ -12,9 +12,9 @@
       "name":"Redmi Note 4/4X",
       "brand":"Xiaomi",
       "codename":"mido",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242436",
-      "maintainer_name":"Adesh (Adesh15)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7037776",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249047",
+      "maintainer_name":"Nikhil (@im_nikhil)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6724943",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
    },
    {
@@ -66,10 +66,10 @@
       "name":"Moto G 2015",
       "brand":"Motorola",
       "codename":"osprey",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241574",
-      "maintainer_name":"Zilberto Junior (ZJRDroid)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7233293",
-      "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3717863"
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250146",
+      "maintainer_name":"Subins Mani",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+      "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
    },
    {
       "name":"Moto G Turbo",
@@ -151,12 +151,57 @@
       "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
    },
    {
-      "name":"MI 5",
+      "name":"Mi 5",
       "brand":"Xiaomi",
       "codename":"gemini",
       "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246141",
       "maintainer_name":"Sebastian (Dzienny)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
       "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
-   }
+   },
+   {
+      "name":"Redmi 4/4X",
+      "brand":"Xiaomi",
+      "codename":"santoni",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246016",
+      "maintainer_name":"Vimal Raj (Vimalraj1)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
+      "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
+   },
+   {
+      "name":"Moto G 2013",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=247403",
+      "maintainer_name":"ricksanchez17",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=t3748738",
+      "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3748738"
+   },
+   {
+      "name":"Moto G 2014",
+      "brand":"Motorola",
+      "codename":"titan",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249562",
+      "maintainer_name":"RenanQueiroz",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7344859",
+      "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3734871"
+   },
+   {
+      "name":"Mi 6",
+      "brand":"Xiaomi",
+      "codename":"sagit",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=237314",
+      "maintainer_name":"Verevka",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
+      "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
+   },
+  {
+      "name":"Yunique",
+      "brand":"Yu",
+      "codename":"jalebi",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
+      "maintainer_name":"Shaik Jaleel (iamsj7)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
+      "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+   } 
 ]
