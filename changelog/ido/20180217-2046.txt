@@ -1,9 +1,0 @@
--Replaced Google camera on Snap
--Update blobs from Kipper
--Fix aptX 
--Fixed random fc's
--Ambient display settings
--Ambient Music ticker
--Updated Sources 
--Others changes
-
