@@ -195,7 +195,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
       "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
    },
-  {
+   {
       "name":"Yunique",
       "brand":"Yu",
       "codename":"jalebi",
@@ -203,5 +203,14 @@
       "maintainer_name":"Shaik Jaleel (iamsj7)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
       "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
-   } 
+   },
+   {
+      "name":"5",
+      "brand":"OnePlus",
+      "codename":"cheeseburger",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=251510",
+      "maintainer_name":"Riki (Roybabu)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7578936",
+      "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230"
+   }
 ]
