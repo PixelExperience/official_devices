@@ -1,4 +1,4 @@
-• Merged tag 'LE.U1.3.r7-03600-8x09.0'
+'
 • Improvements to WiFi 
 • Addressed Low In call audio 
 • Xiaomi Doze Improvements
