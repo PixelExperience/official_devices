@@ -212,5 +212,14 @@
       "maintainer_name":"Riki (Roybabu)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7578936",
       "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230"
+   },
+   {
+      "name":"Generic System Image",
+      "brand":"Generic",
+      "codename":"treble",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=265064",
+      "maintainer_name":"Henrique Silva (jhenrique09)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+      "xda_thread":""
    }
 ]
