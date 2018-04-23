@@ -223,6 +223,24 @@
       "xda_thread":""
    },
    {
+      "name":"Mi Mix",
+      "brand":"Xiaomi",
+      "codename":"lithium",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=246907",
+      "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+      "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388"
+   },
+   {
+      "name":"Mi Note 2",
+      "brand":"Xiaomi",
+      "codename":"scorpio",
+      "afh_folder":"https://androidfilehost.com/?w=files&flid=234712",
+      "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+      "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
+   },
+   {
       "name":"Generic System Image",
       "brand":"Generic",
       "codename":"treble",
