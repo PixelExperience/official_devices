@@ -10,11 +10,7 @@
 
 =======================
 Remaining bug
-1. whatsapp status or video upload
+1. Whatsapp status or video upload
 2. GPS Unstable
-3. Selinux Permessive
-=======================
-
-Go version download Link
-[URL="https://www.androidfilehost.com/?fid=962187416754478049"]Pixel Experience Go Edition[/URL]
+3. Selinux Permissive
 =======================
