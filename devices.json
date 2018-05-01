@@ -172,19 +172,19 @@
       "name":"Mi 5s",
       "brand":"Xiaomi",
       "codename":"capricorn",
-      "afh_folder":"#",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267937",
       "maintainer_name":"Henrique Pereira (Hlcpereira)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-      "xda_thread":"#"
+      "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3784672"
    },
    {
       "name":"Mi 5s Plus",
       "brand":"Xiaomi",
       "codename":"natrium",
-      "afh_folder":"#",
+      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267929",
       "maintainer_name":"Henrique Pereira (Hlcpereira)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-      "xda_thread":"#"
+      "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3784671"
    },
    {
       "name":"Redmi 4/4X",
