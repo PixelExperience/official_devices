@@ -72,15 +72,6 @@
       "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
    },
    {
-      "name":"Moto G 2015 (GO version)",
-      "brand":"Motorola",
-      "codename":"osprey_go",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267673",
-      "maintainer_name":"Subins Mani",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-      "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
-   },
-   {
       "name":"Moto G Turbo",
       "brand":"Motorola",
       "codename":"merlin",
@@ -266,14 +257,5 @@
       "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
       "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
-   },
-   {
-      "name":"Generic System Image",
-      "brand":"Generic",
-      "codename":"treble",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=265064",
-      "maintainer_name":"Henrique Silva (jhenrique09)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-      "xda_thread":""
    }
 ]
