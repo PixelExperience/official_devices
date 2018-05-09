@@ -14,7 +14,8 @@ The folder must be in **hidden mode**, so our [download portal](https://download
 ### 2. Changelog
 For each new version, you need to upload the changelog to this repository in the device specific folder.
 
-The file name must be in this format: **yyyyMMdd-Hm.txt**
+The changelog file name must match the **.zip** file name and should end with **.txt**
+Eg: **.zip** is **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.zip**, changelog file name should be **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.txt**
 
 ### 3. Over-the-air (OTA) updates
 Our system is automatic, you should not worry about updating some script, just upload the new build to the Android File Host device folder and send a pull request with the changelog in this repository.
@@ -27,6 +28,8 @@ Our system is automatic, you should not worry about updating some script, just u
 | name | Device name | Yes |
 | brand | Device manufacturer | Yes |
 | codename | Device codename, eg: falcon | Yes |
+| version_code | Version code, lowercase, eg: oreo | Yes |
+| version_name | Version name, will be shown on download portal, eg: Oreo | Yes |
 | afh_folder | URL of your hidden AFH folder, eg: https://www.androidfilehost.com/?w=files&flid=229608 | Yes |
 | maintainer_name | Your name | Yes |
 | maintainer_url | Your personal URL, eg: https://github.com/jhenrique09/ or https://forum.xda-developers.com/member.php?u=6519039 | No  |
