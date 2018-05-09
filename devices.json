@@ -3,259 +3,433 @@
       "name":"Moto G5 Plus",
       "brand":"Motorola",
       "codename":"potter",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241606",
-      "maintainer_name":"Henrique Silva (jhenrique09)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241606",
+            "maintainer_name":"Henrique Silva (jhenrique09)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064"
+         }
+      ]
    },
    {
       "name":"Redmi Note 4/4X",
       "brand":"Xiaomi",
       "codename":"mido",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249047",
-      "maintainer_name":"Nikhil (@im_nikhil)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6724943",
-      "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249047",
+            "maintainer_name":"Nikhil (@im_nikhil)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6724943",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
+         }
+      ]
    },
    {
       "name":"Z1",
       "brand":"ZUK",
       "codename":"ham",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236586",
-      "maintainer_name":"Shubham Bhise (shubhambhise)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
-      "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236586",
+            "maintainer_name":"Shubham Bhise (shubhambhise)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
+            "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515"
+         }
+      ]
    },
    {
       "name":"Z2 Plus",
       "brand":"ZUK",
       "codename":"z2_plus",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241581",
-      "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
-      "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241581",
+            "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
+            "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
+         }
+      ]
    },
    {
       "name":"3/3T",
       "brand":"OnePlus",
       "codename":"oneplus3",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=244130",
-      "maintainer_name":"Akash Srivastava (markakash)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
-      "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=244130",
+            "maintainer_name":"Akash Srivastava (markakash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+         }
+      ]
    },
    {
       "name":"Moto G5S Plus",
       "brand":"Motorola",
       "codename":"sanders",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=234743",
-      "maintainer_name":"Keertesh",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
-      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=234743",
+            "maintainer_name":"Keertesh",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
+            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658"
+         }
+      ]
    },
    {
       "name":"Redmi 3S/3X",
       "brand":"Xiaomi",
       "codename":"land",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241237",
-      "maintainer_name":"Ritesh Saxena",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5704419",
-      "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3722663"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241237",
+            "maintainer_name":"Ritesh Saxena",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5704419",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3722663"
+         }
+      ]
    },
    {
       "name":"Moto G 2015",
       "brand":"Motorola",
       "codename":"osprey",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250146",
-      "maintainer_name":"Subins Mani",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-      "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250146",
+            "maintainer_name":"Subins Mani",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
+         }
+      ]
    },
    {
       "name":"Moto G Turbo",
       "brand":"Motorola",
       "codename":"merlin",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242844",
-      "maintainer_name":"INFINITY (Innfinite4evr)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7444358"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242844",
+            "maintainer_name":"INFINITY (Innfinite4evr)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7444358"
+         }
+      ]
    },
    {
       "name":"Le Max 2",
       "brand":"Leeco",
       "codename":"x2",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240885",
-      "maintainer_name":"Shiva Teja Peddi (shivatejapeddi)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
-      "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240885",
+            "maintainer_name":"Shiva Teja Peddi (shivatejapeddi)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
+            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990"
+         }
+      ]
    },
    {
       "name":"Vibe K5",
       "brand":"Lenovo",
       "codename":"A6020",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236610",
-      "maintainer_name":"Sounak Kundu (Sounak9434)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8259465",
-      "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236610",
+            "maintainer_name":"Sounak Kundu (Sounak9434)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8259465",
+            "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
+         }
+      ]
    },
    {
       "name":"P2",
       "brand":"Lenovo",
       "codename":"kuntao",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
-      "maintainer_name":"BabluS",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
+            "maintainer_name":"BabluS",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
+         }
+      ]
    },
    {
       "name":"Yuphoria",
       "brand":"Yu",
       "codename":"lettuce",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241730",
-      "maintainer_name":"Ravi Pingat (SeekNDstroy)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7955635",
-      "xda_thread":"http://forums.yuplaygod.com/threads/volte-rom-8-1-0_r1-pixel-experience-lettuce-02-01-2018.50989/"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241730",
+            "maintainer_name":"Ravi Pingat (SeekNDstroy)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7955635",
+            "xda_thread":"http://forums.yuplaygod.com/threads/volte-rom-8-1-0_r1-pixel-experience-lettuce-02-01-2018.50989/"
+         }
+      ]
    },
    {
       "name":"Moto G4/G4 Plus",
       "brand":"Motorola",
       "codename":"athene",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=239787",
-      "maintainer_name":"Keerten",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7376519",
-      "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pixel-experience-t3732226"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=239787",
+            "maintainer_name":"Keerten",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7376519",
+            "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pixel-experience-t3732226"
+         }
+      ]
    },
    {
       "name":"Redmi Note 3 Pro",
       "brand":"Xiaomi",
       "codename":"kenzo",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242009",
-      "maintainer_name":"Shamith",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8215844",
-      "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242009",
+            "maintainer_name":"Shamith",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8215844",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
+         }
+      ]
    },
    {
       "name":"Moto G4 Play",
       "brand":"Motorola",
       "codename":"harpia",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242559",
-      "maintainer_name":"@ki",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
-      "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242559",
+            "maintainer_name":"@ki",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
+            "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
+         }
+      ]
    },
    {
       "name":"Redmi 3",
       "brand":"Xiaomi",
       "codename":"ido",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=245064",
-      "maintainer_name":"bond_ua",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8901923",
-      "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=245064",
+            "maintainer_name":"bond_ua",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8901923",
+            "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
+         }
+      ]
    },
    {
       "name":"Mi 5",
       "brand":"Xiaomi",
       "codename":"gemini",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246141",
-      "maintainer_name":"Sebastian (Dzienny)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
-      "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246141",
+            "maintainer_name":"Sebastian (Dzienny)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
+         }
+      ]
    },
    {
       "name":"Mi 5s",
       "brand":"Xiaomi",
       "codename":"capricorn",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267937",
-      "maintainer_name":"Henrique Pereira (Hlcpereira)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-      "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3784672"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267937",
+            "maintainer_name":"Henrique Pereira (Hlcpereira)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
+            "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3784672"
+         }
+      ]
    },
    {
       "name":"Mi 5s Plus",
       "brand":"Xiaomi",
       "codename":"natrium",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267929",
-      "maintainer_name":"Henrique Pereira (Hlcpereira)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-      "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3784671"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267929",
+            "maintainer_name":"Henrique Pereira (Hlcpereira)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
+            "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3784671"
+         }
+      ]
    },
    {
       "name":"Redmi 4/4X",
       "brand":"Xiaomi",
       "codename":"santoni",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246016",
-      "maintainer_name":"Vimal Raj (Vimalraj1)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
-      "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246016",
+            "maintainer_name":"Vimal Raj (Vimalraj1)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
+         }
+      ]
    },
    {
       "name":"Moto G 2013",
       "brand":"Motorola",
       "codename":"falcon",
-      "afh_folder":"https://androidfilehost.com/?w=files&flid=247403",
-      "maintainer_name":"ricksanchez17",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=t3748738",
-      "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3748738"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=247403",
+            "maintainer_name":"ricksanchez17",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=t3748738",
+            "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3748738"
+         }
+      ]
    },
    {
       "name":"Moto G 2014",
       "brand":"Motorola",
       "codename":"titan",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249562",
-      "maintainer_name":"RenanQueiroz",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7344859",
-      "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3734871"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249562",
+            "maintainer_name":"RenanQueiroz",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7344859",
+            "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3734871"
+         }
+      ]
    },
    {
       "name":"Mi 6",
       "brand":"Xiaomi",
       "codename":"sagit",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=237314",
-      "maintainer_name":"Verevka",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
-      "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=237314",
+            "maintainer_name":"Verevka",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
+            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
+         }
+      ]
    },
    {
       "name":"Yunique",
       "brand":"Yu",
       "codename":"jalebi",
-      "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
-      "maintainer_name":"Shaik Jaleel (iamsj7)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-      "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
+            "maintainer_name":"Shaik Jaleel (iamsj7)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
+            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+         }
+      ]
    },
    {
       "name":"5",
       "brand":"OnePlus",
       "codename":"cheeseburger",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=251510",
-      "maintainer_name":"Riki (Roybabu)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7578936",
-      "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=251510",
+            "maintainer_name":"Riki (Roybabu)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7578936",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230"
+         }
+      ]
    },
    {
       "name":"5T",
       "brand":"OnePlus",
       "codename":"dumpling",
-      "afh_folder":"https://www.androidfilehost.com/?w=files&flid=266095",
-      "maintainer_name":"Rafael Marchetto (marchetto96)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
-      "xda_thread":""
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=266095",
+            "maintainer_name":"Rafael Marchetto (marchetto96)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
+            "xda_thread":""
+         }
+      ]
    },
    {
       "name":"Mi Mix",
       "brand":"Xiaomi",
       "codename":"lithium",
-      "afh_folder":"https://androidfilehost.com/?w=files&flid=246907",
-      "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
-      "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=246907",
+            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388"
+         }
+      ]
    },
    {
       "name":"Mi Note 2",
       "brand":"Xiaomi",
       "codename":"scorpio",
-      "afh_folder":"https://androidfilehost.com/?w=files&flid=234712",
-      "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
-      "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=234712",
+            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+            "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
+         }
+      ]
    }
 ]
