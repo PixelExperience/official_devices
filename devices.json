@@ -431,5 +431,20 @@
             "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
          }
       ]
+   },
+   {
+      "name":"Mi A1",
+      "brand":"Xiaomi",
+      "codename":"tissot",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=269759",
+            "maintainer_name":"Aaron Randelman (sooti)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4460995",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
+         }
+      ]
    }
 ]
