@@ -465,7 +465,7 @@
    {
       "name":"Redmi 5 Plus",
       "brand":"Xiaomi",
-      "codename":"Vince",
+      "codename":"vince",
       "supported_versions":[
          {
             "version_code":"oreo",
