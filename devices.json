@@ -461,5 +461,18 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Redmi 5 Plus",
+      "brand":"Xiaomi",
+      "codename":"Vince",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=270209",
+            "maintainer_name":"Luiz H. (SanicM2)"
+         }
+      ]
    }
 ]
