@@ -446,5 +446,20 @@
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 5 / Pro",
+      "brand":"Xiaomi",
+      "codename":"whyred",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"",
+            "maintainer_name":"Henrique Silva (jhenrique09)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":""
+         }
+      ]
    }
 ]
