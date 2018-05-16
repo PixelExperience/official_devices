@@ -482,5 +482,19 @@
             "maintainer_name":"Luiz H. (SanicM2)"
          }
       ]
+   },
+   {
+      "name":"Moto E 2015 (LTE)",
+      "brand":"Motorola",
+      "codename":"surnia",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267978",
+            "maintainer_name":"El Dainosor",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6062450"
+         }
+      ]
    }
 ]
