@@ -496,5 +496,26 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6062450"
          }
       ]
+   },
+   {
+      "name":"System Image",
+      "brand":"Generic",
+      "codename":"treble_gsi",
+      "supported_versions":[
+         {
+            "version_code":"oreo_arm64_a",
+            "version_name":"Oreo ARM64 A",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=265064",
+            "maintainer_name":"Henrique Silva",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039"
+         },
+         {
+            "version_code":"oreo_arm64_ab",
+            "version_name":"Oreo ARM64 A/B",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=272652",
+            "maintainer_name":"Henrique Silva",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039"
+         }
+      ]
    }
 ]
