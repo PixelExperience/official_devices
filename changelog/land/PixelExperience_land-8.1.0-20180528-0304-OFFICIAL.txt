@@ -1,0 +1,11 @@
+PixelExperience:
+
+- Rebase done (lots of changes)
+
+Device specific:
+
+- Implemented Treble
+- Fixed volte issues
+- Fixed ViLTE
+- Fixed the dual sim data call bug
+- These are the big changes, otherwise there are ton of other changes (as this build is coming after 3 months)
