@@ -526,8 +526,8 @@
       "codename":"condor",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
+            "version_code":"oreo_go",
+            "version_name":"Oreo (GO edition)",
             "afh_folder":"https://www.androidfilehost.com/?w=files&flid=273736",
             "maintainer_name":"Sushant Kumar",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7554460",
