@@ -519,5 +519,20 @@
             "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011"
          }
       ]
+   },
+   {
+      "name":"Moto E1",
+      "brand":"Motorola",
+      "codename":"condor",
+      "supported_versions":[
+         {
+            "version_code":"oreo_go",
+            "version_name":"Oreo (GO edition)",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=273736",
+            "maintainer_name":"Sushant Kumar",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7554460",
+            "xda_thread":"https://forum.xda-developers.com/moto-e/development/rom-pixel-experience-t3798365"
+         }
+      ]
    }
 ]
