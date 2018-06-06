@@ -542,5 +542,20 @@
             "xda_thread":"https://forum.xda-developers.com/moto-e/development/rom-pixel-experience-t3798365"
          }
       ]
+   },
+   {
+      "name":"A6000",
+      "brand":"Lenovo",
+      "codename":"a6000",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=274563",
+            "maintainer_name":"Shaik Jaleel (iamsj7)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
+            "xda_thread":"https://forum.xda-developers.com/lenovo-a6000/development/rom-pixel-experience-t3800270"
+         }
+      ]
    }
 ]
