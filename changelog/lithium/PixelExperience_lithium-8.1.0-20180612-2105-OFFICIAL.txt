@@ -1,0 +1,3 @@
+- Fixed camera not working on some devices
+- Fixed battery drain (I hope)
+- Refer to Github for other changes
