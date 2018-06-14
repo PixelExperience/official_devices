@@ -571,5 +571,20 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983"
          }
       ]
+   },
+   {
+      "name":"Robin",
+      "brand":"Nextbit",
+      "codename":"ether",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=276050",
+            "maintainer_name":"Alexander Brunswig (NurKeinNeid)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5974762",
+            "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3802848"
+         }
+      ]
    }
 ]
