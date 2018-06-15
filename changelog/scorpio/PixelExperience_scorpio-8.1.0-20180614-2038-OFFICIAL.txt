@@ -1,0 +1,2 @@
+- Fixed frame drops
+- Fixed battery drain
