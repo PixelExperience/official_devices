@@ -3,8 +3,6 @@
 =======================
 June security patch
 - Migrated to HardRock Kernel v6
-- New features:
-  * Battery and notification leds
-- Made it Official
+- Using gapps mini instead of nano
 - OTA updates
 - Other minor changes
