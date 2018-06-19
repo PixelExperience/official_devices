@@ -1,0 +1,4 @@
+19.06.2018 build:
+
+- Updated kernel from scorpio-o-oss
+- Fixed battery drain
