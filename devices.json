@@ -601,5 +601,20 @@
             "xda_thread":"https://forum.xda-developers.com/mi-max-2/development/rom-pixel-experience-t3790553"
          }
       ]
+   },
+   {
+      "name":"Nexus 6",
+      "brand":"Google",
+      "codename":"shamu",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=276936",
+            "maintainer_name":"king",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7377440",
+            "xda_thread":"https://forum.xda-developers.com/nexus-6/development/rom-t3801383"
+         }
+      ]
    }
 ]
