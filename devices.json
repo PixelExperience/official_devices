@@ -622,14 +622,14 @@
       "brand":"Xiaomi",
       "codename":"wt88047",
       "supported_versions":[
-	 {
-	    "version_code":"oreo",
-	    "version_name":"Oreo",
-	    "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278368",
-	    "maintainer_name":"MkfsSion",
-	    "maintainer_url":"https://forum.xda-developers.com/member.php?u=8062400",
-	    "xda_thread":"https://forum.xda-developers.com/redmi-2/development/rom-pixel-experience-t3811285"
-	 }
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278368",
+            "maintainer_name":"MkfsSion",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8062400",
+            "xda_thread":"https://forum.xda-developers.com/redmi-2/development/rom-pixel-experience-t3811285"
+         }
       ]
    }
 ]
