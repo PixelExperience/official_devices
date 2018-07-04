@@ -1,0 +1,3 @@
+* Latest PE changes
+* Enable USB fast charge
+* Fix notification led
