@@ -632,4 +632,19 @@
          }
       ]
    }
+   {
+      "name":"Moto Z2 Force",
+      "brand":"motorola",
+      "codename":"nash",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"",
+            "maintainer_name":"Henrique Pereira (Hlcpereira)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
+            "xda_thread":""
+         }
+      ]
+   },
 ]
