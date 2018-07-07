@@ -128,20 +128,6 @@
       ]
    },
    {
-      "name":"Moto G Turbo",
-      "brand":"Motorola",
-      "codename":"merlin",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242844",
-            "maintainer_name":"INFINITY (Innfinite4evr)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7444358"
-         }
-      ]
-   },
-   {
       "name":"Le Max 2",
       "brand":"Leeco",
       "codename":"x2",
@@ -157,21 +143,6 @@
       ]
    },
    {
-      "name":"Vibe K5",
-      "brand":"Lenovo",
-      "codename":"A6020",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236610",
-            "maintainer_name":"Sounak Kundu (Sounak9434)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8259465",
-            "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixelexperience-vibe-k5-plus-t3723047"
-         }
-      ]
-   },
-   {
       "name":"P2",
       "brand":"Lenovo",
       "codename":"kuntao",
@@ -182,21 +153,6 @@
             "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
             "maintainer_name":"BabluS",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
-         }
-      ]
-   },
-   {
-      "name":"Yuphoria",
-      "brand":"Yu",
-      "codename":"lettuce",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241730",
-            "maintainer_name":"Ravi Pingat (SeekNDstroy)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7955635",
-            "xda_thread":"http://forums.yuplaygod.com/threads/volte-rom-8-1-0_r1-pixel-experience-lettuce-02-01-2018.50989/"
          }
       ]
    },
@@ -242,21 +198,6 @@
             "maintainer_name":"@ki",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
             "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
-         }
-      ]
-   },
-   {
-      "name":"Redmi 3",
-      "brand":"Xiaomi",
-      "codename":"ido",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=245064",
-            "maintainer_name":"bond_ua",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8901923",
-            "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixelexperience-ido-t3742977"
          }
       ]
    },
