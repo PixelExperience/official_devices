@@ -1,0 +1,11 @@
+PixelExperience:
+
+- July Security Patch Merged
+
+Device specific:
+
+- Maintainer Changed
+- More Optimized 
+
+
+
