@@ -1,0 +1,4 @@
+- Offline charging fixed
+- Minor fixes and performance improvements
+- Added Adaptive LowMemoryKiller
+- ZRAM Disabled
