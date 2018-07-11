@@ -1,0 +1,14 @@
+Device specific:
+ - HW Keys Customization Added
+ - Fixed Navigation Bar Bug
+ - Fixed Sim Reset On Reboot
+ 
+
+
+
+
+
+
+
+
+
