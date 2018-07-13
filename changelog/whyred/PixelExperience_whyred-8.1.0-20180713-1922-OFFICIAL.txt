@@ -1,0 +1,3 @@
+-Initial release
+-Derp kernel included by default, compiled with DragonTC clang 7.0
+-Safetynet certified by default
