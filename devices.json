@@ -405,17 +405,17 @@
       ]
    },
    {
-      "name":"Redmi Note 5 / Pro",
+      "name":"Redmi Note 5 Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
       "supported_versions":[
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278950",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3816099"
          }
       ]
    },
