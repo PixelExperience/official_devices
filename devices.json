@@ -128,6 +128,21 @@
       ]
    },
    {
+      "name":"Moto G Turbo",
+      "brand":"Motorola",
+      "codename":"merlin",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279029",
+            "maintainer_name":"Hritik Utekar (HK)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7560545",
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3808347"
+         }
+      ]
+   },
+   {
       "name":"Le Max 2",
       "brand":"Leeco",
       "codename":"x2",
