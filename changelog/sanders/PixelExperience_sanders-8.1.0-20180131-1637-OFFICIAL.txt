@@ -1,4 +1,0 @@
-* Minor Changes.
-* Kernel upstreamed to 3.18.92
-* Frequencies are back.
-* Source Updates
