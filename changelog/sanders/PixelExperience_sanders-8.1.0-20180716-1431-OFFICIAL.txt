@@ -1,0 +1,6 @@
+*Fixed DTV for pt-br amigos (app version for DTV will be updated in next build).
+*Fixed Audio shits.
+*Kernel upstreamed to .115.
+*Cleaned up and updated tree for more smooth experience.
+*July Patch.
+*checkfeatures.sh fixes.
