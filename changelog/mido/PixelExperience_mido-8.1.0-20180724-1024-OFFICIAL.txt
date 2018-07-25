@@ -1,5 +1,5 @@
 July Security Patch 
-Miscellaneous bug fix and Performance Imporvement.
+Miscellaneous bug fix and Performance Improvements.
 
 
 Facing Problems? 
