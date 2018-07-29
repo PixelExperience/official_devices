@@ -1,0 +1,3 @@
+* Latest LineageOS changes (Device Tree)
+* Switch to LineageOS kernel
+* Latest Pixel Experience changes(Source Side)
