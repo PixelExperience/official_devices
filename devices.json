@@ -172,36 +172,6 @@
       ]
    },
    {
-      "name":"Moto G4/G4 Plus",
-      "brand":"Motorola",
-      "codename":"athene",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=239787",
-            "maintainer_name":"Keerten",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7376519",
-            "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-pixel-experience-t3732226"
-         }
-      ]
-   },
-   {
-      "name":"Redmi Note 3 Pro",
-      "brand":"Xiaomi",
-      "codename":"kenzo",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242009",
-            "maintainer_name":"Shamith",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8215844",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rompixel-experience-8-1-aosp-oreo-mr1-t3716727"
-         }
-      ]
-   },
-   {
       "name":"Moto G4 Play",
       "brand":"Motorola",
       "codename":"harpia",
@@ -273,21 +243,6 @@
             "maintainer_name":"Vimal Raj (Vimalraj1)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
-         }
-      ]
-   },
-   {
-      "name":"Moto G 2013",
-      "brand":"Motorola",
-      "codename":"falcon",
-      "supported_versions":[
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=247403",
-            "maintainer_name":"ricksanchez17",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=t3748738",
-            "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3748738"
          }
       ]
    },
