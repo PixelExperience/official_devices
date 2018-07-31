@@ -544,6 +544,21 @@
       ]
    },
    {
+      "name":"Redmi Note 3 Pro",
+      "brand":"Xiaomi",
+      "codename":"kenzo",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279862",
+            "maintainer_name":"amog787",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8950490",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3823232"
+         }
+      ]
+   },
+   {
       "name":"Moto Z2 Force",
       "brand":"Motorola",
       "codename":"nash",
