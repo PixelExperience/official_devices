@@ -1,2 +1,0 @@
-- This isn't a flashable TWRP file, you need to extract and install the image file (*.img) on system partition
-- Initial release
