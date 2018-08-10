@@ -315,6 +315,20 @@
       ]
    },
    {
+      "name":"Galaxy Note 3",
+      "brand":"Samsung",
+      "codename":"hlte",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279618",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109"
+         }
+      ]
+   },
+   {
       "name":"5T",
       "brand":"OnePlus",
       "codename":"dumpling",
