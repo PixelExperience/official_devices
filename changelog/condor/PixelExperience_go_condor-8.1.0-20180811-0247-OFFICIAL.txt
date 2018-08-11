@@ -1,4 +1,4 @@
 - August security patch merged
 - Performance improvements
 - Source updates and fixes
-- Camcoder broken will be fixed in the next build
+- Camcorder broken will be fixed in the next build
