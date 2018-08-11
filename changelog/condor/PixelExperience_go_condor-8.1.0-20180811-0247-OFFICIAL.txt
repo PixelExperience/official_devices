@@ -1,4 +1,3 @@
 - August security patch merged
-- Big security update based on squid cm 14.1 patches
 - Performance improvements
 - Source updates and fixes
