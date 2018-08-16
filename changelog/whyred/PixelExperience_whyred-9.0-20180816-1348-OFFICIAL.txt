@@ -1,0 +1,2 @@
+* Initial beta build
+* Derp kernel and MiuiCamera by defalult
