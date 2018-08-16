@@ -324,7 +324,53 @@
             "version_name":"Oreo",
             "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279618",
             "maintainer_name":"Javi (J_viix)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109"
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+         }
+      ]
+   },
+   {
+      "name":"Galaxy Note 3",
+      "brand":"Samsung",
+      "codename":"hltetmo",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280598",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+         }
+      ]
+   },
+   {
+      "name":"Galaxy Note 3",
+      "brand":"Samsung",
+      "codename":"hltechn",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280599",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+         }
+      ]
+   },
+   {
+      "name":"Galaxy Note 3",
+      "brand":"Samsung",
+      "codename":"hltekor",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280600",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
          }
       ]
    },
