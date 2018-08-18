@@ -110,6 +110,22 @@
       "codename":"osprey",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"pie",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280780",
+            "maintainer_name":"Subins Mani",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
+         },
+         {
+            "version_code":"pie_go",
+            "version_name":"Pie (GO edition)",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280865",
+            "maintainer_name":"Subins Mani",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250146",
