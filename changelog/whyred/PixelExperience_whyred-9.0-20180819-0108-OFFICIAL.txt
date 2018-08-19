@@ -1,0 +1,4 @@
+* Fixed microphone
+* Fixed device not booting on some cases
+* Derp kernel v2.2 by default
+* Fixed force close on some apps
