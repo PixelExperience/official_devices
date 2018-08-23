@@ -1,0 +1,14 @@
+Device specific:
+ - Bluetooth Bug Fixed
+ - Added GCAM (For Real :p)
+
+ 
+
+
+
+
+
+
+
+
+
