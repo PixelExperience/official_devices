@@ -1,18 +1,5 @@
 [
-      "name":"K5/K5 Plus",
-      "brand":"Lenovo",
-      "codename":"A6020",
-      "supported_versions":[
-         { 
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281144",
-            "maintainer_name":"Aswin A S",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8499818",
-            "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixel-experience-august-t3833198"
-         }
-      ]
-   },
+
    {
       "name":"Moto G5 Plus",
       "brand":"Motorola",
@@ -678,5 +665,19 @@
             "xda_thread":""
          }
       ]
-   }
-]
+   }.
+   {  
+      "name":"K5/K5 Plus",
+      "brand":"Lenovo",
+      "codename":"A6020",
+      "supported_versions":[
+         { 
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281144",
+            "maintainer_name":"Aswin A S",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8499818",
+            "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixel-experience-august-t3833198"
+         }
+      ]
+   }.
