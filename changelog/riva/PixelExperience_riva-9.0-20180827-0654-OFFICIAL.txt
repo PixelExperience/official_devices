@@ -1,0 +1,4 @@
+- Forcly Enabled Dt2w To Get It Working
+- Added Pixel Style
+- Optimized System
+- Fixed Gcam Crashing
