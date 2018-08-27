@@ -657,7 +657,8 @@
             "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3823232"
          }
       ]
-    {
+   },
+   {
       "name":"Galaxy S4",
       "brand":"Samsung",
       "codename":"ks01ltexx",
@@ -672,3 +673,4 @@
          }
       ]
    }
+]
