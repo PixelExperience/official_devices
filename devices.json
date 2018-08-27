@@ -665,6 +665,23 @@
          }
       ]
    },
+   
+      {
+      "name":"Moto G 2013",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=247403",
+            "maintainer_name":"soumitradev",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9392957",
+            "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3748738"
+         }
+      ]
+   },
+   
    {
       "name":"Galaxy S4",
       "brand":"Samsung",
