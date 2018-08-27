@@ -664,5 +664,20 @@
             "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3823232"
          }
       ]
+   },
+   {
+      "name":"Galaxy S4",
+      "brand":"Samsung",
+      "codename":"ks01ltexx",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?fid=1322778262903990603",
+            "maintainer_name":"eccko",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9015163",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-s4/i9506-develop/rom-pixel-experience-t3821730"
+         }
+      ]
    }
 ]
