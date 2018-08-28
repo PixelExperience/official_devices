@@ -1,0 +1,3 @@
+- Official Pie Build
+- Ota app added
+- Wifi and Bluetooth will work simultaneously
