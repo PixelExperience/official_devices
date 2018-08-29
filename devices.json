@@ -330,29 +330,6 @@
       "codename":"jalebi",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
-            "maintainer_name":"Shaik Jaleel (iamsj7)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
-         },
-         {
-            "version_code":"oreo_go",
-            "version_name":"Oreo (GO edition)",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=274159",
-            "maintainer_name":"Shaik Jaleel (iamsj7)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
-         }
-      ]
-   },
-   {
-      "name":"Yunique",
-      "brand":"Yu",
-      "codename":"jalebi",
-      "supported_versions":[
-         {
             "version_code":"pie",
             "version_name":"Pie",
             "afh_folder":"https://androidfilehost.com/?w=files&flid=281388",
@@ -367,6 +344,22 @@
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3834895"
+         },
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
+            "maintainer_name":"Shaik Jaleel (iamsj7)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
+            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+         },
+         {
+            "version_code":"oreo_go",
+            "version_name":"Oreo (GO edition)",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=274159",
+            "maintainer_name":"Shaik Jaleel (iamsj7)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
+            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
          }
       ]
    },
