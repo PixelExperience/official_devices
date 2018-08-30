@@ -711,5 +711,20 @@
             "xda_thread":"https://forum.xda-developers.com/galaxy-s4/i9506-develop/rom-pixel-experience-t3821730"
          }
       ]
+   },
+   {
+     "name":"Lenovo K6 Power",
+     "brand":"Lenovo",
+     "codename":"karate",
+     "supported_versions":[
+        {
+           "version_code":"oreo",
+           "version_name":"Oreo",
+           "afh_folder":"", 
+           "maintainer_name":"SivAs1234",
+           "maintainer_url":"https://forum.xda-developers.com/member.php?u=7774317",
+           "xda_thread":""
+        }
+     ]
    }
-]
+ ]
