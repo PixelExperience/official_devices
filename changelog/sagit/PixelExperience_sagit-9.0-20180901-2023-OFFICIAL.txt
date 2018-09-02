@@ -1,0 +1,8 @@
+=======================
+     09-01-2018
+=======================
+
+Update kernel
+Update sorces
+Fix NFC
+Other....
