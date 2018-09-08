@@ -757,5 +757,19 @@
             "xda_thread":"https://forum.xda-developers.com/k6-power/development/rom-karate-t3837059"
          }
       ]
+   },
+   {
+      "name":"Mi Note 3",
+      "brand":"Xiaomi",
+      "codename":"jason",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "afh_folder":"https://androidfilehost.com/?w=files&flid=281797",
+            "maintainer_name":"EnesSastim",
+            "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005"
+         }
+      ]
    }
 ]
