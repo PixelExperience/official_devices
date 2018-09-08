@@ -8,3 +8,4 @@ System Specific Updates:
 	* Enabled AptX HD codec
 	* Enabled LDAC for BT audio devices
 	* Better Signal Reception tweaks
+	* Google Apps dated 08-Sep-2018
