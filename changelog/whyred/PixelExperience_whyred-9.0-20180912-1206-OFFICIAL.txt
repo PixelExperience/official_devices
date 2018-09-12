@@ -1,0 +1,5 @@
+-September security patch merged
+-Latest Derp kernel
+-Fixed incorrect number of cameras on third-party apps
+-Fixed reversed signal icons
+-Others minor fixes
