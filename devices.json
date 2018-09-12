@@ -786,5 +786,20 @@
             "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixel-experience-august-t3833198"
          }
       ]
+   },
+   {
+      "name":"Poco F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "afh_folder":"",
+            "maintainer_name":"Henrique Silva (jhenrique09)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":""
+         }
+      ]
    }
 ]
