@@ -7,7 +7,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241606",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064"
@@ -22,7 +21,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279167",
             "maintainer_name":"Vitor (Vitor7810)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6086480",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3841918"
@@ -30,7 +28,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249047",
             "maintainer_name":"Nikhil (@im_nikhil)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6724943",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
@@ -45,7 +42,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281372",
             "maintainer_name":"Shubham Bhise (shubhambhise), shoaib.m",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8337173",
             "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3830494"
@@ -53,7 +49,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=236586",
             "maintainer_name":"Shubham Bhise (shubhambhise)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
             "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515"
@@ -68,7 +63,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280606",
             "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
             "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3832722"
@@ -76,7 +70,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241581",
             "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
             "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
@@ -91,7 +84,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=244130",
             "maintainer_name":"Akash Srivastava (markakash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
             "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
@@ -106,7 +98,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=234743",
             "maintainer_name":"Keertesh",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
             "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658"
@@ -121,7 +112,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281206",
             "maintainer_name":"Jayant Deshmukh (Jayant_Deshmukh)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8276928",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/9-0-pixel-experience-9-0-t3833443"
@@ -129,7 +119,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278629",
             "maintainer_name":"Sumit Kumar (imsk_17)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7754137",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3813492"
@@ -144,7 +133,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280780",
             "maintainer_name":"Subins Mani",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
             "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
@@ -152,7 +140,6 @@
          {
             "version_code":"pie_go",
             "version_name":"Pie (GO edition)",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280865",
             "maintainer_name":"Subins Mani",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
             "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
@@ -160,7 +147,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=250146",
             "maintainer_name":"Subins Mani",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
             "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
@@ -168,7 +154,6 @@
          {
             "version_code":"oreo_go",
             "version_name":"Oreo (GO edition)",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267673",
             "maintainer_name":"Subins Mani",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
             "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
@@ -183,7 +168,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279029",
             "maintainer_name":"Hritik Utekar (HK)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7560545",
             "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3808347"
@@ -198,7 +182,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=240885",
             "maintainer_name":"Shiva Teja Peddi (shivatejapeddi)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
             "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990"
@@ -213,7 +196,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=241693",
             "maintainer_name":"BabluS",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
          }
@@ -227,7 +209,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=242559",
             "maintainer_name":"@ki",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
             "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
@@ -242,7 +223,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=275828",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":""
@@ -250,7 +230,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246141",
             "maintainer_name":"Sebastian (Dzienny)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
             "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
@@ -265,7 +244,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280569",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":""
@@ -273,7 +251,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267937",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3784672"
@@ -288,7 +265,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281603",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":""
@@ -296,7 +272,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267929",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3784671"
@@ -311,7 +286,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=246016",
             "maintainer_name":"Vimal Raj (Vimalraj1)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
@@ -326,7 +300,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=249562",
             "maintainer_name":"RenanQueiroz",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7344859",
             "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3734871"
@@ -341,7 +314,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280847",
             "maintainer_name":"Verevka",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
             "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
@@ -349,7 +321,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=237314",
             "maintainer_name":"Verevka",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
             "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
@@ -364,7 +335,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=281388",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3834895"
@@ -372,7 +342,6 @@
          {
             "version_code":"pie_go",
             "version_name":"Pie (GO edition)",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=281389",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3834895"
@@ -380,7 +349,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=249300",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
@@ -388,7 +356,6 @@
          {
             "version_code":"oreo_go",
             "version_name":"Oreo (GO edition)",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=274159",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
@@ -403,7 +370,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=251510",
             "maintainer_name":"Riki (Roybabu)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7578936",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230"
@@ -418,7 +384,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279618",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
             "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
@@ -433,7 +398,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280598",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
             "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
@@ -448,7 +412,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280599",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
             "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
@@ -463,7 +426,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280600",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
             "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
@@ -478,7 +440,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=266095",
             "maintainer_name":"Rafael Marchetto (marchetto96)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3799398"
@@ -493,7 +454,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=246907",
             "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
             "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388"
@@ -508,7 +468,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=234712",
             "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
             "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
@@ -523,7 +482,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=269759",
             "maintainer_name":"Aaron Randelman (sooti)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=4460995",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
@@ -538,7 +496,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=280717",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197"
@@ -546,7 +503,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278950",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3816099"
@@ -561,7 +517,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=272744",
             "maintainer_name":"Luiz H. (SanicM2)"
          }
       ]
@@ -574,7 +529,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=267978",
             "maintainer_name":"El Dainosor",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6062450"
          }
@@ -588,7 +542,6 @@
          {
             "version_code":"oreo_arm64_a",
             "version_name":"Oreo ARM64 A",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=265064",
             "maintainer_name":"Henrique Silva",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011"
@@ -596,7 +549,6 @@
          {
             "version_code":"oreo_arm64_ab",
             "version_name":"Oreo ARM64 A/B",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=272652",
             "maintainer_name":"Henrique Silva",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011"
@@ -611,7 +563,6 @@
          {
             "version_code":"oreo_go",
             "version_name":"Oreo (GO edition)",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=273736",
             "maintainer_name":"Sushant Kumar",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7554460",
             "xda_thread":"https://forum.xda-developers.com/moto-e/development/rom-pixel-experience-t3798365"
@@ -626,7 +577,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=274563",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
             "xda_thread":"https://forum.xda-developers.com/lenovo-a6000/development/rom-pixel-experience-t3800270"
@@ -641,14 +591,12 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281300",
             "maintainer_name":"SunnyRaj (sunnyraj84348)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983"
          },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=275447",
             "maintainer_name":"SunnyRaj (sunnyraj84348)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983"
          }
@@ -662,7 +610,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=276050",
             "maintainer_name":"Alexander Brunswig (NurKeinNeid)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5974762",
             "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3802848"
@@ -677,7 +624,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=275690",
             "maintainer_name":"Vivek Biswas (V_v3k)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5151940",
             "xda_thread":"https://forum.xda-developers.com/mi-max-2/development/rom-pixel-experience-t3790553"
@@ -692,7 +638,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=276936",
             "maintainer_name":"king",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7377440",
             "xda_thread":"https://forum.xda-developers.com/nexus-6/development/rom-t3801383"
@@ -707,7 +652,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=278368",
             "maintainer_name":"MkfsSion",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8062400",
             "xda_thread":"https://forum.xda-developers.com/redmi-2/development/rom-pixel-experience-t3811285"
@@ -722,7 +666,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281454",
             "maintainer_name":"Carlos Arriaga (TheStrechh)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6331811",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3835648"
@@ -730,7 +673,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=279862",
             "maintainer_name":"amog787",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8950490",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3823232"
@@ -745,7 +687,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281329",
             "maintainer_name":"eccko",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9015163",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s4/i9506-develop/rom-pixel-experience-t3821730"
@@ -760,7 +701,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=274132",
             "maintainer_name":"SivAs1234, Bharath Raju",
             "xda_thread":"https://forum.xda-developers.com/k6-power/development/rom-karate-t3837059"
          }
@@ -774,7 +714,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://androidfilehost.com/?w=files&flid=281797",
             "maintainer_name":"EnesSastim",
             "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005"
          }
@@ -788,7 +727,6 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=281144",
             "maintainer_name":"Aswin A S",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8499818",
             "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixel-experience-august-t3833198"
@@ -803,7 +741,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "afh_folder":"",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread":""
