@@ -1,0 +1,16 @@
+{
+    "oreo": [
+        {
+            "file_name": "PixelExperience_ham-8.1.0-20180815-0418-OFFICIAL.zip",
+            "file_size": 656280973,
+            "md5": "f0e68452b624590487f5150acd6e6edb"
+        }
+    ],
+    "pie": [
+        {
+            "file_name": "PixelExperience_ham-9.0-20180827-0746-OFFICIAL.zip",
+            "file_size": 752545085,
+            "md5": "a93034187ec45e724f07bd486610ed05"
+        }
+    ]
+}

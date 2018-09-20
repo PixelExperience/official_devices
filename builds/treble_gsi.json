@@ -1,0 +1,26 @@
+{
+    "oreo_arm64_a": [
+        {
+            "file_name": "PixelExperience_arm64_a-8.1.0-20180808-0511-OFFICIAL.img.zip",
+            "file_size": 932464506,
+            "md5": "cda227594f527675f0a75dff5f148c80"
+        },
+        {
+            "file_name": "PixelExperience_arm64_a-8.1.0-20180911-0350-OFFICIAL.img.zip",
+            "file_size": 943663897,
+            "md5": "3f5440a0119138b7eca4ae27ddfcab91"
+        }
+    ],
+    "oreo_arm64_ab": [
+        {
+            "file_name": "PixelExperience_arm64_ab-8.1.0-20180808-0354-OFFICIAL.img.zip",
+            "file_size": 933596112,
+            "md5": "128fd172344a71f6a8e8558cc5af0e31"
+        },
+        {
+            "file_name": "PixelExperience_arm64_ab-8.1.0-20180911-0506-OFFICIAL.img.zip",
+            "file_size": 944802452,
+            "md5": "75c50ce019d7cf4e7be1c19432b103f3"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "oreo": [
+        {
+            "file_name": "PixelExperience_mido-8.1.0-20180724-1024-OFFICIAL.zip",
+            "file_size": 866012994,
+            "md5": "913f63d6b673d603a87991480897c343"
+        }
+    ],
+    "pie": [
+        {
+            "file_name": "PixelExperience_mido-9.0-20180912-1918-OFFICIAL.zip",
+            "file_size": 953513177,
+            "md5": "c262369e564136f84df8b7b02bfd49a4"
+        }
+    ]
+}

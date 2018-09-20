@@ -1,7 +1,21 @@
-[
-   {
-      "file_name":"PixelExperience_whyred-9.0-20180917-2022-OFFICIAL.zip",
-      "file_size":1160254495,
-      "md5":"cb4a384888360f45c5c76002bbf69102"
-   }
-]
+{
+    "oreo": [
+        {
+            "file_name": "PixelExperience_whyred-8.1.0-20180911-0616-OFFICIAL.zip",
+            "file_size": 1074523356,
+            "md5": "9e0f06fd6eafd41acacc146e093b3833"
+        }
+    ],
+    "pie": [
+        {
+            "file_name": "PixelExperience_whyred-9.0-20180912-1206-OFFICIAL.zip",
+            "file_size": 1160238852,
+            "md5": "80bbb38c62bb8b4b4e8937a078d07a25"
+        },
+        {
+            "file_name": "PixelExperience_whyred-9.0-20180917-2022-OFFICIAL.zip",
+            "file_size": 1160254495,
+            "md5": "cb4a384888360f45c5c76002bbf69102"
+        }
+    ]
+}
