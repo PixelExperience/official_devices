@@ -809,5 +809,20 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"MI 6X",
+      "brand":"Xiaomi",
+      "codename":"wayne",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo"",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=282752",
+            "maintainer_name":"PIPIPIG233666(孔维楷)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
+            "xda_thread":""
+         }
+      ]
    }
 ]
