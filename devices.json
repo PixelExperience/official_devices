@@ -809,5 +809,20 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Galaxy S5 Neo",
+      "brand":"Samsung",
+      "codename":"s5neoltexx",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo"",
+            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=282783",
+            "maintainer_name":"PixelBoot",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread":""
+         }
+      ]
    }
 ]
