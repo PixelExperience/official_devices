@@ -1,0 +1,3 @@
+* Fix backlight issue in offline charging mode
+* Stop shiping Google Camera(It doesn't work well as reported)
+* September Security Patch
