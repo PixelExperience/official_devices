@@ -1,9 +1,14 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_wt88047-8.1.0-20180901-1435-OFFICIAL.zip",
-            "file_size": 466574909,
-            "md5": "186e8a5dad45e301828829174f9a76e8"
-        }
-    ]
+   "oreo":[
+      {
+         "file_name":"PixelExperience_wt88047-8.1.0-20180901-1435-OFFICIAL.zip",
+         "file_size":466574909,
+         "md5":"186e8a5dad45e301828829174f9a76e8"
+      },
+      {
+         "file_name":"PixelExperience_wt88047-8.1.0-20180921-1200-OFFICIAL.zip",
+         "file_size":449673076,
+         "md5":"741421fe91a61289a1037ec8b40b5c2e"
+      }
+   ]
 }
