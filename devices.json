@@ -811,14 +811,27 @@
       ]
    },
    {
+      "name":"Mi 6X",
+      "brand":"Xiaomi",
+      "codename":"wayne",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"PIPIPIG233666(孔维楷)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
       "name":"Galaxy S5 Neo",
       "brand":"Samsung",
       "codename":"s5neoltexx",
       "supported_versions":[
          {
             "version_code":"oreo",
-            "version_name":"Oreo"",
-            "afh_folder":"https://www.androidfilehost.com/?w=files&flid=282783",
+            "version_name":"Oreo",
             "maintainer_name":"PixelBoot",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5-neo/development/rom-pixelexperience-t3845086"
