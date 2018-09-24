@@ -1,0 +1,3 @@
+Device Specific:
+ - September Security Patch
+ - More Optimized
