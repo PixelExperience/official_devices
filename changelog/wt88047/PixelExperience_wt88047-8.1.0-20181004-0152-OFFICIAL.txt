@@ -1,0 +1,2 @@
+* Make device certified in Google Play Store
+* Enable Android Go for 1 GB memory device
