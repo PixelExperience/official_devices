@@ -650,8 +650,8 @@
       "codename":"shamu",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
+            "version_code":"pie,oreo",
+            "version_name":"Pie,Oreo",
             "maintainer_name":"king",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7377440",
             "xda_thread":"https://forum.xda-developers.com/nexus-6/development/rom-t3801383"

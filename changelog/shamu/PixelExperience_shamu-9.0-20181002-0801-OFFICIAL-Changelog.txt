@@ -1,0 +1,7 @@
+=======================
+     10-02-2018
+=======================
+-Using Latest Device trees from carbon rom 
+-PowerHal by Lineage Os team
+-Initial Android Pie (9.0) build for shamu
+
