@@ -403,6 +403,13 @@
       "codename":"hlte",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
@@ -416,6 +423,13 @@
       "brand":"Samsung",
       "codename":"hltetmo",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -431,6 +445,13 @@
       "codename":"hltechn",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
@@ -444,6 +465,13 @@
       "brand":"Samsung",
       "codename":"hltekor",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
