@@ -1,0 +1,3 @@
+-October security patch
+-Fixed force close on Android Messages app
+-Latest phh's sources
