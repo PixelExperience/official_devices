@@ -35,6 +35,20 @@
       ]
    },
    {
+      "name":"Mi 3w/4",
+      "brand":"Xiaomi",
+      "codename":"cancro",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"DMF (fatesay)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8578210",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-3/development/rom-pixel-experience-t3850685"
+         }
+      ]
+   },
+   {
       "name":"Z1",
       "brand":"ZUK",
       "codename":"ham",
@@ -368,6 +382,13 @@
       "codename":"cheeseburger",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"香澄 (Tokyko)",
+            "maintainer_url":"https://t.me/MachicoP",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3854020"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Riki (Roybabu)",
@@ -381,6 +402,13 @@
       "brand":"Samsung",
       "codename":"hlte",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -396,6 +424,13 @@
       "codename":"hltetmo",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
@@ -410,6 +445,13 @@
       "codename":"hltechn",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
@@ -423,6 +465,13 @@
       "brand":"Samsung",
       "codename":"hltekor",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Javi (J_viix)",
+            "maintainer_url":"https://t.me/J_viix",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -485,6 +534,13 @@
             "maintainer_name":"Aaron Randelman (sooti)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=4460995",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
+         },
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Saksham",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3852851"
          }
       ]
    },
