@@ -1,4 +1,21 @@
 =======================
+     10-16-2018
+=======================
+
+
+   * vendor/aosp/
+d8aa7229 vendor: Update minimal gapps configuration
+
+   * vendor/opengapps/sources/all/
+959e915 Data Transfer Tool all-28 1.0.214934184 (nodpi)
+
+   * vendor/opengapps/sources/arm/
+4d955be Google+ arm-21 10.17.0.216110788 (120-160)
+
+   * vendor/opengapps/sources/arm64/
+2076d49 Google+ arm64-21 10.17.0.216110788 (nodpi)
+
+=======================
      10-15-2018
 =======================
 
@@ -51,12 +68,6 @@ cb4888fd Automatic translation import
    * system/bt/
 6ec65181 Merge tag 'android-8.1.0_r47' of https://android.googlesource.com/platform/system/bt into HEAD
 
-   * vendor/opengapps/sources/arm/
-07516fc Google (beta) arm-16 8.24.10.16.arm (nodpi)
-
-   * vendor/opengapps/sources/arm64/
-f9d4a89 Maps arm64-21 10.1.1 (213-240)
-
    * vendor/pixelstyle/
 02085d1 Merge "Remove fake "unlimited storage" on Google photos" into oreo-mr1
 c647253 pixelstyle: Default to 1080p bootanimation
@@ -71,9 +82,6 @@ c647253 pixelstyle: Default to 1080p bootanimation
 
    * packages/apps/Nfc/
 28cc52dc Automatic translation import
-
-   * vendor/opengapps/sources/all/
-9cea1dc Google Pay all-21 2.76.216562242 (nodpi)
 
 =======================
      10-12-2018
@@ -115,13 +123,13 @@ e37be09 Update vendorsetup.sh
    * external/toybox/
 8276aea6 Android has its loop devices under "block" as Elliott says "by reason of historical accident", so fall back to check there.
 
+   * vendor/samsung/
+7aff9d4 Add vendorsetup.sh
+
 =======================
      10-06-2018
 =======================
 
-
-   * vendor/samsung/
-7aff9d4 Add vendorsetup.sh
 
 =======================
      10-05-2018
@@ -141,13 +149,4 @@ e37be09 Update vendorsetup.sh
      10-03-2018
 =======================
 
-
-=======================
-     10-02-2018
-=======================
-
-
-   * kernel/samsung/msm8974/
-7a3b6080ee8 ANDROID: sdcardfs: Don't use OVERRIDE_CRED macro
-6a4d963974b ANDROID: sdcardfs: Change current->fs under lock
 
