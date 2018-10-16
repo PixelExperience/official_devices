@@ -830,5 +830,19 @@
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5-neo/development/rom-pixelexperience-t3845086"
          }
       ]
+   },
+   {
+      "name":"Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00TD",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Chaitanya Mittal (Professional_Guider)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
+            "xda_thread":""
+         }
+      ]
    }
 ]
