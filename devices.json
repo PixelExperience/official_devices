@@ -830,7 +830,8 @@
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5-neo/development/rom-pixelexperience-t3845086"
          }
       ]
-      {
+   },
+   {
       "name":"Asus Zenfone Max Pro M1",
       "brand":"Asus",
       "codename":"X00TD",
@@ -843,3 +844,5 @@
             "xda_thread":""
          }
       ]
+   }
+]
