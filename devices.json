@@ -844,5 +844,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Moto G1",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Hasaber8 (RohanHasabe8)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
+            "xda_thread":""
+         }
+      ]
    }
 ]
