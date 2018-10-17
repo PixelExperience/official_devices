@@ -304,6 +304,10 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
          }
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+         }
       ]
    },
    {
