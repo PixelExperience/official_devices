@@ -578,8 +578,8 @@
       "codename":"vince",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
+            "version_code":"pie",
+            "version_name":"Pie",
             "maintainer_name":"Luiz H. (SanicM2)"
          }
       ]
