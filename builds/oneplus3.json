@@ -1,16 +1,16 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_oneplus3-8.1.0-20180807-0522-OFFICIAL.zip",
-            "file_size": 865070430,
-            "md5": "9ad11f1347e04e13bb99febebcfd96d5"
-        }
-    ],
-    "pie": [
-        {
-            "file_name": "PixelExperience_oneplus3-9.0-20181018-1635-OFFICIAL.zip",
-            "file_size": 959985604,
-            "md5": "c2099915071c206954c6175b72c69698"
-        }
-    ]       
+   "oreo":[
+      {
+         "file_name":"PixelExperience_oneplus3-8.1.0-20180807-0522-OFFICIAL.zip",
+         "file_size":865070430,
+         "md5":"9ad11f1347e04e13bb99febebcfd96d5"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_oneplus3-9.0-20181018-1635-OFFICIAL.zip",
+         "file_size":959985604,
+         "md5":"c2099915071c206954c6175b72c69698"
+      }
+   ]
 }
