@@ -816,6 +816,20 @@
       ]
    },
    {
+      "name":"Mi 5X",
+      "brand":"Xiaomi",
+      "codename":"tiffany",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"香澄 (Tokyko)",
+            "maintainer_url":"https://t.me/MachicoP",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
       "name":"Mi 6X",
       "brand":"Xiaomi",
       "codename":"wayne",
