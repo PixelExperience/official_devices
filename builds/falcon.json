@@ -1,14 +1,16 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_falcon-8.1.0-20181017-1301-OFFICIAL.zip",
-            "file_size": 441452441,
-            "md5": "0fbcad634c5940e1c0312c9a4cec7355"
-        }
-    }, 
-        "pie": [
-        {
-            "file_name": "PixelExperience_falcon-9.0-20181019-1617-OFFICIAL.zip",
-            "file_size": 449809496,
-            "md5": "c9c2460aad06aacf6195f00caafcdac8"
+   "oreo":[
+      {
+         "file_name":"PixelExperience_falcon-8.1.0-20181017-1301-OFFICIAL.zip",
+         "file_size":441452441,
+         "md5":"0fbcad634c5940e1c0312c9a4cec7355"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_falcon-9.0-20181019-1617-OFFICIAL.zip",
+         "file_size":449809496,
+         "md5":"c9c2460aad06aacf6195f00caafcdac8"
+      }
+   ]
 }
