@@ -1,21 +1,21 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_vince-8.1.0-20180807-1021-OFFICIAL.zip",
-            "file_size": 865213889,
-            "md5": "ca339980bf228792ea46a22c66312bb5"
-        },
-        {
-            "file_name": "PixelExperience_vince-8.1.0-20181006-1436-OFFICIAL.zip",
-            "file_size": 868868767,
-            "md5": "752511ea859c6735ab1a859edf21cfdf"
-        }
-        ],
-        "pie": [
-        {
-            "file_name": "PixelExperience_vince-9.0-20181018-2153-OFFICIAL.zip",
-            "file_size": 1000000000,
-            "md5": "1ed6a15ba3254bedef26e4478b1e25a1"
-        }
-       ]
+   "oreo":[
+      {
+         "file_name":"PixelExperience_vince-8.1.0-20180807-1021-OFFICIAL.zip",
+         "file_size":865213889,
+         "md5":"ca339980bf228792ea46a22c66312bb5"
+      },
+      {
+         "file_name":"PixelExperience_vince-8.1.0-20181006-1436-OFFICIAL.zip",
+         "file_size":868868767,
+         "md5":"752511ea859c6735ab1a859edf21cfdf"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_vince-9.0-20181018-2153-OFFICIAL.zip",
+         "file_size":1000000000,
+         "md5":"1ed6a15ba3254bedef26e4478b1e25a1"
+      }
+   ]
 }
