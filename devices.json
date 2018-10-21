@@ -905,5 +905,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Redmi 4A",
+      "brand":"Xiaomi",
+      "codename":"rolex",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Kacper Skrzypek (Orjon)",
+            "maintainer_url":"https://t.me/kacskrz",
+            "xda_thread":""
+         }
+      ]
    }
 ]
