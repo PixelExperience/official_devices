@@ -112,6 +112,20 @@
       ]
    },
    {
+      "name":"6",
+      "brand":"OnePlus",
+      "codename":"enchilada",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Akash Srivastava (markakash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t3856643"
+         }
+      ]
+   },
+   {
       "name":"Moto G5S Plus",
       "brand":"Motorola",
       "codename":"sanders",
