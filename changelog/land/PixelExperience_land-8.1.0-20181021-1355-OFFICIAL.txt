@@ -1,0 +1,4 @@
+Device Specific:
+ - October Security Patch
+ - More Optimized
+ - Final Build
