@@ -100,7 +100,7 @@
             "version_name":"Pie",
             "maintainer_name":"Akash Srivastava (markakash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763"
          },
          {
             "version_code":"oreo",
@@ -108,6 +108,20 @@
             "maintainer_name":"Akash Srivastava (markakash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
             "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+         }
+      ]
+   },
+   {
+      "name":"6",
+      "brand":"OnePlus",
+      "codename":"enchilada",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Akash Srivastava (markakash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t3856643"
          }
       ]
    },
@@ -304,6 +318,13 @@
       "brand":"Xiaomi",
       "codename":"santoni",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Vimal Raj (Vimalraj1)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -780,6 +801,12 @@
       "codename":"jason",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"EnesSastim",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"EnesSastim",
@@ -811,7 +838,7 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3857076"
          }
       ]
    },

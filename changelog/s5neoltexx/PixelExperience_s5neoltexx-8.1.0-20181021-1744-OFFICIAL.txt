@@ -1,0 +1,3 @@
+* Added Illumination support for hardware keys
+* Added Wake support for hardware keys
+* Added Custom Action support for hardware keys

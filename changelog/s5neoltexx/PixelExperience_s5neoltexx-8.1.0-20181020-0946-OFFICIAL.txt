@@ -1,1 +1,0 @@
-* Added Hardware Keys Backlight support

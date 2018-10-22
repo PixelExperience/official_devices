@@ -1,9 +1,14 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_sanders-8.1.0-20180716-1431-OFFICIAL.zip",
-            "file_size": 931785927,
-            "md5": "cbc0838714856b85530a066115f51a1d"
-        }
-    ]
+   "oreo":[
+      {
+         "file_name":"PixelExperience_sanders-8.1.0-20180716-1431-OFFICIAL.zip",
+         "file_size":931785927,
+         "md5":"cbc0838714856b85530a066115f51a1d"
+      },
+      {
+         "file_name":"PixelExperience_sanders-8.1.0-20181021-0605-OFFICIAL.zip",
+         "file_size":930994006,
+         "md5":"94ea47094dbc5d01fb3d3101cbf4ea0d"
+      }
+   ]
 }
