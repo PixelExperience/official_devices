@@ -96,11 +96,32 @@
       "codename":"oneplus3",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Akash Srivastava (markakash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Akash Srivastava (markakash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
             "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+         }
+      ]
+   },
+   {
+      "name":"6",
+      "brand":"OnePlus",
+      "codename":"enchilada",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Akash Srivastava (markakash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t3856643"
          }
       ]
    },
@@ -298,6 +319,13 @@
       "codename":"santoni",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Vimal Raj (Vimalraj1)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Vimal Raj (Vimalraj1)",
@@ -407,7 +435,7 @@
             "version_name":"Pie",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
          },
          {
             "version_code":"oreo",
@@ -428,7 +456,7 @@
             "version_name":"Pie",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
          },
          {
             "version_code":"oreo",
@@ -449,7 +477,7 @@
             "version_name":"Pie",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
          },
          {
             "version_code":"oreo",
@@ -470,7 +498,7 @@
             "version_name":"Pie",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
          },
          {
             "version_code":"oreo",
@@ -529,18 +557,18 @@
       "codename":"tissot",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "maintainer_name":"Aaron Randelman (sooti)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4460995",
-            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
-         },
-         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Saksham",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3852851"
+         },
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Aaron Randelman (sooti)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4460995",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
          }
       ]
    },
@@ -570,6 +598,11 @@
       "brand":"Xiaomi",
       "codename":"vince",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Luiz H.(@SanicM2)"
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -768,6 +801,12 @@
       "codename":"jason",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"EnesSastim",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"EnesSastim",
@@ -799,6 +838,20 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3857076"
+         }
+      ]
+   },
+   {
+      "name":"Mi 5X",
+      "brand":"Xiaomi",
+      "codename":"tiffany",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"香澄 (Tokyko)",
+            "maintainer_url":"https://t.me/MachicoP",
             "xda_thread":""
          }
       ]
@@ -828,6 +881,55 @@
             "maintainer_name":"PixelBoot",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s5-neo/development/rom-pixelexperience-t3845086"
+         }
+      ]
+   },
+   {
+      "name":"Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00TD",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Chaitanya Mittal (Professional_Guider)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Moto G1",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hasaber8 (RohanHasabe8)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
+            "xda_thread":""
+         },
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Hasaber8 (RohanHasabe8)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Redmi 4A",
+      "brand":"Xiaomi",
+      "codename":"rolex",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Kacper Skrzypek (Orjon)",
+            "maintainer_url":"https://t.me/kacskrz",
+            "xda_thread":""
          }
       ]
    }

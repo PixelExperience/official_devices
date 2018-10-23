@@ -4,11 +4,6 @@
             "file_name": "PixelExperience_whyred-8.1.0-20180911-0616-OFFICIAL.zip",
             "file_size": 1074523356,
             "md5": "9e0f06fd6eafd41acacc146e093b3833"
-        },
-        {
-            "file_name": "PixelExperience_whyred-8.1.0-20181014-1856-OFFICIAL.zip",
-            "file_size": 1075523389,
-            "md5": "ceddaaa9b7227bf6ad745b6fbc296210"
         }
     ],
     "pie": [
@@ -21,6 +16,21 @@
             "file_name": "PixelExperience_whyred-9.0-20180917-2022-OFFICIAL.zip",
             "file_size": 1160254495,
             "md5": "cb4a384888360f45c5c76002bbf69102"
+        },
+        {
+            "file_name": "PixelExperience_whyred-9.0-20181017-1645-OFFICIAL.zip",
+            "file_size": 1112031077,
+            "md5": "9f581fe942366bc92ba045ace35bceb2"
+        },
+        {
+            "file_name": "PixelExperience_whyred-9.0-20181018-1551-OFFICIAL.zip",
+            "file_size": 1112853240,
+            "md5": "58331532ec223723fa612dfaa1a216d4"
+        },
+        {
+            "file_name": "PixelExperience_whyred-9.0-20181022-1404-OFFICIAL.zip",
+            "file_size": 1112314304,
+            "md5": "be5a444b7e691b97d1225891274511d4"
         }
     ]
 }
