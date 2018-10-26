@@ -4,6 +4,11 @@
             "file_name": "PixelExperience_jalebi-8.1.0-20180801-0423-OFFICIAL.zip",
             "file_size": 651115770,
             "md5": "b6cf39e22d5df56eebc55f0dd50f64e2"
+        },
+        {
+            "file_name": "PixelExperience_jalebi-8.1.0-20181019-0933-OFFICIAL.zip",
+            "file_size": 645678681,
+            "md5": "4644b221ce9ce9f4a27c5da1b62973f6"
         }
     ],
     "oreo_go": [
@@ -11,6 +16,11 @@
             "file_name": "PixelExperience_go_jalebi-8.1.0-20180801-0145-OFFICIAL.zip",
             "file_size": 637222640,
             "md5": "74d20c649694ab04c39608551a859241"
+        },
+        {
+            "file_name": "PixelExperience_go_jalebi-8.1.0-20181019-0717-OFFICIAL.zip",
+            "file_size": 631840726,
+            "md5": "1ae50e9ba7cd5082c81512f81a9a43e7"
         }
     ],
     "pie": [
