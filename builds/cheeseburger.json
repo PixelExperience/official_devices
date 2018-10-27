@@ -1,21 +1,21 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_cheeseburger-8.1.0-20180625-1549-OFFICIAL.zip",
-            "file_size": 1061737840,
-            "md5": "f4ff652ddecb60be860de4d6a6ad4335"
-        }
-    ],
-    "pie": [
-        {
-            "file_name": "PixelExperience_cheeseburger-9.0-20181018-0625-OFFICIAL.zip",
-            "file_size": 1143244410,
-            "md5": "3d904a3f04ce496fd8f1a32352aaa690"
-        },
-{
-   "file_name":"PixelExperience_cheeseburger-9.0-20181027-0641-OFFICIAL.zip",
-   "file_size":1142729382,
-   "md5":"bacdc3bd89deb67a9a5a46b989d3dc94"
-}
-    ]
+   "oreo":[
+      {
+         "file_name":"PixelExperience_cheeseburger-8.1.0-20180625-1549-OFFICIAL.zip",
+         "file_size":1061737840,
+         "md5":"f4ff652ddecb60be860de4d6a6ad4335"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_cheeseburger-9.0-20181018-0625-OFFICIAL.zip",
+         "file_size":1143244410,
+         "md5":"3d904a3f04ce496fd8f1a32352aaa690"
+      },
+      {
+         "file_name":"PixelExperience_cheeseburger-9.0-20181027-0641-OFFICIAL.zip",
+         "file_size":1142729382,
+         "md5":"bacdc3bd89deb67a9a5a46b989d3dc94"
+      }
+   ]
 }
