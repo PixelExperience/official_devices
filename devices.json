@@ -5,6 +5,13 @@
       "codename":"potter",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Henrique Silva (jhenrique09)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3859817"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Henrique Silva (jhenrique09)",
@@ -241,6 +248,13 @@
       "brand":"Motorola",
       "codename":"harpia",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"@ki",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -930,6 +944,20 @@
             "maintainer_name":"Kacper Skrzypek (Orjon)",
             "maintainer_url":"https://t.me/kacskrz",
             "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Moto Z2 Play",
+      "brand":"Motorola",
+      "codename":"albus",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Bruno Rocha (brunorochaa)",
+            "maintainer_url":"https://t.me/brunorochaa",
+            "xda_thread":"https://forum.xda-developers.com/z2-play/development/rom-pixel-experience-t3859477"
          }
       ]
    }
