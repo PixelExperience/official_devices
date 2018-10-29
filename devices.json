@@ -932,5 +932,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Moto Z2 Play",
+      "brand":"Motorola",
+      "codename":"albus",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Bruno Rocha (brunorochaa)",
+            "maintainer_url":"https://t.me/brunorochaa",
+            "xda_thread":""
+         }
+      ]
    }
 ]
