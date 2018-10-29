@@ -1,0 +1,4 @@
+- SeLinux permissive for now.
+- Fixed navbar enable/disable.
+- Fixed TurboCharger support.
+- Fixed FC in Motomods Manager.
