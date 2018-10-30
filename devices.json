@@ -960,5 +960,19 @@
             "xda_thread":"https://forum.xda-developers.com/z2-play/development/rom-pixel-experience-t3859477"
          }
       ]
-   }
+   },
+    {
+      "name":"Nexus 5X",
+      "brand":"Google",
+      "codename":"bullhead",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Lakshay Garg (lakshay18)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7266833",
+            "xda_thread":""
+         }
+      ]
+   }  
 ]
