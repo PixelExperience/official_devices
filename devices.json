@@ -976,10 +976,10 @@
       ]
    },
    {
-   "name":"Asus Zenfone 3",
-   "brand":"Asus",
-   "codename":"zenfone3",
-     "supported_versions":[
+      "name":"Asus Zenfone 3",
+      "brand":"Asus",
+      "codename":"zenfone3",
+      "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
