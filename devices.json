@@ -962,10 +962,24 @@
       ]
    },
    {
-      "name":"Asus Zenfone 3",
-      "brand":"Asus",
-      "codename":"zenfone3",
+      "name":"Mi Max Prime",
+      "brand":"Xiaomi",
+      "codename":"helium",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hasaber8 (RohanHasabe8)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+   "name":"Asus Zenfone 3",
+   "brand":"Asus",
+   "codename":"zenfone3",
+     "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
