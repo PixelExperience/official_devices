@@ -1002,5 +1002,19 @@
             "xda_thread":""
          }
       ]
-   }
+   },
+   {
+      "name":"Redmi 5",
+      "brand":"Xiaomi",
+      "codename":"rosy",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo,
+            "maintainer_name":"Michal Wink (michalwinkdev)",
+            "maintainer_url":"https://t.me/michalwink",
+            "xda_thread":""
+         }
+      ]
+   },
 ]
