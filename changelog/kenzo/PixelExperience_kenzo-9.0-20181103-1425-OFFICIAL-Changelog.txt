@@ -1,0 +1,3 @@
+* Removed IMS hack
+* Fix camera slow
+* Update source PE
