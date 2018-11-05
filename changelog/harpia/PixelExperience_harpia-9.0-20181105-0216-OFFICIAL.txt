@@ -5,7 +5,4 @@ Everything working except:
 	SOME LAGS HERE AND THERE
 	VOLTE
 	ENFORCING
-	Maybe somwthing else , report if you find any.
-
-Todo:
-	Above bugs and improving battery drain
+	Maybe something else , report if you find any.
