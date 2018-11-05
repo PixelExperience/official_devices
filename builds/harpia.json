@@ -1,16 +1,16 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_harpia-8.1.0-20180720-0127-OFFICIAL.zip",
-            "file_size": 666459177,
-            "md5": "0dfe985b10c399fb5534a6c4e4eda061"
-        }
-    ]
-    "pie": [
-        {
-	   "file_name":"PixelExperience_harpia-9.0-20181105-0216-OFFICIAL.zip",
-	   "file_size":719316648,
-	   "md5":"2e5751148a86b6f542b646e9d9f372aa"
-        }
-    ]
+   "oreo":[
+      {
+         "file_name":"PixelExperience_harpia-8.1.0-20180720-0127-OFFICIAL.zip",
+         "file_size":666459177,
+         "md5":"0dfe985b10c399fb5534a6c4e4eda061"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_harpia-9.0-20181105-0216-OFFICIAL.zip",
+         "file_size":719316648,
+         "md5":"2e5751148a86b6f542b646e9d9f372aa"
+      }
+   ]
 }
