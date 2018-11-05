@@ -1,0 +1,8 @@
+* Initial official Build
+
+Everything working except:
+	GPS ( WORKING PARTIALLY )
+	SOME LAGS HERE AND THERE
+	VOLTE
+	ENFORCING
+	Maybe something else , report if you find any.
