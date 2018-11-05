@@ -1,0 +1,11 @@
+* Initial official Build
+
+Everything working except:
+	GPS ( WORKING PARTIALLY )
+	SOME LAGS HERE AND THERE
+	VOLTE
+	ENFORCING
+	Maybe somwthing else , report if you find any.
+
+Todo:
+	Above bugs and improving battery drain
