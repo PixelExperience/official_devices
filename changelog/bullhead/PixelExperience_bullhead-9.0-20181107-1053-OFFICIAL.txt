@@ -1,0 +1,5 @@
+Changelog:
+*Updated with November Security Patches
+*Added Now Playing feature
+*Fixed SafetyNet
+*Updated Sphinx to November security patches
