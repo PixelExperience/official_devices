@@ -10,6 +10,7 @@
 * More under the hood changes
 * Fixed front camera on 3rd party apps (Blame Google for R16)
 * Fixed face unlock (Blame Google for R16)
+* Fixed lockscreen weather mismatch
 * Fixed device not certified
 
 Enjoy.. Feel the pixel
