@@ -1,0 +1,3 @@
+* Ambient Weather Added
+* Now Play added
+* November security patch
