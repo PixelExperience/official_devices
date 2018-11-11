@@ -1,21 +1,31 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_z2_plus-8.1.0-20180807-1847-OFFICIAL.zip",
-            "file_size": 922594101,
-            "md5": "f26792c8aab551ae7ca1ed0bbc2cbbf0"
-        }
-    ],
-    "pie": [
-        {
-            "file_name": "PixelExperience_z2_plus-9.0-20180912-2307-OFFICIAL.zip",
-            "file_size": 922317288,
-            "md5": "619585a39dabf80795d69c0709ee6b1b"
-        },
-        {
-            "file_name": "PixelExperience_z2_plus-9.0-20181021-2135-OFFICIAL.zip",
-            "file_size": 939143255,
-            "md5": "bc3ea1ad52f78167743dea5da3d0f2f3"
-        }
-    ]
+   "oreo":[
+      {
+         "file_name":"PixelExperience_z2_plus-8.1.0-20180807-1847-OFFICIAL.zip",
+         "file_size":922594101,
+         "md5":"f26792c8aab551ae7ca1ed0bbc2cbbf0"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_z2_plus-9.0-20180912-2307-OFFICIAL.zip",
+         "file_size":922317288,
+         "md5":"619585a39dabf80795d69c0709ee6b1b"
+      },
+      {
+         "file_name":"PixelExperience_z2_plus-9.0-20181021-2135-OFFICIAL.zip",
+         "file_size":939143255,
+         "md5":"bc3ea1ad52f78167743dea5da3d0f2f3"
+      },
+      {
+         "file_name":"PixelExperience_z2_plus-9.0-20181024-2248-OFFICIAL.zip",
+         "file_size":939369697,
+         "md5":"5df6d6f3f55332ed5954beaa16ec80de"
+      },
+      {
+         "file_name":"PixelExperience_z2_plus-9.0-20181108-1631-OFFICIAL.zip",
+         "file_size":939500172,
+         "md5":"e792a771cc044e652a7ea86d3e7a88a5"
+      }
+   ]
 }

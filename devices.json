@@ -5,6 +5,13 @@
       "codename":"potter",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Henrique Silva (jhenrique09)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3859817"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Henrique Silva (jhenrique09)",
@@ -23,7 +30,7 @@
             "version_name":"Pie",
             "maintainer_name":"Vitor (Vitor7810)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6086480",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3841918"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3841949"
          },
          {
             "version_code":"oreo",
@@ -241,6 +248,13 @@
       "brand":"Motorola",
       "codename":"harpia",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"@ki",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
+            "xda_thread":"https://forum.xda-developers.com/g4-play/development/rom-pixel-experience-t3862986"
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -601,7 +615,9 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Luiz H.(@SanicM2)"
+            "maintainer_name":"Luiz H.(@SanicM2)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6918804",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
          },
          {
             "version_code":"oreo",
@@ -804,7 +820,7 @@
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"EnesSastim",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005"
          },
          {
             "version_code":"oreo",
@@ -911,6 +927,13 @@
             "xda_thread":""
          },
          {
+            "version_code":"pie_go",
+            "version_name":"Pie (GO edition)",
+            "maintainer_name":"Hasaber8 (RohanHasabe8)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Hasaber8 (RohanHasabe8)",
@@ -930,6 +953,97 @@
             "maintainer_name":"Kacper Skrzypek (Orjon)",
             "maintainer_url":"https://t.me/kacskrz",
             "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Moto Z2 Play",
+      "brand":"Motorola",
+      "codename":"albus",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Bruno Rocha (brunorochaa)",
+            "maintainer_url":"https://t.me/brunorochaa",
+            "xda_thread":"https://forum.xda-developers.com/z2-play/development/rom-pixel-experience-t3859477"
+         }
+      ]
+   },
+   {
+      "name":"Mi Max Prime",
+      "brand":"Xiaomi",
+      "codename":"helium",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hasaber8 (RohanHasabe8)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Zenfone 3",
+      "brand":"Asus",
+      "codename":"zenfone3",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Abhay Kshatriya (vegeto1806)",
+            "maintainer_url":"https://t.me/vegeto1806",
+            "xda_thread":"https://forum.xda-developers.com/zenfone-3/development/rom-pixel-experience-t3855816"
+         }
+      ]
+   },
+   {
+      "name":"Nexus 5X",
+      "brand":"Google",
+      "codename":"bullhead",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Lakshay Garg (lakshay18)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9537214",
+            "xda_thread":"https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437"
+         }
+      ]
+   },
+   {
+      "name":"Redmi 5",
+      "brand":"Xiaomi",
+      "codename":"rosy",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Michal Wink (michalwinkdev)",
+            "maintainer_url":"https://t.me/michalwink",
+            "xda_thread":""
+         },
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Michal Wink (michalwinkdev)",
+            "maintainer_url":"https://t.me/michalwink",
+            "xda_thread":"https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t3854502"
+         }
+      ]
+   },
+   {
+      "name":"Water 8",
+      "brand":"LYF",
+      "codename":"mobee01a",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Inderpreet Singh Bhangu (IPSBHANGU)",
+            "maintainer_url":"https://t.me/IPSBHANGU",
+            "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixel-experience-t3863166/post78069883#post78069883"
          }
       ]
    }

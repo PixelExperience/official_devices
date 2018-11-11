@@ -7,8 +7,18 @@
       },
       {
          "file_name":"PixelExperience_X00TD-9.0-20181022-0914-OFFICIAL.zip",
-         "file_size":1096586110,
+         "file_size":1095761920,
          "md5":"894a0533d16398ab8f606d9f2a5ede15"
+      },
+      {
+         "file_name":"PixelExperience_X00TD-9.0-20181023-0459-OFFICIAL.zip",
+         "file_size":1129077884,
+         "md5":"613441ab58eb68f082304cbb28d4280b"
+      },
+      {
+         "file_name":"PixelExperience_X00TD-9.0-20181104-1419-OFFICIAL.zip",
+         "file_size":1065459059,
+         "md5":"02cf318f657b1ac7c31e67f50542fd80"
       }
    ]
 }

@@ -1,0 +1,4 @@
+-Fixed camera issue when camera2 api is enabled
+-Fixed noise on sound
+-Fixed FM
+-Weather improved

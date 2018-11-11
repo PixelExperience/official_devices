@@ -1,0 +1,2 @@
+- Initial Oreo build.
+- Added support for show percentage, efficiency mode and charge control in BatterySnap.

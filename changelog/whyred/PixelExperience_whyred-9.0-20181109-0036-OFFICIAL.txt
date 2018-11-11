@@ -1,0 +1,2 @@
+* Fixed audio
+* Fixed FC on screensaver settings
