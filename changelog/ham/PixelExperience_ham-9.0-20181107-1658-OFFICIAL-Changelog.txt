@@ -1,0 +1,5 @@
+* Fixed camera/torch issue
+* Ambient Weather Added
+* Now Play added
+* Hardware key customization
+* November security patch
