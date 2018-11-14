@@ -1,0 +1,1 @@
+allow rild oem_sno_prop:property_service set;

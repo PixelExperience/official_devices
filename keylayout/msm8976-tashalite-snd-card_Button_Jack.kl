@@ -1,0 +1,8 @@
+#
+# Wired Headset key layout
+#
+
+key 226 HEADSETHOOK
+key 257 VOLUME_UP
+key 258 VOLUME_DOWN
+

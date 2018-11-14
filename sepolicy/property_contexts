@@ -1,0 +1,2 @@
+# oem sno property
+ro.sys.oem.sno                  u:object_r:oem_sno_prop:s0

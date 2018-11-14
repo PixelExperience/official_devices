@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright (c) 2015, The Linux Foundation. All rights reserved.         -->
+<!--                                                                        -->
+<!-- Redistribution and use in source and binary forms, with or without     -->
+<!-- modification, are permitted provided that the following conditions are -->
+<!-- met:                                                                   -->
+<!--     * Redistributions of source code must retain the above copyright   -->
+<!--       notice, this list of conditions and the following disclaimer.    -->
+<!--     * Redistributions in binary form must reproduce the above          -->
+<!--       copyright notice, this list of conditions and the following      -->
+<!--       disclaimer in the documentation and/or other materials provided  -->
+<!--       with the distribution.                                           -->
+<!--     * Neither the name of The Linux Foundation nor the names of its    -->
+<!--       contributors may be used to endorse or promote products derived  -->
+<!--       from this software without specific prior written permission.    -->
+<!--                                                                        -->
+<!-- THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED           -->
+<!-- WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF   -->
+<!-- MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT -->
+<!-- ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS -->
+<!-- BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR -->
+<!-- CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF   -->
+<!-- SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR        -->
+<!-- BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,  -->
+<!-- OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN -->
+<!-- IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                          -->
+<audio_platform_info>
+    <acdb_ids>
+        <device name="SND_DEVICE_OUT_HANDSET" acdb_id="18"/>
+        <device name="SND_DEVICE_OUT_SPEAKER" acdb_id="34"/>
+        <device name="SND_DEVICE_OUT_HEADPHONES" acdb_id="52"/>
+        <device name="SND_DEVICE_OUT_HEADPHONES_44_1" acdb_id="10"/>
+        <device name="SND_DEVICE_OUT_SPEAKER_AND_HEADPHONES" acdb_id="14"/>
+        <device name="SND_DEVICE_OUT_VOICE_HANDSET" acdb_id="18"/>
+        <device name="SND_DEVICE_OUT_VOICE_SPEAKER" acdb_id="34"/>
+        <device name="SND_DEVICE_OUT_VOICE_HEADPHONES" acdb_id="52"/>
+        <device name="SND_DEVICE_OUT_BT_SCO" acdb_id="66"/>
+        <device name="SND_DEVICE_OUT_BT_SCO_WB" acdb_id="578"/>
+        <device name="SND_DEVICE_OUT_VOICE_TX" acdb_id="45"/>
+        <device name="SND_DEVICE_OUT_TRANSMISSION_FM" acdb_id="0"/>
+        <device name="SND_DEVICE_OUT_SPEAKER_PROTECTED" acdb_id="546"/>
+        <device name="SND_DEVICE_OUT_VOICE_SPEAKER_PROTECTED" acdb_id="546"/>
+        <device name="SND_DEVICE_IN_HANDSET_MIC" acdb_id="19"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC" acdb_id="41"/>
+        <device name="SND_DEVICE_IN_SPEAKER_MIC" acdb_id="35"/>
+        <device name="SND_DEVICE_IN_SPEAKER_DMIC" acdb_id="37"/>
+        <device name="SND_DEVICE_IN_HEADSET_MIC" acdb_id="51"/>
+        <device name="SND_DEVICE_IN_VOICE_SPEAKER_MIC" acdb_id="291"/>
+        <device name="SND_DEVICE_IN_VOICE_HEADSET_MIC" acdb_id="307"/>
+        <device name="SND_DEVICE_IN_BT_SCO_MIC" acdb_id="323"/>
+        <device name="SND_DEVICE_IN_BT_SCO_MIC_NREC" acdb_id="835"/>
+        <device name="SND_DEVICE_IN_BT_SCO_MIC_WB" acdb_id="1347"/>
+        <device name="SND_DEVICE_IN_BT_SCO_MIC_WB_NREC" acdb_id="1827"/>
+        <device name="SND_DEVICE_IN_CAMCORDER_MIC" acdb_id="4"/>
+        <device name="SND_DEVICE_IN_VOICE_DMIC" acdb_id="277"/>
+        <device name="SND_DEVICE_IN_VOICE_SPEAKER_DMIC" acdb_id="293"/>
+        <device name="SND_DEVICE_IN_VOICE_RX" acdb_id="44"/>
+        <device name="SND_DEVICE_IN_VOICE_REC_MIC" acdb_id="4"/>
+        <device name="SND_DEVICE_IN_CAPTURE_FM" acdb_id="0"/>
+        <device name="SND_DEVICE_IN_CAPTURE_VI_FEEDBACK" acdb_id="102"/>
+        <device name="SND_DEVICE_IN_MAIN_MIC" acdb_id="4"/>
+        <device name="SND_DEVICE_IN_TOP_MIC" acdb_id="11"/>
+        <device name="SND_DEVICE_IN_FRONT_MIC" acdb_id="11"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC_MUSIC" acdb_id="21"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC_VOICE" acdb_id="533"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC_INTERVIEW" acdb_id="1045"/>
+        <device name="SND_DEVICE_IN_HANDSET_STEREO_DMIC" acdb_id="2069"/>
+        <device name="SND_DEVICE_IN_VOICE_SPEAKER_TMIC" acdb_id="295"/>
+        <device name="SND_DEVICE_IN_VOICE_SPEAKER_TMIC_CONF" acdb_id="1319"/>
+        <device name="SND_DEVICE_IN_CAMCORDER_DMIC" acdb_id="85"/>
+        <device name="SND_DEVICE_IN_CAMCORDER_TMIC" acdb_id="87"/>
+        <device name="SND_DEVICE_IN_CAMCORDER_TMIC_FAR_END" acdb_id="599"/>
+        <device name="SND_DEVICE_IN_CAMCORDER_TMIC_NEAR_END" acdb_id="1111"/>
+        <device name="SND_DEVICE_OUT_VOICE_SPEAKER_2_PROTECTED" acdb_id="150"/>
+        <device name="SND_DEVICE_OUT_VOICE_SPEAKER_2_PROTECTED_VBAT" acdb_id="150"/>
+        <device name="SND_DEVICE_IN_CAPTURE_VI_FEEDBACK_MONO_1" acdb_id="151"/>
+        <device name="SND_DEVICE_IN_CAPTURE_VI_FEEDBACK_MONO_2" acdb_id="152"/>
+    </acdb_ids>
+
+    <bit_width_configs>
+        <device name="SND_DEVICE_OUT_SPEAKER" bit_width="24"/>
+    </bit_width_configs>
+    <config_params>
+        <param key="input_mic_max_count" value="4"/>
+    </config_params>
+    <interface_names>
+        <device name="AUDIO_DEVICE_IN_BUILTIN_MIC" interface="SLIMBUS_0" codec_type="external"/>
+        <device name="AUDIO_DEVICE_IN_BACK_MIC" interface="SLIMBUS_0" codec_type="external"/>
+        <device name="AUDIO_DEVICE_IN_BUILTIN_MIC" interface="TERT_MI2S" codec_type="internal"/>
+        <device name="AUDIO_DEVICE_IN_BACK_MIC" interface="TERT_MI2S" codec_type="internal"/>
+    </interface_names>
+    <pcm_ids>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD2" type="out" id="24"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD3" type="out" id="29"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD4" type="out" id="30"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD5" type="out" id="31"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD6" type="out" id="32"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD7" type="out" id="33"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD8" type="out" id="34"/>
+        <usecase name="USECASE_AUDIO_PLAYBACK_OFFLOAD9" type="out" id="35"/>
+        <usecase name="USECASE_VOICEMMODE1_CALL" type="in" id="35"/>
+        <usecase name="USECASE_VOICEMMODE1_CALL" type="out" id="35"/>
+        <usecase name="USECASE_VOICEMMODE2_CALL" type="in" id="36"/>
+        <usecase name="USECASE_VOICEMMODE2_CALL" type="out" id="36"/>
+        <usecase name="USECASE_AUDIO_SPKR_CALIB_TX" type="in" id="37"/>
+    </pcm_ids>
+    <tz_names>
+        <device name="SND_DEVICE_OUT_SPEAKER" spkr_1_tz_name="wsatz.12" spkr_2_tz_name="wsatz.11"/>
+    </tz_names>
+</audio_platform_info>
