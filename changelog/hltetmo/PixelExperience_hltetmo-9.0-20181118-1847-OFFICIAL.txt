@@ -1,0 +1,358 @@
+=======================
+     11-18-2018
+=======================
+
+
+   * build/make/
+3908d0b33 build: Use    * pathmap for recovery
+a8cb8bf70 Add LOCAL_AIDL_FLAGS
+
+   * build/soong/
+f8eb2762 soong: Add LOCAL_AIDL_FLAGS handling
+
+   * dalvik/
+019966a8f dexdeps: Ignore static initializers on analysis.
+
+   * device/custom/sepolicy/
+e6742f0 common: Label and allow init to write to I/O sched tuning nodes
+
+   * device/qcom/sepolicy/
+84ff114c common: Fix labelling of lcd-backlight
+0682fc8b sepolicy: Allow mm-qcamerad to access v4L "name" node
+9eb5cd39 sepolicy: Fix video4linux "name" node labeling
+28e9c6a4 sepolicy: allow vold to read persist dirs
+4ceffcbf sepolicy: qti_init_shell needs to read dir too
+372bcdc8 hal_gnss_default: Do not log udp socket failures
+7757922e sepolicy: rules to allow camera daemon access to app buffer
+845571dc sepolicy: Label mpctl_socket as data_file_type
+2b1256a9 sepolicy: Add libcryptfs_hw to SP HALs
+9f114165 sepolicy: Allow thermal-engine to read sysfs_uio[_file]
+e9e9b574 sepolicy: Add libsdm-disp-vndapis and libsdmutils to SP-HALs
+0264ebd2 sepolicy: Allow system_server to 'read' qti_debugfs
+d1d3ca55 sepolicy: Allow wcnss_service to set wlan.driver properties
+cd56b9af Use set_prop() macro for property sets
+5ccda1a0 qcom: Label vendor files with (vendor|system/vendor) instead of vendor
+
+   * device/qcom/sepolicy-legacy/
+f916634 common: grant DRM HIDL HAL ownership access to /data/{misc,vendor}/media/
+40859b0 NFC: Add nfc data file context and rename property
+cc65dd3 legacy: allow init to read /proc/device-tree
+af41257 legacy: Resolve hal_bluetooth_default denial
+32b74bd legacy: Resolve hal_gnss_default denial
+66dcbca legacy: Label more power_supply sysfs
+b10fe2c sepolicy : set write permissions for sysfs_boot_adsp.
+
+   * device/samsung/hlte-common/
+33e4932 hlte-common: Remove errant/duplicate mount of /sys/kernel/debug
+b2e4d70 hlte-common: Wait until boot complete to set all cpu pm/gov/boost params
+ab07a5c hlte-common: sepolicy: Update for binderized sensors hal
+
+   * device/samsung/msm8974-common/
+03c10bd msm8974-common: sepolicy: Sort sysfs block of file_contexts sanely
+
+   * jviix/
+e86011c Update picks.sh
+2e753ea Update picks.sh
+9a7dc6b Update picks.sh
+074a97a Update picks.sh
+
+=======================
+     11-17-2018
+=======================
+
+
+   * device/samsung/hlte-common/
+2057a68 Update BoardConfigCommon.mk
+
+   * device/samsung/msm8974-common/
+f327c8f msm8974-common: sepolicy: Label our custom sensors service
+32213f7 msm8974-common: sepolicy: Resolve mediaserver denials
+341410f msm8974-common: sepolicy: Resolve surfaceflinger denials
+6d8fc07 msm8974-common: sepolicy: Resolve rild denials
+7a086dc msm8974-common: Disable netd active FTP helper
+ebc4c35 msm8974-common: sepolicy: Resolve hal_sensors_default denials
+54e5fc5 msm8974-common: sepolicy: Label sysfs_input nodes
+6be1c39 msm8974-common: sepolicy: Label sysfs_iio nodes
+22b1be8 msm8974-common: sepolicy: Label sysfs_graphics nodes
+08357da Delete isolated_app.te
+
+   * frameworks/base/
+664c10e815b Power save: when disabling it, go back to the previous set theme mode
+e181151773a Themes: Fix issue applying themes with certain wallpapers / LWP
+dd0ec43571f SystemUI: Fix too big spacing between QS icons in landscape on sw600dp
+
+   * jviix/
+a79e4a6 Update picks.sh
+
+=======================
+     11-16-2018
+=======================
+
+
+=======================
+     11-15-2018
+=======================
+
+
+=======================
+     11-14-2018
+=======================
+
+
+   * external/f2fs-tools/
+9195db0 Merge tag 'android-9.0.0_r16' into lineage-16.0-android-9.0.0_r16
+
+   * hardware/broadcom/wlan/
+7f14d25 Merge tag 'android-9.0.0_r16' into lineage-16.0
+
+   * hardware/qcom/display/
+f1a78523b Merge tag 'android-9.0.0_r16' into lineage-16.0
+
+   * hardware/qcom/media/
+5a65b2fe4 Merge tag 'android-9.0.0_r16' into lineage-16.0
+
+=======================
+     11-13-2018
+=======================
+
+
+   * hardware/broadcom/libbt/
+967304f libbt: Fix logic check when FW_PRE_PATCH is not used.
+
+=======================
+     11-12-2018
+=======================
+
+
+   * build/make/
+d85a1c4cb build: add org.pixelexperience.keydisabler to package whitelist
+e792dfee7 build: add org.codeaurora to package whitelist
+
+=======================
+     11-11-2018
+=======================
+
+
+   * frameworks/base/
+9491e40c05a Revert "OpaLayout: Redraw when Tuner changes navbar layout"
+aec755a5b71 fwb: Unbreak public API on treble builds
+
+   * hardware/qcom/fm/
+038ec5f fm: Fix wrong BT SOC property name
+
+=======================
+     11-10-2018
+=======================
+
+
+=======================
+     11-09-2018
+=======================
+
+
+   * frameworks/base/
+e55d2748373 DreamBackend: Fix FC on screensaver settings
+
+   * hardware/broadcom/libbt/
+f08b665 libbt: Make sure that we don't load pre-patch when looking for patch
+
+=======================
+     11-08-2018
+=======================
+
+
+   * frameworks/av/
+16ac5f98f Merge tag 'android-9.0.0_r16' into pie
+cf2141834 libcameraservice: add TARGET_CAMERA_NEEDS_CLIENT_INFO
+5d4f26fc0 av: camera: catch mad hals that mess up buffer time
+c6ee94fa2 Allow FaceUnlock in background
+1ec896a22 av: camera: Allow disabling shutter sound for specific packages
+994b59e30 Update soong names
+
+   * frameworks/base/
+fa9430c0d2e LockSettingsService: Support for separate clear key api
+f986c0626e1 frameworks: base: Port password retention feature
+871dddf44a4 Use fdeCheckPassword error code to indicate pw failure
+0381c012f71 Weather: Update condition icons
+
+   * hardware/interfaces/
+3d5015bd keymasterV4_0: Tags support for FBE wrapped key.
+
+=======================
+     11-07-2018
+=======================
+
+
+=======================
+     11-06-2018
+=======================
+
+
+   * bionic/
+62ef3d190 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/bionic into HEAD
+ab66853df Revert "linker: Make platform text relocations denial optional"
+32ea5d17d bionic: Use legacy pthread_mutex_init() behavior on pre-P API levels
+7b4dfa4ce Actually restore pre-P mutex behavior
+
+   * build/make/
+e11dcc952 Merge tag 'android-9.0.0_r16' into pie
+78f4fd807 Remove compatibility.zip
+99cb5e96d Revert "build: Allow devices to provide prebuilt vbmeta image"
+d557f3388 Revert "build: Allow building disabled vbmeta images in signing process"
+71f6189cf Revert "Build: Make dex2oat boot image error abort explicit"
+3eb64b2db core: Disable vendor restrictions
+1e3417567 build: Automatically replace old-style kernel header includes with new header lib
+bf50b031c no matter what build type we dont want to see anything but Build_ID
+f8206f233 Build custom audio files [1/2]
+073d1a252 build: Fix changelog generation logic
+891adf428 build: Add our props to ADDITIONAL_BUILD_PROPERTIES
+d32fc3661 Don't build useless html viewer
+e31d3f259 Show ROM info while flashing
+a1819f300 core: Makefile: fix syntax coloring in some editors
+b8476a947 Rename changelog file
+d236c4196 Fix Changelog build
+f77326ac6 Makefile: Changelog bringup
+7ede30f9e Use 0 compression when creating the target_files package
+5f510e1ad Default libnfc-nci.conf for GSI
+03217afd2 build: Don't add generic targets
+b4695dd18 build: Remove some apps by default
+28151aac2 Ccache configuration improvements
+8cd9b4128 When compiling, use release-keys tag not dev-keys
+15029dbba Changes for PixelExperience
+4e8425c2b dex2oat: disable multithreading for WSL
+6bca8e663 Add detection for WSL
+65236712d core_base: Remove libnfc_ndef from PRODUCT_PACKAGES
+
+   * build/soong/
+e48703fe Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/build/soong into HEAD
+
+   * development/
+06c2ff987 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/development into HEAD
+
+   * device/samsung/hlte-common/
+91a4281 Update BoardConfigCommon.mk
+
+   * device/samsung/msm8974-common/
+203e539 Create isolated_app.te
+
+   * external/perfetto/
+35039af0 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/external/perfetto into HEAD
+
+   * frameworks/base/
+9dad54125a9 SystemUI: BatteryPercentage: Detect when overlay changes
+9348b0dd9a3 Update custom metric constants
+52d7759ceec Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/frameworks/base into HEAD
+5b34ace2a31 Automatic translation import
+21b82a5bfc6 storage: Set all sdcards to visible
+31ee05921ef Fixes crash when getting panel before setting components
+30165778ff0 FingerprintService: add overlay to prevent cleanup of unused fingerprints
+a39c0f41f33 Revert "FingerprintService: add property to prevent cleanup of unused fingerprints"
+
+   * frameworks/native/
+7686a312d Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/frameworks/native into HEAD
+
+   * frameworks/opt/net/wifi/
+93d03b4e4 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/frameworks/opt/net/wifi into HEAD
+
+   * frameworks/opt/telephony/
+74d085a91 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/frameworks/opt/telephony into HEAD
+
+   * hardware/custom/telephony/
+8958958 Implement missing methods due to caf merge
+
+   * hardware/interfaces/
+e521ff1b Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/hardware/interfaces into HEAD
+
+   * hardware/qcom/audio/default/
+9402d03 Merge tag 'android-9.0.0_r16' into pie
+
+   * hardware/qcom/bootctrl/
+b5caf02 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/hardware/qcom/bootctrl into HEAD
+
+   * hardware/qcom/gps/
+ade40e1 Merge tag 'android-9.0.0_r16' of https://android.googlesource.com/platform/hardware/qcom/gps into HEAD
+
+   * jviix/
+055b4ee Update picks.sh
+
+=======================
+     11-05-2018
+=======================
+
+
+   * device/qcom/sepolicy/
+05d97bc6 sepolicy: Allow perf HAL to set freq props
+
+   * device/qcom/sepolicy-legacy/
+bd4a342 legacy: Correctly label display.qservice
+58b3b7d sepolicy: Allow android service to write on tombstones
+e979ac3 Change to compile due to hostapd.te removal
+9ebfd9a Revert "sepol: hostapd is now hal_wifi_hostapd"
+8ce9626 sepolicy-legacy: Treat BT vendor properties like non-vendor ones.
+
+   * device/samsung/qcom-common/
+1a62d76 PE-ify
+
+   * device/xiaomi/tissot/
+1b78411 Use Taimen Build Fingerprint
+f2e2923 Define maintainer prop
+8c3d66e Define bootanimation resolution
+c5aa639 Include arcore
+922874b sdm845-common: overlay: Ignore RSSNR signal level
+7dae73b Tissot: Include and use Live Wallpapers from Pixel 3 by default
+
+   * frameworks/base/
+416ff274c80 AmbientPlay: Introduce history manager [3/4]
+236c073361f AmbientPlay: Move strings to fw/res
+4319c0d0f43 AmbientPlay: Rework
+646305c8cc5 Now playing : Clean up old code and schedule now playing feature sensitive to Charging and Network Connection Type.
+8209643a564 Now Playing : Multiple Changes
+3c93c3da312 RecoginitionObserverFactory : Simplify entire logic
+ec007cd5264 Now Playing : Change recording duration to 10s and remove un-used return statement
+523beee611d Now Playing : Various Improvements
+4a98befcc93 RecoginitionObserverFactory: Change Thread priority
+793bec0c1d6 RecoginitionObserverFactory : Check if we have aquired resources before releasing it.
+2d582ee7059 RecoginitionObserverFactory: Why worry about charging status
+a29be11da2b Ambient Play: Various fixes. - Initialize int read to supress a warning. - Fix a NP which was in my logcat.
+2af2b47aea2 Ambient Play: Allow to configure the scan interval [1/2].
+e09e586febf Ambient Play: Make it also work while charging. Why not?
+cbbd9fb7786 Ambient Play: Hide AmbientIndication if Song and Artist are null.
+0125e56dbb5 Ambient Play: Workaround for Pie (allow cleartext traffic). Note: This is a quick hack, and doesn't comply with the current security standards.
+acd59e49fb5 Introduce Ambient Indication Interface
+757fdec19b6 Settings: Set some settings as private
+c328287c8fe SystemUI: Implement weather on lockscreen like Pixels
+4ab67e74eab Fix screen unpinning text on devices that have gestures on fp sensor
+22126f08e62 Revert "BatteryStatsImpl.java: Stop resetting battery stats after reboot with battery level >= 90"
+de57aaa0cfc fwb: Implement alternative device key handler
+69afa08cbbd base: add settings for device features
+04236ace924 Add api to toggle flashlight and check if device has flashlight
+1b583f60061 Automatic translation import
+d8035f7f64f PackageManagerService: Ignore vendor overlays that must be on system/app
+c437576cabe GnssLocationProvider to remember the Networks and connection types
+97808ce76b2 SystemUI: Fixed traffic icon show in SUB1 while sending MMS on SUB2
+04801782e6f MSIM: Get network operator name of default data sub.
+cd519b7c4f9 SEEMP: framework instrumentation and AppProtect features
+2903de233a0 StatusBarSignalPolicy: Fix NPE due do ext telephony
+
+   * frameworks/opt/telephony/
+f8ee32ae1 MSIM: Send sim loaded intent only after subinfo records added.
+a0daae46c MSIM: Add entry for mobile data setting in settings xml
+a0c178728 Refresh SIM operator numeric for multi-mode SIM
+
+   * hardware/nxp/nfc/
+646bd3b nfc: Restore pn548 support to 1.1 HAL
+
+   * hardware/qcom/display/
+ae340ef9e msm8084: Use generated kernel headers
+17eb67a24 msm8084: display: Don't use gnu-oldstyle field designators
+65f6d18f6 msm8084: Add additional build flags to avoid errors
+4350ca3c5 msm8084: Use libhwui.so instead of libskia.so
+fce1c7014 msm8084: Include what we use.
+980c6234d hwc: msm8084: Set ioprio for vsync thread
+
+   * hardware/qcom/fm/
+da98f8d fm: Drop unnecessary dependencies
+
+   * hardware/qcom/power/
+444bb9f power-8084: Revert POWER_HINT_LAUNCH handling
+
