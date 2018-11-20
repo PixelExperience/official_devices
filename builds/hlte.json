@@ -21,6 +21,11 @@
             "file_name": "PixelExperience_hlte-9.0-20181101-1420-OFFICIAL.zip",
             "file_size": 544502628,
             "md5": "80387c009f919b22d5abe965e9baa61a"
-        }
+        },
+	{
+  	    "file_name":"PixelExperience_hlte-9.0-20181119-1354-OFFICIAL.zip",
+   	    "file_size":545523911,
+   	    "md5":"d87c48bb17c385891689d043bf563b47"
+	}
     ]
 }
