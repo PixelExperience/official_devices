@@ -1074,5 +1074,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Mi 8",
+      "brand":"Xiaomi",
+      "codename":"dipper",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Henrique Pereira (Hlcpereira)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
+            "xda_thread":""
+         }
+      ]
    }
 ]
