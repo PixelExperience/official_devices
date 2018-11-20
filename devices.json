@@ -1060,5 +1060,19 @@
             "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixel-experience-t3863166/post78069883#post78069883"
          }
       ]
+   },
+   {
+      "name":"Mi Mix 2s",
+      "brand":"Xiaomi",
+      "codename":"polaris",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+            "xda_thread":""
+         }
+      ]
    }
 ]
