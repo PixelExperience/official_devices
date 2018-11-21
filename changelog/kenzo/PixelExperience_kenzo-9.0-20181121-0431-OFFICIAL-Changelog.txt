@@ -1,0 +1,3 @@
+- Removed HD Icon
+- Sync PE Source
+- Fix Hotspot
