@@ -1,0 +1,5 @@
+* Fixed AI on MiuiCamera
+* Fixed charging percentage on offline charging
+* Fixed fingerprint for some goodix users
+* Fixed aptx
+* Fixed sim enable/disable
