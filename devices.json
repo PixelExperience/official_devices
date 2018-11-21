@@ -1102,5 +1102,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Zenfone Max",
+      "brand":"Asus",
+      "codename":"Z010D",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Ninad Patil (ReignZ)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6549853",
+            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max/development/rom-pixel-experience-t3869580/"
+         }
+      ]
    }
 ]
