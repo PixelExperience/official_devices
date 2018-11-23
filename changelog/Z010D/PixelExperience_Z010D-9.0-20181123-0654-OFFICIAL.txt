@@ -1,0 +1,3 @@
+-Initial release
+-Fixed Video Lag 720p60
+-Fixed sim enable/disable
