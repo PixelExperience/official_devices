@@ -1,0 +1,5 @@
+-Fixed Camera Issue
+-Fixed sim enable/disable
+-Added Home Gesture Overlay
+-Fixed Video Lagging Issue
+-Added Brightness overlays
