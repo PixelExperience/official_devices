@@ -1,0 +1,4 @@
+* Softkeys added
+* Upstreamed Kernel
+* Hotspot Fixed
+* Gcam by default
