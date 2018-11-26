@@ -1,0 +1,4 @@
+Added Darkonah Kernel.
+OTA 337 SYNC.
+Added Some Battery Tweaks.
+Updated Some Blobs From Mi A2(thnx to @KrasCGQ).
