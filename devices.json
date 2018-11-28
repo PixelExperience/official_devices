@@ -168,41 +168,6 @@
       ]
    },
    {
-      "name":"Moto G 2015",
-      "brand":"Motorola",
-      "codename":"osprey",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Subins Mani",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
-         },
-         {
-            "version_code":"pie_go",
-            "version_name":"Pie (GO edition)",
-            "maintainer_name":"Subins Mani",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
-         },
-         {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "maintainer_name":"Subins Mani",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
-         },
-         {
-            "version_code":"oreo_go",
-            "version_name":"Oreo (GO edition)",
-            "maintainer_name":"Subins Mani",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
-         }
-      ]
-   },
-   {
       "name":"Moto G Turbo",
       "brand":"Motorola",
       "codename":"merlin",
