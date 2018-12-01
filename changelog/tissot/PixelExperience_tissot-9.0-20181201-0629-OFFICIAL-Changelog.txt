@@ -1,0 +1,5 @@
+* Add Ambient display Gestures to Settings app
+* Add Reboot to Recovery
+* Add Reboot to Bootloader
+* Update kernel name
+* Replace NexusWallpapersStubPrebuilt2017 with NexusWallpapersStubPrebuilt2018 from Pixel 3 XL
