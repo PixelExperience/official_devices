@@ -891,6 +891,12 @@
       "brand":"Xiaomi",
       "codename":"wayne",
       "supported_versions":[
+        {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"PIPIPIG233666(孔维楷) Fatesay(DMF)",
+            "xda_thread":""
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
