@@ -1136,5 +1136,19 @@
             "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744"
          }
       ]
+   },
+   {
+      "name":"LeEco Le 2",
+      "brand":"LeEco",
+      "codename":"s2",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Rahul (Rk585)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7985055",
+            "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
+         }
+      ]
    }
 ]
