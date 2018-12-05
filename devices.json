@@ -891,6 +891,12 @@
       "brand":"Xiaomi",
       "codename":"wayne",
       "supported_versions":[
+        {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"PIPIPIG233666(孔维楷) Fatesay(DMF)",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t3874971"
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -1090,20 +1096,6 @@
       ]
    },
    {
-      "name":"Mi Max",
-      "brand":"Xiaomi",
-      "codename":"hydrogen",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Hasaber8 (RohanHasabe8)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Zenfone Max",
       "brand":"Asus",
       "codename":"Z010D",
@@ -1128,6 +1120,20 @@
             "maintainer_name":"PixelBoot",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
             "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744"
+         }
+      ]
+   },
+   {
+      "name":"Le 2",
+      "brand":"LeEco",
+      "codename":"s2",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Rahul (Rk585)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7985055",
+            "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
          }
       ]
    }

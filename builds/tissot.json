@@ -51,10 +51,11 @@
          "file_name":"PixelExperience_tissot-9.0-20181202-0019-OFFICIAL.zip",
          "file_size":1107473892,
          "md5":"3aa529a4be771944e813f0f8ac6c2dfe"
-	  {
-		 "file_name":"PixelExperience_tissot-9.0-20181205-1205-OFFICIAL.zip",
-		 "file_size":1028315354,
-		 "md5":"108f926b6fba503ae13d011dfaf8b1fa"
+      },
+      {
+         "file_name":"PixelExperience_tissot-9.0-20181205-1205-OFFICIAL.zip",
+         "file_size":1028315354,
+         "md5":"108f926b6fba503ae13d011dfaf8b1fa"
       }      
    ]
 }

@@ -19,6 +19,11 @@
          "file_name":"PixelExperience_helium-9.0-20181120-1158-OFFICIAL.zip",
          "file_size":938980941, 
          "md5":"2fdee0ec018f527dd72ef8bfde963523"
-      } 
+      },
+      {
+         "file_name":"PixelExperience_helium-9.0-20181205-0654-OFFICIAL.zip",
+         "file_size":938835834,
+         "md5":"9198281bc52f35af9fb1e68212ec773a"
+      }
    ]
 }
