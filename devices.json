@@ -1096,20 +1096,6 @@
       ]
    },
    {
-      "name":"Mi Max",
-      "brand":"Xiaomi",
-      "codename":"hydrogen",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"",
-            "maintainer_url":"",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Zenfone Max",
       "brand":"Asus",
       "codename":"Z010D",
