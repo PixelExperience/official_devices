@@ -1136,5 +1136,19 @@
             "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
          }
       ]
+   },
+   {
+      "name":"Moto X4",
+      "brand":"Motorola",
+      "codename":"Payton",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hernan (HerH2)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7048111",
+            "xda_thread":""
+         }
+      ]
    }
 ]
