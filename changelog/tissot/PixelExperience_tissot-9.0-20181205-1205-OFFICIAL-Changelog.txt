@@ -1,3 +1,4 @@
 * Update to December security patch
 * PE upstreams
+* Update vendor
 * Kernel fixes
