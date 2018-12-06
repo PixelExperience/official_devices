@@ -1,0 +1,4 @@
+* December security patch
+* Fixed offline charging
+* Switched to updated thermal configs
+* Safety net passes without Magisk
