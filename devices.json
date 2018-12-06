@@ -1147,7 +1147,7 @@
    {
       "name":"Moto X4",
       "brand":"Motorola",
-      "codename":"Payton",
+      "codename":"payton",
       "supported_versions":[
          {
             "version_code":"pie",
