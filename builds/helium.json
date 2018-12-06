@@ -5,10 +5,25 @@
          "file_size":937659790,
          "md5":"9d5c9acda043253bf9e1e781be93ad62"
       },
-    {
-   "file_name":"PixelExperience_helium-9.0-20181106-1316-OFFICIAL.zip",
-   "file_size":939101233,
-   "md5":"e8b073d36d74e05c3caabe05d376f2a9"
-    }
+      {
+         "file_name":"PixelExperience_helium-9.0-20181106-1316-OFFICIAL.zip",
+         "file_size":939101233,
+         "md5":"e8b073d36d74e05c3caabe05d376f2a9"
+      },
+      {
+         "file_name":"PixelExperience_helium-9.0-20181111-1839-OFFICIAL.zip",
+         "file_size":939123121,
+         "md5":"4491c9f7d202b5fce39b2714a28c1aa9"
+      },
+      {   
+         "file_name":"PixelExperience_helium-9.0-20181120-1158-OFFICIAL.zip",
+         "file_size":938980941, 
+         "md5":"2fdee0ec018f527dd72ef8bfde963523"
+      },
+      {
+         "file_name":"PixelExperience_helium-9.0-20181205-0654-OFFICIAL.zip",
+         "file_size":938835834,
+         "md5":"9198281bc52f35af9fb1e68212ec773a"
+      }
    ]
 }

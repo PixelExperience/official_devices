@@ -1,0 +1,19 @@
+{
+    "pie": [
+        {
+            "file_name": "PixelExperience_angler-9.0-20181124-1205-OFFICIAL.zip",
+            "file_size": 915404198,
+            "md5": "8fbbe06d2abd85512bbca5e875872ca3"
+        },
+        {
+         "file_name":"PixelExperience_angler-9.0-20181125-2014-OFFICIAL.zip",
+         "file_size":915427571,
+         "md5":"18fc1ec19521a1e8f14c30046a0288ef"
+      },
+      {
+         "file_name":"PixelExperience_angler-9.0-20181205-1457-OFFICIAL.zip",
+         "file_size":915235552,
+         "md5":"499d44c9269c32177039626744e99844"
+      }
+    ]
+}

@@ -7,9 +7,9 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Henrique Silva (jhenrique09)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3859817"
+            "maintainer_name":"Ashwin R C(AshwinRC)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8866469",
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3870826"
          },
          {
             "version_code":"oreo",
@@ -138,6 +138,13 @@
       "codename":"sanders",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Yash",
+            "maintainer_url":"",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Keertesh",
@@ -218,7 +225,7 @@
    },
    {
       "name":"Le Max 2",
-      "brand":"Leeco",
+      "brand":"LeEco",
       "codename":"x2",
       "supported_versions":[
          {
@@ -274,7 +281,7 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3871437"
          },
          {
             "version_code":"oreo",
@@ -295,7 +302,7 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3871589"
          },
          {
             "version_code":"oreo",
@@ -316,7 +323,7 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3871430"
          },
          {
             "version_code":"oreo",
@@ -543,6 +550,13 @@
       "codename":"lithium",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
@@ -556,6 +570,13 @@
       "brand":"Xiaomi",
       "codename":"scorpio",
       "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+            "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
+         },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
@@ -573,9 +594,9 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Saksham",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
-            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3852851"
+            "maintainer_name":"Joey Huab (joeyhuab)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4936496",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3868144"
          },
          {
             "version_code":"oreo",
@@ -878,6 +899,12 @@
       "codename":"wayne",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"PIPIPIG233666(孔维楷) Fatesay(DMF)",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t3874971"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"PIPIPIG233666(孔维楷)",
@@ -924,7 +951,7 @@
             "version_name":"Pie",
             "maintainer_name":"Hasaber8 (RohanHasabe8)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3864339"
          },
          {
             "version_code":"pie_go",
@@ -980,7 +1007,7 @@
             "version_name":"Pie",
             "maintainer_name":"Hasaber8 (RohanHasabe8)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267"
          }
       ]
    },
@@ -1044,6 +1071,90 @@
             "maintainer_name":"Inderpreet Singh Bhangu (IPSBHANGU)",
             "maintainer_url":"https://t.me/IPSBHANGU",
             "xda_thread":"https://forum.xda-developers.com/android/general/rom-pixel-experience-t3863166/post78069883#post78069883"
+         }
+      ]
+   },
+   {
+      "name":"Mi Mix 2s",
+      "brand":"Xiaomi",
+      "codename":"polaris",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Mi 8",
+      "brand":"Xiaomi",
+      "codename":"dipper",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Henrique Pereira (Hlcpereira)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Zenfone Max",
+      "brand":"Asus",
+      "codename":"Z010D",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Ninad Patil (ReignZ)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6549853",
+            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max/development/rom-pixel-experience-t3869583"
+         }
+      ]
+   },
+   {
+      "name":"Nexus 6P",
+      "brand":"Google",
+      "codename":"angler",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"PixelBoot",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744"
+         }
+      ]
+   },
+   {
+      "name":"Le 2",
+      "brand":"LeEco",
+      "codename":"s2",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Rahul (Rk585)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7985055",
+            "xda_thread":"https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
+         }
+      ]
+   },
+   {
+      "name":"Moto X4",
+      "brand":"Motorola",
+      "codename":"payton",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hernan (HerH2)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7048111",
+            "xda_thread":""
          }
       ]
    }
