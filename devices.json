@@ -1171,5 +1171,19 @@
             "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008"
          }
       ]
+   },
+   {
+      "name":"Mi A2",
+      "brand":"Xiaomi",
+      "codename":"jasmine",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"coderzs",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=3297592",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixelexperience-t3876796"
+         }
+      ]
    }
 ]
