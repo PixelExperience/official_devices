@@ -1,0 +1,3 @@
+- Initial Release
+
+Minimum firmware: None as for now
