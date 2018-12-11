@@ -29,6 +29,11 @@
         "file_name":"PixelExperience_X00TD-9.0-20181126-1718-OFFICIAL.zip",
         "file_size":1125674440,
         "md5":"1a4624683a6ef61bdb7380efc6c21dac"
-      }      
+      },
+      {
+        "file_name":"PixelExperience_X00T-9.0-20181211-0523-OFFICIAL.zip",
+        "file_size":1125200114,    
+        "md5":"662afcc981ce4b85b13988847bd2c08d"
+      }                  
    ]
 }
