@@ -11,19 +11,16 @@
          "md5":"94ea47094dbc5d01fb3d3101cbf4ea0d"
       }
    ],
-    "pie":[
+   "pie":[
       {
          "file_name":"PixelExperience_sanders-9.0-20181205-1259-OFFICIAL.zip",
          "file_size":945375440,
          "md5":"bcba6c86db52f4c64dc39e3689c8b015"
-
       },
-
       {
          "file_name":"PixelExperience_sanders-9.0-20181215-1601-OFFICIAL.zip",
          "file_size":945565087,
          "md5":"807e1d96ca253634e8d922016a3a632d"
-     }
-     ]
+      }
+   ]
 }
-   
