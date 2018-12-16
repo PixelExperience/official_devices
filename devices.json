@@ -7,9 +7,9 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Ashwin R C(AshwinRC)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8866469",
-            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3870826"
+            "maintainer_name":"Nick van Bokhorst (GtrCraft)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
+            "xda_thread":""
          },
          {
             "version_code":"oreo",
@@ -138,6 +138,13 @@
       "codename":"sanders",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Yash",
+            "maintainer_url":"",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Keertesh",
@@ -218,7 +225,7 @@
    },
    {
       "name":"Le Max 2",
-      "brand":"Leeco",
+      "brand":"LeEco",
       "codename":"x2",
       "supported_versions":[
          {
@@ -928,9 +935,9 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Chaitanya Mittal (Professional_Guider)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
-            "xda_thread":""
+            "maintainer_name":"Subins Mani (Subinsmani)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-t3879388"
          }
       ]
    },
@@ -1091,7 +1098,7 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3871932"
          }
       ]
    },
@@ -1140,7 +1147,7 @@
    {
       "name":"Moto X4",
       "brand":"Motorola",
-      "codename":"Payton",
+      "codename":"payton",
       "supported_versions":[
          {
             "version_code":"pie",
@@ -1148,6 +1155,34 @@
             "maintainer_name":"Hernan (HerH2)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7048111",
             "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name":"Honor View 10",
+      "brand":"Huawei",
+      "codename":"berkeley",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"David Sn (Codebucket)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7339792",
+            "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008"
+         }
+      ]
+   },
+   {
+      "name":"Mi A2",
+      "brand":"Xiaomi",
+      "codename":"jasmine",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"coderzs",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=3297592",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixelexperience-t3876796"
          }
       ]
    }
