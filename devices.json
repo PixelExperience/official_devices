@@ -629,16 +629,16 @@
       ]
    },
    {
-      "name":"Redmi 5 Plus",
+      "name":"Redmi Note 5/5 Plus",
       "brand":"Xiaomi",
       "codename":"vince",
       "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Luiz H.(@SanicM2)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6918804",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
+            "maintainer_name":"Amulya Bhardwaj (AmulyaX)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6409818",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/9-0-pixel-experience-t3879722"
          },
          {
             "version_code":"oreo",
