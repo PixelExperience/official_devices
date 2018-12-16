@@ -11,6 +11,11 @@
             "file_name": "PixelExperience_gemini-9.0-20181124-1914-OFFICIAL.zip",
             "file_size": 940345859,
             "md5": "6fe64d0f1a708aaf106865dbbfa1bb8b"
+        },
+        {
+            "file_name":"PixelExperience_gemini-9.0-20181207-1753-OFFICIAL.zip",
+            "file_size":1238062556,
+            "md5":"15939bff113912dd21a82d17c38f0cac"
         }
     ]
 }
