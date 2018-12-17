@@ -1185,5 +1185,89 @@
             "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixelexperience-t3876796"
          }
       ]
+   },
+   {
+      "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)",
+      "brand": "Samsung",
+      "codename": "klte",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Brunowp8",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S5 LTE (G900I/P)",
+      "brand": "Samsung",
+      "codename": "kltedv",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Brunowp8",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S5 LTE Duos (G900FD/MD)",
+      "brand": "Samsung",
+      "codename": "klteduos",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Brunowp8",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S5 LTE (G900K/L/S)",
+      "brand": "Samsung",
+      "codename": "kltekor",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Brunowp8",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S5 LTE (G9006V/8V)",
+      "brand": "Samsung",
+      "codename": "kltechn",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Brunowp8",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S5 LTE Duos (G9006W/8W)",
+      "brand": "Samsung",
+      "codename": "kltechnduo",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name": "Brunowp8",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7722532",
+            "xda_thread":""
+         }
+      ]
    }
 ]
