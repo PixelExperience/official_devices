@@ -21,6 +21,11 @@
          "file_name":"PixelExperience_mido-9.0-20181120-1937-OFFICIAL.zip",
          "file_size":971307933,
          "md5":"a764361c9c44d594276c3f162dbb2657"
-      }
+      },
+      {
+	"file_name":"PixelExperience_mido-9.0-20181218-0104-OFFICIAL.zip",
+        "file_size":891100000,
+        "md5":"4ab8131fae3db4339dbe32cd8ec24f9b"
+      } 
    ]
 }
