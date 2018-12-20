@@ -46,6 +46,11 @@
          "file_name":"PixelExperience_land-9.0-20181208-0224-OFFICIAL.zip",
          "file_size":978256838,
          "md5":"3342b9fc939769ba36c4adfd0ff47c20"
+      },
+      {
+         "file_name":"PixelExperience_land-9.0-20181220-0332-OFFICIAL.zip", 
+	 "file_size":975731575,
+	 "md5":"72d837386e7468da79dcc4bd4c1152a0"
       }
    ]
 }
