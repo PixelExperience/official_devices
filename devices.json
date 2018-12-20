@@ -363,9 +363,7 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "maintainer_name":"RenanQueiroz",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7344859",
-            "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3734871"
+            "deprecated":true
          }
       ]
    },
@@ -949,16 +947,12 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Hasaber8 (RohanHasabe8)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-pixel-experience-t3864339"
+            "deprecated":true
          },
          {
             "version_code":"pie_go",
             "version_name":"Pie (GO edition)",
-            "maintainer_name":"Hasaber8 (RohanHasabe8)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":""
+            "deprecated":true
          },
          {
             "version_code":"oreo",
