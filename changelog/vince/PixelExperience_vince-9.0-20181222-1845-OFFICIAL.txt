@@ -1,0 +1,8 @@
+-Initial Official Release
+-December Security Patch
+-Removed HD capable icon
+-AOD Transition Fixed
+-Added automatic Face Unlock
+-Updated blobs to Tissot Pie
+-Fixed crash when toggling Airplane mode
+-A lot of changes made
