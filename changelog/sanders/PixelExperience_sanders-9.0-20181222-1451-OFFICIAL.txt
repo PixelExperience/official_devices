@@ -1,0 +1,3 @@
+- Kernel upstreamed to .131
+- Slo-Mo works with Urnyx cam 
+- Lag issue solved
