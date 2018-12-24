@@ -969,10 +969,17 @@
       "codename":"rolex",
       "supported_versions":[
          {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
+            "maintainer_url":"https://t.me/alrakhesyafauzan",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Kacper Skrzypek (Orjon)",
-            "maintainer_url":"https://t.me/kacskrz",
+            "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
+            "maintainer_url":"https://t.me/alrakhesyafauzan",
             "xda_thread":""
          }
       ]
