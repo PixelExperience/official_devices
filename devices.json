@@ -1188,9 +1188,9 @@
       ]
    },
    {
-      "name":"Redmi note 6 pro",
+      "name":"Redmi Note 6 Pro",
       "brand":"Xiaomi",
-      "codename":"Tulip",
+      "codename":"tulip",
       "supported_versions":[
          {
             "version_code":"oreo",
@@ -1198,6 +1198,6 @@
             "maintainer_name":"Saksham",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866"
          }
-       ]
-     }
-  ]
+      ]
+   }
+]
