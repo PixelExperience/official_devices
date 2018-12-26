@@ -1188,3 +1188,19 @@
       ]
    }
 ]
+ 
+},
+"name":"Mi Max",
+"brand":"Xiaomi",
+"codename":"hydrogen",
+"supported_version":[
+   {
+      "version_code":"pie",
+      "version_name":"Pie",
+      "maintainer_name":"VamsiKrishna999 (krishVK9)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8072879",
+      "xda_thread":""
+        }
+      ]
+   }
+]
