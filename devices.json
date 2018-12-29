@@ -592,8 +592,8 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Joey Huab (joeyhuab)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=4936496",
+            "maintainer_name":"Abhinav Gupta (Agrd1129)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6754297",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3868144"
          },
          {
@@ -606,7 +606,7 @@
       ]
    },
    {
-      "name":"Redmi Note 5 Pro",
+      "name":"Redmi Note 5 Global/Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
       "supported_versions":[
@@ -627,16 +627,16 @@
       ]
    },
    {
-      "name":"Redmi Note 5/5 Plus",
+      "name":"Redmi Note 5/Plus",
       "brand":"Xiaomi",
       "codename":"vince",
       "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Amulya Bhardwaj (AmulyaX)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6409818",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/9-0-pixel-experience-t3879722"
+            "maintainer_name":"Dmitriy Alimov (waiser)",
+            "maintainer_url":"https://t.me/waiser_hm",
+            "xda_thread":""
          },
          {
             "version_code":"oreo",
@@ -969,10 +969,17 @@
       "codename":"rolex",
       "supported_versions":[
          {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
+            "maintainer_url":"https://t.me/alrakhesyafauzan",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Kacper Skrzypek (Orjon)",
-            "maintainer_url":"https://t.me/kacskrz",
+            "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
+            "maintainer_url":"https://t.me/alrakhesyafauzan",
             "xda_thread":""
          }
       ]
@@ -1041,16 +1048,16 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Michal Wink (michalwinkdev)",
-            "maintainer_url":"https://t.me/michalwink",
+            "maintainer_name":"Shreejoy Dash (Shreejoy Dash)",
+            "maintainer_url":"https://t.me/androidpie9",
             "xda_thread":""
          },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "maintainer_name":"Michal Wink (michalwinkdev)",
-            "maintainer_url":"https://t.me/michalwink",
-            "xda_thread":"https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t3854502"
+            "maintainer_name":"Shreejoy Dash (Shreejoy Dash)",
+            "maintainer_url":"https://t.me/androidpie9",
+            "xda_thread":""
          }
       ]
    },
@@ -1177,6 +1184,19 @@
             "maintainer_name":"coderzs",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=3297592",
             "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixelexperience-t3876796"
+         }
+      ]
+   },
+   {
+      "name":"Redmi Note 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"tulip",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Saksham",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866"
          }
       ]
    }

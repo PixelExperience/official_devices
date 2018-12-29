@@ -1,4 +1,11 @@
 {
+   "oreo":[
+      {
+         "file_name":"PixelExperience_rolex-8.1.0-20181227-0718-OFFICIAL.zip",
+         "file_size":884420854,
+         "md5":"36aed9f97f31823f0bd5d54521d7745c"
+      }
+   ],
    "pie":[
       {
          "file_name":"PixelExperience_rolex-9.0-20181021-1723-OFFICIAL.zip",
@@ -19,6 +26,10 @@
          "file_name":"PixelExperience_rolex-9.0-20181206-1601-OFFICIAL.zip",
          "file_size":991732328,
          "md5":"1d7a455096675e19c237fca6be5e80b7"
+      },
+      {  "file_name":"PixelExperience_rolex-9.0-20181225-1430-OFFICIAL.zip",
+         "file_size":941027772,
+         "md5":"54436dfec496f78ab6f673466b177095"
       }
    ]
 }

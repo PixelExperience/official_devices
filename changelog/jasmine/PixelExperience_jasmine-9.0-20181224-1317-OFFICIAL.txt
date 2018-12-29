@@ -1,0 +1,540 @@
+=======================
+     12-24-2018
+=======================
+
+
+   * device/xiaomi/jasmine/
+ddf8376 jasmine : correct prop
+65a1e2c jasmine: media: Add HFR/HSR profiles for Google Camera
+9d4477f jasmine:  media: use correct media profiles
+7f104cc jasmine: update build fingerprint to jasmine pie release
+5736181 jasmine : remove libinit
+bfc2717 jasmine : update device prop
+
+   * device/xiaomi/sdm660-common/
+9f635bf sdm660 : add vendor prefix to usb
+dfc30de sdm660_64: Add USB initialization to init.target.rc
+e8f2974 sdm660 : update init.qcom.usb.sh from jasmine p
+1771d53 Revert "sdm660: wifi: Push aware permission files to device"
+c779a41 sdm660: set default network typ  manually
+199f0de Revert "sdm660: overlay: Ignore RSSNR signal level"
+f9fc961 sdm660:audio: Add audio and audio common hidl services
+97be73c sdm660: wifi: Push aware permission files to device
+
+   * vendor/xiaomi/jasmine/
+309f794 fix derp
+4b50882 jasmine : update alarm blobs from jasmine V10.0.2.0.PDIMIFJ
+e276649 jasmine : update missing blobs to V10.0.1.0.PDIMIFJ
+
+=======================
+     12-23-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+0e183bc sdm660 : switch to basic usb hal
+4bbbf36 Revert "sdm660 : update msm_irqbalance conf from jasmine V10.0.1.0.PDIMIFJ"
+29eb331 sdm660 : Copy vendor HIDL interface libs to /vendor
+327347c sdm660: Migrate to versioned VNDK layout
+e924e5c sdm660: Disable vndk-sp creation for VNDK enabled targets.
+7809a0b sdm660: Add Mapper 2.1 to VNDK SP list
+7f656ac sdm660 : update to match LA.UM.7.2.r1-05100-sdm660.0
+db17c7f sdm660: Update QTI whitelist and priv-app permissions
+
+   * frameworks/base/
+358a2ca4f62 SystemUI: allow the power menu to be relocated
+00f7090a913 SystemUI: allow devices override audio panel location
+
+=======================
+     12-22-2018
+=======================
+
+
+   * device/xiaomi/jasmine/
+e8a9cc5 jasmine : move bluetooth config to common
+9999d4c jasmine : update sensor_def_qcomdev from stock p
+cf7c85d jasmine : overlay : update from stock p
+
+   * device/xiaomi/sdm660-common/
+386aa1a sdm660: Update props for new sdm blobs
+bf1810f sdm660 : cleanup props
+364f773 sdm660 : remove unused wifi supplicant vendor
+4ba6e8a sdm660 : set bluetooth name dynamicaly
+6cb14d0 sdm660: Remove references to deleted dhcpcd.conf
+91f99d5 sdm660: device: Move keylayouts to /vendor
+e80d542 sdm660: Drop unused msm_irqbalance for 630 snapdragon
+865ba67 sdm660 :  fix persist path
+f0ba619 sdm660 : squash changes for jasmine p sensor blobs
+
+   * frameworks/base/
+a3bbb6db6cb framework: Add WiFi Display R2 device info
+9b2d0fed956 PhoneWindowManager: Changes for WFD and UIBC.
+ba8c832ce1d Automatic translation import
+2fe3615b5ea Add toggle for face auto unlock (1/2)
+235d57df68c KeyguardHostView: Auto face unlock v2
+
+   * kernel/xiaomi/sdm660/
+dcb668361694 Merge branch 'kernel.lnx.4.4.r34-rel' of https://github.com/android-linux-stable/msm-4.4 into cr-7.0
+86e763a20e19 Merge 4.4.169 into kernel.lnx.4.4.r34-rel
+
+=======================
+     12-21-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+967d418 Add vendor prefix to below services.
+5d27fb1 sdm660 : update msm_irqbalance conf from jasmine V10.0.1.0.PDIMIFJ
+
+   * kernel/xiaomi/sdm660/
+ba0da581b466 Linux 4.4.169
+76feba7d21d8 ALSA: isa/wavefront: prevent some out of bound writes
+e3f904b939d2 rtc: snvs: Add timeouts to avoid kernel lockups
+4178875d9ccb rtc: snvs: add a missing write sync
+02979d43b363 i2c: scmi: Fix probe error on devices with an empty SMB0001 ACPI device node
+a84f9b11efe0 i2c: axxia: properly handle master timeout
+60da90b224ba cifs: In Kconfig CONFIG_CIFS_POSIX needs depends on legacy (insecure cifs)
+fa5d9b585e83 ARM: 8814/1: mm: improve/fix ARM v7_dma_inv_range() unaligned address handling
+59654d59165b mv88e6060: disable hardware level MAC learning
+08349ed6ea70 libata: whitelist all SAMSUNG MZ7KM* solid-state disks
+7150d100dcf4 Input: omap-keypad - fix keyboard debounce configuration
+1370aabe19c1 clk: mmp: Off by one in mmp_clk_add()
+a4d64fc0968d ide: pmac: add of_node_put()
+bf920ab8d61a drivers/tty: add missing of_node_put()
+1953eec6684b drivers/sbus/char: add of_node_put()
+1cb0f441faa3 sbus: char: add of_node_put()
+61bbbe52bb39 SUNRPC: Fix a potential race in xprt_connect()
+25b077464a6b bonding: fix 802.3ad state sent to partner when unbinding slave
+44b4717e5055 ARC: io.h: Implement reads{x}()/writes{x}()
+d0aaab74b2b9 drm/msm: Grab a vblank reference when waiting for commit_done
+5c42212ae2d7 x86/earlyprintk/efi: Fix infinite loop on some screen widths
+4b0ad28b0bf9 scsi: vmw_pscsi: Rearrange code to avoid multiple calls to free_irq during unload
+054dbacf1ce9 scsi: libiscsi: Fix NULL pointer dereference in iscsi_eh_session_reset
+a33ba2d2aa7e mac80211_hwsim: fix module init error paths for netlink
+9cdcdad4c2ff mac80211: Fix condition validating WMM IE
+7309da08e3f4 mac80211: don't WARN on bad WMM parameters from buggy APs
+0fd7726d69af f2fs: fix a panic caused by NULL flush_cmd_control
+985ee65d554c Revert "drm/rockchip: Allow driver to be shutdown on reboot/kexec"
+ee2bc807cbf0 powerpc/msi: Fix NULL pointer access in teardown code
+f2e7e67e4593 tracing: Fix memory leak of instance function hash filters
+60ed7a77f8f9 tracing: Fix memory leak in set_trigger_filter()
+c046fa1ca387 MMC: OMAP: fix broken MMC on OMAP15XX/OMAP5910/OMAP310
+068be33b99c9 aio: fix spectre gadget in lookup_ioctx
+a5365ad60df2 pinctrl: sunxi: a83t: Fix IRQ offset typo for PH11
+f9b94f823aeb powerpc/boot: Fix random libfdt related build errors
+bd5ceb985c56 timer/debug: Change /proc/timer_list from 0444 to 0400
+74fc7af2d613 lib/interval_tree_test.c: allow users to limit scope of endpoint
+fa1054e903ae lib/rbtree-test: lower default params
+46d4da6249b9 lib/rbtree_test.c: make input module parameters
+186d114f0e55 lib/interval_tree_test.c: allow full tree search
+07a1b872a154 lib/interval_tree_test.c: make test options module parameters
+
+   * vendor/xiaomi/jasmine/
+23402cb jasmine: Update media blobs from jasmine PKQ1.180904.001 V10.0.1.0.PDIMIFJ
+c7d4c81 jasmine : update sensors from jasmine V10.0.1.0.PDIMIFJ
+b40c5cc jasmine : update perf blobs from jasmine V10.0.1.0.PDIMIFJ
+24f4f2d jasmine : update msm_irqbalance and thermal engine blobs from jasmine V10.0.1.0.PDIMIFJ
+
+=======================
+     12-20-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+8155ca6 sdm660: enable PRODUCT_ACTIONABLE_COMPATIBLE_PROPERTY_DISABLE to fix unexported propertys in init
+30c286d sdm660: Notify fingerprint client of successful cancelled authentication
+3e5b35d sdm660: PIN critical apps and system services that get swapped
+76567c2 jasmine: Give light sensor some time to warm up
+50f9f15 sdm660 : fix derp in platform.mk
+d268356 init.qcom.rc: Clean up stale init rc rules.
+2185161 display: Add graphics group for min_level_change node
+94ab418 display: Add read write perms to bitclk node.
+d8ecf11 display: Move node permissions from init to rc file.
+85203b9 init.qcom.rc: Increase the maximum size for socket receive buffer
+9abc497 sdm660: Disable fading marquee
+
+=======================
+     12-19-2018
+=======================
+
+
+   * device/xiaomi/jasmine/
+65cc86d jasmine : cleanup
+04764ff jasmine : cleanup whitespaces
+4b83a38 jasmine: Uprev configstore to 1.1
+759b3c3 jasmine: Uprev power hal to 1.1
+
+   * device/xiaomi/sdm660-common/
+0cd4ce3 sdm660 : Removing obsolete perf whitelist xml files
+fb5824b sdm660 : little cleanup
+4f21da3 sdm660 : init : update usb init from jasmine p
+
+   * packages/apps/Settings/
+be5b769af1 Automatic translation import
+
+   * packages/apps/Updates/
+a370685 Automatic translation import
+
+   * packages/providers/AmbientPlayHistoryProvider/
+90ea5be Automatic translation import
+
+   * packages/providers/DownloadProvider/
+6790142 Automatic translation import
+
+   * repo/local_manifest/
+c17a1ee manifest : fix derp
+d85e9a5 manifest : update pixelexperience manifest
+
+=======================
+     12-18-2018
+=======================
+
+
+   * device/xiaomi/jasmine/
+50618c7 jasmine : pe : remove overlay-lineage from device.mk
+6eded18 jasmine : wat wat ? PixelExperience
+46fb0ab jasmine : update for new radio blobs
+e1269bc jasmine: light: start light service with new vendor.service name
+f9e9053 jasmine : update power_profile.xml from stock p
+715ff07 jasmine : LineageOS bringup
+040855e jasmine: remove creating of root folders which are not needed anymore
+6f0031e jasmine: Add missing on boot declaration in init.device
+cba57c7 jasmine: remove AtFwd hal and update to version 2 of hidl manifest
+cc2d0bd jasmine: remove double defined vibration overlay
+
+   * device/xiaomi/sdm660-common/
+97f6e3c sdm660 : update compatibility matrix
+05a4364 sdm660 : set ENABLE_VENDOR_RIL_SERVICE and update framework_compatibility_matrix
+fe8ec21 sdm660: changes for new radio blobs
+4c79955 sdm660: remove thermal hal
+673ca1d sdm660: Set LOCAL_SDK_VERSION where possible.
+d8e753c sdm660 : remove generic power profile
+a125354 sdm660: Add /vendor/firmware_mnt/image to firmware_directory path
+aabbf8e sdm660: A/B: remove verfiy flag from fstab for system partition
+
+   * kernel/xiaomi/sdm660/
+0e2dead50f47 Merge branch 'kernel.lnx.4.4.r34-rel' of https://github.com/android-linux-stable/msm-4.4 into cr-7.0
+d20f93c40660 Merge 4.4.168 into kernel.lnx.4.4.r34-rel
+d3c67a52a66b Linux 4.4.168
+5e27a782d2cd selftests: Move networking/timestamping from Documentation
+2397ae1e4b9a rocker: fix rocker_tlv_put_* functions for KASAN
+e375a05c5082 staging: speakup: Replace strncpy with memcpy
+ed8c3cb1e66a matroxfb: fix size of memcpy
+dc4bc70259da media: dvb-frontends: fix i2c access helpers for KASAN
+adc143b97d06 proc: do not access cmdline nor environ from file-backed areas
+56941bb6400c proc: don't use FOLL_FORCE for reading cmdline and environment
+079d9ea86202 mm: replace access_remote_vm() write parameter with gup_flags
+2b8143d6874b mm: replace __access_remote_vm() write parameter with gup_flags
+8e50b8b07f46 mm: replace get_user_pages() write/force parameters with gup_flags
+3ec22a6bce3f mm: replace get_vaddr_frames() write/force parameters with gup_flags
+ffe6376c1803 mm: replace get_user_pages_locked() write/force parameters with gup_flags
+2b29980eb75b mm: replace get_user_pages_unlocked() write/force parameters with gup_flags
+ff099ed77421 mm/nommu.c: Switch __get_user_pages_unlocked() to use __get_user_pages()
+ab424c8eb71e mm: remove write/force parameters from __get_user_pages_unlocked()
+6a3c9524df93 mm: remove write/force parameters from __get_user_pages_locked()
+8aca77150a9a sr: pass down correctly sized SCSI sense buffer
+c873dfa0ccbd swiotlb: clean up reporting
+0d547583faaa hugetlbfs: fix bug in pgoff overflow checking
+38d924e1d040 hugetlbfs: check for pgoff value overflow
+f24fb9efea4d hugetlbfs: fix offset overflow in hugetlbfs mmap
+30a2ae50aef8 mm/hugetlb.c: don't call region_abort if region_chg fails
+954648ebf8e2 posix-timers: Sanitize overrun handling
+e47b9b2b005a wil6210: missing length check in wmi_set_ie
+1c74bd22e846 bpf: Prevent memory disambiguation attack
+451624d47005 bpf/verifier: Pass instruction index to check_mem_access() and check_xadd()
+168cb9b7b283 bpf/verifier: Add spi variable to check_stack_write()
+3c4bb079e16e bpf: support 8-byte metafield access
+ff3c3b181c5e KVM: SVM: Implement VIRT_SPEC_CTRL support for SSBD
+3e3a1c2ee031 x86/speculation: Use synthetic bits for IBRS/IBPB/STIBP
+b5ec2b3f1199 x86/bugs, KVM: Extend speculation control for VIRT_SPEC_CTRL
+7f77d36ab3f3 KVM: SVM: Move spec control call after restore of GS
+0109a1b0a5ca x86/KVM/VMX: Expose SPEC_CTRL Bit(2) to the guest
+2658e4d66dec x86/bugs, KVM: Support the combination of guest and host IBRS
+67e326e03438 x86/uaccess: Use __uaccess_begin_nospec() and uaccess_try_nospec
+557cd0d20ec9 x86/usercopy: Replace open coded stac/clac with __uaccess_{begin, end}
+6d1d4fc34287 x86: Introduce __uaccess_begin_nospec() and uaccess_try_nospec
+45b871531cb6 x86: fix SMAP in 32-bit environments
+cc8c5450b6d7 x86: reorganize SMAP handling in user space accesses
+d0169c04fee0 KVM/x86: Remove indirect MSR op calls from SPEC_CTRL
+89be8950bab7 KVM/SVM: Allow direct access to MSR_IA32_SPEC_CTRL
+fc6aae9f4078 KVM/VMX: Allow direct access to MSR_IA32_SPEC_CTRL
+337c26f50a71 KVM/VMX: Emulate MSR_IA32_ARCH_CAPABILITIES
+4b3870c343a8 KVM/x86: Add IBPB support
+321fbb1fad29 KVM: VMX: make MSR bitmaps per-VCPU
+8f54df9756ca KVM: VMX: introduce alloc_loaded_vmcs
+81cd492667c6 KVM: nVMX: Eliminate vmcs02 pool
+1bec1a14bb08 KVM: nVMX: mark vmcs12 pages dirty on L2 exit
+e90c6ad207bc KVM: nVMX: fix msr bitmaps to prevent L2 from accessing L0 x2APIC
+8420459f1d93 ALSA: pcm: remove SNDRV_PCM_IOCTL1_INFO internal command
+7f0324fb34c4 pstore: Convert console write to use ->write_buf
+466570dc30cf ocfs2: fix potential use after free
+5d8fe653a934 debugobjects: avoid recursive calls with kmemleak
+168a1537ca6f hfsplus: do not free node before using
+736ba5cba268 hfs: do not free node before using
+9549f09b02ad ocfs2: fix deadlock caused by ocfs2_defrag_extent()
+8f1ee7557959 fscache, cachefiles: remove redundant variable 'cache'
+b1ef956a8ba5 fscache: fix race between enablement and dropping of object
+26e081481506 xen: xlate_mmu: add missing header to fix 'W=1' warning
+0f1b4c748370 drm/ast: fixed reading monitor EDID not stable issue
+573f19f1517b net: hisilicon: remove unexpected free_netdev
+553c8675f5fe ixgbe: recognize 1000BaseLX SFP modules as 1Gbps
+6a1fb1bf8e6d net: thunderx: fix NULL pointer dereference in nic_remove
+afca87e81681 KVM: x86: fix empty-body warnings
+026e6bd1a41b USB: omap_udc: fix USB gadget functionality on Palm Tungsten E
+09542b329dbf USB: omap_udc: fix omap_udc_start() on 15xx machines
+39d5919321d3 USB: omap_udc: fix crashes on probe error and module removal
+a20d7a308fa2 USB: omap_udc: use devm_request_irq()
+ac86c99ca19a bpf: fix check of allowed specifiers in bpf_trace_printk
+d4327131dbe0 exportfs: do not read dentry after free
+476bea0f653c ASoC: omap-dmic: Add pm_qos handling to avoid overruns with CPU_IDLE
+3aa69785b7d5 ASoC: omap-mcpdm: Add pm_qos handling to avoid under/overruns with CPU_IDLE
+44b0243956db Btrfs: send, fix infinite loop due to directory rename dependencies
+b9b45f496f3e hwmon: (w83795) temp4_type has writable permission
+fd103a69b400 ASoC: dapm: Recalculate audio map forcely when card instantiated
+15d8d7246173 hwmon: (ina2xx) Fix current value calculation
+9ba7a303ff29 s390/cpum_cf: Reject request for sampling in event initialization
+c65b63a085c8 sysv: return 'err' instead of 0 in __sysv_write_inode
+d7589b83d628 ARM: OMAP1: ams-delta: Fix possible use of uninitialized field
+d2f642b05832 ARM: OMAP2+: prm44xx: Fix section annotation on omap44xx_prm_enable_io_wakeup
+a56de6cd69bd neighbour: Avoid writing before skb->head in neigh_hh_output()
+2da7c7b22b33 tun: forbid iface creation with rtnl ops
+ed7748bcf290 tcp: fix NULL ref in tail loss probe
+266b50e76449 rtnetlink: ndo_dflt_fdb_dump() only work for ARPHRD_ETHER devices
+d7519c01c9b8 net: Prevent invalid access to skb->prev in __qdisc_drop_all
+a1ec658a588b net: phy: don't allow __set_phy_supported to add unsupported modes
+8832e33045b5 net: 8139cp: fix a BUG triggered by changing mtu with network traffic
+298e11444788 ipv6: Check available headroom in ip6_xmit() even without options
+
+   * packages/apps/Settings/
+11990c3748 Add toggle for face auto unlock (2/2)
+
+   * vendor/pixelstyle/
+53cb960 Update SoundPickerPrebuilt
+
+   * vendor/xiaomi/jasmine/
+546693f jasmine: update radio blobs from jasmine V10.0.1.0.PDIMIFJ
+3bb3d79 jasmine: update adsp acdb and audio stack from jasmine V10.0.1.0.PDIMIFJ
+
+=======================
+     12-17-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+f1590ef sdm660: Add factory and wifi keystore hidl matrix
+922df23 sdm660: init: stop creating fota dir
+a1330d8 wayne-common: Update display color 1.2 in framework compatibility matrix
+4cc09e2 wayne-common: Update display config compatibility matrix
+452378a sdm660: Add custom hals to device framework compatibility matrix
+baedbf3 sdm660: Add 1.0::IGnss/gnss_vendor to compatibility matirx
+dfab9e1 sdm660: Update display config compatibility matrix
+0e846f5 sdm660: Update framework compatibility matrix to be compatible with IMS HALs
+0dbd380 sdm660: Remove improveTouch HAL Entry from vendor framework manifest
+6226010 sdm660: Add vendor.qti.data.factory to framework compatibility matrix.
+1a390fd sdm660: Add vendor HAL entries in framework compatibility matrix
+284ae86 sdm660: Update compatibility matrix with Display HAL's
+f20c188 sdm660: Add MATRIX file for vendor HAL's
+92c51db sdm660: Move AtFwd hal from device to framework manifest.
+c7a2f3a sdm660: Remove creating and accessing /data/media from vendor domain
+d7ac439 sdm660: init: Create persist directory for hvdcp_opti
+423af1c sdm660: Use build system to create mount point symlinks
+ebb32bb sdm660: Bind mount /mnt/vendor/persist to /persist for sensors
+e9f2a80 sdm660: Update symlinks for new mount points
+14ae040 sdm660: Create mount point symlinks for backward compatibility
+94089a4 sdm660: Mount dsp and firmware in vendor
+ca0f5b1 sdm660: Move /bt_firmware mount point to /vendor/bt_firmware
+2b20116 sdm660: Set permissions of /dev/byte-cntr device
+3069eed sdm660: Moving persist mount point to /mnt/vendor/persist
+1ce09ca sdm660: wifi: Enable WIFI_HIDL_FEATURE_DUAL_INTERFACE
+d71a14b sdm660: rootdir: Clean up init scripts
+be92750 sdm660: rootdir: Clean up unused init scripts
+bbf5c1f sdm660: rootdir: Remove sensors init shell script
+5fab326 sdm660: Remove no longer needed Android Blueprints
+4fbf5b0 sdm660: overlay: Enable ACS and 11ac for softap operations
+
+=======================
+     12-16-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+9a30272 sdm660: overlay: enable always on display
+
+=======================
+     12-15-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+ba4af07 sdm660: Move offmode charging daemon away
+adeea18 sdm660: overlay: Ignore RSSNR signal level
+aece66a sdm660: pin home application
+fca6d4d sdm660: Set TARGET_2ND_CPU_VARIANT as cortex-a73
+67d6734 sdm660: Whitelist org.codeaurora.ims package
+1cf3b40 sdm660: enable PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE
+3984a12 sdm660: Enable h/w memory tuning
+
+   * kernel/xiaomi/sdm660/
+0cc0bd9cce5a Merge tag 'v4.4.167' of https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable-rc into cr-7.0
+2c5078de9285 sdm660: regenerate jasmine dtsi and dts
+
+   * vendor/xiaomi/jasmine/
+6e7488e jasmine: Add MIUI offmode charging daemon
+181bd51 jasmine : update charger and fix bt permissions from  jasmine V10.0.1.0.PDIMIFJ
+617f813 jasmine : update some blobs from jasmine V10.0.1.0.PDIMIFJ
+
+=======================
+     12-14-2018
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+98af5a4 sdm660: add system property to set AudioFlinger client heap size
+
+   * kernel/xiaomi/sdm660/
+3bcb339aba77 sdm660: defconfig: enable kcal color management
+5ab1f6bce469 mdss mdp: adjust kcal for OP5
+cde2596c0691 mdss mdp: fix washed out colours after start when screen is off during kcal initialization
+b5a394dde33b sdm660:mdss mdp: kcal for mdss_mdp_v1_7
+df57650414c5 sdm660: drivers: mmc: don't set mmc driver scheduler to fifo and disable restricted priority
+83f6f8780c59 Merge 4.4.167 into kernel.lnx.4.4.r34-rel
+
+=======================
+     12-13-2018
+=======================
+
+
+   * hardware/qcom/display/
+27adb2449 msm8960/8974/8084: Include string.h where it is necessary
+be5059111 msm8974: libexternal should depend on libmedia
+51eedfbc4 msm8974: libgralloc: Fix adding offset to the mapped base address
+bd93363dd msm8974: hwcomposer: Fix regression in hwc_sync
+50d9d0083 msm8974: Move QCOM HALs to vendor partition
+adfacadfb msm8960: copybit: Fix type conversion error for GCC 4.7
+6015326c6 display: add TARGET_PROVIDES_LIBLIGHT
+156b61a1c Revert "msm8974: deprecate msm8974"
+
+   * hardware/qcom/media/
+2ea95b3e3 media: vdec: Include nativebase headers
+71efa192f mm-video: venc: Correct a typo in variable name
+6817d26d9 Revert "msm8974: remove from top level makefile"
+
+   * kernel/xiaomi/sdm660/
+640f85865ca6 Linux 4.4.167
+d1deb58639b0 mac80211: ignore NullFunc frames in the duplicate detection
+5a7b2af0c7ec mac80211: fix reordering of buffered broadcast packets
+00512a2e8e64 mac80211: ignore tx status for PS stations in ieee80211_tx_status_ext
+a315f7154d7a mac80211: Clear beacon_int in ieee80211_do_stop
+71a8069fb10d mac80211_hwsim: Timer should be initialized before device registered
+9ef13fecf975 kgdboc: fix KASAN global-out-of-bounds bug in param_set_kgdboc_var()
+dc0e5734399b tty: serial: 8250_mtk: always resume the device in probe.
+122775d733a0 cifs: Fix separator when building path from dentry
+bcecc9e5751f Staging: lustre: remove two build warnings
+7e5408959018 xhci: Prevent U1/U2 link pm states if exit latency is too long
+5f3c652e0f8c SUNRPC: Fix leak of krb5p encode pages
+e32c7473a406 virtio/s390: fix race in ccw_io_helper()
+e2ae7fd4c18b virtio/s390: avoid race on vcdev->config
+92c01d8f4ae8 ALSA: pcm: Fix interval evaluation with openmin/max
+1b5c6d035a87 ALSA: pcm: Call snd_pcm_unlink() conditionally at closing
+2ec5d37754a2 ALSA: pcm: Fix starvation on down_write_nonblock()
+0ced5efd7d0f ALSA: hda: Add support for AMD Stoney Ridge
+82fa3e95432f ALSA: usb-audio: Fix UAF decrement if card has no live interfaces in card.c
+c380600bf71c USB: check usb_get_extra_descriptor for proper size
+c19c1881f228 usb: appledisplay: Add 27" Apple Cinema Display
+0a59a296e994 usb: quirk: add no-LPM quirk on SanDisk Ultra Flair device
+56db12c5d8a6 net: amd: add missing of_node_put()
+91da119bce6a iommu/vt-d: Use memunmap to free memremap
+5b1c8d0bfdc3 net: faraday: ftmac100: remove netif_running(netdev) check before disabling interrupts
+dd3fa93cfc66 net/mlx4: Fix UBSAN warning of signed integer overflow
+ebf371aa3c22 net/mlx4_core: Fix uninitialized variable compilation warning
+3adf0b7f1f8e net/mlx4_core: Zero out lkey field in SW2HW_MPT fw command
+93940a277fda qed: Fix reading wrong value in loop condition
+30d5a7c1b6c0 qed: Fix PTT leak in qed_drain()
+61d221fce277 bnx2x: Assign unique DMAE channel number for FW DMAE transactions.
+497b7ca0f928 batman-adv: Expand merged fragment buffer for full packet
+0cd96c4f11ad can: rcar_can: Fix erroneous registration
+0ebb9269a4ca iommu/ipmmu-vmsa: Fix crash on early domain free
+96915a2ffb54 iommu/vt-d: Fix NULL pointer dereference in prq_event_thread()
+43daa3c4d1d7 usb: gadget: dummy: fix nonsensical comparisons
+af70fc347ff2 mm: mlock: avoid increase mm->locked_vm on mlock() when already mlock2(,MLOCK_ONFAULT)
+78b572c9e3a1 mm: cleancache: fix corruption on missed inode invalidation
+4d0afb8b19aa arc: [devboards] Add support of NFSv3 ACL
+d473a00bd808 ARC: change defconfig defaults to ARCv2
+f43cae2c898c Btrfs: fix use-after-free when dumping free space
+8732a2f41c44 btrfs: Always try all copies when reading extent buffers
+da74d33b14b1 Input: elan_i2c - add support for ELAN0621 touchpad
+47c89da26420 Input: elan_i2c - add ACPI ID for Lenovo IdeaPad 330-15ARR
+38c63d520e77 Input: elan_i2c - add ELAN0620 to the ACPI table
+deae2217000b Input: matrix_keypad - check for errors from of_get_named_gpio()
+f8414669ce46 Input: xpad - quirk all PDP Xbox One gamepads
+0c4da5d2b0d5 leds: leds-gpio: Fix return value check in create_gpio_led()
+5e946ed3c55c leds: turn off the LED and wait for completion on unregistering LED class device
+c5cc3e038d08 leds: call led_pwm_set() in leds-pwm to enforce default LED_OFF
+5403677a46a8 kgdboc: Fix warning with module build
+fa8d814aba4a kgdboc: Fix restrict error
+81ff3e2f640f scsi: csiostor: Avoid content leaks and casts
+0d980b7e4ec0 ALSA: trident: Suppress gcc string warning
+225849e9af66 scsi: scsi_devinfo: cleanly zero-pad devinfo strings
+3e68cbae89b4 drm/ast: Fix incorrect free on ioregs
+fb68afd24a74 mips: fix mips_get_syscall_arg o32 check
+c18ce9df18a9 MIPS: ralink: Fix mt7620 nd_sd pinmux
+c9271209b65f uprobes: Fix handle_swbp() vs. unregister() + register() race once more
+def709914dc1 iser: set sector for ambiguous mr status errors
+e1885163d598 kdb: use memmove instead of overlapping memcpy
+e6b59ae29673 staging: rts5208: fix gcc-8 logic error warning
+a7118a1c94b5 scsi: bfa: convert to strlcpy/strlcat
+afa648ba16ad drm: gma500: fix logic error
+44cf1d4ac67d ip_tunnel: Fix name string concatenate in __ip_tunnel_create()
+d97f4a50d18f kernfs: Replace strncpy with memcpy
+37370fadd2da unifdef: use memcpy instead of strncpy
+204a765ede26 kobject: Replace strncpy with memcpy
+62ff5946acc0 disable stringop truncation warnings for now
+2ac36cc66cb5 exec: avoid gcc-8 warning for get_task_comm
+5b8cc5886e46 Kbuild: suppress packed-not-aligned warning for default setting only
+1cbec2e9d28e misc: mic/scif: fix copy-paste error in scif_create_remote_lookup
+1ddbdbd3292d usb: core: quirks: add RESET_RESUME quirk for Cherry G230 Stream series
+9398e4209c94 USB: usb-storage: Add new IDs to ums-realtek
+fed44f079c1c btrfs: release metadata before running delayed refs
+d27f779782a4 dmaengine: at_hdmac: fix module unloading
+ec3eeb34d33a dmaengine: at_hdmac: fix memory leak in at_dma_xlate()
+89ed5b72e559 ext2: fix potential use after free
+4d5f99ec00b7 ALSA: sparc: Fix invalid snd_free_pages() at error path
+73f607aca15a ALSA: control: Fix race between adding and removing a user element
+a71ca61fe5fe ALSA: ac97: Fix incorrect bit shift at AC97-SPSA control write
+b307c96b7fc5 ALSA: wss: Fix invalid snd_free_pages() at error path
+e3fc2151d73f Btrfs: ensure path name is null terminated at btrfs_control_ioctl
+327242a4bc24 xtensa: fix coprocessor context offset definitions
+c8e13044beb3 xtensa: enable coprocessors that are being flushed
+c931360be683 kvm: mmu: Fix race in emulated page table writes
+f61ebb6bd71b usbnet: ipheth: fix potential recvmsg bug and recvmsg bug 2
+6ae0dc6c068d s390/qeth: fix length check in SNMP processing
+9ab8f8cb2615 rapidio/rionet: do not free skb before reading its length
+494fedded2d6 Revert "wlcore: Add missing PM call for wlcore_cmd_wait_for_event_or_timeout()"
+4de120cba4ed media: em28xx: Fix use-after-free when disconnecting
+
+=======================
+     12-12-2018
+=======================
+
+
+=======================
+     12-11-2018
+=======================
+
+
+   * kernel/xiaomi/sdm660/
+04abe9d5c4f1 sdm660:defconfig: enable CONFIG_NETFILTER_XT_TARGET_HL for TTL
+e2a9e824bbef Merge tag '245b6ad15dc692fd6436bb721db01997feb7440a' into cr-7.0
+963d65200dd2 Merge tag '9d893be7732673657fdcc16795a63ffdde04683b' into cr-7.0
+13c53b678004 Merge tag 'a2b872644add377a5d5c1c6fe77cd642ea795eb1' into cr-7.0
+29b82898d101 Merge tag 'LA.UM.7.2.r1-05500-sdm660.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.4 into cr-7.0
+143b3329a7ef msm: qpnp-haptic: Process haptics asynchronously
+7083f1bfd881 sdm660: dts: Add jasmine dtb for supporting miui pie release
+
+   * repo/local_manifest/
+5de6771 PE manifest
+f73015b fix
+f5d7d9b PixelExp
+18f1078 crandroid
+d565c96 LineageOS 16
+
