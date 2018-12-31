@@ -1193,8 +1193,8 @@
       "codename":"tulip",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
+            "version_code":"pie",
+            "version_name":"Pie",
             "maintainer_name":"Saksham",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866"
          }
