@@ -11,6 +11,7 @@ Device specific:
 - Kernel switched to KernelX again
 - CFQ as the default I/O to reduce lags and/or improve perfomance
 - Lastest LOS changes that I couldn't remember
+- NFC Fixed
 - WFD Fixed
 
 Minimum firmware: 8.11.8
