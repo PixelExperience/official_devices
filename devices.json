@@ -792,7 +792,8 @@
             "version_name":"Pie",
             "maintainer_name":"",
             "maintainer_url":"",
-            "xda_thread":""
+            "xda_thread":"",
+            "deprecated":true
          },
          {
             "version_code":"oreo",
