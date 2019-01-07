@@ -16,7 +16,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064"
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064",
+            "deprecated":true
          }
       ]
    },
@@ -37,7 +38,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Nikhil (@im_nikhil)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6724943",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3723382",
+            "deprecated":true
          }
       ]
    },
@@ -72,7 +74,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Shubham Bhise (shubhambhise)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7666467",
-            "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515"
+            "xda_thread":"https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3722515",
+            "deprecated":true
          }
       ]
    },
@@ -93,7 +96,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
-            "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110"
+            "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-t3704110",
+            "deprecated":true
          }
       ]
    },
@@ -114,7 +118,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Akash Srivastava (markakash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897"
+            "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t3729897",
+            "deprecated":true
          }
       ]
    },
@@ -171,7 +176,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Sumit Kumar (imsk_17)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7754137",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3813492"
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3813492",
+            "deprecated":true
          }
       ]
    },
@@ -199,14 +205,16 @@
             "version_name":"Oreo",
             "maintainer_name":"Subins Mani",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443",
+            "deprecated":true
          },
          {
             "version_code":"oreo_go",
             "version_name":"Oreo (GO edition)",
             "maintainer_name":"Subins Mani",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443"
+            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443",
+            "deprecated":true
          }
       ]
    },
@@ -218,9 +226,7 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "maintainer_name":"Hritik Utekar (HK)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7560545",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3808347"
+            "deprecated":true
          }
       ]
    },
@@ -234,7 +240,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Shiva Teja Peddi (shivatejapeddi)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6268432",
-            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990"
+            "xda_thread":"https://forum.xda-developers.com/le-max-2/development/rom-pixel-experience-t3734990",
+            "deprecated":true
          }
       ]
    },
@@ -247,7 +254,8 @@
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"BabluS",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987"
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987",
+            "deprecated":true
          }
       ]
    },
@@ -268,7 +276,8 @@
             "version_name":"Oreo",
             "maintainer_name":"@ki",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7598239",
-            "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718"
+            "xda_thread":"https://forum.xda-developers.com/g4-play/development/8-1-0r4-pixel-experience-t3733718",
+            "deprecated":true
          }
       ]
    },
@@ -289,7 +298,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Sebastian (Dzienny)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7273765",
-            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574"
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3744574",
+            "deprecated":true
          }
       ]
    },
@@ -310,7 +320,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3784672"
+            "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3784672",
+            "deprecated":true
          }
       ]
    },
@@ -331,7 +342,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3784671"
+            "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3784671",
+            "deprecated":true
          }
       ]
    },
@@ -352,7 +364,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Vimal Raj (Vimalraj1)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7116412",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095"
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3738095",
+            "deprecated":true
          }
       ]
    },
@@ -378,14 +391,16 @@
             "version_name":"Pie",
             "maintainer_name":"Verevka",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
-            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
+            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994",
+            "deprecated":true
          },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Verevka",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
-            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
+            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994",
+            "deprecated":true
          }
       ]
    },
@@ -413,14 +428,16 @@
             "version_name":"Oreo",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890",
+            "deprecated":true
          },
          {
             "version_code":"oreo_go",
             "version_name":"Oreo (GO edition)",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890"
+            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3749890",
+            "deprecated":true
          }
       ]
    },
@@ -441,7 +458,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Riki (Roybabu)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7578936",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230"
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3754230",
+            "deprecated":true
          }
       ]
    },
@@ -462,7 +480,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969",
+            "deprecated":true
          }
       ]
    },
@@ -483,7 +502,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969",
+            "deprecated":true
          }
       ]
    },
@@ -504,7 +524,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969",
+            "deprecated":true
          }
       ]
    },
@@ -525,7 +546,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Javi (J_viix)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969"
+            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3827969",
+            "deprecated":true
          }
       ]
    },
@@ -539,7 +561,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Rafael Marchetto (marchetto96)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7366109",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3799398"
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3799398",
+            "deprecated":true
          }
       ]
    },
@@ -560,7 +583,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
-            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388"
+            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3745388",
+            "deprecated":true
          }
       ]
    },
@@ -581,7 +605,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
-            "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
+            "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950",
+            "deprecated":true
          }
       ]
    },
@@ -602,7 +627,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Aaron Randelman (sooti)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=4460995",
-            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500"
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-19-03-18-t3765500",
+            "deprecated":true
          }
       ]
    },
@@ -623,7 +649,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3816099"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3816099",
+            "deprecated":true
          }
       ]
    },
@@ -642,7 +669,8 @@
          {
             "version_code":"oreo",
             "version_name":"Oreo",
-            "maintainer_name":"Luiz H. (SanicM2)"
+            "maintainer_name":"Luiz H. (SanicM2)",
+            "deprecated":true
          }
       ]
    },
@@ -655,28 +683,8 @@
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"El Dainosor",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6062450"
-         }
-      ]
-   },
-   {
-      "name":"System Image",
-      "brand":"Generic",
-      "codename":"treble_gsi",
-      "supported_versions":[
-         {
-            "version_code":"oreo_arm64_a",
-            "version_name":"Oreo ARM64 A",
-            "maintainer_name":"Henrique Silva",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011"
-         },
-         {
-            "version_code":"oreo_arm64_ab",
-            "version_name":"Oreo ARM64 A/B",
-            "maintainer_name":"Henrique Silva",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread":"https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011"
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6062450",
+            "deprecated":true
          }
       ]
    },
@@ -690,7 +698,8 @@
             "version_name":"Oreo (GO edition)",
             "maintainer_name":"Sushant Kumar",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7554460",
-            "xda_thread":"https://forum.xda-developers.com/moto-e/development/rom-pixel-experience-t3798365"
+            "xda_thread":"https://forum.xda-developers.com/moto-e/development/rom-pixel-experience-t3798365",
+            "deprecated":true
          }
       ]
    },
@@ -704,7 +713,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Shaik Jaleel (iamsj7)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/lenovo-a6000/development/rom-pixel-experience-t3800270"
+            "xda_thread":"https://forum.xda-developers.com/lenovo-a6000/development/rom-pixel-experience-t3800270",
+            "deprecated":true
          }
       ]
    },
@@ -723,7 +733,8 @@
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"SunnyRaj (sunnyraj84348)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983"
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983",
+            "deprecated":true
          }
       ]
    },
@@ -737,7 +748,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Alexander Brunswig (NurKeinNeid)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5974762",
-            "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3802848"
+            "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3802848",
+            "deprecated":true
          }
       ]
    },
@@ -751,7 +763,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Vivek Biswas (V_v3k)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5151940",
-            "xda_thread":"https://forum.xda-developers.com/mi-max-2/development/rom-pixel-experience-t3790553"
+            "xda_thread":"https://forum.xda-developers.com/mi-max-2/development/rom-pixel-experience-t3790553",
+            "deprecated":true
          }
       ]
    },
@@ -765,7 +778,8 @@
             "version_name":"Oreo",
             "maintainer_name":"king",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7377440",
-            "xda_thread":"https://forum.xda-developers.com/nexus-6/development/rom-t3801383"
+            "xda_thread":"https://forum.xda-developers.com/nexus-6/development/rom-t3801383",
+            "deprecated":true
          }
       ]
    },
@@ -779,7 +793,8 @@
             "version_name":"Oreo",
             "maintainer_name":"MkfsSion",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8062400",
-            "xda_thread":"https://forum.xda-developers.com/redmi-2/development/rom-pixel-experience-t3811285"
+            "xda_thread":"https://forum.xda-developers.com/redmi-2/development/rom-pixel-experience-t3811285",
+            "deprecated":true
          }
       ]
    },
@@ -801,7 +816,8 @@
             "version_name":"Oreo",
             "maintainer_name":"amog787",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8950490",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3823232"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3823232",
+            "deprecated":true
          }
       ]
    },
@@ -815,7 +831,8 @@
             "version_name":"Oreo",
             "maintainer_name":"eccko",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9015163",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-s4/i9506-develop/rom-pixel-experience-t3821730"
+            "xda_thread":"https://forum.xda-developers.com/galaxy-s4/i9506-develop/rom-pixel-experience-t3821730",
+            "deprecated":true
          }
       ]
    },
@@ -828,7 +845,8 @@
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"SivAs1234, Bharath Raju",
-            "xda_thread":"https://forum.xda-developers.com/k6-power/development/rom-karate-t3837059"
+            "xda_thread":"https://forum.xda-developers.com/k6-power/development/rom-karate-t3837059",
+            "deprecated":true
          }
       ]
    },
@@ -847,7 +865,8 @@
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"EnesSastim",
-            "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005"
+            "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005",
+            "deprecated":true
          }
       ]
    },
@@ -861,7 +880,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Aswin A S",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8499818",
-            "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixel-experience-august-t3833198"
+            "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-pixel-experience-august-t3833198",
+            "deprecated":true
          }
       ]
    },
@@ -909,7 +929,8 @@
             "version_name":"Oreo",
             "maintainer_name":"PIPIPIG233666(孔维楷)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
-            "xda_thread":""
+            "xda_thread":"",
+            "deprecated":true
          }
       ]
    },
@@ -1059,7 +1080,8 @@
             "version_name":"Oreo",
             "maintainer_name":"Shreejoy Dash (Shreejoy Dash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8338700",
-            "xda_thread":""
+            "xda_thread":"",
+            "deprecated":true
          }
       ]
    },
