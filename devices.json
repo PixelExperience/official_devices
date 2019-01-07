@@ -142,14 +142,15 @@
             "version_name":"Pie",
             "maintainer_name":"Nicholas (lankthedank)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8636313",
-            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3876045"
+            "xda_thread":""
          },
          {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Keertesh",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7686545",
-            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658"
+            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3736658",
+            "deprecated":true
          }
       ]
    },
