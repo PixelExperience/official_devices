@@ -1203,9 +1203,9 @@
       ]
    },
    {
-      "name":"Mi Max",
+      "name":"Redmi note 3 pro",
       "brand":"Xiaomi",
-      "codename":"hydrogen",
+      "codename":"Kenzo",
       "supported_versions":[
          {
             "version_code":"pie",
