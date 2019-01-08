@@ -1240,7 +1240,7 @@
       ]
    },
    {
-            "name":"Motorola Moto G5",
+      "name":"Moto G5",
       "brand":"Motorola",
       "codename":"cedric",
       "supported_versions":[
@@ -1253,4 +1253,4 @@
          }
       ]
    }
- ] 
+]
