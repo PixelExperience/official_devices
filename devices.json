@@ -1238,5 +1238,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267"
          }
       ]
+   },
+   {
+      "name":"Moto G5",
+      "brand":"Motorola",
+      "codename":"cedric",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Zilberto Junior (ZJRDroid)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7233293",
+            "xda_thread":""
+         }
+      ]
    }
 ]
