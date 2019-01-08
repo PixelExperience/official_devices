@@ -189,16 +189,16 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Subins Mani",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
+            "maintainer_name":"Kley76",
+            "maintainer_url":"https://github.com/kley76",
+            "xda_thread":""
          },
          {
             "version_code":"pie_go",
             "version_name":"Pie (GO edition)",
-            "maintainer_name":"Subins Mani",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-            "xda_thread":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3830618"
+            "maintainer_name":"Kley76",
+            "maintainer_url":"https://github.com/kley76",
+            "xda_thread":""
          },
          {
             "version_code":"oreo",
