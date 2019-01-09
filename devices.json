@@ -1255,6 +1255,20 @@
       ]
    },
    {
+      "name":"Swift",
+      "brand":"Wileyfox",
+      "codename":"crackling",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Dev4Perf",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7865714",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
       "name":"Mi 8 Lite",
       "brand":"Xiaomi",
       "codename":"platina",
