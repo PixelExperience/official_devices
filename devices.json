@@ -1256,7 +1256,14 @@
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Zilberto Junior (ZJRDroid)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7233293",
+            "maintainer_url":"https://github.com/ZJRDroid",
+            "xda_thread":""
+          },
+         {
+            "version_code":"pie_go",
+            "version_name":"Pie (GO edition)",
+            "maintainer_name":"Zilberto Junior (ZJRDroid)",
+            "maintainer_url":"https://github.com/ZJRDroid",
             "xda_thread":""
          }
       ]
