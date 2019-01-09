@@ -1,42 +1,42 @@
-{
-   "oreo":[
-      {
+{  
+   "oreo":[  
+      {  
          "file_name":"PixelExperience_osprey-8.1.0-20180912-1021-OFFICIAL.zip",
          "file_size":637678650,
          "md5":"6878d4f7b1e53dbdabdc3c638efb255c"
       }
    ],
-   "oreo_go":[
-      {
+   "oreo_go":[  
+      {  
          "file_name":"PixelExperience_go_osprey-8.1.0-20180912-1241-OFFICIAL.zip",
          "file_size":439865766,
          "md5":"da629f8ff14125c68600531faa1ebbae"
       }
    ],
-   "pie":[
-      {
+   "pie":[  
+      {  
          "file_name":"PixelExperience_osprey-9.0-20180818-1313-OFFICIAL.zip",
          "file_size":717060987,
          "md5":"0d9ecc8a687fd7530efce68fd3f45ae7"
       },
-      {
+      {  
          "file_name":"PixelExperience_osprey-9.0-20181022-0941-OFFICIAL.zip",
          "file_size":753189102,
          "md5":"fc167332e4c9cbca9f4f3430125b161b"
       },
-      {
+      {  
          "file_name":"PixelExperience_osprey-9.0-20181107-0355-OFFICIAL.zip",
          "file_size":754757917,
          "md5":"5c4c96c242beeaadd4fbceec05d832d2"
-	  },
-      {
+      },
+      {  
          "file_name":"PixelExperience_osprey-9.0-20190109-1538-OFFICIAL.zip",
          "file_size":791586227,
          "md5":"11b0d96c19beacf5ec68ee126372cae6"
       }
    ],
-   "pie_go":[
-      {
+   "pie_go":[  
+      {  
          "file_name":"PixelExperience_go_osprey-9.0-20180818-1612-OFFICIAL.zip",
          "file_size":541703723,
          "md5":"0363a50ca79815da737fd2d181e2a7f3"
