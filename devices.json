@@ -1253,13 +1253,13 @@
             "xda_thread":""
          }
       ]
-	},
-	{
+   },
+   {
       "name":"Mi 8 Lite",
       "brand":"Xiaomi",
       "codename":"platina",
       "supported_versions":[
-		 {
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Bruno Rochaa (brunorochaa)",
