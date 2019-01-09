@@ -1253,5 +1253,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Wileyfox Swift",
+      "brand":"Wileyfox",
+      "codename":"crackling",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Dev4Perf",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7865714",
+            "xda_thread":""
+         }
+      ]
    }
 ]
