@@ -1,0 +1,5 @@
+Source has been updated with following changes:
+* January security patch
+* Gapps updated
+* Translations updated
+* Several bug fixes
