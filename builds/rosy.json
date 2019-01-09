@@ -1,11 +1,6 @@
 {
    "oreo":[
       {
-         "file_name":"PixelExperience_rosy-8.1.0-20181103-1736-OFFICIAL.zip",
-         "file_size":879148004,
-         "md5":"2ed9138301b99f33de29ed084dc2db26"
-      },
-      {
          "file_name":"PixelExperience_rosy-8.1.0-20181104-1645-OFFICIAL.zip",
          "file_size":851752085,
          "md5":"07ae2309f3cd73d0b3225e2ad808396c"
@@ -31,6 +26,18 @@
          "file_name":"PixelExperience_rosy-9.0-20190102-0704-OFFICIAL.zip",
          "file_size":1018758866,
          "md5":"e999fcf9f31f972cd016e2e4ca845532"
+      },
+      {
+         "file_name":"PixelExperience_rosy-9.0-20190109-1556-OFFICIAL.zip",
+         "file_size":962870555,
+         "md5":"639bc75093415fc2718b718c46c84d93"
+      }
+   ],
+   "pie_go":[
+      {
+         "file_name":"PixelExperience_go_rosy-9.0-20190109-1331-OFFICIAL.zip",
+         "file_size":720221566,
+         "md5":"8821e873233da96cb7b55e2d69959c83"
       }
    ]
 }
