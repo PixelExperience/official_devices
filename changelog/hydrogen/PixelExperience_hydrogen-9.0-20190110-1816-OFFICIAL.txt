@@ -1,5 +1,7 @@
 HYDROGEN:-
-* Bugless(Except Enforcing)
+*BUGS:- 
+**(Enforcing)
+------------------------------
 * January security patch
 * Gapps updated
 * Translations updated
