@@ -1,0 +1,2 @@
+- Support Alipay fingerprint payment 
+- aptx fixed
