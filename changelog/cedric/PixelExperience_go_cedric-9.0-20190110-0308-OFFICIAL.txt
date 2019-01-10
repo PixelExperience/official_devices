@@ -1,0 +1,5 @@
+- First build of Pie Go Edition
+- Camera2 by default
+- Device tree updated
+- January Security patch
+- VoLTE fixed
