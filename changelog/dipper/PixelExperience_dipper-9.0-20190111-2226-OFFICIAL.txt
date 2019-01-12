@@ -1,0 +1,13 @@
+PixelExperience:
+
+- January security patch (9.0.0_r30)
+- Gapps updated
+- Translations updated
+- Several bug fixes
+
+Device Specific:
+
+- Cutout bug fixed
+- XiaomiDoze converted into XiaomiParts
+- Some AOD changes due XiaomiParts conversion
+- Lastest LOS changes that I couldn't remember
