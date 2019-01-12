@@ -10,4 +10,7 @@ Device Specific:
 - Cutout bug fixed
 - XiaomiDoze converted into XiaomiParts
 - Some AOD changes due XiaomiParts conversion
+- Enabled Burn-in Protection
 - Lastest LOS changes that I couldn't remember
+
+Minimum firmware: 8.11.15
