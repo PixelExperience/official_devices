@@ -13,17 +13,7 @@
          "md5":"da629f8ff14125c68600531faa1ebbae"
       }
    ],
-   "pie":[  
-      {  
-         "file_name":"PixelExperience_osprey-9.0-20180818-1313-OFFICIAL.zip",
-         "file_size":717060987,
-         "md5":"0d9ecc8a687fd7530efce68fd3f45ae7"
-      },
-      {  
-         "file_name":"PixelExperience_osprey-9.0-20181022-0941-OFFICIAL.zip",
-         "file_size":753189102,
-         "md5":"fc167332e4c9cbca9f4f3430125b161b"
-      },
+   "pie":[
       {  
          "file_name":"PixelExperience_osprey-9.0-20181107-0355-OFFICIAL.zip",
          "file_size":754757917,

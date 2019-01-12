@@ -1,19 +1,14 @@
 {
    "pie":[
       {
-         "file_name":"PixelExperience_s2-9.0-20181206-0614-OFFICIAL.zip",
-         "file_size":998156523,
-         "md5":"6497e03e11c893da9a10cf28fe67bf95"
+         "file_name":"PixelExperience_s2-9.0-20181224-1720-OFFICIAL.zip",
+         "file_size":1000741864,
+         "md5":"aee3fc4dc8ef6f01e609002b8affb7cf"
       },
       {
-  	 "file_name":"PixelExperience_s2-9.0-20181224-1720-OFFICIAL.zip",
-  	 "file_size":1000741864,
-   	 "md5":"aee3fc4dc8ef6f01e609002b8affb7cf"
-      },
-      {
-   	 "file_name":"PixelExperience_s2-9.0-20190108-1739-OFFICIAL.zip",
-   	 "file_size":1023845062,
-   	 "md5":"99da04f67acff003a706e3c4b52bce15"
+         "file_name":"PixelExperience_s2-9.0-20190108-1739-OFFICIAL.zip",
+         "file_size":1023845062,
+         "md5":"99da04f67acff003a706e3c4b52bce15"
       }
    ]
 }
