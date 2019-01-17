@@ -1192,20 +1192,6 @@
       ]
    },
    {
-      "name":"Honor View 10",
-      "brand":"Huawei",
-      "codename":"berkeley",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"David Sn (Codebucket)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7339792",
-            "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008"
-         }
-      ]
-   },
-   {
       "name":"Mi A2",
       "brand":"Xiaomi",
       "codename":"jasmine",
