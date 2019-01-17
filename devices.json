@@ -1288,5 +1288,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3889826"
          }
       ]
+   },
+   {
+      "name":"Moto E 2015 (LTE)",
+      "brand":"Motorola",
+      "codename":"surnia",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"ElDainosor",
+            "maintainer_url":"https://github.com/eldainosor",
+            "xda_thread":""
+         }
+      ]
    }
 ]
