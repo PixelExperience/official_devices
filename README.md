@@ -7,31 +7,31 @@ Before you open a pull request to add your device into our list of official devi
 
 ### 1. To turn into a maintainer of PixelExperience:
 
-1 - You must have a way to check your builds, on your own way, having the device, or send the builds for someone test. Completely blind and/or untested builds aren't allowed.
+1.2 - You must have a way to check your builds, on your own way, having the device, or send the builds for someone test. Completely blind and/or untested builds aren't allowed.
 
-2 - Appliers that comproved have the device, will have the preference on taking the maintainship.
+1.3 - Appliers that comproved have the device, will have the preference on taking the maintainship.
 
-3 - You must have knowledge of git.
+1.4 - You must have knowledge of git.
 
-4 - You must do an unofficial build and make the device stable for daily usage before applying.
+1.5 - You must do an unofficial build and make the device stable for daily usage before applying.
 
-5 - You should have your device sources open for us take a look.
+1.6 - You should have your device sources open for us take a look.
 
-6 - You mustn't be a placeholder of another maintainer that was removed. The pull request that are considered of that kind won't be accepted.
+1.7 - You mustn't be a placeholder of another maintainer that was removed. The pull request that are considered of that kind won't be accepted.
 
 ### 2. Maintainers conduct notes:
 
-1 - The maintainers mustn't do any unofficial modifications, except if they're going to push it/them for acceptance on our Gerrit (https://gerrit.pixelexperience.org).
+2.2 - The maintainers mustn't do any unofficial modifications, except if they're going to push it/them for acceptance on our Gerrit (https://gerrit.pixelexperience.org).
 
-2 - The maintainers should upload theirs trees on https://github.com/PixelExperience-Devices
+2.3 - The maintainers should upload theirs trees on https://github.com/PixelExperience-Devices
 
-3 - The maintainers should test every update before upload in our OTA.
+2.4 - The maintainers should test every update before upload in our OTA.
 
-4 - The maintainers must keep the authorship of Git commits on everything that they'll make a change, even it's your device tree, kernel or ROM sources. Lots of git commit --amend and force-pushes are acceptable.
+2.5 - The maintainers must keep the authorship of Git commits on everything that they'll make a change, even it's your device tree, kernel or ROM sources. Lots of git commit --amend and force-pushes are acceptable.
 
-5 - Relationships fights can be done in PM on Telegram or XDA. 
+2.6 - Relationships fights can be done in PM on Telegram or XDA. 
 
-6 - The maintainers also need to add 'export CUSTOM_BUILD_TYPE=OFFICIAL' in their build environment so OTA app will be included.
+2.7 - The maintainers also need to add 'export CUSTOM_BUILD_TYPE=OFFICIAL' in their build environment so OTA app will be included.
 
 ### 3. Hosting
 
