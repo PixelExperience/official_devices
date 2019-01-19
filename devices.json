@@ -1026,6 +1026,7 @@
             "maintainer_name":"Bruno Rocha (brunorochaa)",
             "maintainer_url":"https://t.me/brunorochaa",
             "xda_thread":"https://forum.xda-developers.com/z2-play/development/rom-pixel-experience-t3859477"
+            "deprecated":true
          }
       ]
    },
