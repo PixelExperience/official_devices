@@ -1302,5 +1302,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3889826"
          }
       ]
+   },
+   {
+      "name":"Yuphoria",
+      "brand":"YU",
+      "codename":"lettuce",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Adithya R (ghostrider-reborn)",
+            "maintainer_url":"https://t.me/ghostrider_reborn",
+            "xda_thread":""
+         }
+      ]
    }
 ]
