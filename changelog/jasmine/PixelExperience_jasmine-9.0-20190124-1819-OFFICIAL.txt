@@ -1,0 +1,698 @@
+=======================
+     01-24-2019
+=======================
+
+
+   * device/xiaomi/jasmine/
+37b14a1 increase incall volume lilbit
+92c6489 jasmine : update sensors file to jasmine 10.0.3.0.PDIMIXM
+4fa6f98 jasmine : update fingerprint
+e1b421e jasmine : bump vendor security patch to 2019-01-01
+ea99d60 jasmine : more overlay updates from stock
+10632fa jasmine : update brightness overlay from stock
+84cfb0f jasmine: audio: Remove support for MMAP IRQ mode streams
+5daaa70 jasmine : manifest : add vendor.qti.data.factory
+166d397 jasmine : squashed changes *update vendor security patch *update props *update manifest to stock pie
+
+   * kernel/xiaomi/sdm660/
+92c2f74fdc00 Revert "msm: camera: isp: Handle frame drop due to delay   "
+80287a1b144f msm: kgsl: Report correct GPU frequency in sysfs
+ddf9b7978c41 sdm660: haptic: revert back to old qpnp haptic driver
+
+   * repo/local_manifest/
+ee25602 upd
+
+   * vendor/xiaomi/jasmine/
+b76ef53 proprietary: Add perf profile.
+d975780 update qti_libpermissions
+37057e9 jasmine : update listen blobs
+74aa040 jasmine : update gps blobs
+90ba18a update cne blobs
+
+=======================
+     01-23-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+fd8d484 rootdir update from jasmine
+614207b upd
+39b6315 upd
+beefa60 remove unused sensors service
+4432403 fix my derp
+14e5e0a sdm660: spectrum: Improve CPU settings based on jason values
+a8bf20d cleanup init target
+3e11733 update rootdir from jasmine
+
+   * vendor/xiaomi/jasmine/
+21ad2f6 Revert "remove unused ant+ blobs"
+d71aacb add more camera firmwares
+062e033 remove unused ant+ blobs
+054e773 update sdm blobs
+0ecc5e6 update firmware
+9199a07 update drm blobs
+ffe0e71 update Bluetooth blobs
+a88364f update Audio ACDB blobs
+8eebcaf update ADSP and ADSP modules from jasmine
+47ae947 update perf blobs
+6f4c49d update Postprocessing blobs
+0079208 update Peripheral manager blobs
+9b74608 jasmine : update thermal blobs
+484afe2 jasmine : update graphics blobs
+dfb3cd3 update time service blobs
+c706f83 update wifi blobs
+9bec757 jasmine update drm widevine libs
+d3affc4 jasmine : update sensors lib to jasmine 10.0.3.0.PDIMIXM
+c2d18c9 jasmine : update drm , drm widevine , gatekeeper , keystore libs from xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.3.0.PDIMIXM:user/release-keys
+45f9eff jasmine : update camera libs from xiaomi/jasmine/jasmine_sprout:9/PKQ1.180904.001/V10.0.3.0.PDIMIXM:user/release-keys
+
+=======================
+     01-22-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+9a40939 sdm660 : add more camera impl
+44dc281 sdm660 : build libvulkan , camera.device@1.0-impl
+186fd70 sdm660 : enable TARGET_USES_QTI_CAMERA_DEVICE
+
+   * frameworks/base/
+31284effcc1 fwb: Fix animation issue when opening Messaging app
+d21a16e79e2 Reload assets on overlay change: code improvements
+7d8aeb98365 Notifications: Do not use theme context for remote views
+2d38c21ae32 Improvements in loading notifications with dark mode
+a83db3c012a Reload more assets on overlay change
+4c8f743c855 Add support for theming notifications
+f347a099488 Expose notification info text color
+930414d2715 Themes: Remove color spans when using config_useDarkBgNotificationIconTinting
+fe559f7372b Themes: add bool to optimize notification icon colors on dark backgrounds
+151cc49c858 Themes: Expose notification icon colors
+8e1f9ae7a56 Revert old notifications theming commits
+
+   * vendor/gapps/
+3570eef Remove GoogleCalendarSyncAdapter
+
+   * vendor/themes/
+5fc2693 Change notifications theming overlays
+
+   * vendor/xiaomi/jasmine/
+6eb3412 Merge branch 'los-16.0-new' of https://github.com/xiaomi-sdm660/android_vendor_xiaomi_jasmine into los-16.0-new
+2533db5 jasmine : update miuicamera device_features from stock camera
+90220a1 fixup writespaces
+a511bdb jasmine : add some missing camera libs
+
+=======================
+     01-21-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+bf40f5b sdm660 : remove duplicate in init.target
+ef2e7c9 sdm660: Remove implicitly built QTI camera shared libraries
+
+   * frameworks/base/
+235af4e1526 Separate global actions theme from qs
+c9e2c515284 Dark theme: Fix notification channel info text color
+
+   * kernel/xiaomi/sdm660/
+1d3bef4d9af6 jasmine : drop jasmine camera sensor and use common driver
+
+   * packages/apps/Settings/
+ce57cbfb95 StorageSummaryPreference: Nuke hardcoded color
+
+   * vendor/themes/
+4a83dfa Use dark theme on global actions/volume panel
+aefce0c Thematize QS and notifications like Android Q
+
+   * vendor/xiaomi/jasmine/
+d9ce295 jasmine : remove unused camera blobs
+
+=======================
+     01-20-2019
+=======================
+
+
+   * build/make/
+433949dca Merge "build: Remove some debugging props" into pie
+
+   * device/xiaomi/sdm660-common/
+e95339d sdm660 : remove duplicate prop
+fe361f3 sdm660 : update fstab from stock p
+0e408f4 sdm660 : cleanup and update overlay from jasmine pie
+
+   * frameworks/base/
+f2d6451dcfa Do not use theme context in notifications for remote views
+f92b773761b Reload assets on overlay change: code improvements
+1455895fbfe Reload more assets on overlay change
+79a665a8b07 Expose a bool to tint notification app name
+dd90b5f0ed5 Add bool to enable algorithm for dark backgrounds
+422876a029a Notification dynamic colors bool compatible with OMS7
+4b269f919fa Expose a bool to disable dynamic colors
+38039484447 Fix notification overlay config
+f1e32d6cdf3 Add support for theming notifications
+
+   * hardware/qcom/power/
+75e7a3a power: Kill "Failed to acquire lock" log
+
+   * packages/apps/DocumentsUI/
+01fa2e1e Theme improvements
+
+   * packages/apps/SettingsIntelligence/
+5830b6e Fix dark style issues
+
+   * vendor/pixelstyle/
+8d81caf Update SoundPickerPrebuilt
+
+   * vendor/themes/
+267e6c4 Fix the legacy color icons
+0e15f81 Theme dark notifications
+550e154 Fix notification overlay config
+3efca22 Fix keyboard shortcut item color
+cf09d7e themes: Update system overlays from fwb
+
+=======================
+     01-19-2019
+=======================
+
+
+   * build/make/
+f7c898183 build: Remove some debugging props
+5fa25366c Don't build SysuiDarkThemeOverlay
+
+   * device/xiaomi/sdm660-common/
+2562737 i hate writespaces
+f3d8dc1 sdm660 : update light service
+ffdf106 sdm660 : cleanup light hal service
+4718c7f sdm660: fstab : drop resize flag and add reservedsize
+ad9dae7 sdm660: drop legacy prop
+314b152 sdm660 : cleanup biometrics service
+0b528e6 sdm660 : init : cleanup
+c47dc7a sdm660: gps: correct gps rc file name
+
+   * frameworks/base/
+2d984492926 fwb: Workaround to fix dark theme on Messaging app
+9b63d4c5417 fwb: Lock day night mode
+62d6262fdc4 DefaultPermissionGrantPolicy: grant Google sounds picker storage perms
+af7b4b185c6 base: fix mediascanner access permissions to external storage
+9c2544375b7 Automatic translation import
+1780de1af40 Volume panel: Do the same with less
+adc7774fa9f framework: Implement advanced restart
+0a459764005 Expose two target preference divider color
+a391bb83d20 Expose toast colors for themes
+87b786cf670 Expose autofill save dialog text color
+54ae1793d9a Fix autofill save dialog
+13a6ac828b8 Allow Immersive cling colors to be fully themed
+3e308d993b5 Themes: Allow Resolver List BG to be fully themed
+1479db31687 Make resolver list fully themeable
+d44a64e5a72 Themes: Expose resolver hardcoded colors
+6e33b60b30b Unload old SystemUI dark overlay
+1f86966d9ea SystemUI: Change dark theme overlays
+1901fabad0c fwb: Add ability to force show battery percentage inside icon
+
+   * hardware/qcom/display/
+329d459ba Make memtrack build with the VNDK.
+08b187682 Add missing includes.
+a2eefae27 libmemtrack: Add open method for msm8974.memtrack
+
+   * packages/apps/DocumentsUI/
+34de7424 Use white navbar for DocumentsUI as well
+b9e27226 DocumentsUI: Thematize navbar on dark theme
+1b3c02ed DocumentsUI: support night mode
+
+   * packages/apps/Settings/
+bf95c9ad47 Automatic translation import
+147bbfb55f Settings: Add advanced restart switch
+c550023943 Themes: Settings: Fix theming  zoom preview timestamp text color
+8152c0ef90 Now Playing History MD2 redesign
+2f2eb54eff Now playing history: Fix BG of entry dialog in Dark UI
+ed8d86934b Merge "Fix BT pairing dialog DarkUI theme issue" into pie
+ff96be346c Merge "Ensure AOSP theme selector doesn't rear its ugly head" into pie
+f989e9467b Merge "Give new life to reset buttons" into pie
+
+   * packages/apps/Updates/
+b88d57e Automatic translation import
+
+   * packages/providers/AmbientPlayHistoryProvider/
+67ec3f8 Automatic translation import
+
+   * packages/providers/DownloadProvider/
+98ed5bf Automatic translation import
+
+   * vendor/themes/
+ba2179e Theme volume panel's footer BG
+93b9a7e themes: Bring systemui theme
+37e0a7d themes: Set navigation bar color on package installer
+
+   * vendor/xiaomi/jasmine/
+c68b773 xiaomimeme blame part 2
+4a0e94b jasminememe : blame xiaomi .
+a8c92aa jasmine : add libs
+2114935 jasmine : add micam libs and blame xiaomi meme
+b1711d9 Update jasmine-vendor.mk
+9b84887 dont merge . add miui camera from mi a2 and add libs to get it working. for config thanks to @rcstar6696
+7ddbea8 drop more cam libs
+e9e0e25 jasmine : delete unused blob
+8f8a991 jasmine : drop unused libs
+dac5d3d jasmine : drop unused camera libs
+3ab06c9 jasmine : camera : fix missing libs update
+5d8cde7 jasmine : drop default fingerprint blob
+c1b5e68 update libicuuc-v27 and libminikin-v27
+
+=======================
+     01-18-2019
+=======================
+
+
+   * development/
+8e09e639b make-key: Enforce PBEv1 password-protected signing keys
+
+   * device/xiaomi/sdm660-common/
+77b6fec sdm660:build tone mapper and sdm core
+55d5e51 sdm660: adjust p2p configs and service
+6a8e80b sdm660: add qcom perm file
+f024b5d vendor-compatibility: Add factory hal 1.1
+fba42f8 steppe: Set property to indicate hardware version
+14d6e95 init.qcom.usb.sh: Simplify ESOC check
+fb63e46 post_boot: msm8937: Disable core_ctl for 8917
+b7206c3 Revert "post_boot: device mode notification to USB driver"
+941a2dd sdm660 : remove nonexist service
+a069819 set default lcd_density to 440
+a4f7c39 sdm660: Address perf HAL denials with boost enabled
+496a0c8 sdm660: Remove forced triple framebuffers
+95425c6 sdm660 : squashed changes.
+
+   * frameworks/base/
+45f7ed66a9c SystemUI: Fix flickering issue when live wallpaper is showing on aod/pulsing
+
+   * kernel/xiaomi/sdm660/
+6a7548763d1e Merge tag 'v4.4.171' of https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux
+4b3493d24506 i2c-msm-v2: allow i2c_adapter to retry on arbitration lost
+f60f99d23a35 Revert "serial: msm_serial_hs: Protect spurious irqs after wakeup irq enablement"
+9b863326d5c5 pinctrl: qcom: Add irq_enable callback for msm gpio
+ab838dde2747 msm: kgsl: Stop slab shrinker when no more pages can be reclaimed
+43c1af6bd8e0 Revert "f_fs: set maxburst to one before enabling endpoints"
+a3fe31be7624 dwc3: resize txfifo of IN/INT endpoint before enabling it
+a909788e7ac9 Revert "USB: set hub's default autosuspend delay as 0"
+e13a496ad8b1 Revert "usb: hub: Prevent hub autosuspend if usbcore.autosuspend is -1"
+1459fb2898be BACKPORT: usb: host: plat: Enable xHCI plat runtime PM
+e62b9a48ddcc ASoC: msm: q6dspv2: vote for Glink Rx thread priority upgrade
+fbfdc9f67876 soc: q6dspv2: add api to vote for upgrading thread priority
+db888504e4b0 Merge branch 'master' of https://github.com/xiaomi-sdm660/android_kernel_xiaomi_sdm660
+
+   * packages/apps/Settings/
+bf438159b5 Fix multi-sim dialog in RTL
+06a39698c4 Fix BT pairing dialog DarkUI theme issue
+962e306c7b Ensure AOSP theme selector doesn't rear its ugly head
+8ffffb1aee Give new life to reset buttons
+
+   * vendor/aosp/
+cfe66ccc vendor: Enable themes
+
+   * vendor/pixelstyle/
+3c8fc8b Conditionally ship old SoundPicker
+2b3cc06 Update MatchmakerPrebuilt
+
+   * vendor/themes/
+089d77c themes: Refactor
+
+   * vendor/xiaomi/jasmine/
+09d15f2 drop libsoftkeymaster.
+ca3e874 jasmine : possible goodix fix
+fd37f90 jasmine :  Update SDM blobs from LA.UM.7.4.r1-04100-8x98.0
+dfa30ab jasmine : squashed changes. *HUGE CLEANUP *Update drm ,gatekeeper,keymaster,audio,wdf,fingerprint,camera,cne,dpm,drm widevine
+
+=======================
+     01-17-2019
+=======================
+
+
+   * device/custom/sepolicy/
+dd6d06c common: Improve label of I/O sched tuning nodes
+bb389cc sepolicy: Address perf HAL denial with boost enabled
+
+   * frameworks/base/
+f7f230a9ef1 WallpaperManagerService: Report dark theme when battery saver is enabled
+37e2708b402 WeatherClient: Don't enforce READ_WEATHER permission
+
+   * hardware/qcom/display-caf/msm8974/
+33f3c20a9 Make memtrack build with the VNDK.
+5acc37c93 Add missing includes.
+e3737eeb3 libmemtrack: Add open method for msm8974.memtrack
+
+   * hardware/qcom/power/
+c2900e9 power: Build with with BOARD_VNDK_VERSION
+13ee524 power: Handle launch and interaction hints for perf HAL platforms
+c267a0e power: msm8937: Update power profile settings
+7ed6e86 power: Add specific powerhal for msm8937
+
+   * kernel/xiaomi/sdm660/
+c5feba4358ed Linux 4.4.171
+9615b6aeccbf sunrpc: use-after-free in svc_process_common()
+3897b4ae1fdc ext4: fix a potential fiemap/page fault deadlock w/ inline_data
+6b22de54346b crypto: cts - fix crash on short inputs
+61dd99c3788d i2c: dev: prevent adapter retries and timeout being set as minus value
+31f76d65612f ACPI: power: Skip duplicate power resource references in _PRx
+bb1de61e06c6 PCI: altera: Move retrain from fixup to altera_pcie_host_init()
+2f5e06cf8ff2 PCI: altera: Rework config accessors for use without a struct pci_bus
+db94a1ebabc4 PCI: altera: Poll for link training status after retraining the link
+704a120d8868 PCI: altera: Poll for link up status after retraining the link
+cb3ff0382e58 PCI: altera: Check link status before retrain link
+9efffbc8191d PCI: altera: Reorder read/write functions
+ecd77ebfa6dd PCI: altera: Fix altera_pcie_link_is_up()
+271137c03858 slab: alien caches must not be initialized if the allocation of the alien cache failed
+a04afa68c062 USB: Add USB_QUIRK_DELAY_CTRL_MSG quirk for Corsair K70 RGB
+7a87e23537db USB: storage: add quirk for SMI SM3350
+bbe85dc3ce39 USB: storage: don't insert sane sense for SPC3+ when bad sense specified
+460398af9f97 usb: cdc-acm: send ZLP for Telit 3G Intel based modems
+9c87abaf4d12 cifs: Fix potential OOB access of lock element array
+05ce0d9d5600 CIFS: Do not hide EINTR after sending network packets
+09527e390e81 btrfs: tree-checker: Fix misleading group system information
+40f2dd610635 btrfs: tree-checker: Check level for leaves and nodes
+98620167ed91 btrfs: Verify that every chunk has corresponding block group at mount time
+ee5e37a26791 btrfs: Check that each block group has corresponding chunk at mount time
+50962a7b4877 btrfs: validate type when reading a chunk
+42d263820480 btrfs: tree-checker: Detect invalid and empty essential trees
+ae94efaf2b60 btrfs: tree-checker: Verify block_group_item
+5b84bbce6073 btrfs: tree-check: reduce stack consumption in check_dir_item
+047ac3914e58 btrfs: tree-checker: use %zu format string for size_t
+a8f416492297 btrfs: tree-checker: Add checker for dir item
+7782b38595ae btrfs: tree-checker: Fix false panic for sanity test
+b3b3eaf72928 btrfs: tree-checker: Enhance btrfs_check_node output
+e74422ec1442 btrfs: Move leaf and node validation checker to tree-checker.c
+68c23d09749e btrfs: Add checker for EXTENT_CSUM
+56ab82441c33 btrfs: Add sanity check for EXTENT_DATA when reading out leaf
+dc7a1fbccd95 btrfs: Check if item pointer overlaps with the item itself
+4583bc2c6420 btrfs: Refactor check_leaf function for later expansion
+31c986aa7e69 btrfs: struct-funcs, constify readers
+89643604a879 Btrfs: fix emptiness check for dirtied extent buffers at check_leaf()
+452042d27b6d Btrfs: memset to avoid stale content in btree leaf
+79ddacdf1df2 Btrfs: kill BUG_ON in run_delayed_tree_ref
+d6719cf116b2 Btrfs: improve check_node to avoid reading corrupted nodes
+731b86679528 Btrfs: memset to avoid stale content in btree node block
+4b522570f974 Btrfs: fix BUG_ON in btrfs_mark_buffer_dirty
+1ef3ecf373ae Btrfs: check btree node's nritems
+dc059e58af01 Btrfs: detect corruption when non-root leaf has zero item
+4bf414d2ff57 Btrfs: fix em leak in find_first_block_group
+a155ec932226 Btrfs: check inconsistence between chunk and block group
+41fbc649308c Btrfs: add validadtion checks for chunk loading
+66b8c06f9365 btrfs: Enhance chunk validation check
+67405a1e780c btrfs: cleanup, stop casting for extent_map->lookup everywhere
+fea03efa24d4 ALSA: hda/realtek - Disable headset Mic VREF for headset mode of ALC225
+
+   * prebuilts/clang/host/linux-x86/
+0b7a82e Fix a dir name typo (clang-346389c -> clang-r346389c).
+
+   * vendor/aosp/
+3e48450c vendor: Remove deprecated selinux prop
+
+=======================
+     01-16-2019
+=======================
+
+
+   * kernel/xiaomi/sdm660/
+8ba9b3822116 drivers: leds-qpnp-flash: Fix infinite loop in flash driver.
+135cb4d95022 Revert "leds: leds-qpnp-flash: synchronize LED switch node operation"
+09da7012a38e drivers: leds-qpnp-flash: Synchronize brightness_set and worker thread
+68837645e523 Improve camera power consumption
+96cc7edca993 Improve camera power consumption
+c895694eeae7 msm: camera: flash: Fix i2c flash
+a51aec640533 sched: hmp: Reduce number of load reports in a window
+0f816fa29462 sched: cpufreq: HMP load reporting changes
+7c3a93f1995f core_ctl: Consider high irq loaded CPU as busy
+9c64f96efe01 PM / devfreq: memlat: Don't ignore extremely latency sensitive workloads
+08ebaa009fa1 Revert "msm: kgsl: Disallow L2PC during wake up from SLUMBER"
+33fc40010913 Revert "msm: kgsl: Do not memset pages to zero while adding to pool"
+d86166b39560 mfd: wcd9xxx: disable slimbus register access for debugfs
+b663b4db1bfe msm_cci: fix inconsistent mutex_lock
+e842ffb4914d msm: memshare: relaese mutex if req client id is not found
+cdf3a408f3a8 thermal: qpnp-adc-tm: release lock upon disable_chan_meas failure
+636bb8153b14 qcom: qmi: release mutex upon qmi_svc_event_notifier_register error
+6fb7e19f7e2e msm-poweroff: move panic detection out from CONFIG_QCOM_DLOAD_MODE
+4a4b382ac71f msm_thermal: initialize later than arch drivers
+310d1bda1cc0 firmware: add /lib/firmware/overrides as the top priority
+67383b944f53 sdm660: fix memory overlap
+a44eda279812 sdm660: fix node values for qcom,msm-core@780000
+3c94ff967a3a Merge branch 'mkp' of https://github.com/GuaiYiHu/android_kernel_xiaomi_whyred into HEAD
+d2cb81465133 drivers: leds-qpnp-flash: Fix infinite loop in flash driver.
+0ffe82cde44c drivers: leds-qpnp-flash: Synchronize brightness_set and worker thread
+ccb19e837988 Revert "leds: leds-qpnp-flash: synchronize LED switch node operation"
+96e9e9d3b268 Improve camera power consumption
+8c847d57bef4 Improve camera power consumption
+9ae2d708a488 msm: camera: flash: Fix i2c flash
+375379d2e8ff sched: hmp: Reduce number of load reports in a window
+bb59241b6b3b sched: cpufreq: HMP load reporting changes
+80af0c83914f core_ctl: Consider high irq loaded CPU as busy
+924f09846b20 PM / devfreq: memlat: Don't ignore extremely latency sensitive workloads
+264789d0ee6f Revert "msm: kgsl: Disallow L2PC during wake up from SLUMBER"
+cdfa674fb100 Revert "msm: kgsl: Do not memset pages to zero while adding to pool"
+0def70ba3c9d mfd: wcd9xxx: disable slimbus register access for debugfs
+01b791589223 msm_cci: fix inconsistent mutex_lock
+1a35b5a08f34 msm: memshare: relaese mutex if req client id is not found
+1b3dc3e5b750 thermal: qpnp-adc-tm: release lock upon disable_chan_meas failure
+c3e0717c10e9 qcom: qmi: release mutex upon qmi_svc_event_notifier_register error
+e2e418291bed msm-poweroff: move panic detection out from CONFIG_QCOM_DLOAD_MODE
+d95b78ee94b9 msm_thermal: initialize later than arch drivers
+44c18d3b5d9e firmware: add /lib/firmware/overrides as the top priority
+069844e84cd4 sdm660: fix memory overlap
+4ca8fdd47228 sdm660: fix node values for qcom,msm-core@780000
+
+   * vendor/xiaomi/jasmine/
+f47b704 jasmine : remove libOmxG711Enc and fix derp
+
+=======================
+     01-15-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+1340506 sdm660: overlay: disable proximity check for torch
+ab6a938 sdm660: keylayout: report system navigation down on fp touch
+91bb530 sdm660: productconfig : update audio flags *remove duplicate
+
+   * kernel/xiaomi/sdm660/
+d5f86a74ab3a qpnp-haptic: make its strength adjustable via VibratorHW
+
+   * vendor/xiaomi/jasmine/
+6e9bc66 jasmine: Update SDM blobs from Nokia D1C credits - krasCGQ
+
+=======================
+     01-14-2019
+=======================
+
+
+   * device/xiaomi/jasmine/
+2d5e6b9 jasmine: Use pixel 2 vibration pattern
+49b16de jasmine : overlay : update Brightness values from wayne miui 9.1.9
+
+   * device/xiaomi/sdm660-common/
+2da52f6 sdm660: kcal: fix crash if you go back to xiaomi parts
+cd22c81 sdm660 : light hal : do not detect maximum brightness dynamically
+
+   * frameworks/base/
+7ef5e0f1381 framework: Battery led default value should follow notification led
+23d135738da fonts: Build different fonts.xml if EXCLUDE_SERIF_FONTS is true
+
+   * kernel/xiaomi/sdm660/
+ca9df50f19c6 Merge branch 'kernel.lnx.4.4.r34-rel' of https://github.com/android-linux-stable/msm-4.4 into HEAD
+
+=======================
+     01-13-2019
+=======================
+
+
+   * development/
+0d9797de8 Remove useless build warning
+
+   * kernel/xiaomi/sdm660/
+926f2c98050f Merge 4.4.170 into kernel.lnx.4.4.r34-rel
+b83b3fa78445 Linux 4.4.170
+1bd63edb92ac power: supply: olpc_battery: correct the temperature units
+b1892669f77f intel_th: msu: Fix an off-by-one in attribute store
+21c7b1377859 genwqe: Fix size check
+5f6ce5ea8393 ceph: don't update importing cap's mseq when handing cap export
+0216bf654af7 iommu/vt-d: Handle domain agaw being less than iommu agaw
+2d7501440715 9p/net: put a lower bound on msize
+c820ac339c98 b43: Fix error in cordic routine
+18451898261b gfs2: Fix loop in gfs2_rbm_find
+bf72973ce165 dlm: memory leaks on error path in dlm_user_request()
+3ed774e59ce5 dlm: lost put_lkb on error path in receive_convert() and receive_unlock()
+27f4aa2a0c12 dlm: possible memory leak on error path in create_lkb()
+a09b8db22851 dlm: fixed memory leaks after failed ls_remove_names allocation
+11e047131fff ALSA: usb-audio: Fix an out-of-bound read in create_composite_quirks
+a5e09a908ea3 ALSA: usb-audio: Avoid access before bLength check in build_audio_procunit()
+83f470ebd75e ALSA: cs46xx: Potential NULL dereference in probe
+557f16c7fe26 crypto: x86/chacha20 - avoid sleeping with preemption disabled
+69c1fd103bbb sunrpc: use SVC_NET() in svcauth_gss_* functions
+192f7ca0c794 sunrpc: fix cache_head leak due to queued request
+6331b9d7ac6c mm, devm_memremap_pages: kill mapping "System RAM" support
+a93d56de4533 mm, devm_memremap_pages: mark devm_memremap_pages() EXPORT_SYMBOL_GPL
+060853fdd434 hwpoison, memory_hotplug: allow hwpoisoned pages to be offlined
+d447cf0ceefa fork: record start_time late
+d15d1677aa32 scsi: zfcp: fix posting too many status read buffers leading to adapter shutdown
+beb2654f07a2 Input: omap-keypad - fix idle configuration to not block SoC idle states
+ebcdd1195ee2 scsi: bnx2fc: Fix NULL dereference in error handling
+987f20645911 xfrm: Fix bucket count reported to userspace
+0769670720e0 checkstack.pl: fix for aarch64
+38a337115896 Input: restore EV_ABS ABS_RESERVED
+88206b0e3042 ARM: imx: update the cpu power up timing setting on i.mx6sx
+c7c77cdf7b49 powerpc: Fix COFF zImage booting on old powermacs
+b76db5ad2f97 spi: bcm2835: Unbreak the build of esoteric configs
+0c53038267a9 x86/kvm/vmx: do not use vm-exit instruction length for fast MMIO when running nested
+c78a5d4a6481 CIFS: Fix error mapping for SMB2_LOCK command which caused OFD lock problem
+a214fe5560e7 MIPS: Align kernel load address to 64KB
+79d02189e782 MIPS: Ensure pmd_present() returns false after pmd_mknotpresent()
+c2b02f925a64 media: vivid: free bitmap_cap when updating std/timings/etc.
+8a92ec92c789 cdc-acm: fix abnormal DATA RX issue for Mediatek Preloader.
+dc1715a2b233 spi: bcm2835: Avoid finishing transfer prematurely in IRQ mode
+4d69a1193957 spi: bcm2835: Fix book-keeping of DMA termination
+1330179228ac spi: bcm2835: Fix race on DMA termination
+aa5cab08cd9a ext4: force inode writes when nfsd calls commit_metadata()
+e270923b3c14 ext4: fix EXT4_IOC_GROUP_ADD ioctl
+84ad8791c9b2 ext4: missing unlock/put_page() in ext4_try_to_write_inline_data()
+6e011c3af91c ext4: fix possible use after free in ext4_quota_enable
+efe22fbaa30d perf pmu: Suppress potential format-truncation warning
+e2f780613e3b KVM: x86: Use jmp to invoke kvm_spurious_fault() from .fixup
+aaf7797da3d4 Input: elan_i2c - add ACPI ID for touchpad in ASUS Aspire F5-573G
+a5d6edaafdcf usb: r8a66597: Fix a possible concurrency use-after-free bug in r8a66597_endpoint_disable()
+bef5854270ba USB: serial: option: add Fibocom NL678 series
+1e7a4f266531 USB: serial: pl2303: add ids for Hewlett-Packard HP POS pole displays
+e9e68f76701c ALSA: hda/tegra: clear pending irq handlers
+64b9976a624d ALSA: hda: add mute LED support for HP EliteBook 840 G4
+31eadb108bf7 ALSA: emux: Fix potential Spectre v1 vulnerabilities
+f56eb9dfd1b0 ALSA: pcm: Fix potential Spectre v1 vulnerability
+e8ed54c8c379 ALSA: emu10k1: Fix potential Spectre v1 vulnerabilities
+8286dcc1d7aa ALSA: rme9652: Fix potential Spectre v1 vulnerability
+f8de5a38cc3b sock: Make sock->sk_stamp thread-safe
+770b0ad5ffe4 gro_cell: add napi_disable in gro_cells_destroy
+c986a25496f5 xen/netfront: tolerate frags with no data
+291d37f7c357 VSOCK: Send reset control packet when socket is partially bound
+04a1c4080cbf vhost: make sure used idx is seen before log in vhost_add_used_n()
+15c17f3654f7 sctp: initialize sin6_flowinfo for ipv6 addrs in sctp_inet6addr_event
+33a083483c24 packet: validate address length if non-zero
+5b4dc608f82a packet: validate address length
+429b64a9eb90 netrom: fix locking in nr_find_socket()
+866408f607ac isdn: fix kernel-infoleak in capi_unlocked_ioctl
+708ae57321cd ipv6: explicitly initialize udp6_addr in udp_sock_create6()
+615b74643bce ieee802154: lowpan_header_create check must check daddr
+ba2f5c18050e ibmveth: fix DMA unmap error in ibmveth_xmit_start error path
+c0e93a6d3613 ax25: fix a use-after-free in ax25_fillin_cb()
+74d6170eb63f ipv4: Fix potential Spectre v1 vulnerability
+6dc50507697c ip6mr: Fix potential Spectre v1 vulnerability
+a2a840d6dcae drm/ioctl: Fix Spectre v1 vulnerabilities
+38b1b66e5796 x86/mtrr: Don't copy uninitialized gentry fields back to userspace
+c866fa26823d Drivers: hv: vmbus: Return -EINVAL for the sys files for unopened channels
+61b4285244c1 gpio: max7301: fix driver for use with CONFIG_VMAP_STACK
+a5c4aa9ca53d mmc: omap_hsmmc: fix DMA API warning
+f2eca86effbe mmc: core: Reset HPI enabled state during re-init and in case of errors
+b0c27dc554ee USB: serial: option: add Telit LN940 series
+339d1495cb37 USB: serial: option: add Fibocom NL668 series
+3181afbf21f9 USB: serial: option: add Simcom SIM7500/SIM7600 (MBIM mode)
+d12f397f129a USB: serial: option: add HP lt4132
+ff3663c771c0 USB: serial: option: add GosunCn ZTE WeLink ME3630
+bdb82196e75b xhci: Don't prevent USB2 bus suspend in state check intended for USB3 only
+8846b1dbfd21 USB: hso: Fix OOB memory access in hso_probe/hso_get_config_data
+f95b14f80564 ANDROID: clock_gettime(CLOCK_BOOTTIME,) slows down >20x
+0777d7496fde defconfig : jasmine , whyred , tulip : turn on VDSO
+b150a36d575d ANDROID: whyred: turn on VDSO
+15a3722fbcd3 ANDROID: arm64: vdso32: fix CC=clang build
+4ae7cf086302 ANDROID: CROSS_COMPILE_ARM32 must work if CONFIG_COMPAT_VDSO
+66c03c839704 FROMLIST: BACKPORT: [PATCH 6/6] arm64: Wire up and expose the new compat vDSO
+f2252d636efa FROMLIST: BACKPORT: [PATCH 5/6] arm64: compat: 32-bit vDSO setup
+35c4dabd492b FROMLIST: [PATCH 4/6] arm64: compat: Add a 32-bit vDSO
+8a0c7073998e FROMLIST: [PATCH 3/6] arm64: Refactor vDSO init/setup
+d7ca39821fbe FROMLIST: [PATCH 2/6] arm64: elf: Set AT_SYSINFO_EHDR in compat processes
+965ecde59551 FROMLIST: [PATCH 1/6] arm64: compat: Use vDSO sigreturn trampolines if available
+dc4695b92fb6 FROMLIST: lib: vdso: add support for time
+bd9a38d89284 FROMLIST: [PATCH] arm64: compat: Expose offset to registers in sigframes
+48ca1b691159 FROMLIST: [PATCH v5 12/12] lib: vdso: do not expose gettimeofday, if no arch supported timer
+e419bfb2f895 FROMLIST: [PATCH v5 11/12] lib: vdso: Add support for CLOCK_BOOTTIME
+6357fda6c3c3 FROMLIST: [PATCH v5 10/12] arm64: vdso: replace gettimeofday.S with global vgettimeofday.C
+3357e8965533 FROMLIST: [PATCH v5 09/12] arm: vdso: move vgettimeofday.c to lib/vdso/
+8b627bcb7ec1 FROMLIST: [PATCH v5 08/12] arm: vdso: Add ARCH_CLOCK_FIXED_MASK
+fb5ae74fb699 FROMLIST: [PATCH v5 07/12] arm: vdso: disable profiling
+a76f8f1832db FROMLIST: [PATCH v5 06/12] arm: vdso: add support for clock_getres
+a04b5d0efb1b FROMLIST: [PATCH v6 05/12] arm: vdso: Add support for CLOCK_MONOTONIC_RAW
+9a750059e3cf FROMLIST: [PATCH v5 04/12] arm: vdso: do calculations outside reader loops
+732dacfff0dd FROMLIST: [PATCH v5 03/12] arm: vdso: inline assembler operations to compiler.h
+62c3a58b5a29 FROMLIST: [PATCH v5 02/12] arm: vdso: add include file defining __get_datapage()
+94dd106fc08f FROMLIST: [PATCH v5 01/12] arm: vdso: rename vdso_datapage variables
+724961fb1682 FROMLIST: [PATCH v2 3/3] arm64: compat: Add CONFIG_KUSER_HELPERS
+44eb6e08f1be FROMLIST: [PATCH v2 2/3] arm64: compat: Split the sigreturn trampolines and kuser helpers (assembler sources)
+911e0120b9be FROMLIST: [PATCH v2 1/3] arm64: compat: Split the sigreturn trampolines and kuser helpers (C sources)
+
+   * packages/apps/Nfc/
+91847cf2 Automatic translation import
+
+=======================
+     01-12-2019
+=======================
+
+
+   * device/xiaomi/jasmine/
+5d53b50 jasmine : manifest : add vendor.qti.hardware.data.connection
+da40436 jasmine : remove ro.sf.lcd_density
+
+   * repo/local_manifest/
+47521fa Update local_manifest.xml
+
+   * vendor/xiaomi/jasmine/
+f92777b jasmine: use fpc fingerprint hal from wayne to get proper keyevents
+
+=======================
+     01-11-2019
+=======================
+
+
+   * device/xiaomi/sdm660-common/
+95513c6 sdm660: Use tether automatic upstream selection
+b879fdb sdm660: cleanup unused hostapd packages and cleanup init
+58ed377 sdm660 : update props to LA.UM.7.2.r1-05800-sdm660.0
+8a61c97 sdm660 : wifi : update configs from jasmine pie
+1a3f3e1 sdm660: configs: update public.libraries.txt from jasmine pie
+c801b6b Update Vulkan hardware level supported to 1
+25075d5 Add compatibility matrix entry for IDataConnection HAL
+de0bc30 Update WiPower in framework compatibility matrix
+7ba8207 Uprev display config compatibility matrix to 1.0-6
+daa7694 display:  Update display config compatibility matrix to 1.5
+966f249 sdm660 : overlay : remove SystemUI.vdex from pinned services
+67ac872 sdm660 : rootdir cleanup and update to LA.UM.7.2.r1-05800-sdm660.0
+96524ae sdm660: XiaomiParts: Add Spectrum Power Profiles (Performance modes)
+2424c3f sdm660 : update rootdir to LA.UM.7.2.r1-05800-sdm660.0
+cb8c638 sdm660: keylayout: touch fingerprint for going to homescreen
+
+   * hardware/qcom/audio-caf/msm8998/
+2226fb947 Merge tag 'LA.UM.7.4.r1-04100-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/audio into lineage-16.0-caf-8998
+
+   * hardware/qcom/display-caf/msm8998/
+e2c0a6db Merge tag 'LA.UM.7.4.r1-04100-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into lineage-16.0-caf-8998
+
+   * hardware/qcom/media-caf/msm8998/
+e077da5e4 Merge tag 'LA.UM.7.4.r1-04100-8x98.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/media into lineage-16.0-caf-8998
+
+   * kernel/xiaomi/sdm660/
+8a24aefbc60f Revert "qcacld-3.0: Add bound check for fixed_param->total_num_tx_power_levels"
+1e924bf2c261 Merge tag 'LA.UM.7.2.r1-05800-sdm660.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0 into mi-code
+6e299c4ecec2 drivers: spmi: Drop xiaomi Logging kernel wakeup reason changes
+d309e4f29ae7 genirq: Add generic action name for chained IRQs
+7fe78829507b power: Improved/fixed logs for PM wakeups
+22048d6ae1e9 power_supply: Fix unbalanced the power supplies
+c194b9eef544 fs: Improve eventpoll logging to stop indicting timerfd
+9d028009ca73 fs: add useful debug info to eventpoll string
+461991f40d19 PM: wakeup_reasons: Fix formatting for printk
+aa16274b486e power: Add detailed suspend abort reason
+91b982fdc065 power: wakeup_reason: make log function work in interrupt context
+c00d6cbfe709 irqchip: msm: log wakeup interrupts
+23f99c8d44e2 pinctrl: qcom: unconditionally mark handled in msm_gpio_irq_handler
+5a64fa83b66a pinctrl: qcom: log wakeup reason
+3af420f23397 irq: Add wakeup reason logging
+211ac1724fc2 BACKPORT: PM: wakeup_reasons: disable wakeup-reason deduction by default
+8a0ca2ff9990 PM: wakeup_reasons: fix race condition
+734a9df78199 BACKPORT: PM: wakeup_reason: add functions to query and clear wakeup reasons
+c5ad317da4c8 pinctrl/qcom: pinctrl-msm.c: Bypass GPIO pins owned by TZ
+f308a9807adf drivers: pinctrl: mask non-wakeup interrupts in suspend path
+34cfead1719a posix_cpu_timer: check return on cpu_timer_sample_group
+ff6446c1e994 kgsl/adreno: Properly set GPU timeout
+9bb62d6a2292 kgsl: update the effective duration of qos request
+5c96d6827315 ARM: dts: sdm660: Set GPU idle timeout to 64 ms
+
