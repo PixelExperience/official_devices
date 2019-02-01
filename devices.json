@@ -615,7 +615,7 @@
       "brand":"Xiaomi",
       "codename":"tissot",
       "supported_versions":[
-	  {
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Abhinav Gupta (Agrd1129)",
@@ -1120,7 +1120,7 @@
             "xda_thread":""
          }
       ]
-   },	
+   },
    {
       "name":"Water 8",
       "brand":"LYF",
