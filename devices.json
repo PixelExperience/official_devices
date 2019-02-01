@@ -615,7 +615,7 @@
       "brand":"Xiaomi",
       "codename":"tissot",
       "supported_versions":[
-	  {
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Abhinav Gupta (Agrd1129)",
@@ -1104,6 +1104,20 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8338700",
             "xda_thread":"",
             "deprecated":true
+         }
+      ]
+   },
+   {
+      "name":"Redmi 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"sakura",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Shreejoy Dash (Shreejoy Dash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8338700",
+            "xda_thread":""
          }
       ]
    },
