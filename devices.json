@@ -1108,6 +1108,20 @@
       ]
    },
    {
+      "name":"Redmi 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"sakura",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Shreejoy Dash (Shreejoy Dash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8338700",
+            "xda_thread":""
+         }
+      ]
+   },	
+   {
       "name":"Water 8",
       "brand":"LYF",
       "codename":"mobee01a",
