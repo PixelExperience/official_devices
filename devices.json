@@ -1127,6 +1127,13 @@
       "codename":"mobee01a",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Inderpreet Singh Bhangu (IPSBHANGU)",
+            "maintainer_url":"https://t.me/IPSBHANGU",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Inderpreet Singh Bhangu (IPSBHANGU)",
