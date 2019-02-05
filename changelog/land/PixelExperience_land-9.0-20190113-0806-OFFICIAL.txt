@@ -1,0 +1,4 @@
+Changelogs:
+
+• Wifi display should be fixed
+

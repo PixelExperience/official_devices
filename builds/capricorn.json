@@ -8,19 +8,14 @@
     ],
     "pie": [
         {
-            "file_name":"PixelExperience_capricorn-9.0-20181125-1238-OFFICIAL.zip",
-            "file_size":940288724,
-            "md5":"ae4e0843aa537d98e8523b4b3b98af1b"
-        },
-        {
-            "file_name":"PixelExperience_capricorn-9.0-20181208-1440-OFFICIAL.zip",
-            "file_size":1237919333,
-            "md5":"6b36d9b71ded34a6dab3dfeebe21eb0a"
-        },
-        {
             "file_name":"PixelExperience_capricorn-9.0-20181231-2025-OFFICIAL.zip",
             "file_size":1190228793,
             "md5":"29451855578e7758d8cfce19de1f7b0d"
+        },
+        {
+            "file_name":"PixelExperience_capricorn-9.0-20190110-2155-OFFICIAL.zip",
+            "file_size":1211638106,
+            "md5":"6197f929d160334623732bffbd57e349"
         }
     ]
 }

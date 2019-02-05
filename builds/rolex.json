@@ -8,21 +8,6 @@
    ],
    "pie":[
       {
-         "file_name":"PixelExperience_rolex-9.0-20181021-1723-OFFICIAL.zip",
-         "file_size":986234085,
-         "md5":"82144486bd020128baa3e71b97ae2e92"
-      },
-      {
-         "file_name":"PixelExperience_rolex-9.0-20181022-1426-OFFICIAL.zip",
-         "file_size":986425176,
-         "md5":"ca961ccbd3ec266958c96e4063f57395"
-      },
-      {
-         "file_name":"PixelExperience_rolex-9.0-20181111-0838-OFFICIAL.zip",
-         "file_size":987362243,
-         "md5":"2fabe9c1e006eae309fc120e91e24abc"
-      },
-      {
          "file_name":"PixelExperience_rolex-9.0-20181206-1601-OFFICIAL.zip",
          "file_size":991732328,
          "md5":"1d7a455096675e19c237fca6be5e80b7"
@@ -30,6 +15,11 @@
       {  "file_name":"PixelExperience_rolex-9.0-20181225-1430-OFFICIAL.zip",
          "file_size":941027772,
          "md5":"54436dfec496f78ab6f673466b177095"
+      },
+      {
+         "file_name":"PixelExperience_rolex-9.0-20190116-0555-OFFICIAL.zip",
+         "file_size":960014625,
+         "md5":"25fe660044a12ad21df05b7231490bcf"
       }
    ]
 }

@@ -1,16 +1,6 @@
 {
     "pie": [
         {
-            "file_name":"PixelExperience_polaris-9.0-20181127-1746-OFFICIAL.zip",
-            "file_size":867501284,
-            "md5":"e659068d5bc6afd9c6c98e4c1ef270fa"
-        },
-        {
-            "file_name":"PixelExperience_polaris-9.0-20181210-0956-OFFICIAL.zip",
-            "file_size":867691070,
-            "md5":"69bf0519fa5706dfbf18fead563f7be9"
-        },
-        {
             "file_name":"PixelExperience_polaris-9.0-20181218-2059-OFFICIAL.zip",
             "file_size":1030674237,
             "md5":"c2f865f9b365b8f1763cb573f4058f13"
@@ -19,6 +9,11 @@
             "file_name":"PixelExperience_polaris-9.0-20181230-1601-OFFICIAL.zip",
             "file_size":1028879602,
             "md5":"9f64c4e26d5d31064482811d5aac3af8"
+        },
+        {
+            "file_name":"PixelExperience_polaris-9.0-20190128-1208-OFFICIAL.zip",
+            "file_size":950349541,
+            "md5":"f7d3cc9371d2f0555b74db96714f94cd"
         }
     ]
 }

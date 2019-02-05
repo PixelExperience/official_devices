@@ -1,0 +1,10 @@
+• February Security Patch
+• Kernel：
+- Upstreamed to 3.18.133
+• Radio：
+- Fixed FM radio
+• LiveDisplay
+- Updated to livedisplay 2.0
+• Display
+- Fixed display related issues  
+

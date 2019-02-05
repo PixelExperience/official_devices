@@ -1,11 +1,6 @@
 {
    "oreo":[
       {
-         "file_name":"PixelExperience_land-8.1.0-20180823-1008-OFFICIAL.zip",
-         "file_size":902837090,
-         "md5":"40ec0d0f5cd02146e1cb5a3e1c997284"
-      },
-      {
          "file_name":"PixelExperience_land-8.1.0-20180923-0559-OFFICIAL.zip",
          "file_size":897591001,
          "md5":"c9db41a995a73318050832a11bc937da"
@@ -18,39 +13,20 @@
    ],
    "pie":[
       {
-         "file_name":"PixelExperience_land-9.0-20180913-1513-OFFICIAL.zip",
-         "file_size":964138672,
-         "md5":"8ee4c52d00a8ca07cffd87b6da8eb9d3"
-      },
-      {
-         "file_name":"PixelExperience_land-9.0-20181021-1138-OFFICIAL.zip",
-         "file_size":973428069,
-         "md5":"ddce5f56e4ac1586b6aee6615f630e3f"
-      },
-      {
-         "file_name":"PixelExperience_land-9.0-20181022-0619-OFFICIAL.zip",
-         "file_size":973416774,
-         "md5":"06f6e65c30ecb344cf2e9c3dc319acdd"
-      },
-      {
-         "file_name":"PixelExperience_land-9.0-20181106-1557-OFFICIAL.zip",
-         "file_size":974489852,
-         "md5":"c33419b76c7fc9f0adb91d9e686d4ac4"
-      },
-      {
-         "file_name":"PixelExperience_land-9.0-20181120-0844-OFFICIAL.zip",
-         "file_size":974419985,
-         "md5":"57fab01e215c0900a71410021e77e6a6"
-      },
-      {
          "file_name":"PixelExperience_land-9.0-20181208-0224-OFFICIAL.zip",
          "file_size":978256838,
          "md5":"3342b9fc939769ba36c4adfd0ff47c20"
       },
       {
-         "file_name":"PixelExperience_land-9.0-20181220-0332-OFFICIAL.zip", 
-	 "file_size":975731575,
-	 "md5":"72d837386e7468da79dcc4bd4c1152a0"
+         "file_name":"PixelExperience_land-9.0-20181220-0332-OFFICIAL.zip",
+         "file_size":975731575,
+         "md5":"72d837386e7468da79dcc4bd4c1152a0"
+      },
+      {
+         "file_name":"PixelExperience_land-9.0-20190113-0806-OFFICIAL.zip",
+         "file_size":997633930,
+         "md5":"cbb7bf8c3ba8b55aa52f61bbf3f5f830"
       }
+
    ]
 }

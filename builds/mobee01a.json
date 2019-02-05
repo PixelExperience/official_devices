@@ -1,11 +1,6 @@
 {
    "oreo":[
       {
-         "file_name":"PixelExperience_mobee01a-8.1.0-20181107-1448-OFFICIAL.zip",
-         "file_size":842745626,
-         "md5":"4ebff526d4fa25fedfa7d45481809ca5"
-      },
-      {
          "file_name":"PixelExperience_mobee01a-8.1.0-20181117-0839-OFFICIAL.zip",
          "file_size":835328906,
          "md5":"2434f02afdc3c43be2028aca864a744d"
@@ -14,6 +9,13 @@
          "file_name":"PixelExperience_mobee01a-8.1.0-20181212-1037-OFFICIAL.zip",
          "file_size":844243337,
          "md5":"15ed3b55f3e0fc21f034f3e3b329e412"
+      }
+   ],
+   "pie":[
+      {
+         "file_name":"PixelExperience_mobee01a-9.0-20190203-1638-OFFICIAL.zip",
+         "file_size":909185197,
+         "md5":"38c2f243a8cfc4d727d4377db0f6c402"
       }
    ]
 }

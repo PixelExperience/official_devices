@@ -8,11 +8,6 @@
    ],
    "pie":[
       {
-         "file_name":"PixelExperience_harpia-9.0-20181105-0216-OFFICIAL.zip",
-         "file_size":719316648,
-         "md5":"2e5751148a86b6f542b646e9d9f372aa"
-      },
-      {
          "file_name":"PixelExperience_harpia-9.0-20181107-0317-OFFICIAL.zip",
          "file_size":721010488,
          "md5":"862c968f63d2a7dc0c7560f8f15367e6"
@@ -21,6 +16,11 @@
          "file_name":"PixelExperience_harpia-9.0-20181210-1624-OFFICIAL.zip",
          "file_size":721551919,
          "md5":"641869e1cc8fa044d4067bbae2591a86"
+      },
+      {
+         "file_name":"PixelExperience_harpia-9.0-20190123-0314-OFFICIAL.zip",
+         "file_size":744754505,
+         "md5":"3519e577bfef4d7393a008d58c4a164a"
       }
    ]
 }
