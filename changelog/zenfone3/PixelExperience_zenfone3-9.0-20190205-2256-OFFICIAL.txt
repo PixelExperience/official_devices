@@ -1,0 +1,3 @@
+* February Security patch
+
+* Removed HD capable icon
