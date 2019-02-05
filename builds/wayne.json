@@ -36,6 +36,11 @@
         "file_name":"PixelExperience_wayne-9.0-20190125-0125-OFFICIAL.zip",
         "file_size":1157212057,
         "md5":"6d84dde2a789e1adc72e6f24eb3f0d23"
-      } 
+      },
+	  {
+        "file_name":"PixelExperience_wayne-9.0-20190205-1218-OFFICIAL.zip",
+        "file_size":1117934656,
+        "md5":"e6be0100c010a58aa469dbc22539678e"
+      }
    ]
 }
