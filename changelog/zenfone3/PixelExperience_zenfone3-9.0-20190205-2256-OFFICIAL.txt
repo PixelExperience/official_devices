@@ -1,5 +1,3 @@
 * February Security patch
 
-* Removed corner padding in statusbar
-
 * Removed HD capable icon
