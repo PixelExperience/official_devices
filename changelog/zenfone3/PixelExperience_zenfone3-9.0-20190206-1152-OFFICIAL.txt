@@ -1,0 +1,2 @@
+* Fixed Night light
+* Encryption is fixed and enabled by default (since previous build)
