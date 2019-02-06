@@ -13,11 +13,6 @@
    ],
    "pie":[
       {
-         "file_name":"PixelExperience_potter-9.0-20181217-1116-OFFICIAL.zip",
-         "file_size":1052226005,
-         "md5":"bad9993edb7b39e1dedaae75629afaa2"
-      },
-      {
          "file_name":"PixelExperience_potter-9.0-20190108-1751-OFFICIAL.zip",
          "file_size":1057053189,
          "md5":"c8c6d9ed763168708e63e659266debde"
@@ -26,6 +21,11 @@
          "file_name":"PixelExperience_potter-9.0-20190115-1447-OFFICIAL.zip",
          "file_size":1089697822,
          "md5":"766463b7d0859e54326c50bb816f5617"
+      },
+      {
+         "file_name":"PixelExperience_potter-9.0-20190205-1749-Official.zip",
+         "file_size":1060425253,
+         "md5":"fea5cc93a7870c92615609bac03252a7"
       }
 
 
