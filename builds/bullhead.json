@@ -24,6 +24,11 @@
          "file_name":"PixelExperience_bullhead-9.0-20190125-0631-OFFICIAL.zip",
          "file_size":896564203,
          "md5":"975030b313dd12633246541a6a2a5c89"
-     } 
+     },
+     {
+         "file_name":"PixelExperience_bullhead-9.0-20190206-1546-OFFICIAL.zip",
+         "file_size":904260806,
+         "md5":"39ccfe5119ab4ac5078262913198ce6e"
+     }
    ]
 }
