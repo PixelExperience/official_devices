@@ -1,0 +1,4 @@
+-Fixed sound crashs;
+-Fixed Youtube lags;
+-API2 enabled by default;
+-GCAM Frontal fix included.
