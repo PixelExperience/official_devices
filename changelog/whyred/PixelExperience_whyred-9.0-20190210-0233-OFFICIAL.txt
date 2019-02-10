@@ -1,0 +1,3 @@
+* Derp 4.7
+* Dark theme improved
+* Others improvements
