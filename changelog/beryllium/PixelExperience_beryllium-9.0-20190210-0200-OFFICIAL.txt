@@ -1,0 +1,4 @@
+* Derp 2.8
+* Dark theme improved
+* Gcam updated
+* Others improvements
