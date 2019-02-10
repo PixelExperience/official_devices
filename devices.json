@@ -796,6 +796,21 @@
          }
       ]
    },
+
+{
+      "name":"Nubia Z17",
+      "brand":"Nubia",
+      "codename":"nx563j",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"RuRuTiaSaMa",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9599037",
+            "xda_thread":""
+         }
+      ]
+   },
    {
       "name":"Redmi 2",
       "brand":"Xiaomi",
