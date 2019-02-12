@@ -12,26 +12,6 @@
       }
    ],
    "pie":[
-      {
-         "file_name":"PixelExperience_wayne-9.0-20190108-2215-OFFICIAL.zip",
-         "file_size":1180674434,
-         "md5":"3d46fa8aeb083c5cafab3bcc295e4838"
-      },
-      {
-         "file_name":"PixelExperience_wayne-9.0-20190109-1436-OFFICIAL.zip",
-         "file_size":1181014724,
-         "md5":"97d2f46d79c7cab031407f529861739e"
-      },
-      {  
-         "file_name":"PixelExperience_wayne-9.0-20190115-0636-OFFICIAL.zip",
-         "file_size":1202653087,
-         "md5":"484eb851ccb93bac8aa8536113864ddf"
-      },
-      {
-         "file_name":"PixelExperience_wayne-9.0-20190123-0249-OFFICIAL.zip",
-         "file_size":1158077412,
-         "md5":"e26639ea915dec2efc6a8e9c5291f918"
-      },
 	  {
         "file_name":"PixelExperience_wayne-9.0-20190125-0125-OFFICIAL.zip",
         "file_size":1157212057,
@@ -43,9 +23,9 @@
         "md5":"e6be0100c010a58aa469dbc22539678e"
       },
 	  {
-        "file_name":"PixelExperience_wayne-9.0-20190212-0127-OFFICIAL.zip",
-        "file_size":1116650611,
-        "md5":"1ab33d416919e61d3dfbbc31cd62edad"
+        "file_name":"PixelExperience_wayne-9.0-20190212-1727-OFFICIAL.zip",
+        "file_size":1116648192,
+        "md5":"bade2a6900210e80575079a598622aee"
       }
    ]
 }
