@@ -1046,7 +1046,8 @@
             "version_name":"Pie",
             "maintainer_name":"Hasaber8 (RohanHasabe8)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267"
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267",
+            "deprecated":true
          }
       ]
    },
@@ -1264,7 +1265,8 @@
             "version_name":"Pie",
             "maintainer_name":"Hasaber8 (RohanHasabe8)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
-            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267"
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267",
+            "deprecated":true
          }
       ]
    },
@@ -1335,6 +1337,20 @@
             "maintainer_name":"Adithya R (ghostrider-reborn)",
             "maintainer_url":"https://t.me/ghostrider_reborn",
             "xda_thread":"https://forum.xda-developers.com/yu-yuphoria/orig-development/rom-pixel-experience-t3893140"
+         }
+      ]
+   },
+   {
+      "name":"Moto One Power",
+      "brand":"Motorola",
+      "codename":"chef",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Hasaber8",
+            "maintainer_url":"https://t.me/Hasaber8",
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-pixel-experience-t3865267"
          }
       ]
    }
