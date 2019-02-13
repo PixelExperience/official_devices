@@ -1,0 +1,8 @@
+=======================
+    2019-05-13
+=======================
+jasmine_sprout: add ota assert for old twrp builds with jasmine name
+ 
+jasmine_sprout: rebrand to jasmine_sprout and follow xiaomi name
+ 
+jasmine_sprout : manifest : add livedisplay 2.0
