@@ -1244,14 +1244,13 @@
    {
       "name":"Mi A2",
       "brand":"Xiaomi",
-      "codename":"jasmine",
+      "codename":"jasmine_sprout",
       "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"coderzs",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=3297592",
-            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixelexperience-t3876796"
+            "maintainer_name":"Manish4586",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7426592"
          }
       ]
    },
