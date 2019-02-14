@@ -25,32 +25,5 @@
          "file_size":990943894,
          "md5":"e9e078e3c261061c9cce2f506b7cd939"
       }
-   ],
-   "pie_go":[
-      {
-         "file_name":"PixelExperience_go_cedric-9.0-20190110-0308-OFFICIAL.zip",
-         "file_size":752864923,
-         "md5":"08aa69da2179bc4da37e93488102907c"
-      },
-      {
-         "file_name":"PixelExperience_go_cedric-9.0-20190117-0049-OFFICIAL.zip",
-         "file_size":753110820,
-         "md5":"775b201fe526b928048de09f53642701"
-      },
-      {
-         "file_name":"PixelExperience_go_cedric-9.0-20190123-1502-OFFICIAL.zip",
-         "file_size":818629836,
-         "md5":"297a8b891c94350798f2e6fc4e943d07"
-      },
-      {
-         "file_name":"PixelExperience_go_cedric-9.0-20190205-1625-OFFICIAL.zip",
-         "file_size":803020528,
-         "md5":"64d4d40901adebc3804a1cc2310b409e"
-      },
-      {
-        "file_name":"PixelExperience_go_cedric-9.0-20190210-0524-OFFICIAL.zip",
-        "file_size":802919684,
-        "md5":"5c4ca98fc9c7b7b7f9a1a52a6d4270b6"
-      }
    ]
 }
