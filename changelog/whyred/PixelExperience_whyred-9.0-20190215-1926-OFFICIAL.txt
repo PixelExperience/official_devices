@@ -1,0 +1,3 @@
+* Kernel changed to PureCAF
+* Fixed proximity issue on WhatsApp
+* Thermal and others improvements
