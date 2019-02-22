@@ -1,3 +1,0 @@
-* Initial CAF version (CLEAN FLASH NEEDED)
-* Derp kernel by default
-* Battery percentage added back
