@@ -164,6 +164,13 @@
             "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3898658"
          },
          {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Jorge Lucas (jorgelucasd00)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9604887",
+            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3898658"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Keertesh",
