@@ -60,7 +60,7 @@
             "version_name":"Oreo",
             "maintainer_name":"DMF (fatesay)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8578210",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-3/development/rom-pixel-experience-t3850685"
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-3/development/rom-pixel-experience-t3850685",
             "deprecated":true
          }
       ]
@@ -160,7 +160,7 @@
          {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Akash Srivastava (markakash",
+            "maintainer_name":"Akash Srivastava (markakash)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
             "xda_thread":"https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t3856643"
          }
