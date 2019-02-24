@@ -30,5 +30,12 @@
             "file_size":805217621,
             "md5":"13e6b609caabcce8ea8d62121d920124"
         }
-    ]
+   ],
+   "pie_caf":[
+        {
+            "file_name":"PixelExperience_enchilada-9.0-20190223-1223-CAF-OFFICIAL.zip",
+            "file_size":808688532,
+            "md5":"057a4bbb76e5a9ec37bf3898d229461d" 
+        }
+   ]
 }
