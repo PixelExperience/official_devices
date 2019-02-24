@@ -25,12 +25,12 @@
       {
          "file_name":"PixelExperience_rosy-9.0-20190118-0041-OFFICIAL.zip",
          "file_size":963930655,
-         "md5":"a82f41997d87fdcd78e23c117263ff5b"   
+         "md5":"a82f41997d87fdcd78e23c117263ff5b"
       },
       {
          "file_name":"PixelExperience_rosy-9.0-20190207-1847-OFFICIAL.zip",
          "file_size":948036130,
-         "md5":"2b88499c72ff6514a35104e57c1892a4"   
+         "md5":"2b88499c72ff6514a35104e57c1892a4"
       },
       {
          "file_name":"PixelExperience_rosy-9.0-20190211-0639-OFFICIAL.zip",
@@ -53,6 +53,13 @@
          "file_name":"PixelExperience_go_rosy-9.0-20190207-1929-OFFICIAL.zip",
          "file_size":760341560,
          "md5":"4dfaa9198eba0976608e3ae944a6cb2d"
+      }
+   ],
+   "pie_caf":[
+      {
+         "file_name":"PixelExperience_rosy-9.0-20190222-0633-CAF-OFFICIAL.zip",
+         "file_size":946490160,
+         "md5":"0d56226484023f54adf13d5f6c7b3e5d"
       }
    ]
 }
