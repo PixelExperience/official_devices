@@ -1,2 +1,4 @@
 
-Changelogs
+Changelogs:
+• Initial CAF build
+• Kernel upstream
