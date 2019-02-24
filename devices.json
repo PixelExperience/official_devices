@@ -793,6 +793,13 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983"
          },
          {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Sunny Raj (sunnyraj84348)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t3834169"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"SunnyRaj (sunnyraj84348)",
