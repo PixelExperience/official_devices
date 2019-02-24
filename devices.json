@@ -49,11 +49,19 @@
       "codename":"cancro",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"DMF (fatesay)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8578210",
+            "xda_thread":""
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"DMF (fatesay)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8578210",
             "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-3/development/rom-pixel-experience-t3850685"
+            "deprecated":true
          }
       ]
    },
