@@ -27,7 +27,13 @@
          "file_size":1062672470,
          "md5":"115e582aad5509eb6f9ef0cd7327665a"
       }
-
+   ],
+   "pie_caf":[
+      {
+         "file_name":"PixelExperience_potter-9.0-20190224-1831-CAF-OFFICIAL.zip",
+         "file_size":1066505953,
+         "md5":"9fc9b2d807a74396238bf7e2379640d1" 
+      }
 
    ]
 }
