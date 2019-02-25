@@ -1,0 +1,3 @@
+- Fix statusbar app name notification bug;
+- Include prebuilt GCAM (for settings read xda thread);
+- Revert battery percentage inside icon.
