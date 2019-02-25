@@ -1475,4 +1475,18 @@
          }
       ]
    }
+   {
+     "name":"Asus Max Pro M2",
+      "brand":"ASUS",
+      "codename":"X01BD",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Orgasmtron",
+            "maintainer_url":"https://t.me/Orgasmtrron",
+            "xda_thread":""
+         }
+     ]
+  }
 ]
