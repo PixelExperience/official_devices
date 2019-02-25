@@ -1474,5 +1474,19 @@
             "xda_thread":""
          }
       ]
-   }
+   },
+   {
+     "name":"Zenfone Max Pro M2",
+      "brand":"Asus",
+      "codename":"X01BD",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Orgasmtron",
+            "maintainer_url":"https://t.me/Orgasmtrron",
+            "xda_thread":""
+         }
+     ]
+  }
 ]
