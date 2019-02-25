@@ -217,9 +217,16 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Jayant Deshmukh (Jayant_Deshmukh)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8276928",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/9-0-pixel-experience-9-0-t3833443"
+            "maintainer_name":"Jacib Deepu (JacobDeepu)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9732522",
+            "xda_thread":""
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Jacob Deepu (JacobDeepu)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9732522",
+            "xda_thread":""
          },
          {
             "version_code":"oreo",

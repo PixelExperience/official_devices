@@ -33,5 +33,12 @@
          "md5":"a59a35d44d1e07ba0ed339cdce487fe7"
       }
 
-   ]
+   ],
+   "pie_caf":[
+     {
+        "file_name":"PixelExperience_land-9.0-20190224-1549-CAF-OFFICIAL.zip",
+        "file_size":932857044,
+        "md5":"b64f2a2ed9cc8524d932caac21080ba7"
+     }
+    ]
 }
