@@ -34,6 +34,11 @@
          "file_name":"PixelExperience_beryllium-9.0-20190215-1946-OFFICIAL.zip",
          "file_size":1028769096,
          "md5":"1237622a8597bd4c61fb30f522e4dfeb"
+      },
+      {
+         "file_name":"PixelExperience_beryllium-9.0-20190226-1308-OFFICIAL.zip",
+         "file_size":1028190506,
+         "md5":"8d6f23dbdeadb28fcc5f0ad5ae5b7a9c"
       }
    ],
    "pie_caf":[
@@ -41,6 +46,11 @@
          "file_name":"PixelExperience_beryllium-9.0-20190222-1259-CAF-OFFICIAL.zip",
          "file_size":1031706567,
          "md5":"edda14d365a070c490f059f795d27118"
+      },
+      {
+         "file_name":"PixelExperience_beryllium-9.0-20190225-1827-CAF-OFFICIAL.zip",
+         "file_size":1031621694,
+         "md5":"3b29624be5c40f2ab49af83cc3e6f2c9"
       }
    ]
 }

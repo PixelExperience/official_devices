@@ -1,0 +1,3 @@
+* Fixed 5ghz hotspot
+* Derp kernel 3.0
+* Others improvements
