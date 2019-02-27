@@ -1493,6 +1493,13 @@
             "maintainer_name":"Orgasmtron",
             "maintainer_url":"https://t.me/Orgasmtrron",
             "xda_thread":""
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Jayant-Deshmukh (jd1811)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8276928",
+            "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          }
      ]
   }
