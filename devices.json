@@ -758,7 +758,7 @@
             "maintainer_url":"https://t.me/waiser_hm",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3887977"
          },
-		 {
+         {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Dmitriy Alimov (waiser)",
@@ -1490,7 +1490,7 @@
       ]
    },
    {
-     "name":"Zenfone Max Pro M2",
+      "name":"Zenfone Max Pro M2",
       "brand":"Asus",
       "codename":"X01BD",
       "supported_versions":[
@@ -1508,6 +1508,6 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8276928",
             "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          }
-     ]
-  }
+      ]
+   }
 ]
