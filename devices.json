@@ -1120,19 +1120,11 @@
       "codename":"rolex",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
-            "maintainer_url":"https://t.me/alrakhesyafauzan",
-            "xda_thread":""
-         },
-                  {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
             "maintainer_url":"https://t.me/alrakhesyafauzan",
-            "xda_thread":"",
-            "deprecated":true
+            "xda_thread":""
          },
          {
             "version_code":"pie_caf",
@@ -1140,7 +1132,15 @@
             "maintainer_name":"Karthi Vignesh (k4Rth1_V1gn3Sh)",
             "maintainer_url":"https://t.me/k4rth1_v1gn3sh",
             "xda_thread":""
-         }
+         },
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Alra Khesya Fauzan (alrakhesyafauzan)",
+            "maintainer_url":"https://t.me/alrakhesyafauzan",
+            "xda_thread":"",
+            "deprecated":true
+         },
       ]
    },
    {
