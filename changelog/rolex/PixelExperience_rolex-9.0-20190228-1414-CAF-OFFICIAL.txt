@@ -1,0 +1,3 @@
+=> Initial official build
+=> Kernel 3.18.136
+=> Fixed low signal issue
