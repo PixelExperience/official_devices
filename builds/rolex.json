@@ -1,25 +1,5 @@
 {
-   "oreo":[
-      {
-         "file_name":"PixelExperience_rolex-8.1.0-20181227-0718-OFFICIAL.zip",
-         "file_size":884420854,
-         "md5":"36aed9f97f31823f0bd5d54521d7745c"
-      }
-   ],
-   "pie":[
-      {
-         "file_name":"PixelExperience_rolex-9.0-20181206-1601-OFFICIAL.zip",
-         "file_size":991732328,
-         "md5":"1d7a455096675e19c237fca6be5e80b7"
-      },
-      {  "file_name":"PixelExperience_rolex-9.0-20181225-1430-OFFICIAL.zip",
-         "file_size":941027772,
-         "md5":"54436dfec496f78ab6f673466b177095"
-      },
-      {
-         "file_name":"PixelExperience_rolex-9.0-20190116-0555-OFFICIAL.zip",
-         "file_size":960014625,
-         "md5":"25fe660044a12ad21df05b7231490bcf"
-      }
-   ]
+   "file_name":"PixelExperience_rolex-9.0-20190228-1414-CAF-OFFICIAL.zip",
+   "file_size":982779327,
+   "md5":"82ea03bbbda11a6201cd98b8aabb1e06"
 }
