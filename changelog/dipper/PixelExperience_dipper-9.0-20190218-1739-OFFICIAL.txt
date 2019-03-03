@@ -12,3 +12,5 @@ Device Specific:
 - Sepolicy updates
 - GCam updated to MGC_6.1.021_MI8_V2e_mod_jhenrique09.apk
 - Lastest LOS changes that I couldn't remember
+
+Minimum firmware: 8.11.15
