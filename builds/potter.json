@@ -1,39 +1,38 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_potter-8.1.0-20180911-0721-OFFICIAL.zip",
-         "file_size":909037578,
-         "md5":"c4842ef902706570bbc577e45378e06f"
+         "file_name": "PixelExperience_potter-8.1.0-20180911-0721-OFFICIAL.zip",
+         "file_size": 909037578,
+         "md5": "c4842ef902706570bbc577e45378e06f"
       },
       {
-         "file_name":"PixelExperience_potter-8.1.0-20181014-2238-OFFICIAL.zip",
-         "file_size":909721012,
-         "md5":"538bcfc2a7824e6f88cf623af6e14485"
+         "file_name": "PixelExperience_potter-8.1.0-20181014-2238-OFFICIAL.zip",
+         "file_size": 909721012,
+         "md5": "538bcfc2a7824e6f88cf623af6e14485"
       }
    ],
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_potter-9.0-20190108-1751-OFFICIAL.zip",
-         "file_size":1057053189,
-         "md5":"c8c6d9ed763168708e63e659266debde"
+         "file_name": "PixelExperience_potter-9.0-20190108-1751-OFFICIAL.zip",
+         "file_size": 1057053189,
+         "md5": "c8c6d9ed763168708e63e659266debde"
       },
       {
-         "file_name":"PixelExperience_potter-9.0-20190115-1447-OFFICIAL.zip",
-         "file_size":1089697822,
-         "md5":"766463b7d0859e54326c50bb816f5617"
+         "file_name": "PixelExperience_potter-9.0-20190115-1447-OFFICIAL.zip",
+         "file_size": 1089697822,
+         "md5": "766463b7d0859e54326c50bb816f5617"
       },
       {
-         "file_name":"PixelExperience_potter-9.0-20190213-0757-OFFICIAL.zip",
-         "file_size":1062672470,
-         "md5":"115e582aad5509eb6f9ef0cd7327665a"
+         "file_name": "PixelExperience_potter-9.0-20190213-0757-OFFICIAL.zip",
+         "file_size": 1062672470,
+         "md5": "115e582aad5509eb6f9ef0cd7327665a"
       }
    ],
-   "pie_caf":[
+   "pie_caf": [
       {
-         "file_name":"PixelExperience_potter-9.0-20190225-1528-CAF-OFFICIAL.zip",
-         "file_size":1066497595,
-         "md5":"1dd44806d56c14ad39a8e66650e9ba9f" 
+         "file_name": "PixelExperience_potter-9.0-20190225-1528-CAF-OFFICIAL.zip",
+         "file_size": 1066497595,
+         "md5": "1dd44806d56c14ad39a8e66650e9ba9f"
       }
-
    ]
 }

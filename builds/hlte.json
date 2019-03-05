@@ -1,26 +1,26 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_hlte-8.1.0-20180915-1444-OFFICIAL.zip",
-         "file_size":721742045,
-         "md5":"3c33f7c7568432c3a41ce87666a714d3"
+         "file_name": "PixelExperience_hlte-8.1.0-20180915-1444-OFFICIAL.zip",
+         "file_size": 721742045,
+         "md5": "3c33f7c7568432c3a41ce87666a714d3"
       },
       {
-         "file_name":"PixelExperience_hlte-8.1.0-20181015-1509-OFFICIAL.zip",
-         "file_size":726854904,
-         "md5":"3669d55f20960351f64024ac73268ba9"
+         "file_name": "PixelExperience_hlte-8.1.0-20181015-1509-OFFICIAL.zip",
+         "file_size": 726854904,
+         "md5": "3669d55f20960351f64024ac73268ba9"
       }
    ],
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_hlte-9.0-20181119-1354-OFFICIAL.zip",
-         "file_size":545523911,
-         "md5":"d87c48bb17c385891689d043bf563b47"
+         "file_name": "PixelExperience_hlte-9.0-20181119-1354-OFFICIAL.zip",
+         "file_size": 545523911,
+         "md5": "d87c48bb17c385891689d043bf563b47"
       },
       {
-         "file_name":"PixelExperience_hlte-9.0-20181124-1055-OFFICIAL.zip",
-         "file_size":545511748,
-         "md5":"143908716778a5d5106b217ea54bf2ce"
+         "file_name": "PixelExperience_hlte-9.0-20181124-1055-OFFICIAL.zip",
+         "file_size": 545511748,
+         "md5": "143908716778a5d5106b217ea54bf2ce"
       }
    ]
 }

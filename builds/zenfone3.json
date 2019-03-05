@@ -1,30 +1,29 @@
 {
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_zenfone3-9.0-20181228-1055-OFFICIAL.zip",
-         "file_size":981028156,
-         "md5":"54440e6acfec90b7ee9c98c1165148e2"
+         "file_name": "PixelExperience_zenfone3-9.0-20181228-1055-OFFICIAL.zip",
+         "file_size": 981028156,
+         "md5": "54440e6acfec90b7ee9c98c1165148e2"
       },
       {
-         "file_name":"PixelExperience_zenfone3-9.0-20190118-0747-OFFICIAL.zip",
-         "file_size":1002788523,
-         "md5":"ea7d4777a1fc400ee00b3675e9010278"
+         "file_name": "PixelExperience_zenfone3-9.0-20190118-0747-OFFICIAL.zip",
+         "file_size": 1002788523,
+         "md5": "ea7d4777a1fc400ee00b3675e9010278"
       },
       {
-         "file_name":"PixelExperience_zenfone3-9.0-20190205-2256-OFFICIAL.zip",
-         "file_size":973556796,
-         "md5":"b1881c5d9b905e9078f4f4b679f6f445"
+         "file_name": "PixelExperience_zenfone3-9.0-20190205-2256-OFFICIAL.zip",
+         "file_size": 973556796,
+         "md5": "b1881c5d9b905e9078f4f4b679f6f445"
       },
       {
-         "file_name":"PixelExperience_zenfone3-9.0-20190206-1152-OFFICIAL.zip",
-         "file_size":973366531,
-         "md5":"7136ebb6483060e333b0925917c7e058"
+         "file_name": "PixelExperience_zenfone3-9.0-20190206-1152-OFFICIAL.zip",
+         "file_size": 973366531,
+         "md5": "7136ebb6483060e333b0925917c7e058"
       },
       {
-         "file_name":"PixelExperience_zenfone3-9.0-20190228-2144-OFFICIAL.zip",
-         "file_size":973165388,
-         "md5":"705db105667656df1c228a7d00acf63f"
+         "file_name": "PixelExperience_zenfone3-9.0-20190228-2144-OFFICIAL.zip",
+         "file_size": 973165388,
+         "md5": "705db105667656df1c228a7d00acf63f"
       }
    ]
 }
-

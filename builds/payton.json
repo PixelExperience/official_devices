@@ -1,25 +1,24 @@
 {
-   "pie":[
+   "pie": [
       {
-        "file_name":"PixelExperience_payton-9.0-20181208-2312-OFFICIAL.zip",
-        "file_size":941300190,
-        "md5":"2d286d3d7379c52a546f30e73782965d"
+         "file_name": "PixelExperience_payton-9.0-20181208-2312-OFFICIAL.zip",
+         "file_size": 941300190,
+         "md5": "2d286d3d7379c52a546f30e73782965d"
       },
       {
-        "file_name":"PixelExperience_payton-9.0-20190109-1812-OFFICIAL.zip",
-        "file_size":1022355753,
-        "md5":"4ebd61767693a6dcfb580a507db20c21"
+         "file_name": "PixelExperience_payton-9.0-20190109-1812-OFFICIAL.zip",
+         "file_size": 1022355753,
+         "md5": "4ebd61767693a6dcfb580a507db20c21"
       },
       {
-        "file_name":"PixelExperience_payton-9.0-20190216-1814-OFFICIAL.zip",
-        "file_size":928917008,
-        "md5":"f471e6c729da51f30b9f92f3471cb30b"
+         "file_name": "PixelExperience_payton-9.0-20190216-1814-OFFICIAL.zip",
+         "file_size": 928917008,
+         "md5": "f471e6c729da51f30b9f92f3471cb30b"
       },
       {
-        "file_name":"PixelExperience_payton-9.0-20190305-0202-OFFICIAL.zip",
-        "file_size":928177035,
-        "md5":"19cae0e5f39da69aa9af5bb897fff113"
-     }
-
+         "file_name": "PixelExperience_payton-9.0-20190305-0202-OFFICIAL.zip",
+         "file_size": 928177035,
+         "md5": "19cae0e5f39da69aa9af5bb897fff113"
+      }
    ]
 }

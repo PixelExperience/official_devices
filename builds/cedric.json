@@ -1,34 +1,34 @@
 {
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_cedric-9.0-20190108-1733-OFFICIAL.zip",
-         "file_size":998807194,
-         "md5":"dfdf8b8213c29be4648b9573267ad3b2"
+         "file_name": "PixelExperience_cedric-9.0-20190108-1733-OFFICIAL.zip",
+         "file_size": 998807194,
+         "md5": "dfdf8b8213c29be4648b9573267ad3b2"
       },
       {
-         "file_name":"PixelExperience_cedric-9.0-20190116-2104-OFFICIAL.zip",
-         "file_size":996086249,
-         "md5":"3ba5033cb94e4f2ebb41442b7fb2a89a"
+         "file_name": "PixelExperience_cedric-9.0-20190116-2104-OFFICIAL.zip",
+         "file_size": 996086249,
+         "md5": "3ba5033cb94e4f2ebb41442b7fb2a89a"
       },
       {
-         "file_name":"PixelExperience_cedric-9.0-20190123-1257-OFFICIAL.zip",
-         "file_size":1006425820,
-         "md5":"5ca1f33dea518a242a9bf3f52d67cdba"
+         "file_name": "PixelExperience_cedric-9.0-20190123-1257-OFFICIAL.zip",
+         "file_size": 1006425820,
+         "md5": "5ca1f33dea518a242a9bf3f52d67cdba"
       },
       {
-         "file_name":"PixelExperience_cedric-9.0-20190205-1555-OFFICIAL.zip",
-         "file_size":991029569,
-         "md5":"51427a5f73a13055775488d2f6e998ed"
+         "file_name": "PixelExperience_cedric-9.0-20190205-1555-OFFICIAL.zip",
+         "file_size": 991029569,
+         "md5": "51427a5f73a13055775488d2f6e998ed"
       },
       {
-         "file_name":"PixelExperience_cedric-9.0-20190210-0448-OFFICIAL.zip",
-         "file_size":990943894,
-         "md5":"e9e078e3c261061c9cce2f506b7cd939"
+         "file_name": "PixelExperience_cedric-9.0-20190210-0448-OFFICIAL.zip",
+         "file_size": 990943894,
+         "md5": "e9e078e3c261061c9cce2f506b7cd939"
       },
       {
-         "file_name":"PixelExperience_cedric-9.0-20190214-1606-OFFICIAL.zip",
-         "file_size":800597354,
-         "md5":"9d8849a50b846822a5276661aea200a0"
+         "file_name": "PixelExperience_cedric-9.0-20190214-1606-OFFICIAL.zip",
+         "file_size": 800597354,
+         "md5": "9d8849a50b846822a5276661aea200a0"
       }
    ]
 }

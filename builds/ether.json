@@ -1,9 +1,9 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_ether-8.1.0-20180812-1014-OFFICIAL.zip",
-            "file_size": 841951104,
-            "md5": "600ad55da596b065d5238287260b727e"
-        }
-    ]
+   "oreo": [
+      {
+         "file_name": "PixelExperience_ether-8.1.0-20180812-1014-OFFICIAL.zip",
+         "file_size": 841951104,
+         "md5": "600ad55da596b065d5238287260b727e"
+      }
+   ]
 }

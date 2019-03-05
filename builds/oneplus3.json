@@ -1,36 +1,36 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_oneplus3-8.1.0-20180807-0522-OFFICIAL.zip",
-         "file_size":865070430,
-         "md5":"9ad11f1347e04e13bb99febebcfd96d5"
+         "file_name": "PixelExperience_oneplus3-8.1.0-20180807-0522-OFFICIAL.zip",
+         "file_size": 865070430,
+         "md5": "9ad11f1347e04e13bb99febebcfd96d5"
       }
    ],
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_oneplus3-9.0-20181214-2113-OFFICIAL.zip",
-         "file_size":939758508,
-         "md5":"7738ce7c158d6e838dadafa926d532cb"
+         "file_name": "PixelExperience_oneplus3-9.0-20181214-2113-OFFICIAL.zip",
+         "file_size": 939758508,
+         "md5": "7738ce7c158d6e838dadafa926d532cb"
       },
       {
-         "file_name":"PixelExperience_oneplus3-9.0-20181231-1335-OFFICIAL.zip",
-         "file_size":1102844381,
-         "md5":"81f93466de96af3a5840cd5a7c0d8b79"
+         "file_name": "PixelExperience_oneplus3-9.0-20181231-1335-OFFICIAL.zip",
+         "file_size": 1102844381,
+         "md5": "81f93466de96af3a5840cd5a7c0d8b79"
       },
       {
-         "file_name":"PixelExperience_oneplus3-9.0-20190112-1246-OFFICIAL.zip",
-         "file_size":963858718,
-         "md5":"797cceb7533558c72be983a7cc9f3b95"
+         "file_name": "PixelExperience_oneplus3-9.0-20190112-1246-OFFICIAL.zip",
+         "file_size": 963858718,
+         "md5": "797cceb7533558c72be983a7cc9f3b95"
       },
       {
-         "file_name":"PixelExperience_oneplus3-9.0-20190121-0753-OFFICIAL.zip",
-         "file_size":1021758935,
-         "md5":"78f46899b4e8d6a4303868efa2a09c83"
+         "file_name": "PixelExperience_oneplus3-9.0-20190121-0753-OFFICIAL.zip",
+         "file_size": 1021758935,
+         "md5": "78f46899b4e8d6a4303868efa2a09c83"
       },
       {
-         "file_name":"PixelExperience_oneplus3-9.0-20190225-2141-OFFICIAL.zip",
-         "file_size":927013673,
-         "md5":"e86771749887466d0fbd8d290147f07c"
+         "file_name": "PixelExperience_oneplus3-9.0-20190225-2141-OFFICIAL.zip",
+         "file_size": 927013673,
+         "md5": "e86771749887466d0fbd8d290147f07c"
       }
    ]
 }

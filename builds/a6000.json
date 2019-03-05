@@ -1,21 +1,21 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_a6000-8.1.0-20180710-1025-OFFICIAL.zip",
-         "file_size":635871212,
-         "md5":"459a2d8942c6cd037e92bc01e2c8344f"
+         "file_name": "PixelExperience_a6000-8.1.0-20180710-1025-OFFICIAL.zip",
+         "file_size": 635871212,
+         "md5": "459a2d8942c6cd037e92bc01e2c8344f"
       }
    ],
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_a6000-9.0-20190114-0555-OFFICIAL.zip",
-         "file_size":775194009,
-         "md5":"2d0394ee5bc133c28229aef8fea3db63"
+         "file_name": "PixelExperience_a6000-9.0-20190114-0555-OFFICIAL.zip",
+         "file_size": 775194009,
+         "md5": "2d0394ee5bc133c28229aef8fea3db63"
       },
       {
-         "file_name":"PixelExperience_a6000-9.0-20190123-1641-OFFICIAL.zip",
-         "file_size":759122807,
-         "md5":"7a384cb5b62c6123fde78fd419cc451e"
+         "file_name": "PixelExperience_a6000-9.0-20190123-1641-OFFICIAL.zip",
+         "file_size": 759122807,
+         "md5": "7a384cb5b62c6123fde78fd419cc451e"
       }
    ]
 }

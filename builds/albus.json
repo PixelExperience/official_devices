@@ -1,14 +1,14 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_albus-8.1.0-20181113-2325-OFFICIAL.zip",
-         "file_size":958580096,
-         "md5":"d43f4fb3ab9b301f75850e87e1e0e9cd"
+         "file_name": "PixelExperience_albus-8.1.0-20181113-2325-OFFICIAL.zip",
+         "file_size": 958580096,
+         "md5": "d43f4fb3ab9b301f75850e87e1e0e9cd"
       },
       {
-         "file_name":"PixelExperience_albus-8.1.0-20181205-0128-OFFICIAL.zip",
-         "file_size":962017780,
-         "md5":"b340888f5d04f60e8e2524f461071b59"
+         "file_name": "PixelExperience_albus-8.1.0-20181205-0128-OFFICIAL.zip",
+         "file_size": 962017780,
+         "md5": "b340888f5d04f60e8e2524f461071b59"
       }
    ]
 }

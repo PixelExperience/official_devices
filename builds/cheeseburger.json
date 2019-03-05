@@ -1,36 +1,36 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_cheeseburger-8.1.0-20180625-1549-OFFICIAL.zip",
-         "file_size":1061737840,
-         "md5":"f4ff652ddecb60be860de4d6a6ad4335"
+         "file_name": "PixelExperience_cheeseburger-8.1.0-20180625-1549-OFFICIAL.zip",
+         "file_size": 1061737840,
+         "md5": "f4ff652ddecb60be860de4d6a6ad4335"
       }
    ],
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_cheeseburger-9.0-20181219-1125-OFFICIAL.zip",
-         "file_size":1102284235,
-         "md5":"3c53c8a54bc2d159c3761a42bf369cbc"
+         "file_name": "PixelExperience_cheeseburger-9.0-20181219-1125-OFFICIAL.zip",
+         "file_size": 1102284235,
+         "md5": "3c53c8a54bc2d159c3761a42bf369cbc"
       },
       {
-         "file_name":"PixelExperience_cheeseburger-9.0-20181223-0434-OFFICIAL.zip",
-         "file_size":1102194453,
-         "md5":"1ee2084854d2d06d370fb987d497c8c0"
+         "file_name": "PixelExperience_cheeseburger-9.0-20181223-0434-OFFICIAL.zip",
+         "file_size": 1102194453,
+         "md5": "1ee2084854d2d06d370fb987d497c8c0"
       },
       {
-         "file_name":"PixelExperience_cheeseburger-9.0-20190114-2227-OFFICIAL.zip",
-         "file_size":1584346494,
-         "md5":"3733a63f7a9a2ddbd7a0cc360773e54d"
+         "file_name": "PixelExperience_cheeseburger-9.0-20190114-2227-OFFICIAL.zip",
+         "file_size": 1584346494,
+         "md5": "3733a63f7a9a2ddbd7a0cc360773e54d"
       },
       {
-         "file_name":"PixelExperience_cheeseburger-9.0-20190125-1714-OFFICIAL.zip",
-         "file_size":1136651670,
-         "md5":"61b4b86ecdff8d8ec991e26f47faf9d5"
+         "file_name": "PixelExperience_cheeseburger-9.0-20190125-1714-OFFICIAL.zip",
+         "file_size": 1136651670,
+         "md5": "61b4b86ecdff8d8ec991e26f47faf9d5"
       },
       {
-         "file_name":"PixelExperience_cheeseburger-9.0-20190216-1930-OFFICIAL.zip",
-         "file_size":1120205331,
-         "md5":"ea9284035f745be9ffc8bb7fc17b91ba"
+         "file_name": "PixelExperience_cheeseburger-9.0-20190216-1930-OFFICIAL.zip",
+         "file_size": 1120205331,
+         "md5": "ea9284035f745be9ffc8bb7fc17b91ba"
       }
    ]
 }

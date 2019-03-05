@@ -1,44 +1,43 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_vince-8.1.0-20180807-1021-OFFICIAL.zip",
-         "file_size":865213889,
-         "md5":"ca339980bf228792ea46a22c66312bb5"
+         "file_name": "PixelExperience_vince-8.1.0-20180807-1021-OFFICIAL.zip",
+         "file_size": 865213889,
+         "md5": "ca339980bf228792ea46a22c66312bb5"
       },
       {
-         "file_name":"PixelExperience_vince-8.1.0-20181006-1436-OFFICIAL.zip",
-         "file_size":868868767,
-         "md5":"752511ea859c6735ab1a859edf21cfdf"
+         "file_name": "PixelExperience_vince-8.1.0-20181006-1436-OFFICIAL.zip",
+         "file_size": 868868767,
+         "md5": "752511ea859c6735ab1a859edf21cfdf"
       }
    ],
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_vince-9.0-20181228-1216-OFFICIAL.zip",
-         "file_size":1002626615,
-         "md5":"1ac0240e3e20bf7fda4fe78827fa7ce9"
+         "file_name": "PixelExperience_vince-9.0-20181228-1216-OFFICIAL.zip",
+         "file_size": 1002626615,
+         "md5": "1ac0240e3e20bf7fda4fe78827fa7ce9"
       },
       {
-         "file_name":"PixelExperience_vince-9.0-20190109-0455-OFFICIAL.zip",
-         "file_size":1040690593,
-         "md5":"147a13bd0c660a2b6dfc9e21ee604721"
+         "file_name": "PixelExperience_vince-9.0-20190109-0455-OFFICIAL.zip",
+         "file_size": 1040690593,
+         "md5": "147a13bd0c660a2b6dfc9e21ee604721"
       },
       {
-         "file_name":"PixelExperience_vince-9.0-20190124-1334-OFFICIAL.zip",
-         "file_size":1027266451,
-         "md5":"1fe5f953e96ba905ebb53bebf90ed151"
+         "file_name": "PixelExperience_vince-9.0-20190124-1334-OFFICIAL.zip",
+         "file_size": 1027266451,
+         "md5": "1fe5f953e96ba905ebb53bebf90ed151"
       },
-	  {
-         "file_name":"PixelExperience_vince-9.0-20190206-0445-OFFICIAL.zip",
-         "file_size":1012362978,
-         "md5":"7b9025879a9fc7a2eedfce4647284f62"
+      {
+         "file_name": "PixelExperience_vince-9.0-20190206-0445-OFFICIAL.zip",
+         "file_size": 1012362978,
+         "md5": "7b9025879a9fc7a2eedfce4647284f62"
       }
-
    ],
-   "pie_caf":[
+   "pie_caf": [
       {
-        "file_name":"PixelExperience_vince-9.0-20190228-0414-CAF-OFFICIAL.zip",
-        "file_size":999023114,
-        "md5":"aea75b635a61ef61ed2fffb91caeba29"
+         "file_name": "PixelExperience_vince-9.0-20190228-0414-CAF-OFFICIAL.zip",
+         "file_size": 999023114,
+         "md5": "aea75b635a61ef61ed2fffb91caeba29"
       }
-   ]  
+   ]
 }

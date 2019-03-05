@@ -1,34 +1,34 @@
 {
-   "pie":[
+   "pie": [
       {
-        "file_name":"PixelExperience_X00TD-9.0-20181218-0535-OFFICIAL.zip",
-        "file_size":1118355282,
-        "md5":"1eed84979dd7444916518416b553d293"
+         "file_name": "PixelExperience_X00TD-9.0-20181218-0535-OFFICIAL.zip",
+         "file_size": 1118355282,
+         "md5": "1eed84979dd7444916518416b553d293"
       },
       {
-        "file_name":"PixelExperience_X00TD-9.0-20190109-0854-OFFICIAL.zip",
-        "file_size":1120833746,
-        "md5":"59291aad54787a7c99f9a7d14e3b0ac8"
+         "file_name": "PixelExperience_X00TD-9.0-20190109-0854-OFFICIAL.zip",
+         "file_size": 1120833746,
+         "md5": "59291aad54787a7c99f9a7d14e3b0ac8"
       },
       {
-        "file_name":"PixelExperience_X00TD-9.0-20190121-0849-OFFICIAL.zip",
-        "file_size":1106415680,
-        "md5":"699ca7244e0664e1c373c28e06c3ecb9"
+         "file_name": "PixelExperience_X00TD-9.0-20190121-0849-OFFICIAL.zip",
+         "file_size": 1106415680,
+         "md5": "699ca7244e0664e1c373c28e06c3ecb9"
       },
       {
-        "file_name":"PixelExperience_X00TD-9.0-20190122-0642-OFFICIAL.zip",
-        "file_size":1106479077,
-        "md5":"1b7351e146b0c3420c9eb9613c99e11b"
+         "file_name": "PixelExperience_X00TD-9.0-20190122-0642-OFFICIAL.zip",
+         "file_size": 1106479077,
+         "md5": "1b7351e146b0c3420c9eb9613c99e11b"
       },
       {
-        "file_name":"PixelExperience_X00TD-9.0-20190205-1820-OFFICIAL.zip",
-        "file_size":1088042093,
-        "md5":"fd16d8e7046cdbb42e5f42641aff8f8b"
+         "file_name": "PixelExperience_X00TD-9.0-20190205-1820-OFFICIAL.zip",
+         "file_size": 1088042093,
+         "md5": "fd16d8e7046cdbb42e5f42641aff8f8b"
       },
       {
-        "file_name":"PixelExperience_X00TD-9.0-20190222-1059-OFFICIAL.zip",
-        "file_size":1087374814,
-        "md5":"647d18235b84de4786ac23028d82f066"
+         "file_name": "PixelExperience_X00TD-9.0-20190222-1059-OFFICIAL.zip",
+         "file_size": 1087374814,
+         "md5": "647d18235b84de4786ac23028d82f066"
       }
    ]
 }

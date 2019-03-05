@@ -1,26 +1,26 @@
 {
-    "oreo": [
-        {
-            "file_name": "PixelExperience_gemini-8.1.0-20180817-1706-OFFICIAL.zip",
-            "file_size": 878549421,
-            "md5": "bbc64cba7925c326ab0ffc1bd3e80e3b"
-        }
-    ],
-    "pie": [
-        {
-            "file_name":"PixelExperience_gemini-9.0-20181207-1753-OFFICIAL.zip",
-            "file_size":1238062556,
-            "md5":"15939bff113912dd21a82d17c38f0cac"
-        },
-        {
-            "file_name":"PixelExperience_gemini-9.0-20190110-2117-OFFICIAL.zip",
-            "file_size":1211663347,
-            "md5":"6484d59321670e3c3d9bb84921d4c711"
-        },
-        {
-            "file_name":"PixelExperience_gemini-9.0-20190302-1543-OFFICIAL.zip",
-            "file_size":1174319983,
-            "md5":"68d8a113e6658c2bbc26d4e8c04e08b0"
-        }
-    ]
+   "oreo": [
+      {
+         "file_name": "PixelExperience_gemini-8.1.0-20180817-1706-OFFICIAL.zip",
+         "file_size": 878549421,
+         "md5": "bbc64cba7925c326ab0ffc1bd3e80e3b"
+      }
+   ],
+   "pie": [
+      {
+         "file_name": "PixelExperience_gemini-9.0-20181207-1753-OFFICIAL.zip",
+         "file_size": 1238062556,
+         "md5": "15939bff113912dd21a82d17c38f0cac"
+      },
+      {
+         "file_name": "PixelExperience_gemini-9.0-20190110-2117-OFFICIAL.zip",
+         "file_size": 1211663347,
+         "md5": "6484d59321670e3c3d9bb84921d4c711"
+      },
+      {
+         "file_name": "PixelExperience_gemini-9.0-20190302-1543-OFFICIAL.zip",
+         "file_size": 1174319983,
+         "md5": "68d8a113e6658c2bbc26d4e8c04e08b0"
+      }
+   ]
 }

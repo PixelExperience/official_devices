@@ -1,43 +1,43 @@
 {
-   "oreo":[
+   "oreo": [
       {
-         "file_name":"PixelExperience_platina-8.1.0-20190109-0229-OFFICIAL.zip",
-         "file_size":1179356232,
-         "md5":"039e0a6f1702686e7482f66d535934aa"
+         "file_name": "PixelExperience_platina-8.1.0-20190109-0229-OFFICIAL.zip",
+         "file_size": 1179356232,
+         "md5": "039e0a6f1702686e7482f66d535934aa"
       }
    ],
-   "pie":[  
+   "pie": [
       {
-         "file_name":"PixelExperience_platina-9.0-20190117-0003-OFFICIAL.zip",
-         "file_size":1103928141,
-         "md5":"8133d87e5069b4076d0386d618a8f2b5"
+         "file_name": "PixelExperience_platina-9.0-20190117-0003-OFFICIAL.zip",
+         "file_size": 1103928141,
+         "md5": "8133d87e5069b4076d0386d618a8f2b5"
       },
       {
-         "file_name":"PixelExperience_platina-9.0-20190128-2354-OFFICIAL.zip",
-         "file_size":1088869500,
-         "md5":"29edd6d6613f245e97f4203c495438f7"
+         "file_name": "PixelExperience_platina-9.0-20190128-2354-OFFICIAL.zip",
+         "file_size": 1088869500,
+         "md5": "29edd6d6613f245e97f4203c495438f7"
       },
       {
-         "file_name":"PixelExperience_platina-9.0-20190210-1921-OFFICIAL.zip",
-         "file_size":1074632285,
-         "md5":"ebac3c898d3de788ee20c7ef3f18a7b6"
+         "file_name": "PixelExperience_platina-9.0-20190210-1921-OFFICIAL.zip",
+         "file_size": 1074632285,
+         "md5": "ebac3c898d3de788ee20c7ef3f18a7b6"
       }
    ],
-   "pie_caf":[
+   "pie_caf": [
       {
-         "file_name":"PixelExperience_platina-9.0-20190222-1141-CAF-OFFICIAL.zip",
-         "file_size":1078261425,
-         "md5":"f626604d9df94cf334a371bfbdba3c0e"
+         "file_name": "PixelExperience_platina-9.0-20190222-1141-CAF-OFFICIAL.zip",
+         "file_size": 1078261425,
+         "md5": "f626604d9df94cf334a371bfbdba3c0e"
       },
       {
-         "file_name":"PixelExperience_platina-9.0-20190225-1656-CAF-OFFICIAL.zip",
-         "file_size":1173415506,
-         "md5":"1ebf500ab5ca137910ae9d2c9afce305"
+         "file_name": "PixelExperience_platina-9.0-20190225-1656-CAF-OFFICIAL.zip",
+         "file_size": 1173415506,
+         "md5": "1ebf500ab5ca137910ae9d2c9afce305"
       },
       {
-         "file_name":"PixelExperience_platina-9.0-20190227-0127-CAF-OFFICIAL.zip",
-         "file_size":1174927944,
-         "md5":"1eedee1f3129c1fd979207e4f133b7a5"
+         "file_name": "PixelExperience_platina-9.0-20190227-0127-CAF-OFFICIAL.zip",
+         "file_size": 1174927944,
+         "md5": "1eedee1f3129c1fd979207e4f133b7a5"
       }
    ]
 }

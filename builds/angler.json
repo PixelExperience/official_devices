@@ -1,24 +1,24 @@
 {
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_angler-9.0-20181230-1720-OFFICIAL.zip",
-         "file_size":909248997,
-         "md5":"3953ac14d9267e8e7e3b1cc63db810f7"
+         "file_name": "PixelExperience_angler-9.0-20181230-1720-OFFICIAL.zip",
+         "file_size": 909248997,
+         "md5": "3953ac14d9267e8e7e3b1cc63db810f7"
       },
       {
-         "file_name":"PixelExperience_angler-9.0-20190119-1551-OFFICIAL.zip",
-         "file_size":929401409,
-         "md5":"fa602ce21477e09e67e4dc74031ab06f"
+         "file_name": "PixelExperience_angler-9.0-20190119-1551-OFFICIAL.zip",
+         "file_size": 929401409,
+         "md5": "fa602ce21477e09e67e4dc74031ab06f"
       },
       {
-         "file_name":"PixelExperience_angler-9.0-20190205-2340-OFFICIAL.zip",
-         "file_size":907065679,
-         "md5":"2d34f04195dc14f3b31169f76a8f57c9"
+         "file_name": "PixelExperience_angler-9.0-20190205-2340-OFFICIAL.zip",
+         "file_size": 907065679,
+         "md5": "2d34f04195dc14f3b31169f76a8f57c9"
       },
       {
-         "file_name":"PixelExperience_angler-9.0-20190216-2157-OFFICIAL.zip",
-         "file_size":906122694,
-         "md5":"526462aa1bbc5e96d87a6660b161335e"
+         "file_name": "PixelExperience_angler-9.0-20190216-2157-OFFICIAL.zip",
+         "file_size": 906122694,
+         "md5": "526462aa1bbc5e96d87a6660b161335e"
       }
    ]
 }
