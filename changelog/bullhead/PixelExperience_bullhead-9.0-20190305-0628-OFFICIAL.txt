@@ -9,6 +9,8 @@
    * Revert Surround Sound
 
    * Fix OK Google Hotword Detection
+   
+   * Fix Calls with Wired/Wireless Headsets
 
    * bionic/
 345ab83c5 Merge tag 'android-9.0.0_r34' of https://android.googlesource.com/platform/bionic into pie
