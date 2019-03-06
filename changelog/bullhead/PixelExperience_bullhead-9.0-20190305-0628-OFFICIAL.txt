@@ -51,20 +51,7 @@ eb7287020 Merge tag 'android-9.0.0_r34' of https://android.googlesource.com/plat
    * art/
 a590a49a84 Add an option to disable sse4.2 features
 
-   * device/oneplus/oneplus3/
-4cf16d0 op3/t: remove redudant system props.
-af97242 op3: WIFI: Enable 2.4GHz channel bonding
-0bb840c op3: Update sepolicy
-97b132c op3: gps: decrease log priority function tracing
-db72b20 op3: Reserve 128MB for critical system components.
-4225a21 op3: system.prop: Set default period sizes
-2a73eda op3: Enable Smooth Streaming for secure video playback
-fe9b4ef op3: Remove unused overlays
-a75429c op3: Set the minimum brightness to 1
-d4c6bec Rename pe_config.xml to custom_config.xml
-98668ec overlay: Enable charging notification light!
-6a31132 oneplus3: pocketmode: Add local FileUtils * We don't really need lineageos sdk for one class
-6704584 oneplus3: PixelExperience bringup!
+
 
 =======================
      03-01-2019
