@@ -642,6 +642,13 @@
       "codename": "dumpling",
       "supported_versions": [
          {
+            "version_code": "pie",
+            "version_name": "Pie",
+            "maintainer_name": "Henrique Pereira (Hlcpereira)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
+            "xda_thread": ""
+         },
+         {
             "version_code": "oreo",
             "version_name": "Oreo",
             "maintainer_name": "Rafael Marchetto (marchetto96)",
