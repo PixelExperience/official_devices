@@ -1545,5 +1545,18 @@
             "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          }
       ]
+   },
+   {
+      "name":"Redmi Note 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"tulip",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Saksham",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
+         }
+      ]
    }
 ]
