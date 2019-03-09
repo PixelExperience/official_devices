@@ -1,12 +1,17 @@
 #!/usr/bin/env python
 
-import os, json
+import os, json, sys
 
 paths = ['builds','devices.json']
 
 indents = 3
 
 def main():
+
+	if len(sys.argv) > 1:
+		formatter('builds/'+sys.argv[1]+".json")
+		exit()
+
 	for path in paths:
 		if os.path.isdir(path):
 			for file in os.listdir(path):
@@ -22,8 +27,8 @@ def formatter(path):
 		outfile = open(path, 'w')
 		json.dump(data, outfile, indent=indents)
 		print(path,"...SUCCESS")
-	except:
-		print(path,"...FAILED")
+	except Exception as e:
+		print(path,"...ERROR",e)
 
 if __name__== "__main__":
   main()
