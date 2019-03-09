@@ -45,15 +45,15 @@
          "file_size":1034998306,
          "md5":"614f414b1398c88b4362ac790cd81370"
       },
-	  {
-        "file_name":"PixelExperience_jasmine_sprout-9.0-20190213-1704-OFFICIAL.zip",
-        "file_size":1007950845,
-        "md5":"554464d96a55bf263406483b6e59cb03"
-     },
-	 {
-        "file_name": "PixelExperience_jasmine_sprout-9.0-20190309-1028-OFFICIAL.zip",
-        "file_size": 1117702863,
-        "md5": "e5164d64daccb0200c9944ac10eee8c7"
-    }
+      {
+         "file_name":"PixelExperience_jasmine_sprout-9.0-20190213-1704-OFFICIAL.zip",
+         "file_size":1007950845,
+         "md5":"554464d96a55bf263406483b6e59cb03"
+      },
+      {
+         "file_name":"PixelExperience_jasmine_sprout-9.0-20190309-1028-OFFICIAL.zip",
+         "file_size":1117702863,
+         "md5":"e5164d64daccb0200c9944ac10eee8c7"
+      }
    ]
 }
