@@ -1,43 +1,49 @@
 {
-   "oreo": [
+   "oreo":[
       {
-         "file_name": "PixelExperience_wayne-8.1.0-20180920-0457-OFFICIAL.zip",
-         "file_size": 998793944,
-         "md5": "32f9eb4f0af5bcbd0c9db6f9dcce859a"
+         "file_name":"PixelExperience_wayne-8.1.0-20180920-0457-OFFICIAL.zip",
+         "file_size":998793944,
+         "md5":"32f9eb4f0af5bcbd0c9db6f9dcce859a"
       },
       {
-         "file_name": "PixelExperience_wayne-8.1.0-20181020-0147-OFFICIAL.zip",
-         "file_size": 1003217509,
-         "md5": "0ada964801ee31ed3fc2ad713b61974e"
+         "file_name":"PixelExperience_wayne-8.1.0-20181020-0147-OFFICIAL.zip",
+         "file_size":1003217509,
+         "md5":"0ada964801ee31ed3fc2ad713b61974e"
       }
    ],
-   "pie": [
-      {
-         "file_name": "PixelExperience_wayne-9.0-20190125-0125-OFFICIAL.zip",
-         "file_size": 1157212057,
-         "md5": "6d84dde2a789e1adc72e6f24eb3f0d23"
+   "pie":[
+	  {
+        "file_name":"PixelExperience_wayne-9.0-20190125-0125-OFFICIAL.zip",
+        "file_size":1157212057,
+        "md5":"6d84dde2a789e1adc72e6f24eb3f0d23"
       },
-      {
-         "file_name": "PixelExperience_wayne-9.0-20190205-1218-OFFICIAL.zip",
-         "file_size": 1117934656,
-         "md5": "e6be0100c010a58aa469dbc22539678e"
+	  {
+        "file_name":"PixelExperience_wayne-9.0-20190205-1218-OFFICIAL.zip",
+        "file_size":1117934656,
+        "md5":"e6be0100c010a58aa469dbc22539678e"
       },
-      {
-         "file_name": "PixelExperience_wayne-9.0-20190212-1727-OFFICIAL.zip",
-         "file_size": 1116648192,
-         "md5": "bade2a6900210e80575079a598622aee"
+	  {
+        "file_name":"PixelExperience_wayne-9.0-20190212-1727-OFFICIAL.zip",
+        "file_size":1116648192,
+        "md5":"bade2a6900210e80575079a598622aee"
       },
-      {
-         "file_name": "PixelExperience_wayne-9.0-20190305-0642-OFFICIAL.zip",
-         "file_size": 1273829831,
-         "md5": "dcdfbb585aaa917852c00997c9e21dc6"
+	  {
+        "file_name":"PixelExperience_wayne-9.0-20190305-0642-OFFICIAL.zip",
+        "file_size":1273829831,
+        "md5":"dcdfbb585aaa917852c00997c9e21dc6"
       }
    ],
-   "pie_caf": [
+   "pie_caf":[
       {
-         "file_name": "PixelExperience_wayne-9.0-20190222-1034-CAF-OFFICIAL.zip",
-         "file_size": 1115141840,
-         "md5": "788ee7906fd19b8a97e479011b317be6"
+        "file_name":"PixelExperience_wayne-9.0-20190222-1034-CAF-OFFICIAL.zip",
+        "file_size":1115141840,
+        "md5":"788ee7906fd19b8a97e479011b317be6"
+      },
+	  {
+        "file_name": "PixelExperience_wayne-9.0-20190309-1336-CAF-OFFICIAL.zip",
+        "file_size": 1193433308,
+        "md5": "400105f5772de7c2dad2abddd4cd6375"
       }
+
    ]
 }
