@@ -1,0 +1,7 @@
+Changelog:-
+* March Security Patch Merged
+* Fixed lockscreen crash
+* Enabled fast charging
+* Fixed several camera issues
+* Added LeEco Extras
+* Fixed several bugs
