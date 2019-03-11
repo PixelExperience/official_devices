@@ -1003,6 +1003,12 @@
       "codename": "jason",
       "supported_versions": [
          {
+            "version_code": "pie_caf",
+            "version_name": "Pie (CAF edition)",
+            "maintainer_name": "EnesSastim",
+            "xda_thread": ""
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "EnesSastim",
