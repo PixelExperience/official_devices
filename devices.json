@@ -1003,16 +1003,16 @@
       "codename": "jason",
       "supported_versions": [
          {
-            "version_code": "pie_caf",
-            "version_name": "Pie (CAF edition)",
-            "maintainer_name": "EnesSastim",
-            "xda_thread": ""
-         },
-         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "EnesSastim",
             "xda_thread": "https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005"
+         },
+         {
+            "version_code": "pie_caf",
+            "version_name": "Pie (CAF edition)",
+            "maintainer_name": "EnesSastim",
+            "xda_thread": ""
          },
          {
             "version_code": "oreo",
