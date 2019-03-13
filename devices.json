@@ -1558,5 +1558,19 @@
             "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          }
       ]
+   },
+   {
+      "name":"Moto G5S",
+      "brand":"Motorola",
+      "codename":"montana",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"João Lucas (JohnLaff)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8411035",
+            "xda_thread":"https://forum.xda-developers.com/moto-g5s/development/rom-pixel-experience-t3896072"
+         }
+      ]
    }
 ]
