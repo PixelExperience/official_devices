@@ -1,0 +1,3 @@
+- Initial Release
+
+Minimum firmware: 9.0.4
