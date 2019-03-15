@@ -1,32 +1,12 @@
 {
    "oreo": [
       {
-         "file_name": "PixelExperience_rosy-8.1.0-20181108-2013-OFFICIAL.zip",
-         "file_size": 880262882,
-         "md5": "370eeaaf091c8709d56bcda9fabc0b23"
-      },
-      {
          "file_name": "PixelExperience_rosy-8.1.0-20181227-0024-OFFICIAL.zip",
          "file_size": 934588647,
          "md5": "4f7a19e3bcdea63325b3133b95867a6d"
       }
    ],
    "pie": [
-      {
-         "file_name": "PixelExperience_rosy-9.0-20190102-0704-OFFICIAL.zip",
-         "file_size": 1018758866,
-         "md5": "e999fcf9f31f972cd016e2e4ca845532"
-      },
-      {
-         "file_name": "PixelExperience_rosy-9.0-20190109-1556-OFFICIAL.zip",
-         "file_size": 962870555,
-         "md5": "639bc75093415fc2718b718c46c84d93"
-      },
-      {
-         "file_name": "PixelExperience_rosy-9.0-20190118-0041-OFFICIAL.zip",
-         "file_size": 963930655,
-         "md5": "a82f41997d87fdcd78e23c117263ff5b"
-      },
       {
          "file_name": "PixelExperience_rosy-9.0-20190207-1847-OFFICIAL.zip",
          "file_size": 948036130,
@@ -36,14 +16,14 @@
          "file_name": "PixelExperience_rosy-9.0-20190211-0639-OFFICIAL.zip",
          "file_size": 943874974,
          "md5": "a39ba5a43ab408ca7855966c17c4b3e9"
+      },
+      {
+         "file_name": "PixelExperience_rosy-9.0-20190313-1657-OFFICIAL.zip",
+         "file_size": 929116782,
+         "md5": "19d8f943fad5ff52980ccd7a196e655e"
       }
    ],
    "pie_go": [
-      {
-         "file_name": "PixelExperience_go_rosy-9.0-20190109-1331-OFFICIAL.zip",
-         "file_size": 720221566,
-         "md5": "8821e873233da96cb7b55e2d69959c83"
-      },
       {
          "file_name": "PixelExperience_go_rosy-9.0-20190110-1959-OFFICIAL.zip",
          "file_size": 695791790,
