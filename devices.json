@@ -802,6 +802,20 @@
       ]
    },
    {
+      "name":"Redmi Note 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"tulip",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Aryan Gupta",
+            "maintainer_url":"https://github.com/darkbeast69",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
       "name":"Moto E 2015 (LTE)",
       "brand":"Motorola",
       "codename":"surnia",
