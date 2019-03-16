@@ -1587,7 +1587,7 @@
          }
       ]
    },
-{
+   {
       "name":"Galaxy S7 Edge",
       "brand":"Samsung",
       "codename":"hero2lte",
@@ -1600,5 +1600,5 @@
             "xda_thread":"https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t3773983"
          }
       ]
-   },
+   }
 ]
