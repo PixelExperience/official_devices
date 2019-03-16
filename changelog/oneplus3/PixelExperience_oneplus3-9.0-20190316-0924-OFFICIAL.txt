@@ -1,0 +1,4 @@
+Upstreamed kernel to .136
+r34 merged
+Lots of device side improvements
+Added Sultan thermal stuff
