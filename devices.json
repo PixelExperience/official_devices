@@ -1592,5 +1592,33 @@
             "xda_thread":"https://forum.xda-developers.com/moto-g5s/development/rom-pixel-experience-t3896072"
          }
       ]
+   },
+   {
+      "name":"Galaxy S7",
+      "brand":"Samsung",
+      "codename":"herolte",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Luke Williams (DeveloperLuke)",
+            "maintainer_url":"https://t.me/DeveloperLuke",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t3773987"
+         }
+      ]
+   },
+   {
+      "name":"Galaxy S7 Edge",
+      "brand":"Samsung",
+      "codename":"hero2lte",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Luke Williams (DeveloperLuke)",
+            "maintainer_url":"https://t.me/DeveloperLuke",
+            "xda_thread":"https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t3773983"
+         }
+      ]
    }
 ]
