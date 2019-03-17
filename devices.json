@@ -905,19 +905,19 @@
       "codename":"ether",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"pie",
+            "maintainer_name":"Anierin Bliss (AnierinB)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7125966",
+            "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3912177"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Alexander Brunswig (NurKeinNeid)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5974762",
             "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3802848",
             "deprecated":true
-         },
-         {
-            "version_code":"pie",
-            "version_name":"pie",
-            "maintainer_name":"Anierin Bliss (AnierinB)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7125966",
-            "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3912177"
          }
       ]
    },
