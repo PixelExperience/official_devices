@@ -1620,5 +1620,19 @@
             "xda_thread":"https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t3773983"
          }
       ]
+   },
+   {
+      "name":"oneplus2",
+      "brand":"Oneplus",
+      "codename":"oneplus2",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Vigneshwar",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6123738",
+            "xda_thread":""
+         }
+      ]
    }
 ]
