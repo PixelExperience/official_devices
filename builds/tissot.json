@@ -51,6 +51,11 @@
          "file_name": "PixelExperience_tissot-9.0-20190307-0202-OFFICIAL.zip",
          "file_size": 902162083,
          "md5": "1111c7da251fb085398d8369b4624565"
+      },
+      {
+         "file_name": "PixelExperience_tissot-9.0-20190317-0420-OFFICIAL.zip",
+         "file_size": 905325570,
+         "md5": "86f3e17ab903447cde379131705f13a3"
       }
    ],
    "pie_caf": [
@@ -61,3 +66,4 @@
       }
    ]
 }
+
