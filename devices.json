@@ -1641,5 +1641,19 @@
             "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/9-0-0-pixel-experience-19-01-2019-t3891445"
          }
       ]
+   },
+   {
+      "name":"GM 5 Plus",
+      "brand":"General Mobile",
+      "codename":"shamrock",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"caneray",
+            "maintainer_url":"https://t.me/InfinityOfNights",
+            "xda_thread":""
+         }
+      ]
    }
 ]
