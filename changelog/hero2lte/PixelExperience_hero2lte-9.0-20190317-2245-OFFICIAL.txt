@@ -1,0 +1,2 @@
+- Added aptX and aptX HD codecs for Bluetooth audio
+- Added HealthServices and it's permissions.
