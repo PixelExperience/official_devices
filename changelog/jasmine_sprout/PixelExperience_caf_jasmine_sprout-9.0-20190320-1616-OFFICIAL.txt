@@ -1,0 +1,10 @@
+Changelogs:
+* Fixed 1080p 60fps recording.
+* Added Thermal Controller app
+* Added Mi Dirac
+* Fixed Gcam Issues.
+* Google Lens
+* Fixed SafetyNet
+* Fixed incall mic while in loudspeaker
+* QPerformance and UxPerformance oats
+* Update MiuiCamera now supports indian filtering
