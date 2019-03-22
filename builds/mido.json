@@ -53,6 +53,11 @@
          "file_name":"PixelExperience_mido-9.0-20190306-0114-CAF-OFFICIAL.zip",
          "file_size":933527809,
          "md5":"e9c30d20a311a7fd885e89cd147a4543"
-       }
+      },
+      {
+         "file_name": "PixelExperience_caf_mido-9.0-20190322-1343-OFFICIAL.zip",
+         "file_size": 934010019,
+         "md5": "00dd7dcb4b22a88e20aa3a2d914d2a4a"
+      }
    ]
 }
