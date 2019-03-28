@@ -1654,5 +1654,21 @@
             "xda_thread":""
          }
       ]
+   },
+   { 
+      "name":"Xiaomi Mi Max/Prime",
+      "brand":"Xiaomi",
+      "codename":"hydrogen/helium",
+      "supported_versions":[
+        {
+           "version_code":"Pie",
+           "version_name":"Pie",
+           "maintainer_name":"Rohit",
+           "maintainer_url":"https://t.me/DEADDEADPOOL",
+           "xda_thread":""
+        }
+      ]
    }
+            
+
 ]
