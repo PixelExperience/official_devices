@@ -1601,6 +1601,13 @@
             "maintainer_name":"João Lucas (JohnLaff)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8411035",
             "xda_thread":"https://forum.xda-developers.com/moto-g5s/development/rom-pixel-experience-t3896072"
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"JarlPenguin",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506129",
+            "xda_thread":"https://forum.xda-developers.com/moto-g5s/development/rom-pixel-experience-t3916829"
          }
       ]
    },
