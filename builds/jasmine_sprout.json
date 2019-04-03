@@ -59,11 +59,6 @@
          "file_name": "PixelExperience_jasmine_sprout-9.0-20190320-1937-OFFICIAL.zip",
          "file_size": 1076661771,
          "md5": "3c777ecd9011b1316ec155215527fb38"
-      },
-      {
-         "file_name": "PixelExperience_jasmine_sprout-9.0-20190403-2133-OFFICIAL.zip",
-         "file_size": 1241022351,
-         "md5": "5cc018ad2d22eafb722b134d6dfebd39"
       }
    ],
    "pie_caf":[
@@ -77,6 +72,5 @@
          "file_size": 1290779058,
          "md5": "20edd5f8124b7b23e76d243f128585d3"
       }
-
    ]
 }
