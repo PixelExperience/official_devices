@@ -2,7 +2,6 @@ ROM Side:
 - Dark theme improved
 - OTA app improved
 - Translations updated
-- April Security Patch
 
 Device Side:
 - Changed to F1xy Kernel by Yaro
