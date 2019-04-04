@@ -8,14 +8,14 @@
    ],
    "pie": [
       {
-         "file_name": "PixelExperience_lithium-9.0-20190205-1543-OFFICIAL.zip",
-         "file_size": 918250666,
-         "md5": "33690f8dd86f9d4130efcc8f2c1437aa"
-      },
-      {
          "file_name": "PixelExperience_lithium-9.0-20190305-2353-OFFICIAL.zip",
          "file_size": 918076754,
          "md5": "fbb01fa89db88afc233263df5f21e207"
+      },
+      {
+         "file_name": "PixelExperience_lithium-9.0-20190404-0031-OFFICIAL.zip",
+         "file_size": 921890088,
+         "md5": "c097e2aed7936fe31b4d3a28838c6ad1"
       }
    ],
    "pie-caf": [
