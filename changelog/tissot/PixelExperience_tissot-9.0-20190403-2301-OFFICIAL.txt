@@ -1,0 +1,10 @@
+* April security patch merged
+* Dark theme improved 
+* Removed smart clock
+* OTA app improved
+* Translations updated
+
+
+
+NOTE •JANUARY FIRMWARE IS A MUST
+     •NO BUG REPORTS IF U USE ANY MODS/PATCHES
