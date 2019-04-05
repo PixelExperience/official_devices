@@ -1,0 +1,9 @@
+April Security Patch
+* Audio:
+Add Dirac Support
+* Camera:
+Fixed Gcam && MiuiCamera
+* Kernel
+Upstream to 4.9.167
+* Misc:
+Several Issues Fixed
