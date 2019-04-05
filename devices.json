@@ -1103,7 +1103,14 @@
             "version_name":"Pie",
             "maintainer_name":"PIPIPIG233666(\u5b54\u7ef4\u6977)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/mi-5x/development/rom-pixel-experience-t3890384"
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"PIPIPIG233666(\u5b54\u7ef4\u6977)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
+            "xda_thread":"https://forum.xda-developers.com/mi-5x/development/rom-pixel-experience-t3890384"
          }
       ]
    },
