@@ -2,28 +2,35 @@
    "pie": [
       {
          "file_name": "PixelExperience_tiffany-9.0-20181027-0306-OFFICIAL.zip", 
-         "md5": "63a29ac498327c8a03eddd9274b01abe", 
-         "file_size": 987409923
+         "file_size": 987409923, 
+         "md5": "63a29ac498327c8a03eddd9274b01abe"
       }, 
       {
          "file_name": "PixelExperience_tiffany-9.0-20181111-0708-OFFICIAL.zip", 
-         "md5": "c3466fd744621d89d5b8b44b329305d6", 
-         "file_size": 977204175
+         "file_size": 977204175, 
+         "md5": "c3466fd744621d89d5b8b44b329305d6"
       }, 
       {
          "file_name": "PixelExperience_tiffany-9.0-20190116-0527-OFFICIAL.zip", 
-         "md5": "28e9fb78064e7be8fd717350d07fba3c", 
-         "file_size": 997629284
+         "file_size": 997629284, 
+         "md5": "28e9fb78064e7be8fd717350d07fba3c"
       }, 
       {
          "file_name": "PixelExperience_tiffany-9.0-20190213-0853-OFFICIAL.zip", 
-         "md5": "2fcee9eebf96591c557929644ce33d28", 
-         "file_size": 1027858953
+         "file_size": 1027858953, 
+         "md5": "2fcee9eebf96591c557929644ce33d28"
       }, 
       {
          "file_name": "PixelExperience_tiffany-9.0-20190405-1145-OFFICIAL.zip", 
-         "md5": "9f33e74c0541e65aa96caef4f064f3dd", 
-         "file_size": 1060892644
+         "file_size": 1060892644, 
+         "md5": "9f33e74c0541e65aa96caef4f064f3dd"
+      }
+   ], 
+   "pie_caf": [
+      {
+         "file_name": "PixelExperience_caf_tiffany-9.0-20190405-2146-OFFICIAL.zip", 
+         "md5": "f053e73667bfe13c253d85d8be2a4ed9", 
+         "file_size": 1066093235
       }
    ]
 }
