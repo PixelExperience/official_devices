@@ -1,7 +1,5 @@
 PixelExperience:
 
-- April Security Patch
-- Smart Clock removed (for those devices who had that feature)
 - OTA app Improved
 - Dark Theme improved
 - Improved weather
@@ -10,10 +8,10 @@ PixelExperience:
 Device Specific:
 
 - Hello Pocketmode app (prevents from device wake up on your pocket)
-- Improved notch control (Settings > Display)
+- Kernel upstreamed to 4.9.167 and built with clang 9.0.1
 - Improved GPS Accuracy
-- Added support for MIUI 9.3.X based vendors (9.3.7 or newer ffs)
-- Kernel upstreamed to 4.9.167
 - Fixed manual network select
+- Notch Control is back (yay!)(Settings > Display)
+- Added support for new vendors (9.3.X (except 9.3.1 and 9.3.7. Those I really don't recommend) and 9.4.X)
 
 Minimum Firmware: 9.2.15
