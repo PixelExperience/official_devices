@@ -32,7 +32,7 @@
          "file_size": 1012362978,
          "md5": "7b9025879a9fc7a2eedfce4647284f62"
       },
-	  {
+      {
          "file_name": "PixelExperience_vince-9.0-20190307-0739-OFFICIAL.zip",
          "file_size": 1011901770,
          "md5": "bce811f94bfe4d887c391ed616be73ed"
@@ -45,14 +45,14 @@
          "md5": "aea75b635a61ef61ed2fffb91caeba29"
       },
       {
-       "file_name": "PixelExperience_caf_vince-9.0-20190313-0800-OFFICIAL.zip",
-       "file_size": 1002997863,
-       "md5": "7a49db98fc959617e44ec2ddd216f6bd"
+         "file_name": "PixelExperience_caf_vince-9.0-20190313-0800-OFFICIAL.zip",
+         "file_size": 1002997863,
+         "md5": "7a49db98fc959617e44ec2ddd216f6bd"
       },
       {
-       "file_name": "PixelExperience_caf_vince-9.0-20190328-1421-OFFICIAL.zip",
-       "file_size": 1001778320,
-       "md5": "54aadd934803a50da9d0c6935e095dbb"
+         "file_name": "PixelExperience_caf_vince-9.0-20190328-1421-OFFICIAL.zip",
+         "file_size": 1001778320,
+         "md5": "54aadd934803a50da9d0c6935e095dbb"
       }
    ]
 }
