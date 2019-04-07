@@ -1,26 +1,26 @@
 {
-   "oreo": [
+   "oreo":[
       {
-         "file_name": "PixelExperience_kenzo-8.1.0-20180810-1223-OFFICIAL.zip",
-         "file_size": 844344718,
-         "md5": "9dbb39136e66a52dfac5158933f953d9"
+         "file_name":"PixelExperience_kenzo-8.1.0-20180810-1223-OFFICIAL.zip",
+         "file_size":844344718,
+         "md5":"9dbb39136e66a52dfac5158933f953d9"
       }
    ],
-   "pie": [
+   "pie":[
       {
-         "file_name": "PixelExperience_kenzo-9.0-20181115-1723-OFFICIAL.zip",
-         "file_size": 914650246,
-         "md5": "7a1cdabbe1ee02dd436f027538bd2e42"
+         "file_name":"PixelExperience_kenzo-9.0-20181115-1723-OFFICIAL.zip",
+         "file_size":914650246,
+         "md5":"7a1cdabbe1ee02dd436f027538bd2e42"
       },
       {
-         "file_name": "PixelExperience_kenzo-9.0-20181121-0431-OFFICIAL.zip",
-         "file_size": 928779097,
-         "md5": "6704d49b7a31e28645d6dcb601f92dc4"
+         "file_name":"PixelExperience_kenzo-9.0-20181121-0431-OFFICIAL.zip",
+         "file_size":928779097,
+         "md5":"6704d49b7a31e28645d6dcb601f92dc4"
       },
       {
-         "file_name": "PixelExperience_kenzo-9.0-20190325-1320-OFFICIAL.zip",
-         "file_size": 914957126,
-         "md5": "e3a3411e1c1040ce58fb60f2aca8a4bd"
+         "file_name":"PixelExperience_kenzo-9.0-20190325-1320-OFFICIAL.zip",
+         "file_size":914957126,
+         "md5":"e3a3411e1c1040ce58fb60f2aca8a4bd"
       }
    ],
    "pie_caf":[
@@ -28,6 +28,11 @@
          "file_name":"PixelExperience_caf_kenzo-9.0-20190403-1612-OFFICIAL.zip",
          "file_size":918591167,
          "md5":"6e2548fbe76bee4d7308408b41393114"
+      },
+      {
+         "file_name":"PixelExperience_caf_kenzo-9.0-20190407-0430-OFFICIAL.zip",
+         "file_size":918905933,
+         "md5":"9c16649a6e9fb5e9d3f86922b9a901ad"
       }
    ]
 }
