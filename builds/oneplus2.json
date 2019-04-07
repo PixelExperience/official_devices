@@ -1,19 +1,19 @@
 {
-   "pie":[
+   "pie": [
       {
-         "file_name":"PixelExperience_oneplus2-9.0-20190317-1600-OFFICIAL.zip",
-         "file_size":967541168,
-         "md5":"0661a1ae192b797618de3f12ca1bea3e"
+         "file_name": "PixelExperience_oneplus2-9.0-20190317-1600-OFFICIAL.zip",
+         "file_size": 967541168,
+         "md5": "0661a1ae192b797618de3f12ca1bea3e"
       },
       {
-         "file_name":"PixelExperience_oneplus2-9.0-20190320-1753-OFFICIAL.zip",
-         "file_size":967616532,
-         "md5":"548d9417b873873820132c70d28758bd"
+         "file_name": "PixelExperience_oneplus2-9.0-20190320-1753-OFFICIAL.zip",
+         "file_size": 967616532,
+         "md5": "548d9417b873873820132c70d28758bd"
       },
       {
-         "file_name":"PixelExperience_oneplus2-9.0-20190406-1123-OFFICIAL.zip",
-         "file_size":967854573,
-         "md5":"ca0f28387548994dc2e0c52b1de4d721"
+         "file_name": "PixelExperience_oneplus2-9.0-20190406-1123-OFFICIAL.zip",
+         "file_size": 967854573,
+         "md5": "ca0f28387548994dc2e0c52b1de4d721"
       }
    ]
 }
