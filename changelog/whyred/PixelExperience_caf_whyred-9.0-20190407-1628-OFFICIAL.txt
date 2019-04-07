@@ -1,4 +1,4 @@
-* Derp kernel 5.0
+* Derp kernel 5.2
 * Thermal improvements
 * Dark theme improved
 * OTA app improved
