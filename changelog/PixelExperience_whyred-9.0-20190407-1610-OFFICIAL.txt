@@ -1,0 +1,6 @@
+* April security patch
+* Derp kernel 5.0
+* Thermal improvements
+* Dark theme improved
+* OTA app improved
+* Translations updated
