@@ -41,6 +41,11 @@
          "file_name": "PixelExperience_z2_plus-9.0-20190403-1533-OFFICIAL.zip",
          "file_size": 929164133,
          "md5": "2e2ff22ffca8a2946d013bc7f2a62c9a"
+      },
+      {
+         "file_name": "PixelExperience_z2_plus-9.0-20190407-2053-OFFICIAL.zip",
+         "file_size": 927743595,
+         "md5": "4a90be3e87ef7c6bc6e81fb66cbf110b"
       }
    ],
    "pie_caf": [
@@ -58,6 +63,11 @@
          "file_name": "PixelExperience_caf_z2_plus-9.0-20190403-1557-OFFICIAL.zip",
          "file_size": 933031297,
          "md5": "a97697baa8326658b461339bb3b6c9ee"
+      },
+      {
+         "file_name": "PixelExperience_caf_z2_plus-9.0-20190407-2114-OFFICIAL.zip",
+         "file_size": 931457016,
+         "md5": "c09298f45c9b7fcdfa9b451ac660d9ae"
       }
    ]
 }
