@@ -1,0 +1,3 @@
++ Updated to April Security Patch
++ Ambient Display brightness increased
++ Changes in Kernel 
