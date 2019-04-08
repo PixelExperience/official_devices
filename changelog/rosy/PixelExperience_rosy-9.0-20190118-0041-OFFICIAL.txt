@@ -1,6 +1,0 @@
-• fixed In-Call volume unadjusable (no need patch now)
-• fixed "Internal problem" warning on reboot
-• Update Bluetooth stuffs from pie
-• Update Vulkan from pie
-• Update brightness overlays
-• other things.. which i missed

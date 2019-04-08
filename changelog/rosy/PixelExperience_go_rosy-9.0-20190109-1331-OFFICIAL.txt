@@ -1,5 +1,0 @@
-1. January Security patch
-2. Fixed Translation
-3. Updated Gapps
-4. Minor Improvements
-5. Initial Build
