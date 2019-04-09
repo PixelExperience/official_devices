@@ -1,0 +1,3 @@
+*Fixed deepsleep bug
+*Updated AGK kernel to v2.5.1
+Note : Please do a clean flash if facing any problem
