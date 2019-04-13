@@ -15,3 +15,5 @@ Device specific:
 - Enabled some battery side configs
 - Kernel also upstreamed to 4.4.178
 - Fixed manual network select
+
+Minimu firmware: 9.0.4
