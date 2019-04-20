@@ -157,6 +157,13 @@
             "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763"
          },
          {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Akash Srivastava (markakash)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763"
+         },
+         {
             "version_code":"oreo",
             "version_name":"Oreo",
             "maintainer_name":"Akash Srivastava (markakash)",
@@ -1468,9 +1475,9 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"David Sn (Codebucket)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7339792",
-            "deprecated":true
+            "maintainer_name":"Nick van Bokhorst (GtrCraft)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
+            "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008"
          }
       ]
    },
