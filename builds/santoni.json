@@ -21,6 +21,11 @@
          "file_name": "PixelExperience_santoni-9.0-20190307-0729-OFFICIAL.zip",
          "file_size": 950113501,
          "md5": "32ce7ce81df67a4ebaf1c7fe69d86767"
+      },
+      {
+         "file_name": "PixelExperience_santoni-9.0-20190408-1052-OFFICIAL.zip",
+         "file_size": 972228471,
+         "md5": "de40c7a77817000f61a896f582b7dd03"
       }
    ],
    "pie_caf": [
@@ -40,9 +45,14 @@
          "md5": "7aaeddfca6f492246bf25490017a8037"
       },
       {
-        "file_name": "PixelExperience_caf_santoni-9.0-20190329-1318-OFFICIAL.zip",
-        "file_size": 984903088,
-        "md5": "239915fe118ded5135442312247a5d36"
+         "file_name": "PixelExperience_caf_santoni-9.0-20190329-1318-OFFICIAL.zip",
+         "file_size": 984903088,
+         "md5": "239915fe118ded5135442312247a5d36"
+      },
+      {
+         "file_name": "PixelExperience_caf_santoni-9.0-20190407-1219-OFFICIAL.zip",
+         "file_size": 1005428228,
+         "md5": "467cbda88811bd5553cd0fb25004da46"
       }
    ]
 }

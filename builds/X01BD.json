@@ -9,8 +9,13 @@
          "file_name": "PixelExperience_X01BD-9.0-20190308-0745-OFFICIAL.zip",
          "file_size": 994438913,
          "md5": "9223ee51233c31b99b04653f5f2152f2"
+      },
+      {
+         "file_name": "PixelExperience_X01BD-9.0-20190406-0742-OFFICIAL.zip",
+         "file_size": 1023530766,
+         "md5": "57d3df7c218e671c21bcd39d6b1aee52"
       }
- ],
+   ],
    "pie_caf": [
       {
          "file_name": "PixelExperience_X01BD-9.0-20190226-1949-CAF-OFFICIAL.zip",
@@ -26,6 +31,11 @@
          "file_name": "PixelExperience_X01BD-9.0-20190309-1532-CAF-OFFICIAL.zip",
          "file_size": 1001451422,
          "md5": "60c3b211ab905b3af3487db307124baa"
+      },
+      {
+         "file_name": "PixelExperience_caf_X01BD-9.0-20190406-1142-OFFICIAL.zip",
+         "file_size": 1030335537,
+         "md5": "2efd3513eb4f7c0d7ebe7529faf596d7"
       }
    ]
 }

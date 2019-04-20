@@ -36,6 +36,11 @@
          "file_name": "PixelExperience_platina-9.0-20190330-1110-OFFICIAL.zip",
          "file_size": 1182621617,
          "md5": "7ccf57cd892c5964385625dc2a78e02a"
+      },
+      {
+         "file_name": "PixelExperience_platina-9.0-20190410-0054-OFFICIAL.zip",
+         "file_size": 1178173818,
+         "md5": "94639ec393b0340fbb06a5b47937c096"
       }
    ],
    "pie_caf": [
@@ -63,6 +68,11 @@
          "file_name": "PixelExperience_caf_platina-9.0-20190320-0250-OFFICIAL.zip",
          "file_size": 1178085631,
          "md5": "e8b2b2273d1ede3de38fe96074921bfc"
+      },
+      {
+         "file_name": "PixelExperience_caf_platina-9.0-20190411-2347-OFFICIAL.zip",
+         "file_size": 1182034668,
+         "md5": "4d232bda8665b3d8bf8627ae97ec5b98"
       }
    ]
 }

@@ -1,9 +1,0 @@
-=======================
-    2019-03-09
-=======================
-*Kernel Update to 4.4.177
-*LA.UM.7.2.r1-06500 merged
-*fix low volume in calls
-*fix flash /torch issue
-*fix USB tethering
-*fix manual network selection

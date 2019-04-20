@@ -46,21 +46,21 @@
          "md5": "cf63a87a473003720728fcf4927139bf"
       },
       {
-        "file_name": "PixelExperience_cedric-9.0-20190320-1058-OFFICIAL.zip",
-        "file_size": 806763722,
-        "md5": "319b637511fe97dfe98abdc92022f560"
+         "file_name": "PixelExperience_cedric-9.0-20190320-1058-OFFICIAL.zip",
+         "file_size": 806763722,
+         "md5": "319b637511fe97dfe98abdc92022f560"
       },
       {
-        "file_name": "PixelExperience_cedric-9.0-20190404-1022-OFFICIAL.zip",
-        "file_size": 811062492,
-        "md5": "08525d024ad05bced469a9e471daa48f"
+         "file_name": "PixelExperience_cedric-9.0-20190404-1022-OFFICIAL.zip",
+         "file_size": 811062492,
+         "md5": "08525d024ad05bced469a9e471daa48f"
       }
-],
+   ],
    "pie_caf": [
       {
-        "file_name": "PixelExperience_caf_cedric-9.0-20190329-1906-OFFICIAL.zip",
-        "file_size": 811195851,
-        "md5": "0612d7e1f878c91d9d093b86bd88e68b"
+         "file_name": "PixelExperience_caf_cedric-9.0-20190329-1906-OFFICIAL.zip",
+         "file_size": 811195851,
+         "md5": "0612d7e1f878c91d9d093b86bd88e68b"
       }
    ]
 }

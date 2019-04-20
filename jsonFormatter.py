@@ -25,7 +25,7 @@ def formatter(path):
 	try:
 		data = json.loads(open(path).read())
 		outfile = open(path, 'w')
-		json.dump(data, outfile, indent=indents)
+		json.dump(data, outfile, indent=indents, ensure_ascii=False)
 		print(path,"...SUCCESS")
 	except Exception as e:
 		print(path,"...ERROR",e)
