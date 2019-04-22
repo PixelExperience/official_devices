@@ -1,0 +1,6 @@
+*WE are back in business*
+[*] April security patch
+[*] Fixed occasional crashes on some apps (such as Spotify, and some logcat apps)
+[*] More SELinux fixes
+[*] Updated Adreno graphics blobs
+[*] Other fixes I forgot about...
