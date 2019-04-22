@@ -455,14 +455,15 @@
       ]
    },
    {
-      "name":"Moto G 2014",
+      "name":"Moto G2",
       "brand":"Motorola",
       "codename":"titan",
       "supported_versions":[
          {
-            "version_code":"oreo",
-            "version_name":"Oreo",
-            "deprecated":true
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Rais (thedeadfish59)"
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910",
          }
       ]
    },
