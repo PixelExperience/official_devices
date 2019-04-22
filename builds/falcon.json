@@ -1,38 +1,31 @@
 {
-   "oreo": [
+   "oreo":[
       {
-         "file_name": "PixelExperience_falcon-8.1.0-20181017-1301-OFFICIAL.zip",
-         "file_size": 441452441,
-         "md5": "0fbcad634c5940e1c0312c9a4cec7355"
+         "file_name":"PixelExperience_falcon-8.1.0-20181017-1301-OFFICIAL.zip",
+         "file_size":441452441,
+         "md5":"0fbcad634c5940e1c0312c9a4cec7355"
       },
       {
-         "file_name": "PixelExperience_falcon-8.1.0-20181229-1153-OFFICIAL.zip",
-         "file_size": 418614570,
-         "md5": "be3275cf169ad1ab56c953739a251cad"
+         "file_name":"PixelExperience_falcon-8.1.0-20181229-1153-OFFICIAL.zip",
+         "file_size":418614570,
+         "md5":"be3275cf169ad1ab56c953739a251cad"
       }
    ],
-   "pie": [
+   "pie":[
       {
-         "file_name": "PixelExperience_falcon-9.0-20181205-1317-OFFICIAL.zip",
-         "file_size": 453546871,
-         "md5": "c0a76289b4e3cdaa303c9f19aa215bd5"
+         "file_name":"PixelExperience_falcon-9.0-20181205-1317-OFFICIAL.zip",
+         "file_size":453546871,
+         "md5":"c0a76289b4e3cdaa303c9f19aa215bd5"
       },
       {
-         "file_name": "PixelExperience_falcon-9.0-20181222-1325-OFFICIAL.zip",
-         "file_size": 445989342,
-         "md5": "a4d181715928218f8d303fe8efea457f"
-      }
+         "file_name":"PixelExperience_falcon-9.0-20181222-1325-OFFICIAL.zip",
+         "file_size":445989342,
+         "md5":"a4d181715928218f8d303fe8efea457f"
+      },
       {
-         "file_name": "PixelExperience_falcon-9.0-20190422-1526-OFFICIAL.zip",
-         "file_size": 421952428,
-         "md5": "ee9cbaca29bfc527df114724c70ac6c7"
-      }
-   ],
-   "pie_go": [
-      {
-         "file_name": "PixelExperience_go_falcon-9.0-20181108-0927-OFFICIAL.zip",
-         "file_size": 460288592,
-         "md5": "032b269291a72f675b263602addcd428"
+         "file_name":"PixelExperience_falcon-9.0-20190422-1526-OFFICIAL.zip",
+         "file_size":421952428,
+         "md5":"ee9cbaca29bfc527df114724c70ac6c7"
       }
    ]
 }
