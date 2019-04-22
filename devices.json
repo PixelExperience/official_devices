@@ -253,7 +253,7 @@
       ]
    },
    {
-      "name":"Moto G 2015",
+      "name":"Moto G3",
       "brand":"Motorola",
       "codename":"osprey",
       "supported_versions":[
@@ -462,8 +462,8 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Rais (thedeadfish59)"
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910",
+            "maintainer_name":"Rais (thedeadfish59)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910"
          }
       ]
    },
