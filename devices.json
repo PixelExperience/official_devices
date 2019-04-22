@@ -464,6 +464,11 @@
             "version_name":"Pie",
             "maintainer_name":"Rais (thedeadfish59)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910"
+         },
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "deprecated":true
          }
       ]
    },
