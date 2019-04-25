@@ -1,0 +1,4 @@
+*Deleted buttons lights(No hardware support)
+*Replaced stock camera app to Gcam
+*Some battery optimizations
+*Some mobile data optimizations

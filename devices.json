@@ -1727,5 +1727,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t3911489"
          }
       ]
+   },
+   {
+      "name":"Redmi 4 Prime",
+      "brand":"Xiaomi",
+      "codename":"markw",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Granrage",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9752415",
+            "xda_thread":"https://forum.xda-developers.com/redmi-4-prime/development/rom-pixel-experience-t3924420"
+         }
+      ]
    }
 ]
