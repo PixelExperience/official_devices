@@ -4,4 +4,4 @@ Changelog:
 • Merge latest CAF tag into Kernel
 • DTV App updated
 • VoLTE Working and Stable
-• WFD Workings, FMRadio Working
+• WFD Working, FMRadio Working
