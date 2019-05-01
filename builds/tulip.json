@@ -24,8 +24,13 @@
          "file_name": "PixelExperience_tulip-9.0-20190416-1827-OFFICIAL.zip",
          "file_size": 1046743650,
          "md5": "8e52f7706944fb93ed37ec78db622e27"
+      },
+      {
+  	 "file_name": "PixelExperience_tulip-9.0-20190501-0903-OFFICIAL.zip",
+         "file_size": 1122058495,
+	 "md5": "ca8044f58f9586410ceeeb52fe646cf1"
       }
-   ],
+     ],
    "pie_caf": [
       {
          "file_name": "PixelExperience_caf_tulip-9.0-20190403-2219-OFFICIAL.zip",
