@@ -1,6 +1,7 @@
 DEVICE CHANGELOG :-
 
 * Added 18:9 support
+* Added MIUI camera
 * Update To MIUI Pie beta 9.4.12
 * Fixed stereo recording 
 * Fixed 5Ghz without sim card or flightmode
