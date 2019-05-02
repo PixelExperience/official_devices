@@ -39,15 +39,5 @@
       }
    ],
    "pie_caf": [
-      {
-         "file_name": "PixelExperience_wayne-9.0-20190222-1034-CAF-OFFICIAL.zip",
-         "file_size": 1115141840,
-         "md5": "788ee7906fd19b8a97e479011b317be6"
-      },
-      {
-         "file_name": "PixelExperience_wayne-9.0-20190309-1336-CAF-OFFICIAL.zip",
-         "file_size": 1193433308,
-         "md5": "400105f5772de7c2dad2abddd4cd6375"
-      }
    ]
 }
