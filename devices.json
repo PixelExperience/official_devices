@@ -1527,7 +1527,8 @@
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Zilberto Junior (resk84)",
             "maintainer_url":"https://t.me/resk84",
-            "xda_thread":""
+            "xda_thread":"",
+            "deprecated": true
          }
       ]
    },
