@@ -442,7 +442,7 @@
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Rohan Hasabe (Hasaber8)",
             "maintainer_url":"https://t.me/Hasaber8",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3907168/post79035706#post79035706",
          },
          {
             "version_code":"oreo",
@@ -1599,7 +1599,14 @@
             "maintainer_name":"Parshva",
             "maintainer_url":"https://t.me/parshva99",
             "xda_thread":""
-         }
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Hasaber8",
+            "maintainer_url":"https://t.me/Hasaber8",
+            "xda_thread":"https://forum.xda-developers.com/one-power/development/official-pixel-experience-t3927827/post79474553#post79474553"
+         },
       ]
    },
    {
