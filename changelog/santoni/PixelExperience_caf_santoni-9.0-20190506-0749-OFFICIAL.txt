@@ -43,10 +43,7 @@ Caffeine
 LiveDisplay and reading mode
 
 DEVICE SIDE CHANGES:-
-- Added font customization
-- Added battery styles (including android q style)
-- Expanded volume panel
-Device:
+
 - Camera hal fixes
 - Cleaned up usb configs
 - Back to gcc
