@@ -64,5 +64,12 @@
          "file_size":931577502,
          "md5":"4cecf4e65ccd48d5c54d86a05d320ebd"
       }
+   ],
+   "pie_go": [
+      {
+         "file_name": "PixelExperience_go_kenzo-9.0-20190507-1143-OFFICIAL.zip",
+         "file_size":690826603,
+         "md5": "fe877df251a23aa54a48c798c4b3fc08"
+      }
    ]
 }
