@@ -1736,7 +1736,14 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Saksham",
+            "maintainer_name":"Saksham_033",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t3911489"
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Saksham_033",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
             "xda_thread":"https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t3911489"
          }
