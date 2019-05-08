@@ -1,5 +1,7 @@
 ROM Side (New Features):
 
+It´s Recomended a Clean Flash.
+
 - May Security Patch
 
 Features:
