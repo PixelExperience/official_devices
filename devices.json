@@ -830,6 +830,20 @@
       ]
    },
    {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "supported_versions": [
+         {
+            "version_code": "pie_caf",
+            "version_name": "Pie (CAF edition)",
+            "maintainer_name": "Dyneteve",
+            "maintainer_url": "https://github.com/Dyneteve",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
+         }
+      ]
+   },
+   {
       "name": "Moto E 2015 (LTE)",
       "brand": "Motorola",
       "codename": "surnia",
