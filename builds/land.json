@@ -41,9 +41,14 @@
   	 "file_name": "PixelExperience_land-9.0-20190508-0940-OFFICIAL.zip",
   	 "file_size": 970910324,
   	 "md5": "ccf9d37b7df7096c9df91eb2f8e18ae6"
+      },
+      {
+	 "file_name": "PixelExperience_land-9.0-20190508-1437-OFFICIAL.zip",
+  	 "file_size": 970932286,
+  	 "md5": "84c684173f5866a2eca3b4262ceb0f3c"
       }
 
-   ],
+ ],
    "pie_caf": [
       {
          "file_name": "PixelExperience_land-9.0-20190224-1549-CAF-OFFICIAL.zip",
