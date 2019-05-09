@@ -41,6 +41,11 @@
          "file_name": "PixelExperience_wayne-9.0-20190507-0200-OFFICIAL.zip",
          "file_size": 1055877277,
          "md5": "db9079d7fb8e5f1b402aae03e5b900d5"
+      },
+      {
+         "file_name": "PixelExperience_wayne-9.0-20190508-2151-OFFICIAL.zip",
+         "file_size": 1111211238,
+         "md5": "c1e007b4a42cf75b77537ce7bb616884"
       }
    ],
    "pie_caf": [
@@ -48,6 +53,11 @@
          "file_name": "PixelExperience_caf_wayne-9.0-20190506-2341-OFFICIAL.zip",
          "file_size": 1059823488,
          "md5": "aaed3e749accf273350c7fd40bd2ceb6"
+      },
+      {
+         "file_name": "PixelExperience_caf_wayne-9.0-20190508-2215-OFFICIAL.zip",
+         "file_size": 1095738003,
+         "md5": "afefa647c1e6391ba02bebcdd91d4895"
       }
    ]
 }
