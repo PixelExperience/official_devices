@@ -71,6 +71,16 @@
          "file_name":"PixelExperience_whyred-9.0-20190419-2125-OFFICIAL.zip",
          "file_size":1086790562,
          "md5":"fd362fe0a6381cb6293f73d224ed43b6"
+      },
+      {
+         "file_name":"PixelExperience_whyred-9.0-20190507-0130-OFFICIAL.zip",
+         "file_size":1099097936,
+         "md5":"704717c68075920287d1f10521617ab9"
+      },
+      {
+         "file_name":"PixelExperience_whyred-9.0-20190508-2229-OFFICIAL.zip",
+         "file_size":1099381019,
+         "md5":"1ca223c5e1dd3d0d106768011aab3aba"
       }
    ],
    "pie_caf":[
@@ -103,6 +113,26 @@
          "file_name":"PixelExperience_caf_whyred-9.0-20190419-2226-OFFICIAL.zip",
          "file_size":1091808431,
          "md5":"289cd805137952db2adbab9cba969592"
+      },
+      {
+         "file_name":"PixelExperience_caf_whyred-9.0-20190420-1855-OFFICIAL.zip",
+         "file_size":1092177068,
+         "md5":"f027425e745533363e7a3c1e93778e0e"
+      },
+      {
+         "file_name":"PixelExperience_caf_whyred-9.0-20190505-2035-OFFICIAL.zip",
+         "file_size":1103203864,
+         "md5":"c640e64ce54d50865898fb16d89503fb"
+      },
+      {
+         "file_name":"PixelExperience_caf_whyred-9.0-20190506-1905-OFFICIAL.zip",
+         "file_size":1103718879,
+         "md5":"0878dc1a7d316aa803aabdb9074a4240"
+      },
+      {
+         "file_name":"PixelExperience_caf_whyred-9.0-20190508-2211-OFFICIAL.zip",
+         "file_size":1103689995,
+         "md5":"8507a9fba0d81ec7e3047fe8cabbb059"
       }
    ]
 }

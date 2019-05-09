@@ -41,6 +41,11 @@
          "file_name": "PixelExperience_vince-9.0-20190413-1302-OFFICIAL.zip",
          "file_size": 953376277,
          "md5": "9895e350a03241a484bd1742cb4eb7a1"
+      },
+      {
+         "file_name": "PixelExperience_vince-9.0-20190507-1513-OFFICIAL.zip",
+         "file_size": 972610498,
+         "md5": "c0ee1abc5b6b612d447b49a23651236f"
       }
    ],
    "pie_caf": [
@@ -63,7 +68,16 @@
          "file_name": "PixelExperience_caf_vince-9.0-20190412-1233-OFFICIAL.zip",
          "file_size": 957028443,
          "md5": "997010ad5c8efd58298bc076e095a71d"
+      },
+      {
+         "file_name": "PixelExperience_caf_vince-9.0-20190421-0927-OFFICIAL.zip",
+         "file_size": 957131861,
+         "md5": "0f9c49f4b9163d588068b478f66b53d4"
+      },
+      {
+         "file_name": "PixelExperience_caf_vince-9.0-20190506-0907-OFFICIAL.zip",
+         "file_size": 975887910,
+         "md5": "f0c8b3e5bb9c6057b62ad926f5dc61aa"
       }
-
    ]
 }
