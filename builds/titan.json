@@ -11,6 +11,18 @@
          "file_name": "PixelExperience_titan-9.0-20190423-0424-OFFICIAL.zip",
          "file_size": 484544537,
          "md5": "c96f95679f5d07d0e75da732e73b1b9e"
-      }
+      },
+      {
+   "file_name": "PixelExperience_titan-9.0-20190514-0837-OFFICIAL.zip",
+   "file_size": 488407526,
+   "md5": "2b5b1fe44e729d5b74b98dd6ef7b1f0a"
+}
+   ],
+   "pie_go":[
+      {
+   "file_name": "PixelExperience_go_titan-9.0-20190514-0406-OFFICIAL.zip",
+   "file_size": 488219714,
+   "md5": "5f1f96a90e904f50bd926833239efb83"
+}
    ]
 }
