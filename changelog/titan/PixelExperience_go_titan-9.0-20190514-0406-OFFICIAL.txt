@@ -1,0 +1,2 @@
+-Go Version release
+-Minor fixes and performance improvements
