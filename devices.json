@@ -435,7 +435,7 @@
             "version_name": "Pie",
             "maintainer_name": "ErrorNetwork28",
             "maintainer_url": "https://t.me/ErrorNetwork28",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3927729"
          },
          {
             "version_code": "pie_caf",
@@ -837,7 +837,7 @@
          {
             "version_code": "pie_caf",
             "version_name": "Pie (CAF edition)",
-            "maintainer_name": "Dyneteve, Merothh",
+            "maintainer_name": "merothh, Dyneteve",
             "maintainer_url": "https://github.com/Dyneteve",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
          }
@@ -1200,8 +1200,8 @@
          {
             "version_code": "pie_caf",
             "version_name": "Pie (CAF edition)",
-            "maintainer_name": "Tejas Nanavare(Orgasmtrron)",
-            "maintainer_url": "https://t.me/Orgasmtrron",
+            "maintainer_name": "Madhav Saladi(BabluS)",
+            "maintainer_url": "https://t.me/BabluS",
             "xda_thread": ""
          }
       ]
@@ -1236,8 +1236,7 @@
             "version_name": "Pie",
             "maintainer_name": "dandyfarid (dandy_farid)",
             "maintainer_url": "https://t.me/dandy_farid",
-            "xda_thread": "",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/redmi-4a/development/rom-pixel-experience-t3920102"
          },
          {
             "version_code": "pie_caf",
