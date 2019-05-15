@@ -24,14 +24,6 @@ d50d5902b9c Whitelist default dialer app for heads up
 34888195 kernel: Fix modules path generated in modules.dep
 
 =======================
-     05-10-2019
-=======================
-
-
-   * kernel/motorola/msm8953/
-93677967d14c Merge tag 'LA.UM.7.5.r1-04800-8x96.0' into kernel.lnx.3.18.r34-rel
-
-=======================
      05-09-2019
 =======================
 
