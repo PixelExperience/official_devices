@@ -1,0 +1,2 @@
+- Included Google Camera mod instead of Open Camera.
+- Included "Moto G5S" in device model.
