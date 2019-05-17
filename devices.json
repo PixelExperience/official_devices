@@ -389,9 +389,16 @@
          {
             "version_code": "pie",
             "version_name": "Pie",
-            "maintainer_name": "Henrique Pereira (Hlcpereira)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3871589"
+            "maintainer_name": "Jonas Cardoso (JonasCardoso)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "pie_caf",
+            "version_name": "Pie (CAF edition)",
+            "maintainer_name": "Jonas Cardoso (JonasCardoso)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread": ""
          },
          {
             "version_code": "oreo",
