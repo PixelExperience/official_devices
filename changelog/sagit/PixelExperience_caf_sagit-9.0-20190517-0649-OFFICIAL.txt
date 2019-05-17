@@ -1,0 +1,398 @@
+=======================
+     05-17-2019
+=======================
+
+
+   * device/xiaomi/msm8998-common/
+3bba5b6 msm8998-common: Require Pie Firmware
+
+   * vendor/pixelstyle/
+97e5ca7 Revert "Add config_ringtoneEffectUris"
+
+=======================
+     05-16-2019
+=======================
+
+
+   * device/xiaomi/msm8998-common/
+0bd21ed msm8998-common: add build libbinder and libcutils to vndk-ext-libs
+82d9333 Revert "msm8998-common: Load full libbinder and cutils for camera"
+
+   * manifest/
+c8812f6 Track Bluetooth
+
+   * vendor/xiaomi/
+1ef2d35 Revert "msm8998-common: Load full libbinder and cutils for camera"
+
+=======================
+     05-15-2019
+=======================
+
+
+   * kernel/xiaomi/msm8998/
+0668a67 {chiron,sagit}_defconfig: enable CONFIG_DETECT_HUNG_TASK
+5e95c7e {chiron,sagit}_defconfig: disable suspend sync
+
+   * vendor/XiaomiCustom/
+e40dd28 GoogleCamera: Update to v7.7b
+
+=======================
+     05-14-2019
+=======================
+
+
+   * kernel/xiaomi/msm8998/
+64bba14 Xiaomi: net: wireless: Use the upstream regulatory database
+
+=======================
+     05-13-2019
+=======================
+
+
+=======================
+     05-12-2019
+=======================
+
+
+   * vendor/gapps/
+c91b92e Update Phonesky
+
+=======================
+     05-11-2019
+=======================
+
+
+   * frameworks/base/
+1c222b8 Automatic theme based on time: Restore last state on boot
+8ea2ab1 Whitelist default dialer app for heads up
+
+   * packages/apps/Settings/
+62cb883 LiveDisplay: Fix search
+
+   * vendor/aosp/
+481c707 apns: Update IRAN APNs
+f541919 kernel: Fix modules path generated in modules.dep
+
+=======================
+     05-10-2019
+=======================
+
+
+=======================
+     05-09-2019
+=======================
+
+
+   * device/custom/sepolicy/
+f2a45a4 sepolicy: More fixes for OTA app
+
+   * device/xiaomi/msm8998-common/
+d817a04 msm8998-common: media: update configs from pie leak
+2923d3e msm8998-common: gps: update configs from pie leak
+1a3f5a6 msm8998-common: audio: update configs from pie leak
+7838a99 msm8998-common: wifi: update configs from pie leak
+e63989d msm8998-common: parts: Remove DisplayCalibration
+67c7fee sepolicy: system_server: Fix sys_post_boot_prop denials
+e5fe8f1 msm8998-common: Wait for MPCTL to start on boot
+bb7096c msm8998-common: Filter and remap display modes
+daa2407 msm8998-common: Migrate to livedisplay 2.0
+9fab713 msm8998-common: build kernel with AOSP Clang 9.0.3
+2b8d419 msm8998-common: sepolicy: Allow tfa shell exec
+523503f msm8998-common: sepolicy: Fix vendor bluetooth denials
+c06cc30 msm8998-common: fingerprint: Move from /data/misc to /data/vendor
+e240b8d msm8998-common: Add support for 9.4.25 tz version
+e8d6791 msm8998-common: Ignore neverallows
+cac9639 mam8998-common: Enable audio perf hints and disable KPI optimization
+6ffa699 msm8998-common: Update power HAL to version 1.3.
+19cacc2 msm8998-common: Changes to stop rtp daemon during shutdown
+31c12fe Revert "msm8998-common: Use low level shutdown trigger"
+f3d4e29 msm8998-common: configs: Update microphone characteristics.
+af58a0f msm8998-common: configs: Add microphone characteristics and snd device mapping
+136c240 msm8998-common: configs: Update keep_alive to support silence playback on non-hdmi devices
+595c0fc msm8998-common: configs: add support for MMAP IRQ mode streams.
+3a9659c msm8998-common: configs: Add speaker and bt-sco combo device
+c6af4e1 msm8998-common: configs: add fractional sample rates to profiles
+a312fa4 msm8998-common: audio: Set SND_DEVICE_OUT_SPEAKER_REVERSE acdb id
+188b458 msm8998-common: proprietary-files: Add missing surround_sound and drc configs
+2015f23 msm8998-common: Enable AUDIO_FEATURE_ENABLED_SSR
+029dc43 msm8998-common: proprietary-files: import ADSP modules - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
+7a7ab5c msm8998-common: proprietary-files: import ADSP blobs - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
+5c97ae4 msm8998-common: Remove hw_acc effect
+6332fc5 msm8998-common: Start devices by sysfs trigger on post-fs
+8cc0502 Revert "msm8998-common: fingerprint: removed writepid to tasks"
+a5a354d msm8998-common: Disable VSync for CPU rendered apps
+d59b184 msm8998-common: Update Audio libraries from miui_MIMIX2_9.3.21
+4f85fb7 msm8998-common: Move qti_whitelist.xml to system
+8fcf3ce msm8998-common: Fix pinning SystemUI
+83a4c14 msm8998-common: proprietary-files: Move some blobs to vendor * It is necessary for vendor and system property isolation
+7c30498 msm8998-common: vendor_prop: Add vendor.rild.libpath
+
+   * device/xiaomi/sagit/
+7510f3f sagit: audio: update configs from pie leak
+
+   * frameworks/base/
+2261d9b SwipeToScreenshot: Import MIUI implementation
+df8ec61 Fix derp on "Fix screen pinning unlock with hwkeys"
+
+   * kernel/xiaomi/msm8998/
+5688a7a Update 'drivers/staging/qcacld-3.0/' to LA.UM.7.4.r1-05100-8x98.0
+dc98d26 Update 'drivers/staging/qca-wifi-host-cmn/' to LA.UM.7.4.r1-05100-8x98.0
+5b8cfd9 Update 'drivers/staging/fw-api/' to LA.UM.7.4.r1-05100-8x98.0
+43b97c5 Merge remote-tracking branch 'laum/LA.UM.7.4.r1-05100-8x98.0' into pie-7.4
+
+=======================
+     05-08-2019
+=======================
+
+
+   * device/custom/sepolicy/
+c059339 Allow OTA app to access recovery service
+
+   * frameworks/base/
+066d8ac Improvements for swipe to screenshot
+77d2b12 Add swipe-to-screenshot gesture
+e92f38f Cutout force full screen: Remove fullscreen checks
+ac8eae3 NavbarUtils: Allow disabling by qemu.hw.mainkeys
+
+   * packages/apps/Settings/
+664dc90 Add Swipe to screenshot preference
+
+   * system/sepolicy/
+146204c Allowing vold to search /mnt/vendor/*
+
+   * vendor/aosp/
+2e8b821 vendor: Cleanup carrier overlays
+
+=======================
+     05-07-2019
+=======================
+
+
+   * bootable/recovery/
+1ac4a4e Merge tag 'android-9.0.0_r37' of https://android.googlesource.com/platform//bootable/recovery into HEAD
+
+   * build/make/
+16b6d91 Match May security patch
+
+   * device/custom/sepolicy/
+e442cc5 sepolicy: Run dos2unix
+
+   * frameworks/base/
+4b5c6d6 Merge "fwb: hwkeys: Check if key is virtual before disabling" into pie-caf
+4c8e942 LiveDisplay: Disable by default
+1c9f2a8 LiveDisplay: don't start services if phone is encrypted
+f69566b [2/2] Introduce overlays for device settings
+42687bc NetworkTraffic: filter VPN traffic
+119f6ba fwb: hwkeys: Check if key is virtual before disabling
+
+   * packages/apps/Settings/
+4f6e285 Change switch bar background on dark theme
+162b95d LiveDisplay: Add illustration into picture and color adjustment
+
+   * prebuilts/clang/host/linux-x86/
+d797e17 Merge tag 'android-9.0.0_r37' of https://android.googlesource.com/platform//prebuilts/clang/host/linux-x86 into HEAD
+
+   * vendor/aosp/
+1e4404f vendor: Set ringtone for 2nd slot on MSIM devices
+
+   * vendor/themes/
+bdc70da [1/2] Introduce overlays for device settings
+763de3d Update red accent color
+
+   * vendor/xiaomi/
+4729ded sagit: Update camera libs patched by Alexe070315 v.6.2
+3a492be sagit: Update camera libs patched by Alexe070315 v.6.1
+
+=======================
+     05-06-2019
+=======================
+
+
+   * device/xiaomi/sagit/
+baaf34a sagit: Implement libinit
+c3e37b7 Revert "sagit: Overlay: Enable smart clock feature"
+
+   * frameworks/base/
+c2ca140 Automatic translation import
+d7f6992 fwb: Add screenshot action into hwkeys
+7b884c0 base: allow disable of screenshot shutter sound
+c59865e SystemUI: Add tuner interface to StatusBarSignalPolicy
+2f491b8 AmbientIndicationManager: Fix NPE on isBatteryLevelLow
+47c204e Expose autofill background color
+1d6ab1a sysui: don't show the strikethrough HD icon if volte is unavailable
+0e82003 fwb: Add automatic theme based on time
+39277a0 SystemUI: Add reading mode tile
+a55f963 SystemUI: Add LiveDisplay tile
+4e9d204 Introduce LiveDisplay from Lineage
+d7138df Pocket lock: Add config_pocketModeSupported overlay
+11d011e Pocket lock improvements
+de4ce04 pocket: Don't show immersive mode confirmation when UI showing
+5f9ddfe pocket: Fix pocket lock view for display cutouts
+018902e pocket: Adjust sleep timeout for pocket lock view to 10 secs
+ad7b456 pocket: introduce pocket bridge
+d05c05e PocketService: Adjust light sensor rate to 400ms
+f9aebed pocket: Add hardware acceleration and properly maintain SYSTEM_UI flags
+d9279a5 policy: introduce pocket lock
+44f5da3 pocket: introduce pocket judge
+eeeb2fa pocketmode: Revert "PowerManager: Add proximity check on wake"
+04e13e7 Add VOLTE icon and switch on tuner (CAF edition)
+6adb2b7 SystemUI: Remove battery pref from tuner
+016206d SystemUI: Add Sync tile
+0735d59 SystemUI: Add heads up tile and fix on ambient display
+7ad1784 SystemUI: Add caffeine qs tile
+69a211c [1/2] base: allow disabling quick settings on secure lock screens
+443fea1 NetworkTraffic: Add hide notch handling
+77c8763 TunerServiceImpl: Blacklist Settings.System from tuner reset
+fb6c967 SystemUI: Network Traffic [1/2]
+85993e6 SystemUI: Add CustomStatusBarItem and CustomStatusBarItemHolder
+949d66a SystemUI: Show 4G instead of LTE switch
+a62562a SystemUI: Bringup tuner statusbar changes
+65a8f2c Base: Hide power menu on secure lockscreen [1/2]
+bd0597e PhoneWindowManager: Allow torch and track skip during ambient display
+21be610 Long-press power while display is off for torch
+3b69375 fwb: Implement long press volume button skip/prev
+9286c39 Implement volume wake
+4138c02 Merge "fwb: Changes for custom accents" into pie-caf
+fb30d21 fwb: Hwkeys disable - rework
+31a66f6 fwb: Drop keydisabler
+babecf7 fwb: Changes for custom accents
+5a50ac7 Prevent NFE in SystemUI when parsing invalid int
+8976a92 SystemUI: Add switch for inverted navbar
+f10c038 base: Allow to disable Lockscreen Media Art [1/2]
+908d694 SystemUI: add double tap to sleep gesture
+5ee7ac3 SystemUI: add quick settings pull down with one finger
+f568f55 Fingerprint authentication vibration [1/2]
+e81c41a Phone ringtone setting for Multi SIM device
+e6ad91a fwb: Incall vibration options [1/3]
+9099708 [1/2] Battery light pulse when low switch
+03abdbc fwb: [1/2] Implement cutout force full screen
+
+   * packages/apps/Settings/
+f9eebde Settings: Add screenshot action into hwkeys
+ff6a927 Automatic translation import
+7dffb2a Add switch for screenshot shutter sound
+5dfbeea Settings: Add automatic theme based on time
+a88da4a Settings: Changes for LiveDisplay
+c6204b7 Move CustomDialogPreference to a common place
+aaf8b9a Settings: Add pocket lock toggle
+4ddaad8 StatusBarSettings: Hide network traffic settings if device has a notch
+b05928e Add statusbar settings
+534daff ButtonSettings: Add more functions
+4b83bbc ButtonSettings: Change order on system dashboard
+96859e9 ButtonSettings: Drop keydisabler
+1f7dd2c Settings: Always show button settings
+6c7dedc Settings: Always use Pixel color on drawable
+944a658 Settings: Allow to disable Lockscreen Media Art [2/2]
+5dc246f Settings: Add double tap to sleep
+bdb5a7b Fingerprint authentication vibration [2/2]
+ba0e67d Phone ringtone setting for Multi SIM device
+04fb026 Settings: Incall vibration option [3/3]
+cfee172 ThemePreferenceController: Refactor for accent picker
+9db69c3 [2/2] Battery light pulse when low switch
+6a7dfda Settings: [2/2] Implement cutout force full screen
+
+   * packages/apps/Updates/
+8726e4e Automatic translation import
+
+   * packages/providers/AmbientPlayHistoryProvider/
+7ba080e Automatic translation import
+
+   * packages/providers/DownloadProvider/
+ba9c145 Automatic translation import
+
+   * vendor/aosp/
+c0a9b5a vendor: Import LiveDisplay init file
+2a61f5e vendor: Whitelist LiveDisplay permissions
+7c81c2b vendor: Add sysfs permissions for pocket bridge
+4a81c1e Merge "vendor: Drop keydisabler" into pie-caf
+
+   * vendor/pixelstyle/
+8d2d4b2 Update apps
+
+   * vendor/themes/
+b45d1c0 Automatic translation import
+
+   * vendor/xiaomi/
+4137ec0 sagit: Update fingerprint blobs from pie
+
+=======================
+     05-05-2019
+=======================
+
+
+   * device/custom/sepolicy/
+665d698 sepolicy: Import LiveDisplay rules
+df83219 sepolicy: Add selinux policy for pocket bridge
+cf0aa85 sepolicy: Add pocket judge selinux policy
+
+   * kernel/xiaomi/msm8998/
+a5da6cf Merge "msm: adm: validate ADSP payload size before access" into kernel.lnx.4.4.r35-rel
+5e0693b Merge "msm: vidc: do not set video state to DEINIT very early" into kernel.lnx.4.4.r35-rel
+4172e20 soc: qcom: glink: Initialize local state while fetching ctx
+6845281 msm: adm: validate ADSP payload size before access
+c17751e msm: vidc: do not set video state to DEINIT very early
+6fbccbe Merge commit '803b2f4ca7a08e658026815f5cd328d795ef3eeb' into HEAD
+
+   * vendor/themes/
+acd1579 Remove autofill custom colors
+34d2c68 Revert "Fix auto fill on themes"
+
+=======================
+     05-04-2019
+=======================
+
+
+   * bionic/
+c6557b9 bionic: Prefer /sbin/sh if it exists
+583d0d2 libc: Optimize ARM memcmp by using NEON.
+
+   * device/qcom/sepolicy/
+406a299 sepolicy: Label persist partition for all SoCs
+
+   * hardware/custom/interfaces/
+af8569b interfaces: Add 2.0 livedisplay interfaces
+
+   * hardware/qcom/audio-caf/msm8996/
+1597d89 Merge tag 'LA.UM.7.5.r1-04500-8x96.0' into pie-caf
+
+   * hardware/qcom/audio-caf/msm8998/
+d395420 Merge tag 'LA.UM.7.4.r1-05000-8x98.0' into HEAD
+a537a2e Merge branch 'lineage-16.0-caf-8998' of https://github.com/LineageOS/android_hardware_qcom_audio into HEAD
+
+   * hardware/qcom/audio-caf/sdm845/
+3f6937f Merge tag 'LA.UM.7.3.r1-07400-sdm845.0' into HEAD
+
+   * hardware/qcom/display-caf/msm8996/
+0fae248 Merge tag 'LA.UM.7.5.r1-04500-8x96.0' into HEAD
+
+   * hardware/qcom/display-caf/msm8998/
+71f1db7 Merge tag 'LA.UM.7.4.r1-05000-8x98.0' into HEAD
+
+   * hardware/qcom/display-caf/sdm845/
+54984ad Merge tag 'LA.UM.7.3.r1-07400-sdm845.0' into HEAD
+
+   * hardware/qcom/fm/
+a43fa2b Automatic translation import
+a3d8836 Automatic translation import
+
+   * hardware/qcom/media-caf/msm8996/
+2adc921 Merge tag 'LA.UM.7.5.r1-04500-8x96.0' into HEAD
+
+   * hardware/qcom/media-caf/msm8998/
+fe8c4ff Merge tag 'LA.UM.7.4.r1-05000-8x98.0' into HEAD
+
+   * manifest/
+969dde6 Track LiveDisplay
+
+   * packages/apps/FMRadio/
+73fad10 Automatic translation import
+
+   * packages/apps/Settings/
+98c1c66 Multi user: Allow user name and profile photo editing
+
+   * packages/apps/Snap/
+ee84538 Remove lineage sdk dependency
+
+   * packages/services/Telephony/
+7e62d55 Revert "Fix an issue wrong network operator name is displayed on MSIM devices"
+
