@@ -1,7 +1,0 @@
-* Kernel fixes
-* Fixed device not certified
-* Fixed dt2w
-* Fixed gcam support (without patches)
-* Improved automatic theme based on time (on some regions)
-* Fixed clock not hidding correctly when user choose to hide
-* Fixed font on battery percentage
