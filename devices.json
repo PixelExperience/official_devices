@@ -1789,19 +1789,6 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/rom-pixel-experience-t3924420"
          }
       ]
-   },
-   {
-      "name":"6T",
-      "brand":"OnePlus",
-      "codename":"fajita",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Saksham",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-6t/development/rom-pixel-experience-t3875179"
-         }   
-      ]
    }
+
 ]
