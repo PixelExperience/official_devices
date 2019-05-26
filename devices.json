@@ -776,14 +776,16 @@
             "version_name": "Pie",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197",
+            "deprecated": true
          },
          {
             "version_code": "pie_caf",
             "version_name": "Pie (CAF edition)",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197",
+            "deprecated": true
          },
          {
             "version_code": "oreo",
