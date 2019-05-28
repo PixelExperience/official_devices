@@ -1,7 +1,0 @@
-- Kernel upstreamed to 3.18.140
-- Built with clang 9.0.3
-- Rebased tree & vendor
-- Updated camera blobs
-- Updated some radio props
-- Vibration from Pixel devices
-- Other minimal changes
