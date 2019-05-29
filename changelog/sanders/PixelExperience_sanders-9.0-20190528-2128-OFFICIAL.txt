@@ -2,7 +2,7 @@
    DEVICE CHANGELOG
 =====================
 - Kernel upstreamed to 3.18.140
-- Fixed issue in gestures
+- Fixed issue in fp gestures
 - add config_canForceDisableNavigationBar to overlay
 - Built with clang 9.0.3
 - Rebased tree & vendor
