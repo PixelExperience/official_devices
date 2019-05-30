@@ -1,0 +1,4 @@
+* Merged Latest CAF Tag 
+* Fixed Hotspot Counts 
+* Merged Latest Device Tree Upstreams From LOS and Zeelog
+* Merged KCAL And Sound Mod Support In Kernel
