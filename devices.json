@@ -42,20 +42,6 @@
       ]
    },
    {
-      "name":"Mi 3w/4",
-      "brand":"Xiaomi",
-      "codename":"cancro",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"DMF (fatesay)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8578210",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Z17",
       "brand":"Nubia",
       "codename":"nx563j",
@@ -189,27 +175,6 @@
       ]
    },
    {
-      "name":"Moto G3",
-      "brand":"Motorola",
-      "codename":"osprey",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Kley76",
-            "maintainer_url":"https://github.com/kley76",
-            "xda_thread":""
-         },
-         {
-            "version_code":"pie_go",
-            "version_name":"Pie (GO edition)",
-            "maintainer_name":"Kley76",
-            "maintainer_url":"https://github.com/kley76",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Moto G4 Play",
       "brand":"Motorola",
       "codename":"harpia",
@@ -248,20 +213,6 @@
             "maintainer_name":"Jonas Cardoso (JonasCardoso)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5784821",
             "xda_thread":"https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t3931177"
-         }
-      ]
-   },
-   {
-      "name":"Mi 5s Plus",
-      "brand":"Xiaomi",
-      "codename":"natrium",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Henrique Pereira (Hlcpereira)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":"https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t3871430"
          }
       ]
    },
@@ -322,27 +273,6 @@
       ]
    },
    {
-      "name":"Yunique",
-      "brand":"YU",
-      "codename":"jalebi",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Shaik Jaleel (iamsj7)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3834895"
-         },
-         {
-            "version_code":"pie_go",
-            "version_name":"Pie (GO edition)",
-            "maintainer_name":"Shaik Jaleel (iamsj7)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240",
-            "xda_thread":"https://forum.xda-developers.com/yu-yunique/development/rom-pixel-experience-t3834895"
-         }
-      ]
-   },
-   {
       "name":"5",
       "brand":"OnePlus",
       "codename":"cheeseburger",
@@ -353,62 +283,6 @@
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3890150"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3",
-      "brand":"Samsung",
-      "codename":"hlte",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Javi (J_viix)",
-            "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3",
-      "brand":"Samsung",
-      "codename":"hltetmo",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Javi (J_viix)",
-            "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3",
-      "brand":"Samsung",
-      "codename":"hltechn",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Javi (J_viix)",
-            "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
-         }
-      ]
-   },
-   {
-      "name":"Galaxy Note 3",
-      "brand":"Samsung",
-      "codename":"hltekor",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Javi (J_viix)",
-            "maintainer_url":"https://t.me/J_viix",
-            "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-pixel-experience-t3855455"
          }
       ]
    },
@@ -444,20 +318,6 @@
             "maintainer_name":"Nicholas Magill (Inkypen)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9382231",
             "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
-         }
-      ]
-   },
-   {
-      "name":"Mi Note 2",
-      "brand":"Xiaomi",
-      "codename":"scorpio",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
-            "xda_thread":"https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t3740950"
          }
       ]
    },
@@ -556,53 +416,6 @@
             "maintainer_name":"merothh, Dyneteve",
             "maintainer_url":"https://github.com/Dyneteve",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
-         }
-      ]
-   },
-   {
-      "name":"Moto E 2015 (LTE)",
-      "brand":"Motorola",
-      "codename":"surnia",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"ElDainosor",
-            "maintainer_url":"https://github.com/eldainosor",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
-      "name":"A6000",
-      "brand":"Lenovo",
-      "codename":"a6000",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Shaik Jaleel (iamsj7)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8426240"
-         }
-      ]
-   },
-   {
-      "name":"Redmi 5A",
-      "brand":"Xiaomi",
-      "codename":"riva",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"SunnyRaj (sunnyraj84348)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983"
-         },
-         {
-            "version_code":"pie_caf",
-            "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Sunny Raj (sunnyraj84348)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7853983",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t3834169"
          }
       ]
    },
@@ -779,20 +592,6 @@
       ]
    },
    {
-      "name":"Mi Max Prime",
-      "brand":"Xiaomi",
-      "codename":"helium",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Rohit",
-            "maintainer_url":"https://t.me/DEADDEADPOOL",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Zenfone 3",
       "brand":"Asus",
       "codename":"zenfone3",
@@ -877,20 +676,6 @@
       ]
    },
    {
-      "name":"Mi Mix 2s",
-      "brand":"Xiaomi",
-      "codename":"polaris",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Xhoni Rexhepi (Psy_Man)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5736124",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Mi 8",
       "brand":"Xiaomi",
       "codename":"dipper",
@@ -908,20 +693,6 @@
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":"https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3871932"
-         }
-      ]
-   },
-   {
-      "name":"Zenfone Max",
-      "brand":"Asus",
-      "codename":"Z010D",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Ninad Patil (ReignZ)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6549853",
-            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max/development/rom-pixel-experience-t3869583"
          }
       ]
    },
@@ -1003,20 +774,6 @@
       ]
    },
    {
-      "name":"Mi Max",
-      "brand":"Xiaomi",
-      "codename":"hydrogen",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Rohit",
-            "maintainer_url":"https://t.me/DEADDEADPOOL",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Moto G5",
       "brand":"Motorola",
       "codename":"cedric",
@@ -1038,20 +795,6 @@
       ]
    },
    {
-      "name":"Swift",
-      "brand":"Wileyfox",
-      "codename":"crackling",
-      "supported_versions":[
-         {
-            "version_code":"pie_go",
-            "version_name":"Pie (GO edition)",
-            "maintainer_name":"Dev4Perf",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7865714",
-            "xda_thread":"https://forum.xda-developers.com/wileyfox-swift/orig-development/rom-pixel-experience-t3891485"
-         }
-      ]
-   },
-   {
       "name":"Mi 8 Lite",
       "brand":"Xiaomi",
       "codename":"platina",
@@ -1069,20 +812,6 @@
             "maintainer_name":"Bruno Rochaa (brunorochaa)",
             "maintainer_url":"https://t.me/brunorochaa",
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
-         }
-      ]
-   },
-   {
-      "name":"Yuphoria",
-      "brand":"YU",
-      "codename":"lettuce",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Adithya R (ghostrider-reborn)",
-            "maintainer_url":"https://t.me/ghostrider_reborn",
-            "xda_thread":"https://forum.xda-developers.com/yu-yuphoria/orig-development/rom-pixel-experience-t3893140"
          }
       ]
    },
