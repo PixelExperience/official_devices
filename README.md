@@ -13,7 +13,7 @@ Any failure in following the below instructions will make you unfit for the main
 
 1.3 - You must have knowledge of git.
 
-1.4 - You must do an unofficial build and make the device stable for daily usage before applying. Also, test your builds for atleast a week. Stability context may differ for different devices, so explain for any exceptions.
+1.4 - You must do an unofficial build for atleast 2 weeks,  be sure that the build is stable for daily usage before applying. Stability context may differ for different devices, so explain for any exceptions.
 
 1.5 - You must have your device sources public.
 
@@ -29,6 +29,8 @@ Also, a maintainer mustn't send an update to users with unmerged gerrit changes.
 2.5 - The maintainers must keep authorship of git commits that are pushed, mandatory for all repository. Force-pushes are acceptable.
 
 2.6 - Relationships fights can be done in PM on Telegram or XDA.
+
+2.7 - The maintainers mustn't add any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, enforce Camera API2 label, etc., except those that are device specific and available at stock firmware, eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Dirac options, Fp gestures and MotoActions for Motorola Devices.
 
 ### 3. Hosting
 
