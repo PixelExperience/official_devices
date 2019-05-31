@@ -234,13 +234,6 @@
             "maintainer_name":"Jonas Cardoso (JonasCardoso)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5784821",
             "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3906942"
-         },
-         {
-            "version_code":"pie_caf",
-            "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Jonas Cardoso (JonasCardoso)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5784821",
-            "xda_thread":""
          }
       ]
    },
@@ -718,13 +711,6 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"PIPIPIG233666(皮皮猪)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
-            "xda_thread":"https://forum.xda-developers.com/mi-5x/development/rom-pixel-experience-t3890384"
-         },
-         {
-            "version_code":"pie_caf",
-            "version_name":"Pie (CAF edition)",
             "maintainer_name":"PIPIPIG233666(皮皮猪)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
             "xda_thread":"https://forum.xda-developers.com/mi-5x/development/rom-pixel-experience-t3890384"
