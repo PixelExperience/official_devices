@@ -73,4 +73,4 @@ Eg: Moto G 2013 is called **falcon**, so the device JSON file is **builds/falcon
 | file_size | Build file (.zip) size (in bytes) | Yes |
 | md5 | Build file (.zip) md5 hash | Yes |
 
-If you agree with everything, please [contact us](https://forms.gle/b7kjDzsT2RrRh7WCA)
+If you agree with everything, please [fill this form](https://forms.gle/b7kjDzsT2RrRh7WCA)
