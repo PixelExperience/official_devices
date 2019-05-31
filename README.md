@@ -3,7 +3,7 @@
 
 Devices repository: [PixelExperience-Devices](https://github.com/PixelExperience-Devices)
 
-Before you open a pull request to add your device into our list of official devices, you should know a few things:
+Before you apply to add your device into our list of official devices, you should know a few things:
 
 Any failure in following the below instructions will make you unfit for the maintainership. No questions asked.
 
