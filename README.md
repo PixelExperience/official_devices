@@ -30,7 +30,7 @@ Also, a maintainer mustn't send an update to users with unmerged gerrit changes.
 
 2.6 - Relationships fights can be done in PM on Telegram or XDA.
 
-2.7 - The maintainers mustn't add any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, force Camera API2 label, etc. Features that are device specific and are available at stock firmware, eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Fingerprint Gestures and MotoActions for Motorola Devices, are allowed, so does Dirac Sound Options for any device.
+2.7 - The maintainers mustn't add any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, force Camera API2, etc. Features that are device specific and are available at stock firmware (except Dirac Sound), eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Fingerprint Gestures and MotoActions for Motorola Devices, are allowed.
 
 ### 3. Hosting
 
