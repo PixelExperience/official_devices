@@ -900,20 +900,6 @@
       ]
    },
    {
-      "name":"GM 5 Plus",
-      "brand":"General Mobile",
-      "codename":"shamrock",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"caneray",
-            "maintainer_url":"https://t.me/canerayofficial",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Galaxy S2",
       "brand":"Samsung",
       "codename":"i9100",
