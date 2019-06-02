@@ -718,20 +718,6 @@
       ]
    },
    {
-      "name":"Moto X4",
-      "brand":"Motorola",
-      "codename":"payton",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Hernan (HerH2)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7048111",
-            "xda_thread":""
-         }
-      ]
-   },
-   {
       "name":"Honor View 10",
       "brand":"Huawei",
       "codename":"berkeley",
