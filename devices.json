@@ -742,6 +742,14 @@
             "maintainer_name":"AkshayKakatkar",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8624500",
             "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3932952"
+         },
+         {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"AkshayKakatkar",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8624500",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3932952",
+            "deprecated": true
          }
       ]
    },
