@@ -24,7 +24,7 @@ Any failure in following the below instructions will make you unfit for the main
 2.2 - The maintainers mustn't do any unofficial modifications, except if they're going to push it for acceptance on our [gerrit](https://gerrit.pixelexperience.org).
 Also, a maintainer mustn't send an update to users with unmerged gerrit changes.
 
-2.3 - The maintainers must upload theirs trees on [PixelExperience-Devices](https://github.com/PixelExperience-Devices) organisation. The trees should fully reflect the changes when a new build is pushed for that specific device tree. Last but not the least, it should be fully buildable.
+2.3 - The maintainers must upload theirs trees on [PixelExperience-Devices](https://github.com/PixelExperience-Devices) organization. The trees should fully reflect the changes when a new build is pushed for that specific device tree. Last but not the least, it should be fully buildable.
 
 2.4 - The maintainers must test every build before sending OTA update to user.
 
