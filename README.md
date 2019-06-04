@@ -17,7 +17,7 @@ Any failure in following the below instructions will make you unfit for the main
 
 1.5 - You must have your device sources public.
 
-1.6 - Your device tree must have some required commits. You can check them at [this url](https://github.com/PixelExperience-Devices/required_commits)
+1.6 - Your device tree must have some required commits. You can check them at [this url](https://github.com/PixelExperience-Devices/required_commits).
 
 ### 2. Maintainers conduct notes:
 
