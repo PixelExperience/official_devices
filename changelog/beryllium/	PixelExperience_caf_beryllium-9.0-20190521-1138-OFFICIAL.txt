@@ -1,9 +1,0 @@
-* Fixed mobile data icon not showing sometimes
-* Fixed fc on some devices when connecting to bt headset
-* Fixed screenshot when notch is hidden (no more blackbars on top)
-* Theming improvements: Added black theme (enabled by default on devices that have OLED screens), disabled dark theme when battery saver enabled (for devices that have LCD screens)
-* Fonts improvements
-* Fixed vibration on incoming calls
-* Update notch cutout configs from P 
-* Updated GoogleCamera (time-lapse added)
-* Others fixes
