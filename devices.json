@@ -770,7 +770,8 @@
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Zilberto Junior (ZJRDroid)",
             "maintainer_url":"https://t.me/ZJRDroid",
-            "xda_thread":""
+            "xda_thread":"",
+            "deprecated": true
          }
       ]
    },
