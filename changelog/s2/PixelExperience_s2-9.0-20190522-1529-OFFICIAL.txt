@@ -1,0 +1,3 @@
+* Update thermal thresholds.
+* Update autobrightness levels.
+* Minor bug fixes

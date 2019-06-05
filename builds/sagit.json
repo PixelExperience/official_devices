@@ -1,53 +1,38 @@
 {
-   "oreo": [
+   "oreo":[
       {
-         "file_name": "PixelExperience_sagit-8.1.0-20180720-1707-OFFICIAL.zip",
-         "file_size": 992690033,
-         "md5": "fda6a0629278f8a390fee36d72f9419e"
+         "file_name":"PixelExperience_sagit-8.1.0-20180720-1707-OFFICIAL.zip",
+         "file_size":992690033,
+         "md5":"fda6a0629278f8a390fee36d72f9419e"
       }
    ],
-   "pie": [
+   "pie":[
       {
-         "file_name": "PixelExperience_sagit-9.0-20180912-0720-OFFICIAL.zip",
-         "file_size": 994954479,
-         "md5": "ab5614e9f71f399e211129da4d6f30bb"
+         "file_name":"PixelExperience_sagit-9.0-20180912-0720-OFFICIAL.zip",
+         "file_size":994954479,
+         "md5":"ab5614e9f71f399e211129da4d6f30bb"
       }
    ],
-   "pie_caf": [
+   "pie_caf":[
       {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190311-1638-OFFICIAL.zip",
-         "file_size": 1169866078,
-         "md5": "9e0711733dfa22c543f5cdaf6ebc7a98"
+         "file_name":"PixelExperience_caf_sagit-9.0-20190505-2125-OFFICIAL.zip",
+         "file_size":1192703259,
+         "md5":"96420dd14ace8ebadc2ae272c7fb9644"
       },
       {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190314-1513-OFFICIAL.zip",
-         "file_size": 1169948093,
-         "md5": "7b3b60a63ceeeb9898b2549e7147dc9b"
+         "file_name":"PixelExperience_caf_sagit-9.0-20190507-0541-OFFICIAL.zip",
+         "file_size":1193490905,
+         "md5":"cefb67d5dd47440aa2bba22722cdfc02"
       },
       {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190323-1102-OFFICIAL.zip",
-         "file_size": 1156121518,
-         "md5": "851b693e31b7fbb928059114e0370733"
+         "file_name":"PixelExperience_caf_sagit-9.0-20190517-0649-OFFICIAL.zip",
+         "file_size":1214320945,
+         "md5":"e29c32021adbb3d49eecd6b5fa52dc99"
       },
       {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190406-0532-OFFICIAL.zip",
-         "file_size": 1170052753,
-         "md5": "edd6ae53776d03794cbefc6ba1befb2a"
-      },
-      {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190426-1538-OFFICIAL.zip",
-         "file_size": 1179496762,
-         "md5": "7c167bc1bfd42bd9502980fd241baa80"
-      },
-      {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190505-2125-OFFICIAL.zip",
-         "file_size": 1192703259,
-         "md5": "96420dd14ace8ebadc2ae272c7fb9644"
-      },
-      {
-         "file_name": "PixelExperience_caf_sagit-9.0-20190507-0541-OFFICIAL.zip",
-         "file_size": 1193490905,
-         "md5": "cefb67d5dd47440aa2bba22722cdfc02"
+         "file_name":"PixelExperience_caf_sagit-9.0-20190604-1301-OFFICIAL.zip",
+         "file_size":1207150975,
+         "md5":"e249fe96fba4f93fe4b47b1c1617ac49"
       }
    ]
 }

@@ -71,9 +71,14 @@
          "md5":"2681403e5436e10c5d6f811d09581725"
       },
       {
-         "file_name":"PixelExperience_beryllium-9.0-20190508-1933-OFFICIAL.zip",
-         "file_size":1060515654,
-         "md5":"770156ff4261b053aef5d7c36b4d4608"
+         "file_name":"PixelExperience_beryllium-9.0-20190521-1117-OFFICIAL.zip",
+         "file_size":1063193847,
+         "md5":"0090e80ca2b544de0eb4daecdb604c39"
+      },
+      {
+         "file_name":"PixelExperience_beryllium-9.0-20190604-0502-OFFICIAL.zip",
+         "file_size":1065624461,
+         "md5":"b842bd0a588c9231731ea7dce5ca1d6f"
       }
    ],
    "pie_caf":[
@@ -123,9 +128,14 @@
          "md5":"4652703481bec16f4e01eb045076a057"
       },
       {
-         "file_name":"PixelExperience_caf_beryllium-9.0-20190508-1955-OFFICIAL.zip",
-         "file_size":1063603044,
-         "md5":"ec70441bc0f9b1a29570872c4b8b1ac9"
+         "file_name":"PixelExperience_caf_beryllium-9.0-20190521-1138-OFFICIAL.zip",
+         "file_size":1066282857,
+         "md5":"ccc53a1046c00cf49f540ce9adcb6c45"
+      },
+      {
+         "file_name":"PixelExperience_caf_beryllium-9.0-20190604-0524-OFFICIAL.zip",
+         "file_size":1069002478,
+         "md5":"b5f4e9146e3d1785b050fa1dddf95af2"
       }
    ]
 }

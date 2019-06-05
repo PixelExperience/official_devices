@@ -1,0 +1,4 @@
+* May Security Patch
+* Dropped Gcam
+* Various bugs fixed
+* e.g. MTP,etc

@@ -26,6 +26,11 @@
          "file_name": "PixelExperience_rolex-9.0-20190511-1039-OFFICIAL.zip",
          "file_size": 938645649,
          "md5": "f589664d71d1486e7bfabcb9e89f6860"
+      },
+      {
+	 "file_name": "PixelExperience_rolex-9.0-20190604-1224-OFFICIAL.zip",
+	 "file_size": 943729479,
+	 "md5": "7c87a9e9d838fbf45613b16ff139af94"
       }
    ],
    "pie_caf": [
@@ -48,6 +53,11 @@
          "file_name": "PixelExperience_caf_rolex-9.0-20190423-1224-OFFICIAL.zip",
          "file_size": 928324242,
          "md5": "f566f8dc9e28501438db6238e1c55206"
+      },
+      {
+	 "file_name": "PixelExperience_caf_rolex-9.0-20190522-0851-OFFICIAL.zip",
+	 "file_size": 944445941,
+	 "md5": "e08bd45ed6a47a1798aa6de4bf9ebec9"
       }
    ]
 }

@@ -41,6 +41,26 @@
          "file_name": "PixelExperience_potter-9.0-20190514-0813-OFFICIAL.zip",
          "file_size": 1078171385,
          "md5": "7f47e61559703d31ca8c0b67a593b71d"
+      },
+      {
+         "file_name": "PixelExperience_potter-9.0-20190515-0707-OFFICIAL.zip",
+         "file_size": 1078324683,
+         "md5": "bdd115e3ed8b90f231bc229a58f451d7"
+      },
+      {
+         "file_name": "PixelExperience_potter-9.0-20190521-1015-OFFICIAL.zip",
+         "file_size": 1077875571,
+         "md5": "ae6c64b699620522f62cb79e85e6b9b3"
+      },
+      {
+         "file_name": "PixelExperience_potter-9.0-20190522-1021-OFFICIAL.zip",
+         "file_size": 1081098175,
+         "md5": "a3b1a596c8b8575d4b14874260a0dd2b"
+      },
+      {
+         "file_name": "PixelExperience_potter-9.0-20190604-1354-OFFICIAL.zip",
+         "file_size": 1083686646,
+         "md5": "e4c451fbb9c7f491ab7c81b7acbf6daa"
       }
    ],
    "pie_caf": [
@@ -58,6 +78,16 @@
          "file_name": "PixelExperience_caf_potter-9.0-20190411-1249-OFFICIAL.zip",
          "file_size": 1069561335,
          "md5": "d9b0ca959d7592eabf538276030d5ece"
+      },
+      {
+         "file_name": "PixelExperience_caf_potter-9.0-20190514-1007-OFFICIAL.zip",
+         "file_size": 1081599832,
+         "md5": "0050f3745f1ce77219307ebeeac58a60"
+      },
+      {
+         "file_name": "PixelExperience_caf_potter-9.0-20190604-1135-OFFICIAL.zip",
+         "file_size": 1087908791,
+         "md5": "3a9ff861772e441b76fc92143f18a504"
       }
    ]
 }

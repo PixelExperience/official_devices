@@ -61,6 +61,21 @@
          "file_name": "PixelExperience_mido-9.0-20190509-0551-OFFICIAL.zip",
          "file_size": 982216652,
          "md5": "3e81ce956b44beb68653e4945b27aa02"
+      },
+      {
+         "file_name": "PixelExperience_mido-9.0-20190521-0828-OFFICIAL.zip",
+         "file_size": 982771832,
+         "md5": "747b1fd348aef4ca1e722944330c4e35"
+      },
+      {
+         "file_name": "PixelExperience_mido-9.0-20190522-0213-OFFICIAL.zip",
+         "file_size": 986452304,
+         "md5": "ff055c363ebd0f51770c6064b4e5930f"
+      },
+      {
+         "file_name": "PixelExperience_mido-9.0-20190604-0832-OFFICIAL.zip",
+         "file_size": 988724980,
+         "md5": "6d3d60dcf0e087755ad1bd7170826638"
       }
    ],
    "pie_caf": [
@@ -93,6 +108,11 @@
          "file_name": "PixelExperience_caf_mido-9.0-20190509-1714-OFFICIAL.zip",
          "file_size": 987013075,
          "md5": "6853c4a79383216e5da7af8ef393f487"
+      },
+      {
+         "file_name": "PixelExperience_caf_mido-9.0-20190522-0705-OFFICIAL.zip",
+         "file_size": 990731790,
+         "md5": "83a8707ed32818b2f8ab904c394ede4d"
       }
    ]
 }
