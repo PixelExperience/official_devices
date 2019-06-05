@@ -39,7 +39,12 @@
          "file_name": "PixelExperience_tulip-9.0-20190521-1230-OFFICIAL.zip",
          "file_size": 1070365332,
          "md5": "826b7252b9206d1581417e98a2bc7e70"
-      }
+      },
+      {
+  	 "file_name": "PixelExperience_tulip-9.0-20190604-1409-OFFICIAL.zip",
+	 "file_size": 1098076510,
+	  "md5": "e00f4bc2c615883366a367c67948a067"
+     }
    ],
    "pie_caf": [
       {
@@ -66,6 +71,11 @@
   	 "file_name": "PixelExperience_caf_tulip-9.0-20190521-1231-OFFICIAL.zip",
 	 "file_size": 1074727491,
          "md5": "9d78a3295652e7fae4e1d983d4b1f2b1"
+      },
+      {
+         "file_name": "PixelExperience_caf_tulip-9.0-20190604-2017-OFFICIAL.zip",
+         "file_size": 1103776425,
+         "md5": "8365c48c863dc6ef73eb1d9e19385408"
       }
    ]
 }
