@@ -46,6 +46,11 @@
          "file_name": "PixelExperience_sanders-9.0-20190528-2128-OFFICIAL.zip",
          "file_size": 960343793,
          "md5": "af6504f2aabc16e584ad65b034df90be"
+      },
+      {
+         "file_name": "PixelExperience_sanders-9.0-20190604-1758-OFFICIAL.zip",
+         "file_size": 962712054,
+         "md5": "f6c9c03bde28db365b7609565a504113"
       }
    ],
    "pie_caf": [
@@ -63,6 +68,11 @@
          "file_name": "PixelExperience_caf_sanders-9.0-20190506-0248-OFFICIAL.zip",
          "file_size": 960645857,
          "md5": "0ed9520cadbb85cfe83d2f2a8a2469ea"
+      },
+      {
+         "file_name": "PixelExperience_sanders-9.0-20190604-1758-OFFICIAL.zip",
+         "file_size": 962712054,
+         "md5": "f6c9c03bde28db365b7609565a504113"
       }
    ]
 }
