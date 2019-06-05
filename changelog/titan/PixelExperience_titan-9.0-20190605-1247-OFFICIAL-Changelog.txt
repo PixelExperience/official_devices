@@ -1,0 +1,5 @@
+-June Security Patch
+-Performance Improvements
+-Memory improvements for multitasking
+-Camera app with HDR support
+-Few optimizations
