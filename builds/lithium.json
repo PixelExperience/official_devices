@@ -16,6 +16,11 @@
          "file_name": "PixelExperience_lithium-9.0-20190404-0031-OFFICIAL.zip",
          "file_size": 921890088,
          "md5": "c097e2aed7936fe31b4d3a28838c6ad1"
+      },
+      {
+         "file_name": "PixelExperience_lithium-9.0-20190606-2232-OFFICIAL.zip",
+         "file_size": 940877585,
+         "md5": "6168892d878cb24cd2042f75efa7a273"
       }
    ],
    "pie-caf": [
@@ -28,6 +33,11 @@
          "file_name": "PixelExperience_caf_lithium-9.0-20190404-1832-OFFICIAL.zip",
          "file_size": 926339737,
          "md5": "9ab0e88451583d181abd7d71ab3004c1"
+      },
+      {
+         "file_name": "PixelExperience_caf_lithium-9.0-20190606-2344-OFFICIAL.zip",
+         "file_size": 945164259,
+         "md5": "1ca06cbb98aa215d9c93696f4944c0bb"
       }
    ]
 }
