@@ -46,6 +46,11 @@
          "file_name": "PixelExperience_land-9.0-20190508-1437-OFFICIAL.zip",
          "file_size": 970932286,
          "md5": "84c684173f5866a2eca3b4262ceb0f3c"
+      },
+      {
+  	 "file_name": "PixelExperience_land-9.0-20190608-0407-OFFICIAL.zip",
+  	 "file_size": 976502323,
+  	 "md5": "53d4400626f099c211192c48a99389be"
       }
    ],
    "pie_caf": [
@@ -68,6 +73,11 @@
   	 "file_name": "PixelExperience_caf_land-9.0-20190512-0652-OFFICIAL.zip",
   	 "file_size": 973665312,
   	 "md5": "41a919b015b8672db22474437889bdd0"
+      },
+      {
+  	 "file_name": "PixelExperience_caf_land-9.0-20190608-0934-OFFICIAL.zip",
+  	 "file_size": 980738731,
+  	 "md5": "5dc81604cdfc4b45de271754fb376132"
       }
    ]
 }
