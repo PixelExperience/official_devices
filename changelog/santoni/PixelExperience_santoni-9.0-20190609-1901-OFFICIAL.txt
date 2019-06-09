@@ -3,4 +3,4 @@
 - Enabled WIFI Calls
 - Add ThermalController
 - Add AliPay support
-- Interface optimization
+- UI optimization
