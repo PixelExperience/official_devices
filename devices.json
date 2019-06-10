@@ -258,6 +258,20 @@
          }
       ]
    },
+ {
+      "name":"Moto G2 LTE",
+      "brand":"Motorola",
+      "codename":"thea",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Rais (thedeadfish59)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910",
+            "xda_thread":"https://forum.xda-developers.com/moto-g-lte/development/rom-pixel-experience-t3938356"
+         }
+      ]
+   },
    {
       "name":"Mi 6",
       "brand":"Xiaomi",
