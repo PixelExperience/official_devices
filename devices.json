@@ -80,6 +80,7 @@
             "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
             "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3832722"
+            "deprecated": true
          },
          {
             "version_code":"pie_caf",
