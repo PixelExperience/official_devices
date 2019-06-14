@@ -91,6 +91,11 @@
          "file_name":"PixelExperience_whyred-9.0-20190604-1615-OFFICIAL.zip",
          "file_size":1106202960,
          "md5":"331abc9d2f09005504b380f5e7604286"
+      },
+      {
+         "file_name":"PixelExperience_whyred-9.0-20190614-1732-OFFICIAL.zip",
+         "file_size":1055532332,
+         "md5":"833a2d881a33a642f5d0eb1902da8c2f"
       }
    ],
    "pie_caf":[
@@ -153,6 +158,11 @@
          "file_name":"PixelExperience_caf_whyred-9.0-20190604-1634-OFFICIAL.zip",
          "file_size":1110085327,
          "md5":"40814eb437d39e34bc7c8138a1f15fa5"
+      },
+      {
+         "file_name":"PixelExperience_caf_whyred-9.0-20190614-1715-OFFICIAL.zip",
+         "file_size":1059677626,
+         "md5":"c02a42f686fff5f0df46cbd71959a9aa"
       }
    ]
 }
