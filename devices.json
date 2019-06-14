@@ -223,11 +223,18 @@
       "codename":"santoni",
       "supported_versions":[
          {
+            "version_code":"pie_caf",
+            "version_name":"Pie (CAF edition) ",
+            "maintainer_name":"Dhruv Gera",
+            "maintainer_url":"https://t.me/dhruv_gera",
+            "xda_thread":"" 
+         }
+{
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Zainudin Shamilov (ErrorNetwork28)",
-            "maintainer_url":"https://t.me/ErrorNetwork28",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3927729"
+            "maintainer_name":"Dhruv Gera",
+            "maintainer_url":"https://t.me/dhruv_gera",
+            "xda_thread":"" 
          }
       ]
    },
