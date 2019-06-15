@@ -559,6 +559,13 @@
       "codename":"X00TD",
       "supported_versions":[
          {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Subins Mani (Subinsmani)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+            "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-t3879388"
+         },
+         {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Madhav Saladi(BabluS)",
