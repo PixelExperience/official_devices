@@ -290,7 +290,8 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3890150"
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3890150",
+            "deprecated": true
          }
       ]
    },
@@ -304,7 +305,8 @@
             "version_name":"Pie",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":""
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3910741",
+            "deprecated": true
          }
       ]
    },
