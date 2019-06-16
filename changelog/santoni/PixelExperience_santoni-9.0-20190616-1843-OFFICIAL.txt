@@ -5,4 +5,4 @@
 - Translations updated
 - Fixed dt2w (thx to @beingstargazer for this fix)
 - Kanged aptX blobs from crosshatch
-- Fixed few debials (thx to @HarukeyUA)
+- Fixed few denials (thx to @HarukeyUA)
