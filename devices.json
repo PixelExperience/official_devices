@@ -989,5 +989,18 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-6t/development/rom-pixel-experience-t3875179"
          }   
       ]
-   }
+   },
+   {
+      "name":"Redmi note 7",
+      "brand":"Xiaomi",
+      "codename":"lavender",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Nikhil Gupta",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8785686",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3940289#post79739852"
+         }   
+      ]
 ]
