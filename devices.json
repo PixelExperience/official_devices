@@ -489,7 +489,8 @@
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"EnesSastim",
-            "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005"
+            "xda_thread":"https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005",
+            "deprecated": true
          },
          {
             "version_code":"pie_caf",
