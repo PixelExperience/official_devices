@@ -1,0 +1,29 @@
+• Fixed battery led light not working after 90%
+• Updated sdm blobs from nokia 6
+• Switched to pure kernel
+• Tried to fix WhatsApp lag which is caused by skiagl renderer
+• Updated graphics blobs from tiara (oreo)
+• Enforcing Selinux
+• Updated Huge Blobs
+• Merged Latest Caf Tag
+• Source Upstream
+• Added Volte Support For More Operators
+• Reduced Status Bar Padding (previously it wasn't looking good for our device)
+• Source Upstream
+• Linux kernel upstream
+• Fixed dt2w
+• Fixed network breakage after toggling aeroplane mode
+• May Security Patch
+• Merged LA.UM.7.6.r1-04800-89xx.0 into device sources
+• Enabled DTS Eagle
+• Disabled Hardware compositing for better performance
+• June Security Patch
+• Fixed Gcam Crash
+• Fixed WhatsApp Green Tint Issue Of Front Camera On HAL3
+• Fixed Gcam Lag
+• Fixed Gcam Blinking While Tapping For Focus
+• Enabled HAL3 By Default
+• Enabled MDP Composition
+• Enabled Sglscale
+• Upstream Kernel v3.18.140
+• Dropped Wifi Display (Virtual display support was needed to fix wifi display properly, however it is broken and causing screen recording lag)

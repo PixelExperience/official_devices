@@ -978,6 +978,20 @@
       ]
    },
    {
+      "name":"Redmi 5A",
+      "brand":"Xiaomi",
+      "codename":"riva",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Tomyprs",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9991041",
+            "xda_thread":"Soon"
+         }
+      ]
+   },
+   {
       "name":"6T",
       "brand":"OnePlus",
       "codename":"fajita",
