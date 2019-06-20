@@ -6,19 +6,19 @@
          "md5": "d730444b5acef0bb71c35135ad3c7118"
       },
       {
-	 "file_name": "PixelExperience_chef-9.0-20190525-1532-OFFICIAL.zip",
-	 "file_size": 887358964,
-	 "md5": "baf6547741846392c8cab1ded3ce385d"
+         "file_name": "PixelExperience_chef-9.0-20190525-1532-OFFICIAL.zip",
+         "file_size": 887358964,
+         "md5": "baf6547741846392c8cab1ded3ce385d"
       },
       {
-   	"file_name": "PixelExperience_chef-9.0-20190607-1930-OFFICIAL.zip",
-   	"file_size": 889592553,
-	 "md5": "3dcdeef81a26903b644013ce5b06efaa"
+         "file_name": "PixelExperience_chef-9.0-20190607-1930-OFFICIAL.zip",
+         "file_size": 889592553,
+         "md5": "3dcdeef81a26903b644013ce5b06efaa"
       },
       {
-   	"file_name": "PixelExperience_chef-9.0-20190614-2052-OFFICIAL.zip",
-   	"file_size": 1022732690,
-   	"md5": "7ecb2c9a938292489d908df6c433995b"
+         "file_name": "PixelExperience_chef-9.0-20190614-2052-OFFICIAL.zip",
+         "file_size": 1022732690,
+         "md5": "7ecb2c9a938292489d908df6c433995b"
       }
    ],
    "pie_caf": [
@@ -28,9 +28,9 @@
          "md5": "5c4fa7a73258c2d81f584e0aa317f5a7"
       },
       {
-   "file_name": "PixelExperience_caf_chef-9.0-20190607-2242-OFFICIAL.zip",
-   "file_size": 1071741881,
-   "md5": "24459dcf5e43ffcb1b68210dd30d2fb3"
-     }	   
+         "file_name": "PixelExperience_caf_chef-9.0-20190607-2242-OFFICIAL.zip",
+         "file_size": 1071741881,
+         "md5": "24459dcf5e43ffcb1b68210dd30d2fb3"
+      }
    ]
 }

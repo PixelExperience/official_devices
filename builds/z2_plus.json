@@ -53,9 +53,9 @@
          "md5": "c84171d042240fdefa6ca49799686e69"
       },
       {
-         "file_name":"PixelExperience_z2_plus-9.0-20190522-2321-OFFICIAL.zip",
-         "file_size":989315006,
-         "md5":"b3203ed3ee0e103e633b5437dbf30105"
+         "file_name": "PixelExperience_z2_plus-9.0-20190522-2321-OFFICIAL.zip",
+         "file_size": 989315006,
+         "md5": "b3203ed3ee0e103e633b5437dbf30105"
       }
    ],
    "pie_caf": [
@@ -88,11 +88,11 @@
          "file_name": "PixelExperience_caf_z2_plus-9.0-20190523-0100-OFFICIAL.zip",
          "file_size": 993591979,
          "md5": "c1f1af47991144778b4f7e66fa0b2775"
-      },     
+      },
       {
-        "file_name": "PixelExperience_caf_z2_plus-9.0-20190612-0118-OFFICIAL.zip",
-        "file_size": 996468497,
-        "md5": "31b84a11547613ec3a99b4c9f4e1a187"
+         "file_name": "PixelExperience_caf_z2_plus-9.0-20190612-0118-OFFICIAL.zip",
+         "file_size": 996468497,
+         "md5": "31b84a11547613ec3a99b4c9f4e1a187"
       }
    ]
 }
