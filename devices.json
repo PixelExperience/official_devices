@@ -988,7 +988,21 @@
             "maintainer_name":"Saksham",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8803866",
             "xda_thread": "https://forum.xda-developers.com/oneplus-6t/development/rom-pixel-experience-t3875179"
-         }   
+         }
+      ]
+   },
+   {
+      "name":"MI 9",
+      "brand":"Xiaomi",
+      "codename":"cepheus",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Akash Srivastava",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3936738"
+         }
       ]
    }
 ]
