@@ -75,14 +75,6 @@
       "codename": "z2_plus",
       "supported_versions": [
          {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Rodrigo Rodrigues (Rodrigo594)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7509777",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3832722",
-            "deprecated": true
-         },
-         {
             "version_code": "pie_caf",
             "version_name": "Pie (CAF edition)",
             "maintainer_name": "Rodrigo Rodrigues (Rodrigo594)",
@@ -288,36 +280,6 @@
       ]
    },
    {
-      "name": "5",
-      "brand": "OnePlus",
-      "codename": "cheeseburger",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Henrique Pereira (Hlcpereira)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3890150",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "5T",
-      "brand": "OnePlus",
-      "codename": "dumpling",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Henrique Pereira (Hlcpereira)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3910741",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Mi Mix",
       "brand": "Xiaomi",
       "codename": "lithium",
@@ -458,47 +420,10 @@
       ]
    },
    {
-      "name": "Redmi Note 3 Pro",
-      "brand": "Xiaomi",
-      "codename": "kenzo",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "gitsdb",
-            "maintainer_url": "https://github.com/Gitskill99",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_caf",
-            "version_name": "Pie (CAF edition)",
-            "maintainer_name": "gitsdb",
-            "maintainer_url": "https://github.com/Gitskill99",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_go",
-            "version_name": "Pie (GO edition)",
-            "maintainer_name": "gitsdb",
-            "maintainer_url": "https://github.com/Gitskill99",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407"
-         }
-      ]
-   },
-   {
       "name": "Mi Note 3",
       "brand": "Xiaomi",
       "codename": "jason",
       "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "EnesSastim",
-            "xda_thread": "https://forum.xda-developers.com/mi-note-3/development/rom-pixel-experience-t3840005",
-            "deprecated": true
-         },
          {
             "version_code": "pie_caf",
             "version_name": "Pie (CAF edition)",
@@ -783,29 +708,6 @@
             "maintainer_name": "AkshayKakatkar, pqhaz",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8624500",
             "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3932952"
-         }
-      ]
-   },
-   {
-      "name": "Moto G5",
-      "brand": "Motorola",
-      "codename": "cedric",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Zilberto Junior (ZJRDroid)",
-            "maintainer_url": "https://t.me/ZJRDroid",
-            "xda_thread": "https://forum.xda-developers.com/g5/development/rom-pixel-experience-t3889183",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_caf",
-            "version_name": "Pie (CAF edition)",
-            "maintainer_name": "Zilberto Junior (ZJRDroid)",
-            "maintainer_url": "https://t.me/ZJRDroid",
-            "xda_thread": "",
-            "deprecated": true
          }
       ]
    },
