@@ -42,6 +42,20 @@
       ]
    },
    {
+      "name": "Redmi Note 3 Pro",
+      "brand": "Xiaomi",
+      "codename": "kenzo",
+      "supported_versions": [
+         {
+            "version_code": "pie_go",
+            "version_name": "Pie (GO edition)",
+            "maintainer_name": "baalajimaestro",
+            "maintainer_url": "https://t.me/baalajimaestro",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407"
+         }
+      ]
+   },
+   {
       "name": "Z17",
       "brand": "Nubia",
       "codename": "nx563j",
