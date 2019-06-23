@@ -558,20 +558,6 @@
       ]
    },
    {
-      "name": "Zenfone 3",
-      "brand": "Asus",
-      "codename": "zenfone3",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Abhay Kshatriya (vegeto1806)",
-            "maintainer_url": "https://t.me/vegeto1806",
-            "xda_thread": "https://forum.xda-developers.com/zenfone-3/development/rom-pixel-experience-t3855816"
-         }
-      ]
-   },
-   {
       "name": "Nexus 5X",
       "brand": "Google",
       "codename": "bullhead",
