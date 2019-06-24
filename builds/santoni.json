@@ -1,62 +1,5 @@
 {
-   "oreo": [
-      {
-         "file_name": "PixelExperience_santoni-8.1.0-20180729-1347-OFFICIAL.zip",
-         "file_size": 869833497,
-         "md5": "38f817fdd4ea2ad43f08af77bca534e4"
-      }
-   ],
    "pie": [
-      {
-         "file_name": "PixelExperience_santoni-9.0-20181022-1156-OFFICIAL.zip",
-         "file_size": 931866407,
-         "md5": "e3a52e53babc8ee700a71bdd90f65602"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190205-1437-OFFICIAL.zip",
-         "file_size": 948795891,
-         "md5": "f304938c2102a1008db6acde7a4e4fc5"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190307-0729-OFFICIAL.zip",
-         "file_size": 950113501,
-         "md5": "32ce7ce81df67a4ebaf1c7fe69d86767"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190408-1052-OFFICIAL.zip",
-         "file_size": 972228471,
-         "md5": "de40c7a77817000f61a896f582b7dd03"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190505-0225-OFFICIAL.zip",
-         "file_size": 980597534,
-         "md5": "91f745acfac9350950d648eaea3d3405"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190508-1047-OFFICIAL.zip",
-         "file_size": 994792930,
-         "md5": "b928c2e86aea9eebbb5b9fcddead8a17"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190514-2130-OFFICIAL.zip",
-         "file_size": 992500531,
-         "md5": "8bface9a9b1cee76844bae35dabcd834"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190522-1629-OFFICIAL.zip",
-         "file_size": 1021403613,
-         "md5": "a7847636b1081fa3f9b1df61b52a3b60"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190524-1815-OFFICIAL.zip",
-         "file_size": 1021251946,
-         "md5": "42cb37418dcb937d0bb294c81ea12392"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190605-0759-OFFICIAL.zip",
-         "file_size": 966054285,
-         "md5": "e680ce624c032a6342df213b91bcf1d8"
-      },
       {
          "file_name": "PixelExperience_santoni-9.0-20190609-1901-OFFICIAL.zip",
          "file_size": 1007301086,
@@ -69,31 +12,6 @@
       }
    ],
    "pie_caf": [
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190227-1711-CAF-OFFICIAL.zip",
-         "file_size": 937311214,
-         "md5": "de5c5ae6d809b4921b2d212a7369238e"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190303-0018-CAF-OFFICIAL.zip",
-         "file_size": 968576716,
-         "md5": "e6d2ff9cb2416cb6413060d456bf6d02"
-      },
-      {
-         "file_name": "PixelExperience_santoni-9.0-20190309-1635-CAF-OFFICIAL.zip",
-         "file_size": 941390761,
-         "md5": "7aaeddfca6f492246bf25490017a8037"
-      },
-      {
-         "file_name": "PixelExperience_caf_santoni-9.0-20190329-1318-OFFICIAL.zip",
-         "file_size": 984903088,
-         "md5": "239915fe118ded5135442312247a5d36"
-      },
-      {
-         "file_name": "PixelExperience_caf_santoni-9.0-20190407-1219-OFFICIAL.zip",
-         "file_size": 1005428228,
-         "md5": "467cbda88811bd5553cd0fb25004da46"
-      },
       {
          "file_name": "PixelExperience_caf_santoni-9.0-20190506-0749-OFFICIAL.zip",
          "file_size": 969582256,
