@@ -1,0 +1,10 @@
+* Build 26-06-2019
+
+========================================
+
+- Initial Official Build
+- No more mic issues in video recording
+- Less aggressive noise cancellation
+- Updated camera blobs
+- Data throttling fixed - may be
+- Infinity Kernel
