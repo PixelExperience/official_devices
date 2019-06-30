@@ -236,11 +236,11 @@
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3927729"
          },
          {
-            "version_code":"pie_caf",
-            "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Rohan Hasabe (Hasaber8)",
-            "maintainer_url":"https://t.me/Hasaber8",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3907168"
+            "version_code": "pie_caf",
+            "version_name": "Pie (CAF edition)",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
+            "maintainer_url": "https://t.me/Hasaber8",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3907168"
          }
       ]
    },
@@ -880,15 +880,15 @@
       ]
    },
    {
-      "name":"Redmi note 7",
-      "brand":"Xiaomi",
-      "codename":"lavender",
-      "supported_versions":[
+      "name": "Redmi note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
          {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Nikhil Gupta",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8785686",
+            "version_code": "pie",
+            "version_name": "Pie",
+            "maintainer_name": "Nikhil Gupta",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8785686",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3940289#post79739852"
          }
       ]
