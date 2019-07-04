@@ -52,22 +52,5 @@
          "file_size": 1116944653,
          "md5": "10fec17de469dc21c33aaa61cffff22d"
       }
-   ],
-   "pie_caf": [
-      {
-         "file_name": "PixelExperience_caf_wayne-9.0-20190506-2341-OFFICIAL.zip",
-         "file_size": 1059823488,
-         "md5": "aaed3e749accf273350c7fd40bd2ceb6"
-      },
-      {
-         "file_name": "PixelExperience_caf_wayne-9.0-20190508-2215-OFFICIAL.zip",
-         "file_size": 1095738003,
-         "md5": "afefa647c1e6391ba02bebcdd91d4895"
-      },
-      {
-         "file_name": "PixelExperience_caf_wayne-9.0-20190630-1631-OFFICIAL.zip",
-         "file_size": 1100715658,
-         "md5": "aa140aa23a2df67769cfe060ed627b3d"
-      }
    ]
 }

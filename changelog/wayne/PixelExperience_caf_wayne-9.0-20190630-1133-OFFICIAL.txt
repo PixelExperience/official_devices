@@ -1,3 +1,0 @@
- * Security patch
- * Tons of changes available
- (Go to https://github.com/MoKee/android_device_xiaomi_wayne/tree/mkp for more details)
