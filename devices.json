@@ -866,6 +866,20 @@
       ]
    },
    {
+      "name": "Nokia 6.1 Plus",
+      "brand": "Nokia",
+      "codename": "DRG_sprout",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "version_name": "Pie",
+            "maintainer_name": "RaghuVarma Gadhiraju",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8154034",
+            "xda_thread": "https://forum.xda-developers.com/nokia-6-1-plus/development/rom-pixel-experiance-t3898527"
+         }
+      ]
+   },   
+   {
       "name": "MI 9",
       "brand": "Xiaomi",
       "codename": "cepheus",
