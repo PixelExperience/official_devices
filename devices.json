@@ -133,6 +133,20 @@
       ]
    },
    {
+      "name":"5T",
+      "brand":"OnePlus",
+      "codename":"dumpling",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"SlackerState (Slacker)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=10018317",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/how-to/unofficial-pixel-experience-oneplus-5t-t3946186"
+         }
+      ]
+   },
+   {
       "name":"6",
       "brand":"OnePlus",
       "codename":"enchilada",
