@@ -730,7 +730,8 @@
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Bruno Rochaa (brunorochaa)",
             "maintainer_url":"https://t.me/brunorochaa",
-            "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
+            "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
+            "deprecated": true
          }
       ]
    },
@@ -863,7 +864,8 @@
             "version_name":"Pie",
             "maintainer_name":"Granrage",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9752415",
-            "xda_thread":"https://forum.xda-developers.com/redmi-4-prime/development/rom-pixel-experience-t3924420"
+            "xda_thread":"https://forum.xda-developers.com/redmi-4-prime/development/rom-pixel-experience-t3924420",
+            "deprecated": true
          }
       ]
    },
@@ -882,7 +884,7 @@
       ]
    },
    {
-      "name":"MI 9",
+      "name":"Mi 9",
       "brand":"Xiaomi",
       "codename":"cepheus",
       "supported_versions":[
