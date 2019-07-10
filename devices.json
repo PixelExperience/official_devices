@@ -289,7 +289,8 @@
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Verevka",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5213876",
-            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994"
+            "xda_thread":"https://forum.xda-developers.com/mi-6/development/rom-pixel-experience-t3747994",
+            "deprecated": true
          }
       ]
    },
