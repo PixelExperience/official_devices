@@ -492,16 +492,15 @@
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"TH779",
-            "maintainer_url":"https://t.me/TH779",
-            "xda_thread":""
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t3874971"
          },
          {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
-            "maintainer_name":"PIPIPIG233666(皮皮猪) Fatesay(DMF)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
-            "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t3874971",
-            "deprecated": true
+            "maintainer_name":"Venkat Yadlapati(Venkat3620)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8507969",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixelexperience-t3947293",
          }
       ]
    },
