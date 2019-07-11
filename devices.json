@@ -47,8 +47,8 @@
       "codename":"kenzo",
       "supported_versions":[
          {
-            "version_code":"pie_go",
-            "version_name":"Pie (GO edition)",
+            "version_code":"pie",
+            "version_name":"Pie",
             "maintainer_name":"baalajimaestro",
             "maintainer_url":"https://github.com/baalajimaestro",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407"
