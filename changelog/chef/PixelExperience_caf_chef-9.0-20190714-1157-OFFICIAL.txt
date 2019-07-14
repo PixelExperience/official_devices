@@ -1,0 +1,3 @@
+JULY UPDATE
+* Updated Security Patch
+* Moved to msm8998 kernel
