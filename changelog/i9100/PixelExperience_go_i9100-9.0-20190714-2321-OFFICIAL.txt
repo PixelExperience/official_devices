@@ -1,0 +1,34 @@
+================
+INFO
+================
+* July security patch
+* Updated gapps
+
+Updates by @rINanDO:
+* Set swappiness to 100
+* Using Preload-partition for misc
+* Added Bluetooth SIM Access Profile support (Not tested)
+* Fixed stereo microphone recording (also in videorecording)
+* Fix autofocus in preview
+* Set ro.config.small_battery to true. This will trigger device-idle in 15
+minutes instead of 30 minutes
+
+Thanks for the updates!
+.
+================
+BUGS
+================
+* Tell me
+.
+================
+KNOWN ISSUES
+================ 
+* Slow start due to GAPPS. Wait 5 minutes before setting up the appliance.
+* Initial wallpaper with different colors on the first start. Apply again and return to normal.
+
+================
+WARNING
+================
+* Root mode does not work due to the use of Magisk in current devices.When trying to use the SuperSU application, it causes bootloop.
+PixelExperience does not contain software engines to support root access support for legacy devices such as LineageOS.
+No patience to adapt / develop a solution.
