@@ -1,0 +1,22 @@
+ROM CHANGELOG :-
+
+* July security patch
+* Merged LA.UM.7.3.r1-07900-sdm845.0 on CAF base
+* Improved pocket lock
+* Theming fixes
+* Night display improvements
+* Updated gapps
+* Updated translations
+* Others bug fixes
+
+Device Specific :-
+
+* Improved gps reception
+* Fixed reboot on low battery
+* Optimized ART Props
+* Addressed Some Selinux Denials (premissive)
+* Added Always On Display (Disabled By Default)
+* Declared Some POWER_STATS
+* Disabled Some Unused Location Services
+* Compiled With clang 9.0.5
+* Performance Improvments and bug fixes
