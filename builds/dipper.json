@@ -49,6 +49,11 @@
          "file_name": "PixelExperience_dipper-9.0-20190622-2219-OFFICIAL.zip",
          "file_size": 1067618883,
          "md5": "3c7f5572d1c793ddc3fcbb80b2e22a09"
+      },
+      {
+         "file_name": "PixelExperience_dipper-9.0-20190713-1638-OFFICIAL.zip",
+         "file_size": 1052591473,
+         "md5": "fe98df8e23bbc7324cf98b41dbe1a928"
       }
    ],
    "pie_caf": [
@@ -66,6 +71,11 @@
          "file_name": "PixelExperience_caf_dipper-9.0-20190606-0047-OFFICIAL.zip",
          "file_size": 1071025036,
          "md5": "eafd5c0cbf6fac93e79967f21318884e"
+      },
+      {
+         "file_name": "PixelExperience_caf_dipper-9.0-20190713-2026-OFFICIAL.zip",
+         "file_size": 1055845075,
+         "md5": "fe1f98d42c315b8d8291042d0dff3e80"
       }
    ]
 }

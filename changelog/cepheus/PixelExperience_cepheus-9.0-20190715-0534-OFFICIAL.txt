@@ -1,0 +1,2 @@
+* Fixed safetynet
+* Fixed the bad video playback. Forgot in last one
