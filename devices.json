@@ -886,5 +886,19 @@
             "xda_thread":"https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3936738"
          }
       ]
+   },
+   {
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "version_name": "Pie",
+            "maintainer_name": "Pereira Ricardo (Namaless / NunoCodex)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=3597029",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixelexperience-t3947858"
+         }
+      ]
    }
 ]
