@@ -119,6 +119,20 @@
       ]
    },
    {
+      "name":"5",
+      "brand":"OnePlus",
+      "codename":"cheeseburger",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"SlackerState (Slacker)",
+            "maintainer_url":"https://t.me/SlackerState",
+            "https://forum.xda-developers.com/oneplus-5/how-to/rom-pixel-experience-t3946026"
+         }
+      ]
+   },
+   {
       "name":"6",
       "brand":"OnePlus",
       "codename":"enchilada",
