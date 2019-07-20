@@ -1,5 +1,9 @@
 {
-  "pie": [
+  "pie": [{
+      "file_name": "PixelExperience_lavender-9.0-20190720-0147-OFFICIAL.zip",
+      "file_size": 1184045982,
+      "md5": "6e9f294a5ab0287a61cd543b19a3f059"
+    },
     {
       "file_name": "PixelExperience_lavender-9.0-20190719-2247-OFFICIAL.zip",
       "file_size": 1183993989,
