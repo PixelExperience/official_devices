@@ -1,0 +1,2 @@
+* Fix kernel bug for settings.
+* Update ROM sources.
