@@ -1,0 +1,7 @@
+Device Changlog:
+
+- Updated IFAA for pie blobs
+- Upstreamed kernel
+- Power hal boosting
+- Improved performance of unclipped save layers
+- More no one will understand
