@@ -1,0 +1,5 @@
+* Fixed Android Auto flickering
+* Fixed lag during screen recording
+* Improved Now Playing
+* Illusion Kernel 3.7
+* Some others fixes
