@@ -1,0 +1,4 @@
+* Change to Illusion Kernel
+* Fixed infrared
+* Improved Now Playing
+* Some others fixes
