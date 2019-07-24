@@ -1,0 +1,4 @@
+• Based on latest device source.
+• Etherious (EAS) kernel used.
+• Kernel upstream to 4.4.186
+
