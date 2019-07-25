@@ -1,0 +1,8 @@
+Device Changelog:
+- Merge https://github.com/android-linux-stable/msm-4.14 into pie
+- violet-perf_defconfig: Regenerate
+- qcacld: initialize variables to avoid errors during compilation
+- qcacld: nuke Kconfig-based configuration entirely
+- qcacld: defer hdd initialization and rely on userspace writing to /dev/wlan
+- Revert "qcacld-3.0: Load driver on device_initcall when not built as a module"
+- Revert recent sched commits
