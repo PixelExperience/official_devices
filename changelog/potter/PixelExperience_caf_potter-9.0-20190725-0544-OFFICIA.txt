@@ -1,0 +1,121 @@
+=======================
+     07-25-2019
+=======================
+
+
+=======================
+     07-24-2019
+=======================
+
+
+   * vendor/pixelstyle/
+07b0ca8 Revert "Ship dark bootanimations"
+32ee357 Ship dark bootanimations
+
+=======================
+     07-23-2019
+=======================
+
+
+   * device/motorola/potter/
+4fc1f40 potter: power: add back support for dt2wake
+05251f7 potter: import CAF binderized power hal
+
+=======================
+     07-22-2019
+=======================
+
+
+   * device/custom/sepolicy/
+f935076 Merge "sepolicy: Add hal_lineage_camera_motor domain" into pie
+898933c sepolicy: Add hal_lineage_camera_motor domain
+
+   * device/motorola/potter/
+193519c Revert "potter: track caf branch of vendor"
+a8eb148 Revert "potter: switch to power-libperfmgr"
+045c4a7 potter: Upgrade TARGET_KERNEL_CLANG_VERSION to 9.0.5
+716f84a potter: Track hmp kernel
+34cbebf potter: Revert EAS changes
+1f91215 potter: gcam: Update to san1ty 7.1
+de6dc88 potter: Some ramdisk changes
+1f3e558 potter : dont use max swappiness on 4gb varient
+76bccb2 potter : update dalvik virtual memory
+3350da2 potter: audio - increase speaker & in-call sound
+b4e1400 MotoSettings: add material icons for Ambient Display
+e9e7ec3 potter: MotoSettings: add Material Icons for Screen Off Gestures
+c6c64ff potter: MotoSettings : Add Material Icons for Fingerprint Gestures
+
+=======================
+     07-21-2019
+=======================
+
+
+=======================
+     07-20-2019
+=======================
+
+
+=======================
+     07-19-2019
+=======================
+
+
+   * hardware/qcom/power/
+9c5f0e7 power: Add initial sm6150 power HAL
+
+=======================
+     07-18-2019
+=======================
+
+
+   * vendor/gapps/
+aeb080f Update Phonesky
+
+   * vendor/pixelstyle/
+6280037 Update AmbientPlayProvider
+
+=======================
+     07-17-2019
+=======================
+
+
+=======================
+     07-16-2019
+=======================
+
+
+   * device/custom/sepolicy/
+23df354 sepolicy: qcom: Label /d/rpmh
+
+=======================
+     07-15-2019
+=======================
+
+
+=======================
+     07-14-2019
+=======================
+
+
+   * hardware/custom/interfaces/
+360fa37 introduce camera motor hal
+
+=======================
+     07-13-2019
+=======================
+
+
+=======================
+     07-12-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/sm8150/
+dc6b2c4c Merge tag 'LA.UM.7.1.r1-15300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/audio into pie-caf
+
+   * hardware/qcom/display-caf/sm8150/
+cec73b8c Merge tag 'LA.UM.7.1.r1-15300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into pie-caf
+
+   * hardware/qcom/media-caf/sm8150/
+5f11744d Merge tag 'LA.UM.7.1.r1-15300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/media into pie-caf
+
