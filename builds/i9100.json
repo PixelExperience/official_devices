@@ -1,5 +1,5 @@
 {
-   "pie_go": [
+   "pie": [
       {
          "file_name": "PixelExperience_go_i9100-9.0-20190407-0024-OFFICIAL.zip",
          "file_size": 532481706,
@@ -24,6 +24,11 @@
          "file_name": "PixelExperience_go_i9100-9.0-20190714-2321-OFFICIAL.zip",
          "file_size": 494628204,
          "md5": "668d261901242e2d4cc602ab0e283748"
+      },
+      {
+         "file_name": "PixelExperience_i9100-9.0-20190725-0421-OFFICIAL.zip",
+         "file_size": 494644486,
+         "md5": "4f6c07f77d59514922f082f5caeedbd3"
       }
    ]
 }

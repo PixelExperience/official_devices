@@ -1,0 +1,26 @@
+================
+INFO
+================
+* Updated gapps
+* Updated sources
+
+Updates by @rINanDO:
+* Fixed wakelock issue after using flashlight once. Resolves excessive battery drain after use.
+
+================
+BUGS
+================
+* Tell me
+.
+================
+KNOWN ISSUES
+================ 
+* Slow start due to GAPPS. Wait 5 minutes before setting up the appliance.
+* Initial wallpaper with different colors on the first start. Apply again and return to normal.
+
+================
+WARNING
+================
+* Root mode does not work due to the use of Magisk in current devices. When trying to use the SuperSU application, it causes bootloop.
+PixelExperience does not contain software engines to support root access support for legacy devices such as LineageOS.
+No patience to adapt / develop a solution.
