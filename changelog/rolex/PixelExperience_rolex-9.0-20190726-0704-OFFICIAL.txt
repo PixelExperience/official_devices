@@ -1,0 +1,5 @@
+* Merge tag 'LA.UM.7.6.r1-05500-89xx.0' in kernel
+* Merge tag 'LA.UM.7.6.r1-05500-89xx.0' in staging/prima
+* back to default density 
+* Update vendor security patch
+* Fixed Lag launcher ( spotify working normally )
