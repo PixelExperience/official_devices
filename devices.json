@@ -946,4 +946,18 @@
          }
       ]
    }
+   {
+      "name":"Mi Pad 4",
+      "brand":"Xiaomi",
+      "codename":"clover",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"mamarama9904",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6449979",
+            "xda_thread":""
+         }
+      ]
+   }
 ]
