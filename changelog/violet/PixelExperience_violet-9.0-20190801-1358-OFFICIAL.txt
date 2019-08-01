@@ -1,0 +1,34 @@
+Device Changes:
+- Force fw from MIUI 9.7.18 and up
+- Re-gen blobs from 9.7.25
+- Include missing OMX blobs
+- Move init.qti.charger.sh to bin
+- Cleanup usb shell script
+- Enable audio features for sound FX libraries
+- Enable TARGET_USES_DISPLAY_RENDER_INTENTS
+- Copy media_codecs_google_video_le from fw/av
+- Set SSR restart_level in init.qcom.rc
+- Include missing OMX blobs
+- Configure old talosAU SKU parameters same as 6155P
+- Revert "violet: wifi: Enable 2.4GHz channel bonding"
+- Update GPS HAL to LA.UM.7.9.r1-07800-sm6150.0
+- Update baseband assertion info
+- Don't build vndk_package
+- manifest: we only have 1.5 config
+
+Kernel Changes:
+- violet-perf_defconfig: Regenerate
+- qcacld: Disable build timestamp
+- Set correct techpack header install directory
+- fs: sdfat: Add MODULE_ALIAS_FS for supported filesystems
+- Android: Add empty Android.mk file
+- qcom: dsi-panel-nt36672a-shenchao-fhd-video: Update from MIUI 9.7.25
+- msm: ipa3: debug changes for ipa hw rx stall issue
+- Merge 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel
+- Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn into pie
+- Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0
+- Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.14
+- Revert "Revert "msm: camera: sensor: Use vzalloc to alloc reg setting memory""
+- msm: camera: eeprom: Fix OOB read/write in EEPROM
+
+NOTE: You absolutely need to flash firmware from MIUI 9.7.18 or newer, before flashing this build.
