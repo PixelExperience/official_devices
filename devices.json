@@ -340,6 +340,20 @@
       ]
    },
    {
+      "name":"Mi A2",
+      "brand":"Xiaomi",
+      "codename":"jasmine_sprout",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Aryan Gupta",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7515368",
+            "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3955704"
+         }
+      ]
+   },
+   {
       "name":"Redmi Note 5 Global/Pro",
       "brand":"Xiaomi",
       "codename":"whyred",
