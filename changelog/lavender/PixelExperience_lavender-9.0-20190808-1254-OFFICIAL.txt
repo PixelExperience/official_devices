@@ -1,0 +1,9 @@
+* Complete rework of device tree
+* Complete rework of vendor tree
+* Use the stock kernel by Bladeyy
+* Increase audio in capsule
+* Fixed Radio FM force close
+* Fixed Google Camera official app force close
+* Fixed Google Camera slow motion lag
+* Fixed WhatsApp video calling lag
+* Fixed Facebook, Twitter and Instagram scrolling lag
