@@ -932,5 +932,20 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Redmi 7",
+      "brand":"Xiaomi",
+      "codename":"onclite",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Zainudin Shamilov (ErrorNetwork28)",
+            "maintainer_url":"https://t.me/ErrorNetwork28",
+            "xda_thread":""
+         }
+      ]
    }
 ]
+
