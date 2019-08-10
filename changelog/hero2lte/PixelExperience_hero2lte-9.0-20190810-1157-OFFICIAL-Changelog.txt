@@ -1,0 +1,91 @@
+=======================
+     08-10-2019
+=======================
+
+
+=======================
+     08-09-2019
+=======================
+
+
+=======================
+     08-08-2019
+=======================
+
+
+=======================
+     08-07-2019
+=======================
+
+
+   * vendor/nxp/opensource/commonsys/packages/apps/Nfc/
+524414f Skip setEnableHostRouting when switching to screen off
+
+=======================
+     08-06-2019
+=======================
+
+
+=======================
+     08-05-2019
+=======================
+
+
+   * device/samsung/hero-common/
+9b7bdf1 Use ivanmeler kernel src, more up to date.
+
+=======================
+     08-04-2019
+=======================
+
+
+=======================
+     08-03-2019
+=======================
+
+
+   * hardware/broadcom/libbt/
+4545703 libbt: configure audio codec right after firmware
+
+=======================
+     08-02-2019
+=======================
+
+
+=======================
+     08-01-2019
+=======================
+
+
+=======================
+     07-31-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/msm8960/
+b49d4dc hal: Add support for voice calls on Fusion3 platforms
+
+   * hardware/qcom/audio-caf/sm8150/
+b78a05b audio: Add missing includes
+
+   * hardware/qcom/display-caf/sm8150/
+9580392 Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into pie-caf
+
+   * hardware/qcom/media-caf/sm8150/
+9016bbb Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/media into pie-caf
+
+=======================
+     07-30-2019
+=======================
+
+
+=======================
+     07-29-2019
+=======================
+
+
+=======================
+     07-28-2019
+=======================
+
+
