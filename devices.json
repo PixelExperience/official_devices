@@ -393,7 +393,8 @@
             "version_name":"Pie",
             "maintainer_name":"Aryan Gupta",
             "maintainer_url":"https://github.com/darkbeast69",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t3912049"
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t3912049",
+            "deprecated":true
          },
          {
             "version_code":"pie_caf",
