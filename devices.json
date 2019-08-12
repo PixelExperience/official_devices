@@ -948,18 +948,18 @@
       ]
    },
    {
-   	   "name":"Coolpad Cool1",
-   	   "brand":"Coolpad",
-   	   "codename":"c106",
-   	   "supported_versions":[
-   	      {
-   	      	   "version_code":"pie",
-   	      	   "version_name":"pie",
-   	          "maintainer_name":"Arnab Pal (arnabpal70)",
-"maintainer_url":"https://forum.xda-developers.com/member.php?u=9704830"
-          "xda_thread":"https://forum.xda-developers.com/cool1/development/rom-pixel-experience-t3956841"
-   	       }
-   	   ]
-   	}
+   	 "name":"Coolpad Cool1",
+   	 "brand":"Coolpad",
+   	 "codename":"c106",
+   	 "supported_versions":[
+   	    {
+   	   	 "version_code":"pie",
+   	  	    "version_name":"pie",
+   	       "maintainer_name":"Arnab Pal (arnabpal70)",
+             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9704830"
+             "xda_thread":"https://forum.xda-developers.com/cool1/development/rom-pixel-experience-t3956841"
+   	     }
+   	  ]
+    }
 ]   	
    
