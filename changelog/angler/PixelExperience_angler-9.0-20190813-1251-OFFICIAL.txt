@@ -1,0 +1,98 @@
+=======================
+     08-13-2019
+=======================
+
+
+=======================
+     08-12-2019
+=======================
+
+
+=======================
+     08-11-2019
+=======================
+
+
+   * vendor/pixelstyle/
+2206d3d Update AmbientPlayProvider
+
+=======================
+     08-10-2019
+=======================
+
+
+=======================
+     08-09-2019
+=======================
+
+
+=======================
+     08-08-2019
+=======================
+
+
+=======================
+     08-07-2019
+=======================
+
+
+   * vendor/nxp/opensource/commonsys/packages/apps/Nfc/
+6d96848 Prevent OOB Read in Mfc_Transceive
+
+=======================
+     08-06-2019
+=======================
+
+   * art/
+3ff04a7 Merge tag 'android-9.0.0_r46' into staging/lineage-16.0_merge-android-9.0.0_r46
+
+   * packages/apps/Nfc/
+7fab21a Merge tag 'android-9.0.0_r46' into staging/lineage-16.0_merge-android-9.0.0_r46
+
+   * vendor/qcom/opensource/audio/
+acf6244 policy_hal: Adapt to AudioMix API changes in f/av audiopolicy
+
+=======================
+     08-05-2019
+=======================
+
+
+=======================
+     08-04-2019
+=======================
+
+
+=======================
+     08-03-2019
+=======================
+
+
+   * hardware/broadcom/libbt/
+4545703 libbt: configure audio codec right after firmware
+
+=======================
+     08-02-2019
+=======================
+
+
+=======================
+     08-01-2019
+=======================
+
+
+=======================
+     07-31-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/msm8960/
+b49d4dc hal: Add support for voice calls on Fusion3 platforms
+
+   * hardware/qcom/audio-caf/sm8150/
+b78a05b audio: Add missing includes
+
+   * hardware/qcom/display-caf/sm8150/
+9580392 Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into pie-caf
+
+   * hardware/qcom/media-caf/sm8150/
+9016bbb Merge tag 'LA.UM.7.1.r1-15600-sm8150.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/media into pie-caf
