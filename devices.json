@@ -947,4 +947,18 @@
          }
       ]
    }
+    {
+      "name":"5T",
+      "brand":"OnePlus",
+      "codename":"dumpling",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Jowee Yu (xiaowyyyyya)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
+         }
+      ]
+   }
 ]
