@@ -960,5 +960,33 @@
             "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
          }
       ]
+   },
+   {
+      "name":"Mi Pad 4",
+      "brand":"Xiaomi",
+      "codename":"clover",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"mamarama9904",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6449979",
+            "xda_thread":"https://forum.xda-developers.com/mi-pad-4/development/rom-pixelexperience-mi-pad-4-t3948631"
+         }
+      ]
+   },
+   {
+      "name":"Le Max 2",
+      "brand":"LeEco",
+      "codename":"x2",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"mamarama9904",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6449979",
+            "xda_thread":"https://forum.xda-developers.com/mi-pad-4/development/rom-pixelexperience-le-max-2-t3953551"
+         }
+      ]
    }
 ]
