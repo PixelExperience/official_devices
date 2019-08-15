@@ -960,5 +960,19 @@
             "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
          }
       ]
-   }
+   },
+   {
+      "name":"Nexus 5",
+      "brand":"Google",
+      "codename":"hammerhead",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Bijit Chakraborty (Demoxing)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9478273",
+            "xda_thread":"https://forum.xda-developers.com/google-nexus-5/development/rom-pixel-experience-t3951479"
+         }
+      ]
+    }
 ]
