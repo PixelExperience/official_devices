@@ -34,11 +34,12 @@ Also, a maintainer mustn't send an update to users with unmerged gerrit changes.
 
 2.7 - The maintainers mustn't add:
 
-2.7.1 - Any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, force Camera API2, etc. Features that are device specific and are available at stock firmware, eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Fingerprint Gestures and MotoActions for Motorola Devices, are allowed. Dirac Sound is the only exception.
+2.7.1 - Any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, force Camera API2, etc. 
+Features that are device specific and are available at stock firmware, eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Fingerprint Gestures and MotoActions for Motorola Devices, are allowed. Dirac Sound is the only exception.
 
 2.7.2 - Custom build fingerprints (eg. Pixels Build fingerprints), unless the reason of having them it's bypass SafetyNet.
 
-2.7.3 - Playground or something else related to get Pixel-like features that aren't available from the ROM sources (only Gcam is acceptable)
+2.7.3 - Playground or something else related to get Pixel-like features that aren't available from the ROM sources (only GoogleCamera is accepted).
 
 2.8 - The maintainers mustn't ship builds with prebuilt kernels, unless it's the only solution to make the device functional.
 
