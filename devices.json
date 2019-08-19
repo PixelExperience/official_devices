@@ -58,21 +58,6 @@
       ]
    },
    {
-      "name":"Z17",
-      "brand":"Nubia",
-      "codename":"nx563j",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"RuRuTiaSaMa",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9599037",
-            "xda_thread":"https://forum.xda-developers.com/nubia-z17/development/rom-pixel-experience-t3899647",
-            "deprecated":true
-         }
-      ]
-   },
-   {
       "name":"Z1",
       "brand":"ZUK",
       "codename":"ham",
@@ -302,18 +287,19 @@
       "codename":"lithium",
       "supported_versions":[
          {
-            "version_code":"pie-caf",
-            "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Nicholas Magill (Inkypen)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9382231",
-            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
-         },
-         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Nicholas Magill (Inkypen)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9382231",
             "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+         },
+         {
+            "version_code":"pie-caf",
+            "version_name":"Pie (CAF edition)",
+            "maintainer_name":"Nicholas Magill (Inkypen)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9382231",
+            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
+            "deprecated":true
          }
       ]
    },
@@ -479,21 +465,6 @@
       ]
    },
    {
-      "name":"Mi 5X",
-      "brand":"Xiaomi",
-      "codename":"tiffany",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"PIPIPIG233666(皮皮猪)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9461998",
-            "xda_thread":"https://forum.xda-developers.com/mi-5x/development/rom-pixel-experience-t3890384",
-            "deprecated":true
-         }
-      ]
-   },
-   {
       "name":"Mi 6X",
       "brand":"Xiaomi",
       "codename":"wayne",
@@ -534,20 +505,6 @@
             "maintainer_name":"Madhav Saladi(BabluS)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987",
             "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/pixel-experience-caf-x00t-x00td-t3930586",
-            "deprecated":true
-         }
-      ]
-   },
-   {
-      "name":"Moto G1",
-      "brand":"Motorola",
-      "codename":"falcon",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Hasaber8 (RohanHasabe8)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9506906",
             "deprecated":true
          }
       ]
@@ -629,20 +586,6 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9782219",
             "xda_thread":"https://forum.xda-developers.com/redmi-6-pro/development/4-9-pixel-experience-t3920375",
             "deprecated":true
-         }
-      ]
-   },
-   {
-      "name":"Water 8",
-      "brand":"LYF",
-      "codename":"mobee01a",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Inderpreet Singh Bhangu (IPSBHANGU)",
-            "maintainer_url":"https://t.me/IPSBHANGU",
-            "xda_thread":""
          }
       ]
    },
