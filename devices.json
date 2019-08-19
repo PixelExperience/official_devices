@@ -415,20 +415,6 @@
       ]
    },
    {
-      "name":"Robin",
-      "brand":"Nextbit",
-      "codename":"ether",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"pie",
-            "maintainer_name":"Anierin Bliss (AnierinB)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7125966",
-            "xda_thread":"https://forum.xda-developers.com/nextbit-robin/development/rom-pixel-experience-t3912177"
-         }
-      ]
-   },
-   {
       "name":"Mi Note 3",
       "brand":"Xiaomi",
       "codename":"jason",
