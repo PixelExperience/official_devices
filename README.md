@@ -5,49 +5,23 @@ Devices repository: [PixelExperience-Devices](https://github.com/PixelExperience
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
-Any failure in following the below instructions will make you unfit for the maintainership. No questions asked.
+### 1. How to apply?
 
-### 1. To turn into a maintainer of PixelExperience:
+You must fulfill the following requirements before applying:
 
-1.2 - You must own the device. Blind and untested builds aren't allowed.
+- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/pie/maintaiship_requirements.md)
 
-1.3 - You must have knowledge of git.
+- [Device requirements](https://github.com/PixelExperience/docs/blob/pie/device_requirements.md)
 
-1.4 - You must do an unofficial build for atleast 2 weeks,  be sure that the build is stable for daily usage before applying. Stability context may differ for different devices, so explain for any exceptions.
+- [Maintainers' code of conduct](https://github.com/PixelExperience/docs/blob/pie/maintainers_code_of_conduct.md)
 
-1.5 - You must have your device sources public.
+You must be aware that just fulfilling those requirements doesn't mean that you're going to be accept. We will also consider some other points if necessary, like experience or how's your behavior with other people (users or not) and even with some technical stuff.
 
-1.6 - Your device tree must have some required commits. You can check them at [this url](https://github.com/PixelExperience-Devices/required_commits).
-
-### 2. Maintainers conduct notes:
-
-2.2 - The maintainers mustn't do any unofficial modifications, except if they're going to push it for acceptance on our [gerrit](https://gerrit.pixelexperience.org).
-Also, a maintainer mustn't send an update to users with unmerged gerrit changes.
-
-2.3 - The maintainers must upload theirs trees on [PixelExperience-Devices](https://github.com/PixelExperience-Devices) organization. The trees should fully reflect the changes when a new build is pushed for that specific device tree. Last but not the least, it should be fully buildable.
-
-2.4 - The maintainers must test every build before sending OTA update to user.
-
-2.5 - The maintainers must keep authorship of git commits that are pushed, mandatory for all repository. Force-pushes are acceptable.
-
-2.6 - Relationships fights can be done in PM on Telegram or XDA.
-
-2.7 - The maintainers mustn't add:
-
-2.7.1 - Any features in their device specific packages, eg. configpanel, XiaomiParts, etc., like KCAL, force Camera API2, etc. 
-Features that are device specific and are available at stock firmware, eg. Alert Slider and Offscreen gestures for some OnePlus Devices, Fingerprint Gestures and MotoActions for Motorola Devices, are allowed. Dirac Sound is the only exception.
-
-2.7.2 - Custom build fingerprints (eg. Pixels Build fingerprints), unless the reason of having them it's bypass SafetyNet.
-
-2.7.3 - Playground or something else related to get Pixel-like features that aren't available from the ROM sources (only GoogleCamera is accepted).
-
-2.8 - The maintainers mustn't ship builds with prebuilt kernels, unless it's the only solution to make the device functional.
-
-### 3. Hosting
+### 2. Hosting
 
 Our files are hosted on our FTP server, you will receive the credentials when you join the team.
 
-### 4. Changelog
+### 3. Changelog
 For each new version, you need to upload the changelog to this repository in the device specific folder.
 
 The changelog file name must match the **.zip** file name and should end with **.txt**
@@ -56,14 +30,14 @@ Eg: **.zip** is **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.zip**, cha
 
 Maintainers should always try to write a user understable changelog.
 
-### 5. Over-the-air (OTA) updates
+### 4. Over-the-air (OTA) updates
 Our system is automatic, you should not worry about updating some script, just upload the new build to the FTP server and send a pull request with the changelog and also edit your device JSON file (**builds/your_device_codename.json**) in this repository.
 
 Eg: Moto G 2013 is called **falcon**, so the device JSON file is **builds/falcon.json**
 
 **Note:** New builds can take up to 30 minutes to appear on the site and in the OTA application.
 
-### 6. JSON params
+### 5. JSON params
 
 ##### devices.json
 | Param | Description | Required |
