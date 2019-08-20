@@ -988,5 +988,19 @@
             "xda_thread":"https://forum.xda-developers.com/mi-pad-4/development/rom-pixelexperience-le-max-2-t3953551"
          }
       ]
+   },
+   {
+      "name":"Cool1 dual",
+      "brand":"Coolpad",
+      "codename":"c106",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"mamarama9904",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6449979",
+            "xda_thread":"https://forum.xda-developers.com/cool1/development/rom-pixelexperience-cool1-dual-t3955228"
+         }
+      ]
    }
 ]
