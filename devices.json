@@ -608,13 +608,6 @@
             "xda_thread":"https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3871932"
          },
          {
-            "version_code":"pie_plus",
-            "version_name":"Pie (Plus edition)",
-            "maintainer_name":"Henrique Pereira (Hlcpereira)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":"https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3871932"
-         },
-         {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
@@ -696,22 +689,15 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Bruno Rocha (rochadev)",
-            "maintainer_url":"https://t.me/rochadev",
-            "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
-         },
-         {
-            "version_code":"pie_plus",
-            "version_name":"Pie (Plus edition)",
-            "maintainer_name":"Bruno Rocha (rochadev)",
-            "maintainer_url":"https://t.me/rochadev",
+            "maintainer_name":"Bruno Rochaa (brunorochaa)",
+            "maintainer_url":"https://t.me/brunorochaa",
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
          },
          {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Bruno Rocha (rochadev)",
-            "maintainer_url":"https://t.me/rochadev",
+            "maintainer_name":"Bruno Rochaa (brunorochaa)",
+            "maintainer_url":"https://t.me/brunorochaa",
             "xda_thread":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
             "deprecated":true
          }
@@ -879,13 +865,6 @@
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
             "xda_thread":""
-         },
-         {
-            "version_code":"pie_plus",
-            "version_name":"Pie (Plus edition)",
-            "maintainer_name":"Henrique Pereira (Hlcpereira)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread":""
          }
       ]
    },
@@ -928,6 +907,13 @@
             "maintainer_name":"Jowee Yu (xiaowyyyyya)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
+         },
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Jowee Yu (xiaowyyyyya)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
          }
       ]
    },
@@ -942,6 +928,13 @@
             "maintainer_name":"Jowee Yu (xiaowyyyyya)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3959201"
+         },
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Jowee Yu (xiaowyyyyya)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
          }
       ]
    }
