@@ -847,8 +847,15 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Luke Williams (DeveloperLuke)",
-            "maintainer_url":"https://t.me/DeveloperLuke",
+            "maintainer_name":"Luke Williams (ExpressLuke)",
+            "maintainer_url":"https://t.me/OGExpressLuke",
+            "xda_thread":"https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t3773987"
+         },
+	 {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Luke Williams (ExpressLuke)",
+            "maintainer_url":"https://t.me/OGExpressLuke",
             "xda_thread":"https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t3773987"
          }
       ]
@@ -861,8 +868,15 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Luke Williams (DeveloperLuke)",
-            "maintainer_url":"https://t.me/DeveloperLuke",
+            "maintainer_name":"Luke Williams (ExpressLuke)",
+            "maintainer_url":"https://t.me/OGExpressLuke",
+            "xda_thread":"https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t3773983"
+         },
+	 {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Luke Williams (ExpressLuke)",
+            "maintainer_url":"https://t.me/OGExpressLuke",
             "xda_thread":"https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t3773983"
          }
       ]
