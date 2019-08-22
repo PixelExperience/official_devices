@@ -643,14 +643,21 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Zinadin Zidan",
+            "maintainer_name":"Zinadin Zidan (Zidan44)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9782219",
+            "xda_thread":"https://forum.xda-developers.com/redmi-6-pro/development/4-9-pixel-experience-t3920375"
+         },
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Zinadin Zidan (Zidan44)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9782219",
             "xda_thread":"https://forum.xda-developers.com/redmi-6-pro/development/4-9-pixel-experience-t3920375"
          },
          {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
-            "maintainer_name":"Zinadin Zidan",
+            "maintainer_name":"Zinadin Zidan (Zidan44)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9782219",
             "xda_thread":"https://forum.xda-developers.com/redmi-6-pro/development/4-9-pixel-experience-t3920375",
             "deprecated":true
