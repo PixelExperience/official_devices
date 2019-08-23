@@ -39,6 +39,11 @@
          "file_name": "PixelExperience_sakura-9.0-20190714-0800-OFFICIAL.zip",
          "file_size": 1064149600,
          "md5": "78c58563d579ee7357147328aba7f860"
+      },
+      {
+         "file_name": "PixelExperience_sakura-9.0-20190823-0634-OFFICIAL.zip",
+         "file_size": 1070451408,
+         "md5": "a9860b49d8d84d70162dac3053dd85e9"
       }
    ],
    "pie_caf": [
@@ -61,6 +66,13 @@
          "file_name": "PixelExperience_caf_sakura-9.0-20190714-0427-OFFICIAL.zip",
          "file_size": 1068779355,
          "md5": "bded0a6d33a8f5d217fa602f706955d5"
+      }
+   ],
+   "pie_plus": [
+      {
+         "file_name": "PixelExperience_Plus_sakura-9.0-20190822-2346-OFFICIAL.zip",
+         "file_size": 1071554673,
+         "md5": "ce6389c0d74a14abf4a32ce9b010c10a"
       }
    ]
 }
