@@ -1,0 +1,10 @@
+Device Specific Updates -
+
+* Initial Pixel Experience Plus build.
+
+Source Specific Updates -
+
+* New Edition to include our customizations options available in our Pie Edition
+* Added support for long screenshots
+* Added framework side support for system internal audio recording
+* Improved theming
