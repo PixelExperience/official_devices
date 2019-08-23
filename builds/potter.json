@@ -66,6 +66,18 @@
          "file_name": "PixelExperience_potter-9.0-20190710-0724-OFFICIAL.zip",
          "file_size": 1084713584,
          "md5": "8aa2bba41b0bfa8cf9970e781703a9e7"
+      },
+      {
+         "file_name": "PixelExperience_potter-9.0-20190823-0939-OFFICIAL.zip",
+         "file_size": 1090908441,
+         "md5": "909bcde7a319a7d8cbd9311ac89227d8"
+      }
+   ],
+   "pie_plus":[
+      {
+         "file_name": "PixelExperience_Plus_potter-9.0-20190823-0601-OFFICIAL.zip",
+         "file_size": 1091607650,
+         "md5":"2085d07cef08d453e3493225205b0644"
       }
    ],
    "pie_caf": [
@@ -84,7 +96,7 @@
          "file_size": 1069561335,
          "md5": "d9b0ca959d7592eabf538276030d5ece"
       },
-      {
+      { 
          "file_name": "PixelExperience_caf_potter-9.0-20190514-1007-OFFICIAL.zip",
          "file_size": 1081599832,
          "md5": "0050f3745f1ce77219307ebeeac58a60"
