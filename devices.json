@@ -1082,6 +1082,18 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3959201"
          }
+          {
+      "name":"Xiaomi MI8SE ",
+      "brand":"Xiaomi",
+      "codename":"sirius",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Stas Klepikov (Rozetka.img)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8129533",
+            "xda_thread": none
+         },
       ]
    }
 ]
