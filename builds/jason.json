@@ -36,6 +36,18 @@
          "file_name": "PixelExperience_jason-9.0-20190522-1324-OFFICIAL.zip",
          "file_size": 969775798,
          "md5": "645a662b6a381d56313f039f9a50a586"
+      },
+      {
+         "file_name": "PixelExperience_jason-9.0-20190823-0146-OFFICIAL.zip",
+         "file_size": 976555752,
+         "md5": "fe18b7a11304ea529d8f95462fa33122"
+      }
+   ],
+   "pie_plus": [
+      {
+         "file_name": "PixelExperience_Plus_jason-9.0-20190823-0911-OFFICIAL.zip",
+         "file_size": 977524758,
+         "md5": "c73e31639b568a47a10c6c1402bdd8d7"
       }
    ],
    "pie_caf": [
