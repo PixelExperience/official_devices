@@ -96,6 +96,18 @@
          "file_name": "PixelExperience_mido-9.0-20190719-0807-OFFICIAL.zip",
          "file_size": 993946211,
          "md5": "45253ae60e8d9201bcfab719e0fd6d80"
+      },
+      {
+        "file_name": "PixelExperience_mido-9.0-20190823-0351-OFFICIAL.zip",
+        "file_size": 1000395361,
+        "md5": "b41beb964551df0eaa089971506a6cb1"
+      }
+   ],
+   "pie_plus": [
+      {
+        "file_name": "PixelExperience_Plus_mido-9.0-20190823-0133-OFFICIAL.zip",
+        "file_size": 1001536280,
+        "md5": "8a981704061278a02ee0401a802acba0"
       }
    ],
    "pie_caf": [
