@@ -94,6 +94,18 @@
          "file_name":"PixelExperience_beryllium-9.0-20190722-1316-OFFICIAL.zip",
          "file_size":1051310290,
          "md5":"1d89896bfadf8da4fdb263685672e42a"
+      },
+      {
+         "file_name":"PixelExperience_beryllium-9.0-20190823-0558-OFFICIAL.zip",
+         "file_size":1356891745,
+         "md5":"f1f11c6a456558a2c8918a27981b2011"
+      }
+   ],
+   "pie_plus":[
+      {
+         "file_name":"PixelExperience_Plus_beryllium-9.0-20190823-1431-OFFICIAL.zip",
+         "file_size":1357469855,
+         "md5":"1d7c321874af7d21b140c3abfdf87489"
       }
    ],
    "pie_caf":[
