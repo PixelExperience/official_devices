@@ -1,0 +1,28 @@
+PixelExperience:
+
+- August security patch
+- Ambient play improved
+- Source code rebased and cleaned up, this will facilitate Android 10 bring up, and also few improvements to current base.
+- Google apps updated
+- Lot of under the hood fixes
+- Bug fixes and performance improvements
+- Added support for long screenshots
+- Added framework side support for system internal audio recording (Keep in mind that the UI is not available yet. An update will soon be released on the Play Store for all Plus version users.)
+- Improved theming
+
+Device Specific:
+
+- Switched to Weeb kernel
+- Kernel upstreamed to 4.4.189
+- Fixed flashlight (V) gesture
+- Nuked PA's Pocket Judge and switched to LOS's Pocketmode
+- Added Display modes from Omni
+- Added back Night Light, Reading mode and Color calibration
+- No more 'phone is starting' problem
+- Moved volume panel to the left
+- Fixed some AOD issues
+- Updated Gcam to 6.1.021_Urnyx05
+- Ignored RSSNR signals
+- Some others changes I couldn't remember
+
+Minimum firmware: 9.0.8
