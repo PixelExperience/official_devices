@@ -12,6 +12,13 @@
             "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3880088"
          },
          {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Nick van Bokhorst (GtrCraft)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3880088"
+         },
+         {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Nick van Bokhorst (GtrCraft)",
@@ -745,7 +752,8 @@
             "version_name":"Pie",
             "maintainer_name":"Nick van Bokhorst (GtrCraft)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5293805",
-            "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008"
+            "xda_thread":"https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008",
+            "deprecated":true
          }
       ]
    },
