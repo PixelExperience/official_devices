@@ -9,11 +9,11 @@ Before you apply to add your device into our list of official devices, you shoul
 
 You must fulfill the following requirements before applying:
 
-- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/pie/maintaiship_requirements.md)
+- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/master/maintaiship_requirements.md)
 
-- [Device requirements](https://github.com/PixelExperience/docs/blob/pie/device_requirements.md)
+- [Device requirements](https://github.com/PixelExperience/docs/blob/master/device_requirements.md)
 
-- [Maintainers' code of conduct](https://github.com/PixelExperience/docs/blob/pie/maintainers_code_of_conduct.md)
+- [Maintainers' code of conduct](https://github.com/PixelExperience/docs/blob/master/maintainers_code_of_conduct.md)
 
 You must be aware that just fulfilling those requirements doesn't mean that you're going to be accept. We will also consider some other points if necessary, like experience or how's your behavior with other people (users or not) and even with some technical stuff.
 
