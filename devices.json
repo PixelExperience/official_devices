@@ -383,15 +383,16 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"",
-            "maintainer_url":"",
-            "xda_thread":""
+            "maintainer_name":"Dmitriy Alimov (waiser)",
+            "maintainer_url":"https://t.me/waiser_hm",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3887977",
+            "deprecated":true
          },
          {
             "version_code":"pie_caf",
             "version_name":"Pie (CAF edition)",
-            "maintainer_name":"",
-            "maintainer_url":"",
+            "maintainer_name":"Dmitriy Alimov (waiser)",
+            "maintainer_url":"https://t.me/waiser_hm",
             "xda_thread":"",
             "deprecated":true
          }
