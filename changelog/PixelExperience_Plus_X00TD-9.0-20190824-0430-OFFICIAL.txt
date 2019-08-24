@@ -1,0 +1,15 @@
+ROM changes: 
+* August security patch 
+* Ambient play improved 
+* Source code rebased and cleaned up, this will facilitate Android 10 bring up, and also few improvements to current base. 
+* Google apps updated 
+* Lot of under the hood fixes 
+* Bug fixes and performance improvements
+(more info at https://blog.pixelexperience.org/2019/08/august-release-bulletin/)
+
+Device Chnages: 
+* Merged 056 blobs from stock rom 
+* Fixed Headphone Mic issue 
+* Added AR Core Support 
+* Updated GoogleCamera to 6.2
+* Kernel Upstreamed to latest 189 tag and caf tag

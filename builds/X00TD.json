@@ -61,7 +61,7 @@
          "md5": "37ceee3d2b7ba657057906fcaf45316e"
       },
       {
-         "file_name": "PixelExperience_X00TD-9.0-20190824-0721-OFFICIAL.zip"
+         "file_name": "PixelExperience_X00TD-9.0-20190824-0721-OFFICIAL.zip",
          "file_size": 1125572608,
          "md5": "170bb2dd3803dbc1b9bcbc537e05eefb"
       }
@@ -96,6 +96,13 @@
          "file_name": "PixelExperience_caf_X00TD-9.0-20190711-1852-OFFICIAL.zip",
          "file_size": 1078662195,
          "md5": "2609bbbf8c7a0ea0054dc029d6dcb6fa"
+      }
+   ],
+   "pie_plus": [
+      {
+         "file_name": "PixelExperience_Plus_X00TD-9.0-20190824-0430-OFFICIAL.zip",
+         "file_size":  1126408192,
+         "md5": "3a3d143c6cea9ccf46c0ce81fc6ef098"
       }
    ]
 }
