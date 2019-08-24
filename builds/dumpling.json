@@ -1,16 +1,16 @@
 {
    "pie": [
       {
+         "md5": "e2e15c3c04d67ce41c1bc74d5d953b50",
          "file_name": "PixelExperience_dumpling-9.0-20190824-1313-OFFICIAL.zip",
-         "file_size": 1208926529,
-         "md5": "e2e15c3c04d67ce41c1bc74d5d953b50"
+         "file_size": 1208926529
       }
    ],
-   "pie_plus":[
+   "pie_plus": [
       {
+         "md5": "3e13a982ba393bb8ce66fb0eaa85de71",
          "file_name": "PixelExperience_Plus_dumpling-9.0-20190823-1600-OFFICIAL.zip",
-         "file_size": 1214272142,
-         "md5": "3e13a982ba393bb8ce66fb0eaa85de71"
+         "file_size": 1214272142
       }
    ]
 }

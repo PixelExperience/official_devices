@@ -1,61 +1,61 @@
 {
    "pie": [
       {
+         "md5": "46b53c2b80679757c059dad586d3fe05",
          "file_name": "PixelExperience_herolte-9.0-20190317-0245-OFFICIAL.zip",
-         "file_size": 880828012,
-         "md5": "46b53c2b80679757c059dad586d3fe05"
+         "file_size": 880828012
       },
       {
+         "md5": "406fd7535fb28242b864827242db971c",
          "file_name": "PixelExperience_herolte-9.0-20190318-0106-OFFICIAL.zip",
-         "file_size": 881109802,
-         "md5": "406fd7535fb28242b864827242db971c"
+         "file_size": 881109802
       },
       {
+         "md5": "6314245e40c14517e8e7d576c8c7cc47",
          "file_name": "PixelExperience_herolte-9.0-20190324-0144-OFFICIAL.zip",
-         "file_size": 881118599,
-         "md5": "6314245e40c14517e8e7d576c8c7cc47"
+         "file_size": 881118599
       },
       {
+         "md5": "b4b712683e6b508e558070b39cf4ba6d",
          "file_name": "PixelExperience_herolte-9.0-20190404-0833-OFFICIAL.zip",
-         "file_size": 881073220,
-         "md5": "b4b712683e6b508e558070b39cf4ba6d"
+         "file_size": 881073220
       },
       {
+         "md5": "ff3e6bc1d4fadf620de5f1c92b398945",
          "file_name": "PixelExperience_herolte-9.0-20190418-0146-OFFICIAL.zip",
-         "file_size": 881392366,
-         "md5": "ff3e6bc1d4fadf620de5f1c92b398945"
+         "file_size": 881392366
       },
       {
+         "md5": "28889a9901dbb41c8163f55e99396255",
          "file_name": "PixelExperience_herolte-9.0-20190425-0023-OFFICIAL.zip",
-         "file_size": 881266722,
-         "md5": "28889a9901dbb41c8163f55e99396255"
+         "file_size": 881266722
       },
       {
+         "md5": "9e240e707811ecd720b2737d8407c140",
          "file_name": "PixelExperience_herolte-9.0-20190507-1128-OFFICIAL.zip",
-         "file_size": 893212201,
-         "md5": "9e240e707811ecd720b2737d8407c140"
+         "file_size": 893212201
       },
       {
+         "md5": "e07cb5787c9f6725b81d9222f85a56d8",
          "file_name": "PixelExperience_herolte-9.0-20190515-1454-OFFICIAL.zip",
-         "file_size": 893063666,
-         "md5": "e07cb5787c9f6725b81d9222f85a56d8"
+         "file_size": 893063666
       },
       {
+         "md5": "bdb297e7985c66f5d3b7cdf8a836edf4",
          "file_name": "PixelExperience_herolte-9.0-20190604-1034-OFFICIAL.zip",
-         "file_size": 899050773,
-         "md5": "bdb297e7985c66f5d3b7cdf8a836edf4"
+         "file_size": 899050773
       },
       {
+         "md5": "d26860386a5c5ff9a5dd646737ea4036",
          "file_name": "PixelExperience_herolte-9.0-20190823-0433-OFFICIAL.zip",
-         "file_size": 906413060,
-         "md5": "d26860386a5c5ff9a5dd646737ea4036"
+         "file_size": 906413060
       }
    ],
-"pie_plus": [
+   "pie_plus": [
       {
+         "md5": "ac713b74159feb8303e3086739a4961a",
          "file_name": "PixelExperience_Plus_herolte-9.0-20190822-2353-OFFICIAL.zip",
-         "file_size": 907603600,
-         "md5": "ac713b74159feb8303e3086739a4961a"
+         "file_size": 907603600
       }
    ]
 }

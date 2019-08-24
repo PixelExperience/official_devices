@@ -1,16 +1,16 @@
 {
    "pie": [
       {
+         "md5": "6848c0d706dd3cd54a4fee0908adf656",
          "file_name": "PixelExperience_DRG_sprout-9.0-20190709-1612-OFFICIAL.zip",
-         "file_size": 1127034365,
-         "md5": "6848c0d706dd3cd54a4fee0908adf656"
+         "file_size": 1127034365
       }
    ],
    "pie_caf": [
       {
+         "md5": "90ba8df82288e89f9b4e082977a0a30b",
          "file_name": "PixelExperience_caf_DRG_sprout-9.0-20190711-1149-OFFICIAL.zip",
-         "file_size": 1138539988,
-         "md5": "90ba8df82288e89f9b4e082977a0a30b"
+         "file_size": 1138539988
       }
    ]
 }

@@ -1,81 +1,81 @@
 {
    "pie": [
       {
+         "md5": "8cd36d8869ea8fd7f760967aefe9ef94",
          "file_name": "PixelExperience_dipper-9.0-20181209-1242-OFFICIAL.zip",
-         "file_size": 1098106119,
-         "md5": "8cd36d8869ea8fd7f760967aefe9ef94"
+         "file_size": 1098106119
       },
       {
+         "md5": "729f78cd32fde9540a1da94982e5cc4e",
          "file_name": "PixelExperience_dipper-9.0-20190101-2012-OFFICIAL.zip",
-         "file_size": 1415631738,
-         "md5": "729f78cd32fde9540a1da94982e5cc4e"
+         "file_size": 1415631738
       },
       {
+         "md5": "3ae738853d6c66ea00888cfa35d7e1b9",
          "file_name": "PixelExperience_dipper-9.0-20190111-2226-OFFICIAL.zip",
-         "file_size": 1446046252,
-         "md5": "3ae738853d6c66ea00888cfa35d7e1b9"
+         "file_size": 1446046252
       },
       {
+         "md5": "e9bc8ec909efc2da34b91008a970ce09",
          "file_name": "PixelExperience_dipper-9.0-20190127-2113-OFFICIAL.zip",
-         "file_size": 1086834701,
-         "md5": "e9bc8ec909efc2da34b91008a970ce09"
+         "file_size": 1086834701
       },
       {
+         "md5": "b004e6ddf5646e3936e75113eb0fb5cd",
          "file_name": "PixelExperience_dipper-9.0-20190218-1739-OFFICIAL.zip",
-         "file_size": 1068052693,
-         "md5": "b004e6ddf5646e3936e75113eb0fb5cd"
+         "file_size": 1068052693
       },
       {
+         "md5": "7be42c1284d2e84471441eabb030892c",
          "file_name": "PixelExperience_dipper-9.0-20190307-1345-OFFICIAL.zip",
-         "file_size": 1029740984,
-         "md5": "7be42c1284d2e84471441eabb030892c"
+         "file_size": 1029740984
       },
       {
+         "md5": "d69545e3f438ce3bfdbca37657859c60",
          "file_name": "PixelExperience_dipper-9.0-20190406-1420-OFFICIAL.zip",
-         "file_size": 1034576534,
-         "md5": "d69545e3f438ce3bfdbca37657859c60"
+         "file_size": 1034576534
       },
       {
+         "md5": "1fa95bc253365be54498800525442e01",
          "file_name": "PixelExperience_dipper-9.0-20190524-1958-OFFICIAL.zip",
-         "file_size": 1065818632,
-         "md5": "1fa95bc253365be54498800525442e01"
+         "file_size": 1065818632
       },
       {
+         "md5": "3a272ece88b5b9014e1f623c72be0593",
          "file_name": "PixelExperience_dipper-9.0-20190606-1820-OFFICIAL.zip",
-         "file_size": 1067889645,
-         "md5": "3a272ece88b5b9014e1f623c72be0593"
+         "file_size": 1067889645
       },
       {
+         "md5": "3c7f5572d1c793ddc3fcbb80b2e22a09",
          "file_name": "PixelExperience_dipper-9.0-20190622-2219-OFFICIAL.zip",
-         "file_size": 1067618883,
-         "md5": "3c7f5572d1c793ddc3fcbb80b2e22a09"
+         "file_size": 1067618883
       },
       {
+         "md5": "fe98df8e23bbc7324cf98b41dbe1a928",
          "file_name": "PixelExperience_dipper-9.0-20190713-1638-OFFICIAL.zip",
-         "file_size": 1052591473,
-         "md5": "fe98df8e23bbc7324cf98b41dbe1a928"
+         "file_size": 1052591473
       }
    ],
    "pie_caf": [
       {
+         "md5": "b85d5f66dbed784f9703973aa4977ba3",
          "file_name": "PixelExperience_dipper-9.0-20190303-1853-CAF-OFFICIAL.zip",
-         "file_size": 1033992459,
-         "md5": "b85d5f66dbed784f9703973aa4977ba3"
+         "file_size": 1033992459
       },
       {
+         "md5": "98e61e40a0d19992594ba33dd57278ed",
          "file_name": "PixelExperience_caf_dipper-9.0-20190406-1944-OFFICIAL.zip",
-         "file_size": 1037649934,
-         "md5": "98e61e40a0d19992594ba33dd57278ed"
+         "file_size": 1037649934
       },
       {
+         "md5": "eafd5c0cbf6fac93e79967f21318884e",
          "file_name": "PixelExperience_caf_dipper-9.0-20190606-0047-OFFICIAL.zip",
-         "file_size": 1071025036,
-         "md5": "eafd5c0cbf6fac93e79967f21318884e"
+         "file_size": 1071025036
       },
       {
+         "md5": "fe1f98d42c315b8d8291042d0dff3e80",
          "file_name": "PixelExperience_caf_dipper-9.0-20190713-2026-OFFICIAL.zip",
-         "file_size": 1055845075,
-         "md5": "fe1f98d42c315b8d8291042d0dff3e80"
+         "file_size": 1055845075
       }
    ]
 }

@@ -1,29 +1,29 @@
 {
    "pie": [
       {
+         "md5": "265c7af954ccbcbd49b3bebee1a852b6",
          "file_name": "PixelExperience_cepheus-9.0-20190620-0831-OFFICIAL.zip",
-         "file_size": 917126859,
-         "md5": "265c7af954ccbcbd49b3bebee1a852b6"
+         "file_size": 917126859
       },
       {
+         "md5": "2f422bee9efdeb9ec1194484d4a0ac60",
          "file_name": "PixelExperience_cepheus-9.0-20190625-0832-OFFICIAL.zip",
-         "file_size": 918020691,
-         "md5": "2f422bee9efdeb9ec1194484d4a0ac60"
+         "file_size": 918020691
       },
       {
+         "md5": "76f9e316f3402006eb1165aa93bbd426",
          "file_name": "PixelExperience_cepheus-9.0-20190626-1947-OFFICIAL.zip",
-         "file_size": 918098843,
-         "md5": "76f9e316f3402006eb1165aa93bbd426"
+         "file_size": 918098843
       },
       {
+         "md5": "5640e22a1dd786256746aa95d842fe21",
          "file_name": "PixelExperience_cepheus-9.0-20190714-1656-OFFICIAL.zip",
-         "file_size": 915439944,
-         "md5": "5640e22a1dd786256746aa95d842fe21"
+         "file_size": 915439944
       },
       {
+         "md5": "8d6e28ea401866146ca4fad4ff799853",
          "file_name": "PixelExperience_cepheus-9.0-20190715-0534-OFFICIAL.zip",
-         "file_size": 915445651,
-         "md5": "8d6e28ea401866146ca4fad4ff799853"
+         "file_size": 915445651
       }
    ]
 }
