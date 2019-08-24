@@ -69,6 +69,13 @@
          "file_name": "PixelExperience_bullhead-9.0-20190823-1600-OFFICIAL.zip",
          "file_size": 932297794,
          "md5": "d05a63fa5f7de6b85dc8ddb2cc88ff8c"
-     }
+      }
+   ],
+   "pie_plus":[
+      {
+         "file_name": "PixelExperience_Plus_bullhead-9.0-20190823-1908-OFFICIAL.zip",
+         "file_size": 933612519,
+         "md5": "a3c486a560b275a0c5d098a065ed78e7"
+      }
    ]
 }
