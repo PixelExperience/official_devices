@@ -44,6 +44,18 @@
          "file_name": "PixelExperience_oneplus2-9.0-20190713-1603-OFFICIAL.zip",
          "file_size": 987515773,
          "md5": "2da3f5a8708ff01c2f2fe3585c7a9ba3"
+      },
+      {
+         "file_name": "PixelExperience_oneplus2-9.0-20190825-1204-OFFICIAL.zip",
+         "file_size": 991984458,
+         "md5": "c5b672b20da5c346e2e4e4cb4f193d6f"
+      }
+   ],
+   "pie_plus": [
+      {
+         "file_name": "PixelExperience_Plus_oneplus2-9.0-20190824-1757-OFFICIAL.zip",
+         "file_size":  995113595,
+         "md5": "d64ce3b7b97e91c4d1b572234a952583"
       }
    ]
 }
