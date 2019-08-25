@@ -1,0 +1,60 @@
+ROM Changelog:
+- August security patch
+- Ambient play improved
+- Source code rebased and cleaned up, this will facilitate Android 10 bring up, and also few improvements to current base.
+- Google apps updated
+- Lot of under the hood fixes
+- Bug fixes and performance improvements
+(more info at https://blog.pixelexperience.org/2019/08/august-release-bulletin/)
+
+Device Changelog:
+- Drop Dirac
+- rootdir: Set MTP product name dynamically
+- Enable itouch and navigation bar for SXR1120/30
+- Update sku frequencies for automotive only.
+- Add locSll library and add permissions to device node
+- Remove min_freq limit for GPU.
+- Remove unpermitted namespace of property
+- Add support for USB PID 0x9020
+- Build libdisplayconfig
+- Import missing renderscript blobs
+- sepolicy: xiaomi_sm6150 -> violet
+- power: Introducing PowerHAL binderized service
+- Drop sdm845 power hal"
+- Drop ThermalController
+- Drop Livedisplay
+- Drop creation of useless RFS symlinks
+- Don't ship libbtnv.so
+- Update sensor stack from MIUI 9.8.15
+- update GPS HAL to LA.UM.7.1.r1-15800-sm8150.0
+- update vendor blobs from laurus V10.2.10.0.PFMCNXM
+- update sha1sum for GPS blobs
+- import sensor configs from MIUI 9.8.15
+- rootdir: Turn down debugging on wpa_supplicant
+- Enable WIFI Aware
+- Import SVI configuration
+- rootdir: Override vendor.hwcomposer-2-2 service definition
+- Reformat fingerprint rc file
+- Set prop expected by the FM radio HAL
+- Remove more obsolete system properties
+- Drop the creation of deprecated system_data folders
+- Add QC location support
+- gps: Disable xtwifi* services
+- Update vendor blobs from davinci
+- Uprev vendor.display.config to 1.7
+- Update vendor CarrierConfig from MIUI 9.7.11
+- Import missing learning module blobs
+- configs: Adding min freq of 1.2Ghz for 480fps
+- Move powerhint.xml from vendor tree to device tree
+- Enable full dexpreopt
+- Enable AAC frame control for A2DP
+- Remove wcnss_filter and all references to it
+- releasetools: be more clear about firmware image patching
+- Update Graphics stack from ZenFone 6
+- Update DRM stack from davinci
+- Drop useless color mode support
+- Use oneplus 7 vibration pattern
+- Add QCOM's WFD implementation""
+- Remove deprecated cmdline option
+- Upstream kernel to 4.14.140
+- Merge tag LA.UM.7.1.r1-16300-sm8150.0 into kernel 
