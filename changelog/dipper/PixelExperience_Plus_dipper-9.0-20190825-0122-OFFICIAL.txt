@@ -1,0 +1,10 @@
+PixelExperience:
+
+- New Edition, which will contain all the customization option that were implemented in May releases
+
+Device Specific:
+
+- Initial Plus Edition Build for dipper
+- Check changelog of Pie Edition for more details
+
+Minimum firmware: 9.6.20
