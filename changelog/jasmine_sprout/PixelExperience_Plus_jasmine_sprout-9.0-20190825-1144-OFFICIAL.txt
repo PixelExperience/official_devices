@@ -1,0 +1,4 @@
+HOTFIX BUILD
+
+Fixed System UI lag
+Completely Rebased on HMP kernel
