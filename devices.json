@@ -229,6 +229,13 @@
       "codename":"gemini",
       "supported_versions":[
          {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Jonas Cardoso (JonasCardoso)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3906942"
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Jonas Cardoso (JonasCardoso)",
@@ -242,6 +249,13 @@
       "brand":"Xiaomi",
       "codename":"capricorn",
       "supported_versions":[
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Jonas Cardoso (JonasCardoso)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread":"https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t3906942"
+         },
          {
             "version_code":"pie",
             "version_name":"Pie",
