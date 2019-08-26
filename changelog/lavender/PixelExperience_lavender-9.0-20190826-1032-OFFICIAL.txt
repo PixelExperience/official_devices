@@ -1,0 +1,2 @@
+- Remove XiaomiParts (Mi Sound and Ambient Display advanced settings) for required standard version rules.
+- Rom sources synced.
