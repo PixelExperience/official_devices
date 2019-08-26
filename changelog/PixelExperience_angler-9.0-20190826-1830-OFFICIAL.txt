@@ -1,0 +1,24 @@
+=======================================
+   PixelExperience Pie August Update
+=======================================
+
+====================================
+     PixelExperience Changes
+====================================
+
+* August security patch
+* Ambient play improved
+* Source code rebased and cleaned up
+* Google apps updated
+* Lot of under the hood fixes
+* Bug fixes and performance improvements
+
+====================================
+          Device Changes
+====================================
+
+* Improved device stability
+* Improved device structure and architecture formats
+* Improved device battery life performance
+* Enabled system-as-root
+* Improved NFC connections
