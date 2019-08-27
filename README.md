@@ -9,7 +9,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 You must fulfill the following requirements before applying:
 
-- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/master/maintaiship_requirements.md)
+- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/master/maintainers_requirements.md)
 
 - [Device requirements](https://github.com/PixelExperience/docs/blob/master/device_requirements.md)
 
