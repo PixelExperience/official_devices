@@ -1,0 +1,22 @@
+============================================
+   PixelExperience Pie Plus August Update
+============================================
+
+====================================
+     PixelExperience Changes
+====================================
+
+* New Edition to include our customizations options available in our Pie Edition
+* Added support for long screenshots
+* Added framework side support for system internal audio recording 
+* Improved theming
+
+====================================
+          Device Changes
+====================================
+
+* Improved device stability
+* Improved device structure and architecture formats
+* Improved device battery life performance
+* Enabled system-as-root
+* Improved NFC connections
