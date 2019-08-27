@@ -734,6 +734,20 @@
       ]
    },
    {
+      "name":"Mi 8 SE",
+      "brand":"Xiaomi",
+      "codename":"sirius",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"etylix",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8079544",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t3930323"
+         }   
+      ]
+   },
+   {
       "name":"Nexus 6P",
       "brand":"Google",
       "codename":"angler",
