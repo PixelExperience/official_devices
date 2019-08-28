@@ -1,0 +1,4 @@
+Device Specific:
+   - Fixed cts profile missmatch
+   - Updated thermal and perf configs from s2
+   - other underthehood changes
