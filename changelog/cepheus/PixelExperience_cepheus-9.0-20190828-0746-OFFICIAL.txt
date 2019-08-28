@@ -1,0 +1,8 @@
+- August security patch merged
+- r_46 merged
+- Kernel upstreamed to .90
+- Safetynet has been fixed
+- Phone randomly not waking up has been fixed
+- Kernel is enforcing
+- Switched to brightness model from Sargo
+- Lots of improvements to device and source :)
