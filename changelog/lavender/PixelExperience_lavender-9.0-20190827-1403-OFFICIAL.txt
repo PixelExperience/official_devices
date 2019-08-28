@@ -1,0 +1,5 @@
+- Removed Xiaomi Parts to meet the requirements for the standard version
+- Removed Live Display to meet the requirements for the standard version
+- Fixed network issue that not working Hostspot
+- Minor fixes and improvements
+- Sync latest ROM sources
