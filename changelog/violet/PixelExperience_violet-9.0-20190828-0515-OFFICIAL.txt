@@ -1,0 +1,5 @@
+Device Changelog:
+- switch to user builds (instead of userdebug)
+- enforce selinux
+- patch gralloc blobs (to fix gcam freezes)
+- update build fingerprint to V10.3.13.0.PFHINXM
