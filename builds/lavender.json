@@ -1,27 +1,31 @@
 {
-  "pie": [{
-    "file_name": "PixelExperience_lavender-9.0-20190719-2247-OFFICIAL.zip",
-    "file_size": 1183993989,
-    "md5": "a56098b4be2643ba72593bf7247fcd9d"
-  },
-  {
-    "file_name": "PixelExperience_lavender-9.0-20190823-2254-OFFICIAL.zip",
-    "file_size": 1167904965,
-    "md5": "c74fd5330ac7c9bb6bf103f1aba0b5e9"
-  },
-  {
-    "file_name": "PixelExperience_lavender-9.0-20190827-1403-OFFICIAL.zip",
-    "file_size": 1167790438,
-    "md5": "70f363658f0f75c69ac1a88f37490406"
-  }],
-  "pie_plus": [{
-    "file_name": "PixelExperience_Plus_lavender-9.0-20190823-1820-OFFICIAL.zip",
-    "file_size": 1167637443,
-    "md5": "6d187faa5d4249936b6df907332563f1"
-  },
-  {
-    "file_name": "PixelExperience_Plus_lavender-9.0-20190827-1526-OFFICIAL.zip",
-    "file_size": 1170154722,
-    "md5": "497f2d3c1479ed9565c0c2cc34f8de92"
-  }]
+  "pie": [
+    {
+      "file_name": "PixelExperience_lavender-9.0-20190719-2247-OFFICIAL.zip",
+      "file_size": 1183993989,
+      "md5": "a56098b4be2643ba72593bf7247fcd9d"
+    },
+    {
+      "file_name": "PixelExperience_lavender-9.0-20190823-2254-OFFICIAL.zip",
+      "file_size": 1167904965,
+      "md5": "c74fd5330ac7c9bb6bf103f1aba0b5e9"
+    },
+    {
+      "file_name": "PixelExperience_lavender-9.0-20190827-1403-OFFICIAL.zip",
+      "file_size": 1167790438,
+      "md5": "70f363658f0f75c69ac1a88f37490406"
+    }
+  ],
+  "pie_plus": [
+    {
+      "file_name": "PixelExperience_Plus_lavender-9.0-20190823-1820-OFFICIAL.zip",
+      "file_size": 1167637443,
+      "md5": "6d187faa5d4249936b6df907332563f1"
+    },
+    {
+      "file_name": "PixelExperience_Plus_lavender-9.0-20190827-1526-OFFICIAL.zip",
+      "file_size": 1170154722,
+      "md5": "497f2d3c1479ed9565c0c2cc34f8de92"
+    }
+  ]
 }
