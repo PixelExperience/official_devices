@@ -1,0 +1,5 @@
+* First + rolex
+* New Edition to include our customizations options available in our Pie Edition
+* Added support for long screenshots
+* Added framework side support for system internal audio recording (Keep in mind that the UI is not available yet. An update will soon be released on the Play Store for all Plus version users.)
+* Improved theming
