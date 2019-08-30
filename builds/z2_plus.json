@@ -1,104 +1,110 @@
 {
-   "oreo": [
+   "oreo":[
       {
-         "file_name": "PixelExperience_z2_plus-8.1.0-20180807-1847-OFFICIAL.zip",
-         "file_size": 922594101,
-         "md5": "f26792c8aab551ae7ca1ed0bbc2cbbf0"
+         "file_name":"PixelExperience_z2_plus-8.1.0-20180807-1847-OFFICIAL.zip",
+         "file_size":922594101,
+         "md5":"f26792c8aab551ae7ca1ed0bbc2cbbf0"
       }
    ],
-   "pie": [
+   "pie":[
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20181108-1631-OFFICIAL.zip",
-         "file_size": 939500172,
-         "md5": "e792a771cc044e652a7ea86d3e7a88a5"
+         "file_name":"PixelExperience_z2_plus-9.0-20181108-1631-OFFICIAL.zip",
+         "file_size":939500172,
+         "md5":"e792a771cc044e652a7ea86d3e7a88a5"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20181217-1906-OFFICIAL.zip",
-         "file_size": 937378890,
-         "md5": "4d255ba8c1d2a66b45dffee12ffc8e56"
+         "file_name":"PixelExperience_z2_plus-9.0-20181217-1906-OFFICIAL.zip",
+         "file_size":937378890,
+         "md5":"4d255ba8c1d2a66b45dffee12ffc8e56"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190114-1752-OFFICIAL.zip",
-         "file_size": 957880320,
-         "md5": "972fff8729700adb5d7a5de820f5f494"
+         "file_name":"PixelExperience_z2_plus-9.0-20190114-1752-OFFICIAL.zip",
+         "file_size":957880320,
+         "md5":"972fff8729700adb5d7a5de820f5f494"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190210-0155-OFFICIAL.zip",
-         "file_size": 925964835,
-         "md5": "5036b08be11f0b6047bdacd0bb93acfe"
+         "file_name":"PixelExperience_z2_plus-9.0-20190210-0155-OFFICIAL.zip",
+         "file_size":925964835,
+         "md5":"5036b08be11f0b6047bdacd0bb93acfe"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190306-1948-OFFICIAL.zip",
-         "file_size": 924158507,
-         "md5": "9ec52cd58fe822ef65b8b0207d0e58fb"
+         "file_name":"PixelExperience_z2_plus-9.0-20190306-1948-OFFICIAL.zip",
+         "file_size":924158507,
+         "md5":"9ec52cd58fe822ef65b8b0207d0e58fb"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190309-1642-OFFICIAL.zip",
-         "file_size": 927920653,
-         "md5": "706c1fa7c1c0dd2e19fb1e3a290cf40f"
+         "file_name":"PixelExperience_z2_plus-9.0-20190309-1642-OFFICIAL.zip",
+         "file_size":927920653,
+         "md5":"706c1fa7c1c0dd2e19fb1e3a290cf40f"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190403-1533-OFFICIAL.zip",
-         "file_size": 929164133,
-         "md5": "2e2ff22ffca8a2946d013bc7f2a62c9a"
+         "file_name":"PixelExperience_z2_plus-9.0-20190403-1533-OFFICIAL.zip",
+         "file_size":929164133,
+         "md5":"2e2ff22ffca8a2946d013bc7f2a62c9a"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190407-2053-OFFICIAL.zip",
-         "file_size": 927743595,
-         "md5": "4a90be3e87ef7c6bc6e81fb66cbf110b"
+         "file_name":"PixelExperience_z2_plus-9.0-20190407-2053-OFFICIAL.zip",
+         "file_size":927743595,
+         "md5":"4a90be3e87ef7c6bc6e81fb66cbf110b"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190508-0010-OFFICIAL.zip",
-         "file_size": 986398842,
-         "md5": "c84171d042240fdefa6ca49799686e69"
+         "file_name":"PixelExperience_z2_plus-9.0-20190508-0010-OFFICIAL.zip",
+         "file_size":986398842,
+         "md5":"c84171d042240fdefa6ca49799686e69"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190522-2321-OFFICIAL.zip",
-         "file_size": 989315006,
-         "md5": "b3203ed3ee0e103e633b5437dbf30105"
+         "file_name":"PixelExperience_z2_plus-9.0-20190522-2321-OFFICIAL.zip",
+         "file_size":989315006,
+         "md5":"b3203ed3ee0e103e633b5437dbf30105"
       },
       {
-        "file_name": "PixelExperience_z2_plus-9.0-20190829-1724-OFFICIAL.zip",
-        "file_size": 998612536,
-        "md5": "eefebe23ad59aed7018a0287b5181152"
+         "file_name":"PixelExperience_z2_plus-9.0-20190829-1724-OFFICIAL.zip",
+         "file_size":998612536,
+         "md5":"eefebe23ad59aed7018a0287b5181152"
       }
-
    ],
-   "pie_caf": [
+   "pie_plus":[
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190224-1851-CAF-OFFICIAL.zip",
-         "file_size": 927704149,
-         "md5": "75a3b7f601aa8c46257b417835d33f8e"
+         "file_name":"PixelExperience_Plus_z2_plus-9.0-20190829-1948-OFFICIAL.zip",
+         "file_size":1000021348,
+         "md5":"095fd854571100ebfab95741235aba31"
+      }
+   ],
+   "pie_caf":[
+      {
+         "file_name":"PixelExperience_z2_plus-9.0-20190224-1851-CAF-OFFICIAL.zip",
+         "file_size":927704149,
+         "md5":"75a3b7f601aa8c46257b417835d33f8e"
       },
       {
-         "file_name": "PixelExperience_z2_plus-9.0-20190310-0250-CAF-OFFICIAL.zip",
-         "file_size": 931676570,
-         "md5": "1b4ddee86ce09b3f75169540fcc46347"
+         "file_name":"PixelExperience_z2_plus-9.0-20190310-0250-CAF-OFFICIAL.zip",
+         "file_size":931676570,
+         "md5":"1b4ddee86ce09b3f75169540fcc46347"
       },
       {
-         "file_name": "PixelExperience_caf_z2_plus-9.0-20190403-1557-OFFICIAL.zip",
-         "file_size": 933031297,
-         "md5": "a97697baa8326658b461339bb3b6c9ee"
+         "file_name":"PixelExperience_caf_z2_plus-9.0-20190403-1557-OFFICIAL.zip",
+         "file_size":933031297,
+         "md5":"a97697baa8326658b461339bb3b6c9ee"
       },
       {
-         "file_name": "PixelExperience_caf_z2_plus-9.0-20190407-2114-OFFICIAL.zip",
-         "file_size": 931457016,
-         "md5": "c09298f45c9b7fcdfa9b451ac660d9ae"
+         "file_name":"PixelExperience_caf_z2_plus-9.0-20190407-2114-OFFICIAL.zip",
+         "file_size":931457016,
+         "md5":"c09298f45c9b7fcdfa9b451ac660d9ae"
       },
       {
-         "file_name": "PixelExperience_caf_z2_plus-9.0-20190508-0031-OFFICIAL.zip",
-         "file_size": 989994569,
-         "md5": "f41fec36f0a4ff4753e4071ed89adb12"
+         "file_name":"PixelExperience_caf_z2_plus-9.0-20190508-0031-OFFICIAL.zip",
+         "file_size":989994569,
+         "md5":"f41fec36f0a4ff4753e4071ed89adb12"
       },
       {
-         "file_name": "PixelExperience_caf_z2_plus-9.0-20190523-0100-OFFICIAL.zip",
-         "file_size": 993591979,
-         "md5": "c1f1af47991144778b4f7e66fa0b2775"
+         "file_name":"PixelExperience_caf_z2_plus-9.0-20190523-0100-OFFICIAL.zip",
+         "file_size":993591979,
+         "md5":"c1f1af47991144778b4f7e66fa0b2775"
       },
       {
-         "file_name": "PixelExperience_caf_z2_plus-9.0-20190612-0118-OFFICIAL.zip",
-         "file_size": 996468497,
-         "md5": "31b84a11547613ec3a99b4c9f4e1a187"
+         "file_name":"PixelExperience_caf_z2_plus-9.0-20190612-0118-OFFICIAL.zip",
+         "file_size":996468497,
+         "md5":"31b84a11547613ec3a99b4c9f4e1a187"
       }
    ]
 }
