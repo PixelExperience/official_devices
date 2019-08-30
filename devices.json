@@ -1165,4 +1165,25 @@
          }
       ]
    }
+   {
+      "name":"Nexus 6P",
+      "brand":"Google",
+      "codename":"angler4",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"PixelBoot",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744"
+         },
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"PixelBoot",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744"
+         }
+      ]
+   },
 ]
