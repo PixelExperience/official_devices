@@ -1,0 +1,7 @@
+- Fixed GPS no accessing satellites (now GPS working as it should and you can fully use it)
+- Fixed glitching Camera (some aritfacts was appering on some apps before, but now it's ok)
+- Fixed HotSpot (now hotspot not only apply devices to connect but also give them internet)
+- Fixed game lags
+- Fixed interface lags
+- Kernel was reverted to stock Nosgoth V7+ by @Razziell
+- And some other improvments
