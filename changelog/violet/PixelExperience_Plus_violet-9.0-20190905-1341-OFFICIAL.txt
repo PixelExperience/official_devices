@@ -1,0 +1,35 @@
+Device changelog:
+* Compile kernel with clang 9.0.6
+* sepolicy: Allow tee acces to fingerprint data
+* Include uceShimService
+* ueventd: add /vendor/firmware to firmware paths
+* rootdir: Configure power key input boost value
+* Nuke libhidl
+* Patch blobs to replace android.hidl.base@1.0 dependency
+* Remove 'Device is HD Capable' notification
+* sepolicy: Address goodix denials
+* Include uceShimService
+* Patch blobs to replace android.hidl.base@1.0 dependency
+* Remove 'Device is HD Capable' notification
+* Include arcore
+* Clean up fw/b overlay
+* Push wifi-RTT permission files to device
+* Update vendor blobs from laurel_sprout
+
+ROM changelog:
+* September security patch
+* Added screen and sound recording functions on qs tiles (with internal audio support)
+* Added automatic theme based on time
+* Added back dark notifications (you can switch between white and dark)
+* Added back face auto unlock
+* Added ability to configure qs rows and columns
+* Improved ambient play
+* Fixed heads up disabling
+* Fixes on black theme
+* Improved scrolling on some apps
+* Fixed screenshot edit
+* Fixed Incall vibration not working
+* Fixed missing edit action on screenshot notification
+* Improved LiveDisplay
+* Enhanced call blocking
+* Improved network traffic
