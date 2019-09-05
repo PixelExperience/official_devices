@@ -1,0 +1,27 @@
+Device changelog:
+- Fixed GPS no accessing satellites (now GPS working as it should and you can fully use it)
+- Fixed glitching Camera (some aritfacts was appering on some apps before, but now it's ok)
+- Fixed HotSpot (now hotspot not only apply devices to connect but also give them internet)
+- Fixed game lags
+- Fixed interface lags
+- Kernel was reverted to stock Nosgoth V7+ by @Razziell
+- Some clean-ups in device tree
+- And other improvements
+
+ROM changelog:
+- September security patch
+- Added screen and sound recording functions on qs tiles (with internal audio support)
+- Added automatic theme based on time
+- Added back dark notifications (you can switch between white and dark)
+- Added back face auto unlock
+- Added ability to configure QS rows and columns
+- Improved ambient play
+- Fixed heads up disabling
+- Fixes on black theme
+- Improved scrolling on some apps
+- Fixed screenshot edit
+- Fixed Incall vibration not working
+- Fixed missing edit action on screenshot notification
+- Improved LiveDisplay
+- Enhanced call blocking
+- Improved network traffic
