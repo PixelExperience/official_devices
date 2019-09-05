@@ -1,0 +1,16 @@
+* September security patch
+* Added screen and sound recording functions on qs tiles (with internal audio support)
+* Added automatic theme based on time
+* Added back dark notifications (you can switch between white and dark)
+* Added back face auto unlock
+* Added ability to configure qs rows and columns
+* Improved ambient play
+* Fixed heads up disabling
+* Fixes on black theme
+* Improved scrolling on some apps
+* Fixed screenshot edit
+* Fixed Incall vibration not working
+* Fixed missing edit action on screenshot notification
+* Improved LiveDisplay
+* Enhanced call blocking
+* Improved network traffic
