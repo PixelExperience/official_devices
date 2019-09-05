@@ -311,7 +311,8 @@
             "version_name":"Pie",
             "maintainer_name":"Rais (thedeadfish59)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910",
-            "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3922123"
+            "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-pixel-experience-t3922123",
+            "deprecated":true
          }
       ]
    },
@@ -325,7 +326,8 @@
             "version_name":"Pie",
             "maintainer_name":"Rais (thedeadfish59)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=5284910",
-            "xda_thread":"https://forum.xda-developers.com/moto-g-lte/development/rom-pixel-experience-t3938356"
+            "xda_thread":"https://forum.xda-developers.com/moto-g-lte/development/rom-pixel-experience-t3938356",
+            "deprecated":true
          }
       ]
    },
