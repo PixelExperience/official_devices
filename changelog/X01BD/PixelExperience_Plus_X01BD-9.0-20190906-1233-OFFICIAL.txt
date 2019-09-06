@@ -1,0 +1,13 @@
+* Fixes on black theme
+* Improved scrolling on some apps
+* Fixed screenshot edit
+* Fixed Incall vibration not working
+* Added back face auto unlock
+* Fixed heads up disabling
+* Fixed missing edit action on screenshot notification
+* Added automatic theme based on time
+* Improved LiveDisplay
+* Enhanced call blocking
+* Improved network traffic
+* Added back themed notifications
+
