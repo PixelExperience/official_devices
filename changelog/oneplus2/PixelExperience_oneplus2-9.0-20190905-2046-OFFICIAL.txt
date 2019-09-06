@@ -1,0 +1,5 @@
+Source side
+*September security patch
+
+Device side
+*Updated device tree to latest LOS device tree
