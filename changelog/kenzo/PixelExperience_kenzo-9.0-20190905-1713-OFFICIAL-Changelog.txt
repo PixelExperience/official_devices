@@ -1,3 +1,0 @@
-* Update IMS Stack
-* Rebased Trees
-* Fixed more bugs
