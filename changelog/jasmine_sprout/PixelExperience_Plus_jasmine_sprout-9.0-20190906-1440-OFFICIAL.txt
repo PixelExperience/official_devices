@@ -1,0 +1,23 @@
+Rom specific :-
+
+https://blog.pixelexperience.org/2019/09/september-release-bulletin-and-android-10-plans/
+
+Device specific :-
+
+Added MIUI camera
+Increased in call volume
+Various sound & noise cancellation fixes
+Mic fixed
+Added missing soundlib
+Added MIUI Power off charging animations
+System UI glitches fixed
+Fixed issue where keyboard/touch sometime not registering
+Default density 320
+Rendering improvements
+Pre-Opt system UI
+Decalred MIUI camera priv-permissions
+Prebuilt TWRP
+Switched to omni kernel ( i like colors in that thanks to rcstar6696)
+Compiled with clang 9.0.6
+ 
+CLEAN FLASH STRONGLY RECOMMNENDED
