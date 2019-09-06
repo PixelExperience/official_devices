@@ -59,6 +59,11 @@
          "file_name": "PixelExperience_violet-9.0-20190828-0515-OFFICIAL.zip",
          "md5": "9125de094968878c3ac3d99f8e22f2ad",
          "file_size": 1302215040
+      },
+      {
+         "file_name": "PixelExperience_violet-9.0-20190906-1719-OFFICIAL.zip",
+         "file_size": 1350271248,
+         "md5": "a74fdb8a75369e69b31736e069ba76be"
       }
    ],
    "pie_plus":[
@@ -76,6 +81,11 @@
           "file_name": "PixelExperience_Plus_violet-9.0-20190905-1341-OFFICIAL.zip",
           "file_size": 1334471386,
           "md5": "579cda4e27659294a22ddd5b8a16f8ba"
+    },
+    {
+          "file_name": "PixelExperience_Plus_violet-9.0-20190906-1615-OFFICIAL.zip",
+          "file_size": 1354330881,
+          "md5": "4fca7826a3095f4181dbc022660274be"
     }
    ],
    "pie_caf": [
