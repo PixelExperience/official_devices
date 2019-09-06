@@ -1,9 +1,0 @@
-=========================================
-   PixelExperience Pie September Update
-=========================================
-
-====================================
-     PixelExperience Changes
-====================================
-
-* September Security Patch
