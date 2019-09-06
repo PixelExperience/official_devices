@@ -1,0 +1,30 @@
+Device changelog:
+* Revert "violet: update build fingerprint to V10.3.13.0.PFHINXM"
+* Partially revert 95c3afc
+* Import latency blobs
+* Import sensorcalibrate blobs
+* Import Display Utils blobs
+* Import Neural networks blobs
+* Import QTEE connector blobs
+* Import IO Prefetcher blobs
+* Import ESE Powermanager blobs
+* Import qcril database upgrades
+* Compile kernel with clang 9.0.6
+* sepolicy: Allow tee acces to fingerprint data
+* Include uceShimService
+* ueventd: add /vendor/firmware to firmware paths
+* rootdir: Configure power key input boost value
+* Nuke libhidl
+* Patch blobs to replace android.hidl.base@1.0 dependency
+* Remove 'Device is HD Capable' notification
+* sepolicy: Address goodix denials
+* Include uceShimService
+* Patch blobs to replace android.hidl.base@1.0 dependency
+* Remove 'Device is HD Capable' notification
+* Include arcore
+* Clean up fw/b overlay
+* Push wifi-RTT permission files to device
+* Update vendor blobs from laurel_sprout
+
+ROM changelog:
+* September security patch
