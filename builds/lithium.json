@@ -8,14 +8,14 @@
    ],
    "pie": [
       {
-         "file_name": "PixelExperience_lithium-9.0-20190606-2232-OFFICIAL.zip",
-         "file_size": 940877585,
-         "md5": "6168892d878cb24cd2042f75efa7a273"
-      },
-      {
          "file_name": "PixelExperience_lithium-9.0-20190709-2316-OFFICIAL.zip",
          "file_size": 941839421,
          "md5": "b83773ff23e5c53284fb9970ddaa0742"
+      },
+      {
+         "file_name": "PixelExperience_lithium-9.0-20190907-0127-OFFICIAL.zip",
+         "file_size": 975594061,
+         "md5": "2efa76f1ec2f0232db0e2e003f688346"
       }
    ],
    "pie-caf": [
@@ -28,6 +28,13 @@
          "file_name": "PixelExperience_caf_lithium-9.0-20190709-1527-OFFICIAL.zip",
          "file_size": 946002718,
          "md5": "3ed1bf9ab16df2feacc16260012e0d6d"
+      }
+   ],
+   "pie_plus": [
+      {
+        "file_name": "PixelExperience_Plus_lithium-9.0-20190907-1048-OFFICIAL.zip",
+        "file_size": 978661605,
+        "md5": "a57d697579e8ae8dfdd4fcf3fd20a6f7"
       }
    ]
 }
