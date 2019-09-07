@@ -636,14 +636,16 @@
             "version_name":"Pie",
             "maintainer_name":"dandyfarid (Yuu_Koito)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9414892",
-            "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-pixel-experience-t3920102"
+            "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-pixel-experience-t3920102",
+	    "deprecated":true
          },
          {
             "version_code":"pie_plus",
             "version_name":"Pie (Plus edition)",
             "maintainer_name":"dandyfarid (Yuu_Koito)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=9414892",
-            "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-pixel-experience-t3920102"
+            "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/rom-pixel-experience-t3920102",
+	    "deprecated":true
          },
          {
             "version_code":"pie_caf",
