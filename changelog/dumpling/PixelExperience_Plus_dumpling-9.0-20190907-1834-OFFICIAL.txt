@@ -1,0 +1,29 @@
+PixelExperience:
+
+- September security patch
+- Added screen and sound recording functions on qs tiles (with internal audio support)
+- Added automatic theme based on time
+- Added back dark notifications (you can switch between white and dark)
+- Added back face auto unlock
+- Added ability to configure QS rows and columns
+- Improved ambient play
+- Fixed heads up disabling
+- Fixes on black theme
+- Improved scrolling on some apps
+- Fixed screenshot edit
+- Fixed Incall vibration not working
+- Fixed missing edit action on screenshot notification
+- Improved LiveDisplay
+- Enhanced call blocking
+- Improved network traffic
+
+Device Specific:
+
+- Kernel Upstreamed to 4.4.191
+- Fixed volume panel arrow direction
+- Adjust green LED brightness
+- Enabled 2.4GHz channel bonding to improve WiFi speed
+- Added Quickswitch support
+- Some others changes I couldn't remember
+
+Minimum firmware: 9.0.8
