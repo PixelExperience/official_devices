@@ -61,6 +61,11 @@
 	"file_name": "PixelExperience_ham-9.0-20190824-0537-OFFICIAL.zip",
 	"file_size": 738870655,
 	"md5": "1cb78c26554649e1b663b7e406f82e40"
+      },
+      {
+	"file_name": "PixelExperience_ham-9.0-20190907-1542-OFFICIAL.zip",
+	"file_size": 739892872,
+	"md5": "d46ce1905a63adefabf960a07ff53fb1"
       }
    ],
    "pie_plus": [
@@ -68,6 +73,11 @@
 	"file_name": "PixelExperience_Plus_ham-9.0-20190825-0553-OFFICIAL.zip",
 	"file_size": 740488377,
 	"md5": "7346751381c908aa140b600e8a194fdd"
+      },
+      {
+	"file_name": "PixelExperience_Plus_ham-9.0-20190907-1514-OFFICIAL.zip",
+	"file_size": 742377591,
+	"md5": "708308c8cfd5ca187b6ef6f0a4047f3d"
       }
    ]
 }
