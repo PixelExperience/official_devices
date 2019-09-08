@@ -1,3 +1,8 @@
+IMPORTANT:
+
+- Turn off NFC if you don't need it, since it's causing a huge amount of battery drain
+- I will try to fix it for those who uses NFC in the next update
+
 PixelExperience:
 
 - September security patch
