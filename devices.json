@@ -373,6 +373,13 @@
             "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
          },
          {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Nicholas Magill (Inkypen)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9382231",
+            "xda_thread":"https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+         },
+         {
             "version_code":"pie-caf",
             "version_name":"Pie (CAF edition)",
             "maintainer_name":"Nicholas Magill (Inkypen)",
