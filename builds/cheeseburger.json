@@ -4,6 +4,11 @@
          "file_name": "PixelExperience_cheeseburger-9.0-20190824-1516-OFFICIAL.zip",
          "file_size": 1208857766,
          "md5": "ca6a26402dd796c682b4374e9319bdac"
+      },
+      {
+         "file_name": "PixelExperience_cheeseburger-9.0-20190908-1309-OFFICIAL.zip",
+         "file_size": 1210756871,
+         "md5": "a0b40fc7b01371f32a51e1c948fe21af"
       }
    ],
    "pie_plus":[
@@ -11,6 +16,11 @@
          "file_name": "PixelExperience_Plus_cheeseburger-9.0-20190823-1223-OFFICIAL.zip",
          "file_size": 1214266800,
          "md5": "fd3756603eb6bcc7c8bbb8c2b5d9ab0b"
+      },
+      {
+         "file_name": "PixelExperience_Plus_cheeseburger-9.0-20190908-1605-OFFICIAL.zip",
+         "file_size": 1216755104,
+         "md5": "fdb8bb74520b17ec0873cfc6a4a735ff"
       }
    ]
 }
