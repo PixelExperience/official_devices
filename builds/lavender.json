@@ -14,7 +14,12 @@
       "file_name": "PixelExperience_lavender-9.0-20190827-1403-OFFICIAL.zip",
       "file_size": 1167790438,
       "md5": "70f363658f0f75c69ac1a88f37490406"
-    }
+    },
+	{
+	   "file_name": "PixelExperience_lavender-9.0-20190908-0136-OFFICIAL.zip",
+	   "file_size": 1170502382,
+	   "md5": "bef4af5ad62490cac290e21d9c95291c"
+	}
   ],
   "pie_plus": [
     {
@@ -26,6 +31,11 @@
       "file_name": "PixelExperience_Plus_lavender-9.0-20190827-1526-OFFICIAL.zip",
       "file_size": 1170154722,
       "md5": "497f2d3c1479ed9565c0c2cc34f8de92"
-    }
+    },
+	{
+	   "file_name": "PixelExperience_Plus_lavender-9.0-20190907-2245-OFFICIAL.zip",
+	   "file_size": 1172407105,
+	   "md5": "b075814942b34088cd46a70bb42fa3d9"
+	}
   ]
 }
