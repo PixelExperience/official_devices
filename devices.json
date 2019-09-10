@@ -99,7 +99,7 @@
       "supported_versions":[
           {
             "version_code":"ten",
-            "version_name":"10",
+            "version_name":"10 (Beta)",
             "maintainer_name":"Rodrigo Rodrigues (Rodrigo594)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7509777",
             "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3832722"
@@ -553,7 +553,7 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "version_name":"10",
+            "version_name":"10 (Beta)",
             "maintainer_name":"Henrique Silva (jhenrique09)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039"
          },
@@ -748,7 +748,7 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "version_name":"10",
+            "version_name":"10 (Beta)",
             "maintainer_name":"Henrique Pereira (Hlcpereira)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=7838323"
          },
