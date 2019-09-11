@@ -1,0 +1,2 @@
+* Re enabled proximity sensor with MotoActions
+* Lot's of hals updates & fixes
