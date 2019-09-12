@@ -36,6 +36,11 @@
          "file_name": "PixelExperience_capricorn-9.0-20190716-1335-OFFICIAL.zip",
          "file_size": 1195604855,
          "md5": "6bd566e1dabf76afc07e3dfc0cf3f583"
+      },
+      {
+         "file_name": "PixelExperience_capricorn-9.0-20190907-2341-OFFICIAL.zip",
+         "file_size": 1201902302,
+         "md5": "eeead3525c5ea740288c1c4789caa5bd"
       }
    ],
    "pie_plus": [
@@ -43,6 +48,11 @@
          "file_name": "PixelExperience_Plus_capricorn-9.0-20190824-1306-OFFICIAL.zip",
          "file_size": 1202595682,
          "md5": "1b23ded53fc3e710cdc384b10adc3833"
+      },
+      {
+         "file_name": "PixelExperience_Plus_capricorn-9.0-20190908-1359-OFFICIAL.zip",
+         "file_size": 1204624796,
+         "md5": "26d13df21bc7c80d7f8e161c00e92232"
       }
    ]
 }
