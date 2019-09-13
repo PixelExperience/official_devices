@@ -498,6 +498,13 @@
       "codename":"violet",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"merothh, Dyneteve",
+            "maintainer_url":"https://github.com/Dyneteve",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"merothh, Dyneteve",
