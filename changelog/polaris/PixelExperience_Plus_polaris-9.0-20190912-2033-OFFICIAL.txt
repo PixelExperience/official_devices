@@ -1,0 +1,437 @@
+=======================
+     09-13-2019
+=======================
+
+   * device/xiaomi/polaris/
+9948ef8 polaris: Drop display feature service override
+9b26dc0 polaris: Switch to Google Camera Mod
+
+   * device/xiaomi/sdm845-common/
+720d570 sdm845-common: Switch to OSS display HAL
+
+   * vendor/xiaomi/
+eb36c6a sdm845-common: Switch to Display blobs from Cheryl2              - This allows us to build a working OSS Display HAL              - Adreno drivers are slightly older than Perseus              - SDM blobs are newer and from the same date 01/12/19
+1d705b7 sdm845-common: Remove wcnss_filter and all references to it
+79f3ce0 sdm845-common: Remove prebuilt powerhint.xml
+5a04f06 sdm845-common: Decommonize ACDB loader libraries
+81417ff polaris: Add camera OIS firmware
+5126378 polaris: Add missing camera libs
+8330c98 beryllium: Add missing camera libs
+41f2458 polaris: Add QC location blobs
+7388473 beryllium: Add QC location blobs
+cb5dc58 sdm845-common: Include missing hostapd init script
+012bfcb sdm845-common: Remove prebuilt IPACM blobs
+0a755fb sdm845-common: Remove prebuilt thermal and VR HALs
+0190c8f sdm845-common: Remove OMX blobs that be built from source
+5e58939 sdm845-common: Remove prebuilt sound FX libs
+0b3c255 polaris: Add initial vendor blobs
+fea37d6 dipper: Add initial vendor blobs
+6c685d6 beryllium: Add initial vendor blobs
+1e31e0c sdm845-common: Add initial vendor blobs
+fe50ed9 sdm845-common: update to 9.4.26 blobs
+b204ac2 sdm845-common: delete unneeded blob, regenerate makefile
+b4e66e9 dipper: Add hotword enrollment
+031a4e7 sdm845-common: Add QCOM's WFD implementation
+366758b sdm845-common: Remove unused jars and not required libs
+4cb4730 polaris: Update to MIUI 9.2.15 blobs
+8452fd8 sdm845-common: Update to MIUI 9.2.15 blobs
+0f90288 sdm845-common: Add dependencies required by MIUI 9.2.15 vendor images
+c809c65 sdm845-common: Ship system variant of postprocessing blobs
+e6f3f71 sdm845 targets: Regen makefiles and add new targets to build guard
+dd9765b sdm845-common: Add SDM blob needed for LiveDisplay HAL
+723689d sdm845-common: Add SoterService app and remove unnecessary deps
+90195af polaris: Add hotword enrollment
+4b044cc sdm845-common: Add common aptX and aptX-HD audio blobs
+f0f65f8 sdm845-common: Update to MIUI 8.12.20 Global dev blobs
+cdab8f9 sdm845-common: Allow qcrilmsgtunnel to access android.hidl.manager
+725f3a7 sdm845-common: Update to MIUI 8.11.15 Global dev blobs
+83ffd32 beryllium: Add FM libs
+628b599 sdm845 targets: Move to common P blobs
+c0a3327 polaris: Remove VNDK compat blobs
+9226a8e polaris: Ship KTPI patched time daemon
+e46454a polaris: Import VNDK blobs
+85a9725 beryllium: Add aptX libs
+7bbdd87 sdm845-common: Ship proper postprocessing soundfx libs
+43dfe62 beryllium: Add initial system blobs
+a332af5 ursa: Add initial system blobs
+3983427 sdm845-common: Add MIUI offmode charging daemon
+b23baa6 dipper: Add initial system blobs
+6e2856f sdm845-common: Add permission for power-off alarm framework
+c513804 polaris: Add initial system blobs
+
+=======================
+     09-12-2019
+=======================
+
+
+   * device/xiaomi/polaris/
+369fa36 polaris: Remove instrusiveNotificationLed
+25a9ddf polaris: Include and use Live Wallpapers from Pixel 3 by default
+568c4e1 polaris: Include Arcore
+bddd173 polaris: Declare IR Camera ID
+768890a polaris: Pixel Experience
+
+   * device/xiaomi/sdm845-common/
+38d2321 sdm845-common: force enable volte
+fc95e7d sdm845-common: Pin WfdService
+aea2ed7 sdm845-common: Switch to common basic USB HAL
+1e422ee sdm845-common: Add aosp nxpese interface
+9a46c82 sdm845-common: parts: Import dirac translations from MIUI
+9ca1bc9 sdm845-common: parts: Refactor dirac strings
+0d07888 sdm845-common: parts: Add summary for dirac
+3f9bc60 sdm845-common: add SysUI to PRODUCT_DEXPREOPT_SPEED_APPS
+f8453e3 sdm845-common: parts: Add DiracSound backend
+8c9eec4 sdm845-common: parts: Introduce Dirac preferences
+171eeb2 sdm845-common: Allow active package broadcast
+a251d45 sdm845-common: Add vibration tuning from stock miui
+81addc3 parts: Fix font and accent color
+1e7101c arch: cortex-a75 is armv8-2a and armv8-a
+95c4c0b cpu: sdm845 is cortex-a75 in aosp
+45304e4 sdm845-common: power: Define schedutil governor
+708c8b2 sdm845-common: Pixel Experience
+
+=======================
+     09-08-2019
+=======================
+
+   * kernel/xiaomi/sdm845/
+40471c9 Merge branch 'kernel.lnx.4.9.r11-rel' of https://github.com/android-linux-stable/msm-4.9 into HEAD
+
+=======================
+     09-07-2019
+=======================
+
+   * kernel/xiaomi/sdm845/
+f2f365f Merge 4.9.191 into kernel.lnx.4.9.r11-rel
+bf489db Linux 4.9.191
+9ae4611 mm/zsmalloc.c: fix build when CONFIG_COMPACTION=n
+69f692b x86/ptrace: fix up botched merge of spectrev1 fix
+625ee1a i2c: piix4: Fix port selection for AMD Family 16h Model 30h
+a3a71b1 KVM: arm/arm64: vgic-v2: Handle SGI bits in GICD_I{S,C}PENDR0 as WI
+f35eb8a KVM: arm/arm64: vgic: Fix potential deadlock when ap_list is long
+c251d5c mac80211: fix possible sta leak
+ac8c767 Revert "cfg80211: fix processing world regdomain when non modular"
+925bf2d VMCI: Release resource if the work is already queued
+dfc3195 stm class: Fix a double free of stm_source_device
+c7ed5c0 mmc: core: Fix init of SD cards reporting an invalid VDD range
+f0d3242 mmc: sdhci-of-at91: add quirk for broken HS200
+b0e1bae uprobes/x86: Fix detection of 32-bit user mode
+3bf1c9c ptrace,x86: Make user_64bit_mode() available to 32-bit builds
+5326bec USB: storage: ums-realtek: Whitelist auto-delink support
+1424ff0 USB: storage: ums-realtek: Update module parameter description for auto_delink_en
+abd4c15 usb: host: xhci: rcar: Fix typo in compatible string matching
+fcbc427 usb: host: ohci: fix a race condition between shutdown and irq
+169710b usb: chipidea: udc: don't do hardware access if gadget has stopped
+7189b43 USB: cdc-wdm: fix race between write and disconnect due to flag abuse
+eec8727 usb-storage: Add new JMS567 revision to unusual_devs
+0e7e273 mm/zsmalloc.c: fix race condition in zs_destroy_pool
+aaa0776 x86/apic: Include the LDR when clearing out APIC registers
+20e0e48 x86/apic: Do not initialize LDR and DFR for bigsmp
+8ec1280 KVM: x86: Don't update RIP or do single-step on faulting emulation
+104c513 ALSA: seq: Fix potential concurrent access to the deleted pool
+f595a12 ALSA: line6: Fix memory leak at line6_init_pcm() error path
+fda2092 tcp: make sure EPOLLOUT wont be missed
+53856af ALSA: usb-audio: Fix an OOB bug in parse_audio_mixer_unit
+2bac3a3 ALSA: usb-audio: Fix a stack buffer overflow bug in check_input_term
+669a505 tcp: fix tcp_rtx_queue_tail in case of empty retransmit queue
+85f7feb scsi: ufs: Fix RX_TERMINATION_FORCE_ENABLE define value
+7f41ef8 watchdog: bcm2835_wdt: Fix module autoload
+47a2cf6 tools: hv: fix KVP and VSS daemons exit code
+25b0bb7 usb: host: fotg2: restart hcd after port reset
+1fe671b i2c: emev2: avoid race when unregistering slave client
+f5679e5 xen/blkback: fix memory leaks
+d023765 usb: gadget: composite: Clear "suspended" on reset/disconnect
+10f13d9 iommu/dma: Handle SG length overflow better
+7900374 dmaengine: ste_dma40: fix unneeded variable warning
+9272c25 x86/CPU/AMD: Clear RDRAND CPUID bit on AMD family 15h/16h
+041de0e Revert "perf test 6: Fix missing kvm module load for s390"
+4862942 xfs: fix missing ILOCK unlock when xfs_setattr_nonsize fails due to EDQUOT
+2929516 mm/zsmalloc.c: migration can leave pages in ZS_EMPTY indefinitely
+ba37a94 mm, page_owner: handle THP splits correctly
+8421928 genirq: Properly pair kobject_del() with kobject_add()
+190db74 dm table: fix invalid memory accesses with too high sector number
+f4f7e6d dm space map metadata: fix missing store of apply_bops() return value
+efe36a4 dm btree: fix order of block initialization in btree_split_beneath
+e183249 x86/boot: Fix boot regression caused by bootparam sanitizing
+4e478cb x86/boot: Save fields explicitly, zero out everything else
+c81846b x86/apic: Handle missing global clockevent gracefully
+44b79b4 x86/retpoline: Don't clobber RFLAGS during CALL_NOSPEC on i386
+88bc983 userfaultfd_release: always remove uffd flags and clear vm_userfaultfd_ctx
+640d77c gpiolib: never report open-drain/source lines as 'input' to user-space
+b905945 Revert "dm bufio: fix deadlock with loop device"
+50a583b HID: wacom: Correct distance scale for 2nd-gen Intuos devices
+af00cc2 HID: wacom: correct misreported EKR ring values
+10fe806 selftests: kvm: Adding config fragments
+eee0386 perf pmu-events: Fix missing "cpu_clk_unhalted.core" event
+72cbaa5 drm/vmwgfx: fix memory leak when too many retries have occurred
+e2f888b x86/lib/cpu: Address missing prototypes warning
+071434c libata: add SG safety checks in SFF pio transfers
+34e7dd9 net: hisilicon: Fix dma_map_single failed on arm64
+90a540d net: hisilicon: fix hip04-xmit never return TX_BUSY
+8695cfa net: hisilicon: make hip04_tx_reclaim non-reentrant
+36425c8 net: cxgb3_main: Fix a resource leak in a error path in 'init_one()'
+6779b76 HID: input: fix a4tech horizontal wheel custom usage
+46888ce NFSv4: Fix a potential sleep while atomic in nfs4_do_reclaim()
+49a4fda can: peak_usb: force the string buffer NULL-terminated
+3d4e094 can: sja1000: force the string buffer NULL-terminated
+4754486 perf bench numa: Fix cpu0 binding
+f67cdc6 isdn: hfcsusb: Fix mISDN driver crash caused by transfer buffer on the stack
+2270c88 isdn: mISDN: hfcsusb: Fix possible null-pointer dereferences in start_isoc_chain()
+bbed036 net: usb: qmi_wwan: Add the BroadMobi BM818 card
+5102d64 ASoC: ti: davinci-mcasp: Correct slot_width posed constraint
+65d02df st_nci_hci_connectivity_event_received: null check the allocation
+69f0dd8 st21nfca_connectivity_event_received: null check the allocation
+400fc13 can: dev: call netif_carrier_off() in register_candev()
+31ab049 bonding: Force slave speed check after link state recovery for 802.3ad
+156a434 ASoC: dapm: Fix handling of custom_stop_condition on DAPM graph walks
+c2ccc34 netfilter: ebtables: fix a memory leak bug in compat
+6f2a9a2 MIPS: kernel: only use i8253 clocksource with periodic clockevent
+18e5fad HID: Add 044f:b320 ThrustMaster, Inc. 2 in 1 DT
+
+   * manifest/
+e52ed17 manifest: allow contexthub
+
+   * packages/apps/Settings/
+71187b5 Merge "SystemUpdatePreferenceController: Remove gsi check" into pie-plus
+fc53878 SystemUpdatePreferenceController: Remove gsi check
+
+   * vendor/aosp/
+e0f637b prebuilts: Remove outdated TCP init script
+8d7d345 vendor: Remove gsi support
+
+   * vendor/gapps/
+963c0ce Update priv-app permissions
+
+=======================
+     09-06-2019
+=======================
+
+   * build/make/
+f4aec6b Bump Security String to 2019-09-05
+
+   * external/libcups/
+8521646 Fix heap buffer overflow in ipp.c
+
+   * external/libhevc/
+b85e16f decoder: Fix valid SPS check in parsing SEI
+
+   * frameworks/base/
+23d13a0 Correct argument order in permission check
+b27d2af HidProfile: sync isPreferred() with HidHostService
+6facbda Fix Layout.primaryIsTrailingPreviousAllLineOffsets
+
+   * frameworks/native/
+6f38f96 Free mObjects if no objects left to realloc on resize
+5663734 Fix race between SensorManager ctor and callback
+
+   * manifest/
+e32a13c Track some repos due to security patch commits
+
+   * packages/apps/Settings/
+89c8cdf Act as usb device when there is no hal, but we believe we are a device
+
+   * prebuilts/clang/host/linux-x86/
+ae24f4d Update prebuilt Clang to r365631.
+
+   * system/core/
+b4800b1 Fix a memory leak in gatekeeper.
+
+   * system/nfc/
+91a677a Prevent integer overflow in NDEF_MsgValidate
+8e23a06 Prevent OOB read in rw_t4t.cc
+
+=======================
+     09-05-2019
+=======================
+
+   * packages/apps/Settings/
+e4d6a63 Automatic translation import
+
+   * vendor/pixelstyle/
+6b483db Update Wellbeing
+1362d1e Update AmbientPlayProvider to v1.5
+d12ff2d Add storage permissions to markup
+
+=======================
+     09-04-2019
+=======================
+
+   * frameworks/base/
+d837dd4 Automatic translation import
+0b07756 fwb: [2/2] Notification theme switch
+1dad6da Allow to set QS panel columns and rows [1/2]
+7f911bb Allow adjusting screen density to smaller sizes.
+defc312 Change QS customizer 'drag to add tile' string
+4212909 SystemUI: Whitelist our recorder on CastController
+e45b3ba VolumeDialogControllerImpl: Check for internal audio recording support
+3d2d7fb Add back code to force close Settings app on theme change
+0686ba0 fwb: Add support for themed notifications
+b309019 Merge "NetworkTraffic: Fix traffic stats for tethering and vpn use cases" into pie-plus
+396e661 Merge "Revert "NetworkTraffic: filter VPN traffic"" into pie-plus
+16f54c7 Merge "VolumeDialogImpl: Fix expanded indicator direction" into pie-plus
+1f21716 fwb: Dark theme based on time [1/2]
+
+   * packages/apps/Longshot/
+50e6e4d Merge "Add edit action on notification" into pie-plus
+
+   * packages/apps/Recorder/
+25243f4 Automatic translation import
+
+   * packages/apps/Settings/
+de3d61a Settings: [1/2] Notification theme switch
+f2f9220 Allow to set QS panel columns and rows [2/2]
+44ee907 Cleanup statusbar_settings
+138d53c Settings: Dark theme based on time [2/2]
+8f7bd30 Merge "Settings: Enable/disable black theme preference according to current theme" into pie-plus
+09b3179 Add toggle for face auto unlock (2/2)
+
+   * vendor/aosp/
+16de7d7 Merge "vendor: Add special conditions for devices with prebuilt display hal" into pie-plus
+bb3e72c Merge "vendor: privapp-permissions-recorder: Add missing permissions" into pie-plus
+b011243 vendor: Add special conditions for devices with prebuilt display hal
+
+   * vendor/codeaurora/telephony/
+7de911d Revert "IMS-VT: Low battery handling for Video calls"
+
+   * vendor/themes/
+428604d Automatic translation import
+
+=======================
+     09-03-2019
+=======================
+
+   * build/make/
+50e66ae Merge branch 'pie' of https://github.com/PixelExperience/build into pie-plus
+c710661 More base_rules.mk optimizations
+d63f77d Skip much of aux_config.mk
+
+   * device/xiaomi/sdm845-common/
+4959cd2 sdm845-common: parts: Clean up proguard flags
+
+   * frameworks/base/
+b04f48b NetworkTraffic: Fix traffic stats for tethering and vpn use cases
+7a9d593 Revert "NetworkTraffic: filter VPN traffic"
+713280d VolumeDialogImpl: Fix expanded indicator direction
+515e0c7 QSTileHost: Recreate tiles when LiveDisplay gets initialized
+d19de22 NotificationEntryManager: Fix heads up disabling
+45368a2 Revert "LiveDisplayTile: Remove tile if unavailable"
+0d0bef9 Add toggle for face auto unlock (1/2)
+50b2194 KeyguardHostView: Auto face unlock v2
+c86d475 PrintSpooler: Improve theming
+746b5b3 CarrierConfigManager: Enable enhanced call blocking function
+6083495 Merge "Improve scrolling cache" into pie-plus
+dcbfe4d Merge "base: set scrolling to 0.006f" into pie-plus
+7d5e902 Automatic translation import
+de54573 Merge branch 'pie' of https://github.com/PixelExperience/frameworks_base into pie-plus
+1582964 Allow override of DUN settings
+c8b5f15 Update Xbox BT controller mapping to support upcoming controller firmware update
+
+   * frameworks/opt/telephony/
+a126ae4 Sort activeSubscriptionInfoList according to API annotation
+
+   * packages/apps/Longshot/
+4e881ed Add edit action on notification
+
+   * packages/apps/Recorder/
+c74af6a overlay: Use dp instead of sp on timer tick
+6586a41 Keep overlay always dark
+e4765ae ScreencastService: Update notification immediately after recording started
+5467cfc OverlayService: Hide when starting recording, if not overlay should not be displayed
+a3ba553 Fix inline build
+fc9f85b Revert "Android studio import"
+c28df9e Android studio import
+f9d51c4 Improve error handling and some code
+acc6ec7 Prevent miss-clicks on views
+fc01360 Fix lag when dragging overlay and updating timer
+5b48203 Add alpha on floating window
+16e3015 Cleanup config
+a650176 Adjust internal audio recording params
+1f56e9a Add timer into activity
+5f33ba7 Revert "Open last recorded item on stop"
+9778c93 Improve floating window
+f04b85c Use accent from framework
+54deb67 Don't hardcode font
+4fc7b0f Fix black theme
+54130d1 overlay: Add little spacing on the end of recording button
+19386d1 Improve share notifications
+263eac9 Disable qs tiles when locked
+dd671a9 Open last recorded item on stop
+aad89be Add listener on Settings activity
+f33d5a3 Stop overlay service on record started
+3a78d14 Add orientation preference
+0e4e3a4 Pause recording when screen off to save resources
+
+   * packages/apps/Settings/
+90dcbaf Settings: Enable/disable black theme preference according to current theme
+94fc48f Merge branch 'pie' of https://github.com/PixelExperience/packages_apps_Settings into pie-plus
+dc12c68 Automatic translation import
+
+   * packages/apps/Snap/
+3a2828a Automatic translation import
+
+   * packages/apps/Updates/
+8ff34a8 Automatic translation import
+
+   * packages/providers/AmbientPlayHistoryProvider/
+b30ac1d Automatic translation import
+
+   * packages/providers/DownloadProvider/
+82b05b6 Automatic translation import
+
+   * packages/services/BuiltInPrintService/
+29525cd Automatic translation import
+979f7b4 Improve theming
+81fdfe1 Make some strings translatable
+
+   * system/sepolicy/
+e5acf49 adbd: do not audit vsock_socket create
+
+   * vendor/aosp/
+9c7554f Merge branch 'pie' of https://github.com/PixelExperience/vendor_aosp into pie-plus
+86694ed kernel: Add TARGET_KERNEL_ADDITIONAL_FLAGS to allow setting extra cflags
+93c5e8e overlay: Disable config_keyguardUserSwitcher on sw600dp
+92a9e02 backuptool_ab: Make copy_file preserve file/directory attrs
+e10bd48 vendor: Enforce privapp-permissions whitelist
+
+   * vendor/themes/
+7613501 Bring back notification theming
+
+=======================
+     09-02-2019
+=======================
+
+   * packages/apps/Recorder/
+db7264c Check before unregistering broadcast receiver
+309b558 Always use H264
+5d4f105 Hide some activities from recents
+73f9d42 Add more preferences
+dbb5dec Use reflection to collapse statusbar
+1ede6d1 Improve transparent theme
+02c298e Conditionally disable internal audio recording support
+38c59b2 Import custom androidx preference library for better theming
+fec3196 More theming improvements
+c09bc90 Refactor settings UI
+adbd547 Refactor recording methods
+9511b58 Separate and improve strings
+446ad5a Rename strings to custom_strings.xml
+6574d90 Cleanup intents
+9afc974 Remove from launcher
+6e48d03 Update icon
+8ff4d49 Change version
+7004cc5 Implement qs tiles and refactor code
+2885a4d Improve recording floating overlay
+33ce278 Don't use shared prefs to store recording state
+fccca20 UI redesign
+55254ec Add system audio recording support [1/2]
+e97bc73 Rebrand
+1ad0339 Bump sdk
+
+   * vendor/aosp/
+fea8ba3 vendor: privapp-permissions-recorder: Add missing permissions
+
+=======================
+     09-01-2019
+=======================
+
+   * vendor/aosp/
+2548761 vendor: Drop recorder xml feature

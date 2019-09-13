@@ -1229,5 +1229,19 @@
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3959201"
          }
       ]
+   },
+   {
+      "name":"Mi Mix 2s",
+      "brand":"Xiaomi",
+      "codename":"polaris",
+      "supported_versions":[
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Xhoni Rexhepi (Pepsy)",
+            "maintainer_url":"https://t.me/peepsy",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t3872863"
+         }
+      ]
    }
 ]
