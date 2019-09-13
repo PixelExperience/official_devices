@@ -1131,6 +1131,13 @@
       "codename":"lavender",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Pereira Ricardo (Namaless / NunoCodex)",
+            "maintainer_url":"https://t.me/nunocodex",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Pereira Ricardo (Namaless / NunoCodex)",
