@@ -1180,17 +1180,24 @@
       "codename":"dumpling",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Jowee Yu (xiaowyyyyya)",
+            "maintainer_url":"https://t.me/xiaowyyyyya",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Jowee Yu (xiaowyyyyya)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "maintainer_url":"https://t.me/xiaowyyyyya",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
          },
          {
             "version_code":"pie_plus",
             "version_name":"Pie (Plus edition)",
             "maintainer_name":"Jowee Yu (xiaowyyyyya)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "maintainer_url":"https://t.me/xiaowyyyyya",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3953607"
          }
       ]
@@ -1201,17 +1208,24 @@
       "codename":"cheeseburger",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Jowee Yu (xiaowyyyyya)",
+            "maintainer_url":"https://t.me/xiaowyyyyya",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Jowee Yu (xiaowyyyyya)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "maintainer_url":"https://t.me/xiaowyyyyya",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3959201"
          },
          {
             "version_code":"pie_plus",
             "version_name":"Pie (Plus edition)",
             "maintainer_name":"Jowee Yu (xiaowyyyyya)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8125712",
+            "maintainer_url":"https://t.me/xiaowyyyyya",
             "xda_thread":"https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3959201"
          }
       ]
