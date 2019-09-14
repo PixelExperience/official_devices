@@ -185,5 +185,12 @@
          "file_size":1053486226,
          "md5":"cf7538c3a51880112ef2578eb83e2b01"
       }
+   ],
+   "ten":[
+      {
+         "file_name":"PixelExperience_beryllium-10.0-20190914-0125-BETA-OFFICIAL.zip",
+         "file_size":1337669633,
+         "md5":"b92ad9afd7bbdc72c0a9af95749b7265"
+      }
    ]
 }
