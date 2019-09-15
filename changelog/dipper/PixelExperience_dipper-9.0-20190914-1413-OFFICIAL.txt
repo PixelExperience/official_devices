@@ -1,0 +1,14 @@
+PixelExperience:
+
+- September Security Patch
+
+Device Specific:
+
+- Switched to OSS Display HAL
+- QCOM NFC Stack is back due issues in some apps that depends of it
+- Kernel fully rebased and upstreamed to 4.9.192. Check github for more details
+- Kernel Built with Clang 9.0.6
+- Switched to brightness model from Sargo (Pixel 3a XL)
+- End-Of-Life, cy'all on Q
+
+Minimum Firmware: 9.6.20

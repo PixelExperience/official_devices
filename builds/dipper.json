@@ -59,6 +59,11 @@
          "file_name": "PixelExperience_dipper-9.0-20190823-2153-OFFICIAL.zip",
          "file_size": 1376301792,
          "md5": "e19235b11b234be4e626edc083364ca6"
+      },
+      {
+         "file_name": "PixelExperience_dipper-9.0-20190914-1413-OFFICIAL.zip",
+         "file_size": 1375462325,
+         "md5": "ac30faab9020fbae3e5c1cb159135ed6"
       }
    ],
    "pie_plus": [
@@ -66,6 +71,11 @@
          "file_name": "PixelExperience_Plus_dipper-9.0-20190825-0122-OFFICIAL.zip",
          "file_size": 1375914762,
          "md5": "92448ea0218cebe691cc54ae82c3f6dd"
+      },
+      {
+         "file_name": "PixelExperience_Plus_dipper-9.0-20190914-1945-OFFICIAL.zip",
+         "file_size": 1377387489,
+         "md5": "a4aafd04aa27ca45f505bbe5a204ff54"
       }
    ],
    "pie_caf": [
