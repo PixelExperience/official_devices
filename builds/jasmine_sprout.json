@@ -184,5 +184,12 @@
          "file_size": 1086363696,
          "md5": "29d85e9f6f72c79f13eed031e3c21e4f"
       }
+   ],
+   "ten":[
+      {
+         "file_name":"PixelExperience_jasmine_sprout-10.0-20190915-1745-BETA-OFFICIAL.zip",
+         "file_size":1065402257,
+         "md5":"08d696a9c710d84305488f9bb17adbe4"
+      }
    ]
 }
