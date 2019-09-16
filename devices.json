@@ -734,6 +734,13 @@
       "codename":"sakura",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Zinadin Zidan (Zidan44)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9782219",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Zinadin Zidan (Zidan44)",
