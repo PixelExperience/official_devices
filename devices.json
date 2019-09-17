@@ -683,6 +683,13 @@
       "brand":"Google",
       "codename":"bullhead",
       "supported_versions":[
+          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Lakshay Garg (lakshay18)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9537214",
+            "xda_thread":"https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437"
+         },         
          {
             "version_code":"pie",
             "version_name":"Pie",
