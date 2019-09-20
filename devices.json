@@ -1280,5 +1280,19 @@
             "xda_thread":"https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t3872863"
          }
       ]
+   },
+   {
+      "name":"ZTE Axon 7",
+      "brand":"ZTE",
+      "codename":"ailsa_ii",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"runninghamster",
+            "maintainer_url":"https://github.com/runninghamster0",
+            "xda_thread":"https://forum.xda-developers.com/axon-7/development/rom-pixel-experience-t3953999"
+         }
+      ]
    }
 ]
