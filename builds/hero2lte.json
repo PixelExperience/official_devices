@@ -49,6 +49,11 @@
          "file_name": "PixelExperience_hero2lte-9.0-20190823-0257-OFFICIAL.zip",
          "file_size": 906429732,
          "md5": "59b936383b52e2edf672373cbe5ba90e"
+      },
+      {
+         "file_name": "PixelExperience_hero2lte-9.0-20190919-1404-OFFICIAL.zip",
+         "file_size": 906893974,
+         "md5": "789acb8f59cf07684e103e865eb2e758"
       }
    ],
 "pie_plus": [
@@ -56,6 +61,11 @@
          "file_name": "PixelExperience_Plus_hero2lte-9.0-20190822-2228-OFFICIAL.zip",
          "file_size": 907981632,
          "md5": "4b1b1f2f679fe110897802f62d3da83a"
+      },
+      {
+         "file_name": "PixelExperience_Plus_hero2lte-9.0-20190919-1950-OFFICIAL.zip",
+         "file_size": 909960429,
+         "md5": "8184ce2347787cc6f36ac7bcf0ebd4cb"
       }
    ]
 }

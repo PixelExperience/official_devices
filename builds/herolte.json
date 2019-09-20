@@ -49,6 +49,11 @@
          "file_name": "PixelExperience_herolte-9.0-20190823-0433-OFFICIAL.zip",
          "file_size": 906413060,
          "md5": "d26860386a5c5ff9a5dd646737ea4036"
+      },
+      {
+         "file_name": "PixelExperience_herolte-9.0-20190919-1849-OFFICIAL.zip",
+         "file_size": 906989756,
+         "md5": "761d285eb396e3495d09237e54d51a79"
       }
    ],
 "pie_plus": [
@@ -56,6 +61,11 @@
          "file_name": "PixelExperience_Plus_herolte-9.0-20190822-2353-OFFICIAL.zip",
          "file_size": 907603600,
          "md5": "ac713b74159feb8303e3086739a4961a"
+      },
+      {
+         "file_name": "PixelExperience_Plus_herolte-9.0-20190919-2152-OFFICIAL.zip",
+         "file_size": 909896825,
+         "md5": "bbe1a8233af2ccf3d38253ebaa641977"
       }
    ]
 }
