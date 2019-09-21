@@ -220,6 +220,13 @@
       "brand":"Xiaomi",
       "codename":"land",
       "supported_versions":[
+	 {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Jacob Deepu (JacobDeepu)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9732522",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
+         },
          {
             "version_code":"pie",
             "version_name":"Pie",
