@@ -1,0 +1,30 @@
+Device Side:
+* Update DPM blobs from raphael
+* Update CNE blobs from raphael
+* Partially Radio blobs from raphael
+* Uprev HIDL hals
+* Update Alarm blobs from raphael
+* Update DRM blobs from raphael
+* Update ESE-Powermanager blobs from raphael
+* Update Gatekeeper blobs from raphael
+* Update IO Prefetcher blobs from raphael
+* Update Latency blobs from raphael
+* Update Listen blobs from raphael
+* Update Media blobs from raphael
+* Update Neural-networks blobs from raphael
+* Update Perf blobs from raphael
+* Update Peripheral manager blobs from raphael
+* Update qdutils blobs from raphael
+* Update Postprocessing blobs from raphael
+* Update qteeconnector blobs from raphael
+* Update Soter blobs from raphael
+* Update Time services blobs from raphael
+* Update TUI blobs from raphael
+* Update Charger blobs from raphael
+* Update adreno stack from raphael
+* Revert "Update Gatekeeper blobs from raphael"
+* Update DRM(qseecomd) blobs from raphael
+
+Rom Side:
+Fixed fullscreen gesture bug
+Fixed free space fc
