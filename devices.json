@@ -983,6 +983,14 @@
       "brand":"Asus",
       "codename":"X01BD",
       "supported_versions":[
+	 {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Jayant Deshmukh (jd1811)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8276928",
+            "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
+         },
+
          {
             "version_code":"pie",
             "version_name":"Pie",
