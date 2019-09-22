@@ -1,0 +1,4 @@
+Device Changelog:
+- Fix battery level being stuck 
+- Kernel upstream to 4.14.146
+- Update WiFi blobs from raphael
