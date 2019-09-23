@@ -1,0 +1,461 @@
+=======================
+     09-23-2019
+=======================
+
+   * art/
+7cdd064 Don't fail dual map if memfd isn't supported
+
+   * vendor/aosp/
+b7c6d92 Revert "vendor: Enforce privapp-permissions whitelist"
+
+=======================
+     09-22-2019
+=======================
+
+
+   * frameworks/base/
+3e9e096 SystemUI: Hide back icon when screen pinned and gestural mode enabled
+bfdb5af SystemUI: Fix escape text when screen pinned and gestural mode enabled
+631c401 SystemUI: Show estimates on QS only if battery percentage is unavailable or disabled
+d87c8fb ScreenPinningRequest: Fix recents button not appearing
+78e49e8 SystemUI: Hide battery percentage if device has big notch
+7947fc2 KeyguardStatusBarView: Hide multi user icon if devices has big notch
+b8c1214 SystemUI: BatteryPercentage: Detect when overlay changes
+9ea1770 fwb: Declare cutout utils
+00ff06a SystemUI: Implement Smart space
+
+   * manifest/
+550bfa6 manifest: Don't remove StorageManager
+
+=======================
+     09-21-2019
+=======================
+
+
+=======================
+     09-20-2019
+=======================
+
+
+=======================
+     09-19-2019
+=======================
+
+
+   * prebuilts/tools-lineage/
+4f87806 Add darwin lzma
+
+=======================
+     09-18-2019
+=======================
+
+
+   * prebuilts/openssl/
+5fe9cc8 Remove x86_64-linux-gnu directory
+
+=======================
+     09-17-2019
+=======================
+
+
+   * build/make/
+2ad5864 envsetup: Automatically set CCACHE_EXEC to the system's ccache
+4e05929 check_boot_jars: Add CAF IMS to whitelist
+5189c80 fs_config: Fix generation for devices without vendor partition
+1dbdafb build: Add back ro.build.fingerprint
+faa00be build: Remove some debugging props
+7f6462f Don't enable ADB by default on userdebug builds
+4fbae66 build: Improve lunch error handling
+65f2376 build: Don't add generic targets on lunch menu
+5191d43 build: Add others targets on lunch menu [1/2]
+ee20c69 product: Exclude AOSP ringtones on custom build
+b20b62c core: Only include custom sepolicy if repo exists
+86bd342 build: Don't fail when trying to run 'export' cmd
+fd23d75 Add extra variables to _readonly_late_variables
+c54817f build: Also replace audio/include old-style kernel header
+9bc6d91 build: Allow mounting system properly for A-only system-as-root devices
+a74b9bc build: Allow build-image-kernel-modules to be called from shell
+f3d970b Don't export BUILD_NUMBER in envsetup
+ef870a3 Enable dynamic linker and hidden API warnings only on eng build
+63894de build: Support system-as-root A-only backuptool
+34f01e2 build: Also replace techpack/audio old-style kernel header
+a01af94 Remove compatibility.zip
+d0ffedc no matter what build type we dont want to see anything but Build_ID
+3697fbd build: Add our props to ADDITIONAL_BUILD_PROPERTIES
+7c5a3a1 Show ROM info while flashing
+18bade8 core: Makefile: fix syntax coloring in some editors
+ff2e5a8 Makefile: Changelog bringup
+f31cb87 Use 0 compression when creating the target_files package
+539e653 Default libnfc-nci.conf for GSI
+e72f414 product: Exclude AOSP apn list on custom build
+ccd2a2a build: Remove some apps by default
+a767b1a Also check if BOARD_KERNEL_SEPARATED_DTBO is set
+a9bf374 Revert "Remove the obsolete UnpackPackageDir() in edify generator"
+78962db build: recovery: add vendor to exclusion list
+d7dac4d build: allow forcing build of otatools
+4880acf build: Remove wallpapers from full_base.
+ec4f113 Fix inheritance of PRODUCT_PROPERTY_OVERRIDES for audio files
+0c3577b binary: Allow specifying a path for generated proto headers
+8dd9b96 product: Revert "Add NfcNci to default builds."
+a275f4b releasetools: ota_from_target_files: add FullOTA_PostValidate
+954b4ad edify: bring back SetPermissionsRecursive
+84c541e build: Automatically replace old-style kernel header includes with new header lib
+e55f282 build: Switch kernel header inclusion
+9f95c86 Don't error on kernel headers in LOCAL_ADDITIONAL_DEPENDENCIES
+1b9485f Add roomservice
+3c70986 releasetools: support reading release keys out of some sort of command
+cabf5b8 Disable dataroaming by default
+c3dce2d build: Add support for device tree in boot.img
+e7865f7 build/core: Create means of ignoring subdir layer for packages.
+3abf4af Add LOCAL_AIDL_FLAGS
+
+   * frameworks/opt/telephony/
+9f0ed5d Add ims-ext-common to static java libraries
+
+   * hardware/interfaces/
+3c97511 wifi: Merge QC wifi dual interface changes
+
+   * hardware/ril/
+6fb850b libril: Fix manual network selection with old modem
+
+   * manifest/
+9f85430 manifest: Stop tracking ril-caf
+
+   * system/bt/
+b86d89a Fix L version ble_vendor_capability sanity check crash.
+
+=======================
+     09-16-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/msm8998/
+efaa2ed msm899x: audio: exclude compress_set_next_track_param if unsupported
+
+   * manifest/
+cf5d497 Track msm8998 hals
+
+=======================
+     09-15-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/msm8998/
+d3bcee8 audio_extn: Add missing pthread.h includes
+2c1028b hal: Add Mic Direction API
+8c7786f hal: Add libprocessgroup dependency to set_sched_policy users
+
+   * hardware/qcom/display-caf/msm8998/
+ab2ff10 gralloc: Implement newly added gralloc1 functions
+3c03583 hwc2: Fix compile errors in switch statement.
+
+   * hardware/qcom/media-caf/msm8998/
+1391e31 mm-video-v412: fix -Wimplicit-fallthrough compilation
+801136d media: venc: Fix compilation error
+
+=======================
+     09-14-2019
+=======================
+
+
+   * bootable/recovery/
+8859c10 misc_writer: Add system variant
+
+   * build/soong/
+8fd1aac Revert "Default to the status table output"
+
+   * frameworks/base/
+58df693 SystemUI: Port code to improve pixel live wallpapers
+29b0717 Initial import of SystemUIGoogleFactory
+4d7d15c SystemUI: Add method for getting estimated battery time
+49b3652 ActivityManagerService: Disallow requestSystemServerHeapDump on non-eng builds
+206f2e4 SystemUI: Remove build version from qs footer
+7765b86 SystemUI: Fix flickering issue when live wallpaper is showing on aod/pulsing
+9394373 Use new gradient dialog also for recovery/factory reset action
+fb4b20e SystemUI: enable NFC tile
+458e4a4 AppStandbyController: Only check user standby setting
+8872c16 Conditionally disable uncrypt for ota
+5091b48 Add Custom proto
+ccde84d AudioService: Remove Analog Dock from fixed-volume devices
+ce0d633 audio: Don't play sound effects if stream is muted
+227e0ed LockSettingsService: Support for separate clear key api
+85f1899 frameworks: base: Port password retention feature
+4395a18 SystemUI: Remove GarbageMonitor tile
+04f1667 Shell: Don't show bugreport on DocumentsUI
+647b85e PowerProfile: allow overriding default power profile
+f2570e6 SystemUI: allow devices override audio panel location
+
+   * packages/apps/Settings/
+9cfa452 BatteryPercentagePreferenceController: Add check for big notch
+72825f7 Settings: Drop custom preferenceFragmentCompatStyle
+9e7e533 Revert "FeatureFactoryImpl: Import PowerUsageFeatureProviderGoogleImpl"
+78feb46 Settings: IS_DEBUGGABLE -> IS_ENG
+
+   * packages/apps/Updates/
+dcfb3c4 Use black accent on white theme
+
+   * packages/providers/DownloadProvider/
+92caa0f Automatic translation import
+
+   * packages/services/Telecomm/
+85c526f Telecomm: Change font on some parts
+
+   * packages/services/Telephony/
+4ff1090 Font improvements
+
+   * system/core/
+bc46a7b init: Add vendor-specific initialization hooks.
+9e322a1 fs_mgr: Wrapped key support for FBE
+1ffe1b4 healthd: cover devices that have voltage_max file with value of 0
+75d5aea healthd: Reinitialize mChargerNames for every battery update
+fd00959 init: don't skip starting a service with no domain if permissive
+
+   * system/sepolicy/
+ae2daf7 sepolicy: Add rules for misc_writer_system and themed_bootanimation
+
+   * vendor/aosp/
+f0b78a3 soong_config: Add new flag for vendor_init
+d3631d5 Revert "vendor: Set ringtone for 2nd slot on MSIM devices"
+8532121 vendor: Add support for dark bootanimation
+99574fb kernel: Fix module installation and clean up
+68ae83c kernel: Set kernel build outdir prefix for depmod too
+50b3417 kernel: Add GCC toolchains to the path
+1e469a1 vendor: branding: Add beta indication
+9a4a37c vendor: overlay: devicesettings: Change pref category style
+da767b6 vendor: branding: Add org.pixelexperience.version.display prop
+a613310 vendor: Also add eng variant to lunch menu
+79bbc8c vendor: Add others targets on lunch menu [2/2]
+811f782 Revert "vendor: Nuke vendorsetup for now"
+76b3191 vendor: Enable and refactor SetupWizardOverlay
+44d3b14 vendor: Cleanup gapps related overlays
+d392271 vendor: Allow use of AOSP wlan hal on caf devices
+7060d2e vendor: Drop generate_json_build_info
+ac8cc35 vendor: build: Use prebuilt perl on missed part
+fa04e75 [TEMP] vendor: Allow neverallows for now
+23a5887 vendor: Prevent duplicated additions on soong namespace
+4374db9 vendor: Cleanup permissions
+5554a64 vendor: extract_utils: Use blueprints for framework blobs
+7648d61 vendor: Add soong variable for TARGET_CAMERA_BOOTTIME_TIMESTAMP
+bffa2f0 vendor: Add soong variable for TARGET_NEEDS_NETD_DIRECT_CONNECT_RULE
+1705009 Revert "vendor: Remove multi user overlays"
+
+   * vendor/gapps/
+7d6e9f6 Add Turbo for arm
+
+   * vendor/pixelstyle/
+78e5a8a Add dark bootanimation
+
+=======================
+     09-13-2019
+=======================
+
+
+   * manifest/
+c6ac47a Track CertInstaller
+bc61b9c Track Traceur
+3321784 Track Nfc
+
+   * packages/apps/Settings/
+467935a SystemUpdatePreferenceController: Refactor for our OTA app
+24c51c4 Settings: Append PixelExperience version on build display id
+5b58c07 QS dev tiles: Don't set them to active area
+eded727 Settings: Check if we have any color modes declared in overlay
+627f4b1 Settings: fix apn_editor carrier_enabled summaryOff string
+b0abe13 BasebandVersionDialogController: Trim duplicated baseband if needed
+03e761b WiFi: Remove country code checking.
+80c295f AmbientDisplay: Add custom pref for devices with custom doze packages
+138dfcb DevelopmentSettings: Disable automatic updates
+32bdc88 storage: Do not allow eject for volumes on non-removable disks
+bbd8352 Settings: Hide unsupported USB modes automatically
+45ef94c DevelopmentSettings: Hide OEM unlock by default
+d334f39 Disable notification channel warnings by default
+4dac3c0 fingerprint: Remove unnecessary spacing in enroll layout
+1845db5 FingerprintEnrollFindSensor: Don't overlay front for side sensors
+1081d8b fingerprint: Allow devices to configure sensor location
+a473252 Remove feedback and bug report stuff
+5b057b4 Remove the Automatic ota check option but be sure it's disabled
+8410e95 Add back arrow to Desktop backup password
+f6b3746 Settings: Fix portuguese translation for "back sensitivity"
+ac6db0c Settings: Add animations on some preferences
+dc6d166 Settings: Import Adaptive Battery translations from crosshatch
+3baab1b FeatureFactoryImpl: Import PowerUsageFeatureProviderGoogleImpl
+30421f8 FeatureFactoryImpl: Implement ApplicationFeatureProviderGoogleImpl
+b866729 FeatureFactoryImpl: Implement SuggestionFeatureProvider
+f6fc812 FeatureFactoryImpl: Implement SearchFeatureProviderGoogleImpl
+
+   * vendor/aosp/
+542ad1c Revert "vendor: Remove multi user leftovers"
+83d6d1d vendor: Update vdexExtractor to support Q deodexing
+5e068c4 vendor: Trash the last bits of SDClang support
+a2e37ab envsetup: Remove call to deprecated function
+107f4ff envsetup: Kill Jack args export
+48fbe32 vendor: Support relative OUT_DIR in fixup_common_out_dir
+a771c1c extract_utils: Support extracting from product partition
+03980e7 vendor: Mark generated_kernel_includes as recovery_available
+8f720f0 kernel: Fix nproc number
+9fb0804 kernel: Use absolute path for kernel O= argument
+5ad5779 Fix real file depends on PHONY target
+405561a kernel: Set kernel toolchain roots for aarch64, arm, and x86
+fbba4a6 kernel: Use linux-android- toolchains to build kernel on aarch64 and x86
+ff4cb1f kernel: Use prebuilt binaries
+23947f2 kernel: Link against prebuilt openssl
+1e2b74d kernel: Use full user defined path to ccache
+248bbfc kernel: Use full path to the gcc/g++ commands
+ba74758 kernel: Use full path to the make command
+bb6c814 vendor: soong: _contents -> _json_contents
+76e6c41 vendor: Depend on existing definition of empty
+6926b94 vendor: Nuke vendorsetup for now
+
+   * vendor/pixelstyle/
+dafb701 Define launcher_overlayable_package
+
+=======================
+     09-12-2019
+=======================
+
+
+   * frameworks/av/
+47e734c av: camera: Allow disabling shutter sound for specific packages
+fde8626 audiopolicy: make audio policy extensible
+9c241ca camera: Only link and use vendor.qti.hardware.camera.device if specified
+
+   * packages/apps/CertInstaller/
+87a9597 Fix opening PEM files in CertInstaller
+
+   * packages/apps/Nfc/
+11f9872 NFC: Adding new vendor specific interface to NFC Service
+
+   * packages/apps/Traceur/
+02a524e Revert "Traceur: Add StorageProvider so /data/local/traces appears in Files app."
+
+   * packages/apps/Updates/
+f15483c Improve pref category font
+0167be0 Improve popup background on dark theme
+
+   * system/update_engine/
+7d6d8a9 update_engine: Transition to backuptool domain
+fd1795b update_engine: run backuptool script before normal postinstall script
+5644394 update_engine: Add performance mode
+
+   * system/vold/
+25c204b Add "changepw" command to vdc.
+95641b0 vold: change to upgrade key if export fails
+e6ab72f vold: add support for clear key
+163e3e5 vold: Use separate flag for wrappedkey
+280eefc vold: Wrapped key support for FBE
+c7822c3 vold: Move QCOM HW FDE inclusion under Aosp namespace
+00bbcc9 system: vold: Remove crypto block device creation
+95f0ba5 vold: Add Hardware FDE feature
+
+   * vendor/pixelstyle/
+3299b8e More changes on layout
+277d7c1 overlay: Update search bar dimens
+
+=======================
+     09-11-2019
+=======================
+
+
+   * external/ant-wireless/ant_native/
+af06e12 Fix build
+
+   * frameworks/base/
+6e3ebe4 Camera: Simplify code for Aux/Mono white and black lists
+78140dd Camera: Force HAL1 for predefined package list.
+04c5c0b camera: Check if aux camera whitelist is set before restricting cameras
+bd20ff3 Camera: Expose Aux camera to apps present in the whitelist
+4160b86 SystemUI: handle camera launch gesture from keyhandler
+b3cd518 Camera: Add feature extensions
+a140248 SystemUI: Allow overlaying max notification icons
+9abea0e NtpTrustedTime: Refresh NTP server from resources before requesting time
+edb1d33 Keyguard: Allow disabling fingerprint wake-and-unlock
+32c52e9 PackageManager: Add configuration to specify vendor platform signatures
+d1ff1a9 FingerprintService: add overlay to prevent cleanup of unused fingerprints
+14327da fingerprint: handle PerformanceStats NULL pointers
+267f1ef fingerprint: notify client when cancelling succeeded
+600f861 PackageManager: allow build-time disabling of components
+9d63e2c Add an option to force pre-O apps to use full screen aspect ratio
+9e759d6 sensors: Create bool to select what timestamp to use
+ea597ff PowerManager: Allow to distinguish different keypresses
+f62405e PowerManagerService: Allow to light up buttons only when pressed
+1b81d4e PowerManager: Add proximity check on wake
+dc9667e PowerManager: Re-integrate button brightness
+ae6b035 power: Disable keyboard/button lights while dozing/dreaming
+d83e418 Reintroduce button-backlight (and respective inactivity timeout)
+2657293 Support for device specific key handlers
+3f6a391 storage: Do not notify for volumes on non-removable disks
+ba8c092 frameworks/base: Support for third party NFC features and extensions
+917838a WindowOrientationListener: Check if proposed rotation is in range
+9f9bd8b SystemUI: Add support for persistent usb drive notification.
+22441d3 Enable Binder Proxy Tracking by Uid only on eng builds
+37798b0 storage: Set all sdcards to visible
+378362d fwb: Add overlay for SetupWizard
+f31a9b5 SettingsLib: Don't show system overlays on apps list
+addd26c base: Add START_ACTIVITIES_FROM_BACKGROUND on phone priv-app whitelist
+2c302be Download: Add support to manually pause/resume download
+c8ae7c9 UpdateEngine: Add perf mode binder interface
+63d7a18 Disable notification channel warnings by default
+64361f0 [1/2] Use custom fingerprint for MediaScanner
+fc4c12b UserManagerService: Use CUSTOM_FINGERPRINT to signal upgrades
+a015719 Use custom fingerprint for ShortcutService
+20bf5ce Store custom fingerprint for package data
+53e13ee Fix regression in PFD#fromData
+
+   * frameworks/native/
+d35a3a5 InputDispatcher: On keypress, deliver keycode to pokeUserActivity
+5b6be3e PowerManager.h: Define USER_ACTIVITY_FLAG values
+
+   * hardware/interfaces/
+56e5199 keymasterV4_0: Tags support for FBE wrapped key.
+
+   * manifest/
+740b804 manifest: Don't sync some fonts
+
+   * packages/apps/Settings/
+f0c289c FeatureFactoryImpl: Implement AccountFeatureProviderGoogleImpl
+0fceda5 Settings: Initial implementation of FeatureFactoryImpl from Pixel
+
+   * packages/apps/Updates/
+08506d2 Improve dark theme for Android 10
+9b6c486 Updater: Move to AndroidX
+
+   * vendor/pixelstyle/
+853c8ef Cleanup makefile
+371ce81 Import and build SafetyHub and SettingsIntelligenceGooglePrebuilt
+37ac9aa Update overlays
+
+=======================
+     09-10-2019
+=======================
+
+
+   * hardware/qcom/wlan-caf/
+759f2bb WiFi-HAL: Add suport to specify ether type to offloaded packets
+
+   * manifest/
+1dd1839 Track prebuilts from lineage
+ab21415 Stop tracking SettingsIntelligence
+f6c18ce manifest: Don't sync Snap for now
+
+   * packages/apps/Settings/
+7df5034 Settings: Don't translate configs
+
+   * packages/services/Telecomm/
+8262eb5 CallLog: Get rid of warning
+
+   * prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9/
+44dae3c Revert "Add GCC deprecation warning and link to deprecation schedule."
+
+   * prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9/
+81cf673 Revert "Add GCC deprecation warning and link to deprecation schedule."
+
+   * prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/
+a61b4b9 Revert "Add GCC deprecation warning and link to deprecation schedule."
+
+   * prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/
+0e7d165 Revert "Add GCC deprecation warning and link to deprecation schedule."
+
+   * vendor/pixelstyle/
+e986ee0 Add and ship MatchmakerPrebuiltPixel3 for arm64 devices
+0c1cdb1 Refactor for Android 10
+
