@@ -832,6 +832,13 @@
             "maintainer_name":"etylix",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8079544",
             "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t3930323"
+         },
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"etylix",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8079544",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t3930323"
          }   
       ]
    },
