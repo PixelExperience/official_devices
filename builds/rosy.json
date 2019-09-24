@@ -36,6 +36,18 @@
          "file_name": "PixelExperience_rosy-9.0-20190710-0413-OFFICIAL.zip",
          "file_size": 1047059081,
          "md5": "91efd5b8dfbb9c713917d91a9eec6390"
+      },
+      {
+         "file_name": "PixelExperience_rosy-9.0-20190923-1804-OFFICIAL.zip",
+         "file_size": 1055922928,
+         "md5": "bd0c104031dd023a7e90ccaccb48d47a"
+      }
+   ],
+   "pie_plus": [
+      {
+         "file_name": "PixelExperience_Plus_rosy-9.0-20190924-0455-OFFICIAL.zip",
+         "file_size": 1058981184,
+         "md5": "42bcd8353a95bd3943b85ee79a0319fd"
       }
    ],
    "pie_go": [
