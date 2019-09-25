@@ -4,6 +4,11 @@
          "file_name": "PixelExperience_grus-9.0-20190825-1351-OFFICIAL.zip",
          "file_size": 1085364063,
          "md5": "66f687db77f15badd2ebb7a95ecd0658"
+      },
+      {
+         "file_name": "PixelExperience_grus-9.0-20190924-1608-OFFICIAL.zip",
+         "file_size": 1032604508,
+         "md5": "433c9e28a1cfff7a139e713b77481a3f"
       }
    ],
    "pie_plus": [
@@ -11,6 +16,11 @@
          "file_name": "PixelExperience_Plus_grus-9.0-20190826-1813-OFFICIAL.zip",
          "file_size": 1086486429,
          "md5": "d256051449ccf725601ccbf20e1cdece"
+      },
+      {
+         "file_name": "PixelExperience_Plus_grus-9.0-20190924-1959-OFFICIAL.zip",
+         "file_size": 1035471011,
+         "md5": "960a2fcf8bcaddbe9d78ecdf843353b7"
       }
    ]
 }
