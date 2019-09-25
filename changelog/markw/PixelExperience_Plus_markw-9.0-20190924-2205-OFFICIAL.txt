@@ -1,0 +1,6 @@
+- Volte and Wifi calls was fixed and now should work
+- Props realisation was reworked in Device Tree
+- Device settings (torch, vibro) was removed due to rules (that was added accidentally in previous build)
+- Kernel was updated to Illuminated 3.18.140 by me, based on Franco by @franciscofranco with some goodies from Nosgoth by @Razziell and some changes by me.
+- Kernel have same overclocked frequencies as Nosgoth
+- Some other clean-ups and optimizations
