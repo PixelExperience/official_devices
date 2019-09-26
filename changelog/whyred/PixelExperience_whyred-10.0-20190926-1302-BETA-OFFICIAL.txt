@@ -1,0 +1,6 @@
+-Initial Android 10 build
+-Clean flash is mandatory
+-Current issues:
+    -If you enable "Ok Google" or "Hey google" hotword, your microphone won't work on 3rd apps.
+    -Very rare UI freezes
+-For magisk use latest canary version
