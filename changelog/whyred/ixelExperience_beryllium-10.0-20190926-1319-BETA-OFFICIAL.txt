@@ -1,0 +1,4 @@
+-Fixed bluetooth force close
+-Fixed some crashes on SystemUI
+-Improved stability
+-Added back battery percentage
