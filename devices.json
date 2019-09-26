@@ -410,6 +410,13 @@
       "codename":"tissot",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Abhinav Gupta (Agrd1129)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6754297",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Abhinav Gupta (Agrd1129)",
@@ -430,13 +437,6 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=6754297",
             "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3883980",
             "deprecated":true
-         },
-	 {
-            "version_code":"ten",
-            "version_name":"10 (Beta)",
-            "maintainer_name":"Abhinav Gupta (Agrd1129)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6754297",
-            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
          }
       ]
    },
@@ -640,6 +640,13 @@
       "codename":"X00TD",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Madhav Saladi (BabluS)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987",
+            "xda_thread":""
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Madhav Saladi(BabluS)",
@@ -660,13 +667,6 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987",
             "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/pixel-experience-caf-x00t-x00td-t3930586",
             "deprecated":true
-         },
-         {
-            "version_code":"ten",
-            "version_name":"10 (Beta)",
-            "maintainer_name":"Madhav Saladi (BabluS)",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8482987",
-            "xda_thread":""
          }
       ]
    },
@@ -1004,14 +1004,13 @@
       "brand":"Asus",
       "codename":"X01BD",
       "supported_versions":[
-	 {
+         {
             "version_code":"ten",
             "version_name":"10 (Beta)",
             "maintainer_name":"Jayant Deshmukh (jd1811)",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8276928",
             "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          },
-
          {
             "version_code":"pie",
             "version_name":"Pie",
