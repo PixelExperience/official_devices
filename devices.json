@@ -446,6 +446,13 @@
       "codename":"whyred",
       "supported_versions":[
          {
+            "version_code":"ten",
+            "version_name":"10 (Beta)",
+            "maintainer_name":"Henrique Silva (jhenrique09)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
+         },
+         {
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"Henrique Silva (jhenrique09)",
