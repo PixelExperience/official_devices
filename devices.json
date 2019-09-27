@@ -315,10 +315,16 @@
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"Zainudin Shamilov (Fluffy28)",
-            "maintainer_url":"https://t.me/Fluffy28",
-            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3907168",
-            "deprecated":true
+            "maintainer_name":"Pranay Deomani (deomani007), Arth Doshi (arthdoshi33)",
+            "maintainer_url":"https://t.me/arthdoshi33",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3973197",
+         },
+         {
+            "version_code":"pie_plus",
+            "version_name":"Pie (Plus edition)",
+            "maintainer_name":"Pranay Deomani (deomani007)",
+            "maintainer_url":"https://t.me/deomani007",
+            "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t3973197"
          },
          {
             "version_code":"pie_caf",
