@@ -1,0 +1,12 @@
+Device Changelog:
+
+• Updated Pixel Source
+• New Sensor Blobs
+• Radio (RIL) from  LA.UM.8.2.r1-04000
+• Kernel Update to 4.4.194
+* Volte fixes 
+* Camera fixes (GCam 7 works)
+* System UI lag reduced 
+* Enabled Airtel/Vodafone VoLTE for indian carriers
+
+Performance improvments and bug fixes
