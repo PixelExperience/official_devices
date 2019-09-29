@@ -54,5 +54,12 @@
          "file_size": 1204624796,
          "md5": "26d13df21bc7c80d7f8e161c00e92232"
       }
-   ]
+   ],
+   "ten":[
+      {
+         "file_name": "PixelExperience_capricorn-10.0-20190929-0233-BETA-OFFICIAL.zip",
+         "file_size": 1193433599,
+         "md5": "13b16674f3ebbb5cb980c3b36931b9de"
+      }
+    ]
 }

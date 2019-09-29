@@ -1,0 +1,6 @@
+PixelExperience:
+- Initial Release
+
+Device specific:
+- Updated kernel
+- Lastest LOS changes

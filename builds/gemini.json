@@ -64,5 +64,12 @@
          "file_size": 1204940924,
          "md5": "8266d445089913b4cf75ae73b2ce5717"
       }
-   ]
+   ],
+   "ten":[
+      {
+         "file_name": "PixelExperience_gemini-10.0-20190929-0600-BETA-OFFICIAL.zip",
+         "file_size": 1193841371,
+         "md5": "1c503b5716cdfcd3a9f5f73e602643f7"
+      }
+    ]
 }
