@@ -1,13 +1,11 @@
 import json
-import glob, os
+from pathlib import Path
 
-os.chdir("builds")
-for file in glob.glob("*.json"):
-    print("Testing "+file)
+for file in Path('.').glob('**/*.json'):
+    print("Testing "+str(file))
     with open(file) as json_test:
       try:
         json_object = json.loads(json_test.read())
       except ValueError as e:
-        print("Build failing as "+file+" seems to have incorrect format")
+        print("Build failing as "+str(file)+" seems to have incorrect format")
         exit(1)
-exit(0)
