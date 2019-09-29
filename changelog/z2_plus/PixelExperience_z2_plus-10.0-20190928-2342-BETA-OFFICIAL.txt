@@ -1,0 +1,13 @@
+Device Side:
+
+- Removed navbar (as some users requested, It can be enabled through build.prop, Check XDA for more info)
+- Some Audio fixes
+- Fixed Mic and Video Recording Audio Lags (Thanks to dmd79)
+- Some other minor changes
+
+ROM Side:
+
+- Fixed some crashes on SystemUI
+- Some fixes and upstreams
+
+Note: I need your help, check XDA Thread for more info.
