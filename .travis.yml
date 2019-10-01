@@ -1,9 +1,6 @@
-language: python
+language: bash
 
 dist: bionic
 
-python:
-  - "3.7.4"
-
 script:
-  - python3 json_tester.py
+  - bash runner.sh
