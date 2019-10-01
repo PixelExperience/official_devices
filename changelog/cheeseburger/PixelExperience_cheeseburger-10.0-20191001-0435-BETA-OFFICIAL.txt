@@ -1,4 +1,4 @@
-Initial PE Android Q build! EXPERIMENTAL!
+Initial PE Android Q build! (EXPERIMENTAL)
 - Huge thanks to @neobuddy89 for his Q bringup! 
 - And @NurKeinNeid for his kindly help and support! 
 - I really appreciate all of you guys!
@@ -8,7 +8,8 @@ Known bug:
 - Alert slider (Will be fixed next time)
 - You tell me!
 Note:
-- 9.0.8 firmware
+- Please CLEAN FLASH
+- Require 9.0.8 firmware
 - Link to an awesome Gcam (Will be included in the next update)
 - https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2-beta/
 - Link to the latest DotFix (Will be included in the next update)
