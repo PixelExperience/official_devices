@@ -10,10 +10,10 @@ Known bug:
 Note:
 - 9.0.8 firmware
 - Link to an awesome Gcam (Will be included in the next update)
-- https://f.celsoazevedo.com/file/cfiles/gcm1/Gcam_6.2.030_Advanced_V2.2.2beta2.190910.1840.apk
+- https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2-beta/
 - Link to the latest DotFix (Will be included in the next update)
-- https://www.celsoazevedo.com/files/android/google-camera/op5fix/OnePlus5&5T-DotFix-v5.1.zip
+- https://www.celsoazevedo.com/files/android/google-camera/op5fix/
 - Link to a working Magisk
-- https://github.com/topjohnwu/magisk_files/tree/canary
-Thank you guys so much for all the support! 
-Join my TG group chat: t.me/joweepe
+- https://github.com/topjohnwu/magisk_files/tree/canary/
+- Thank you guys so much for all the support! 
+- Join my TG group chat: t.me/joweepe
