@@ -1,0 +1,19 @@
+Initial PE Android Q build! EXPERIMENTAL!
+- Huge thanks to @neobuddy89 for his Q bringup! 
+- And @NurKeinNeid for his kindly help and support! 
+- I really appreciate all of you guys!
+Changelog:  
+- I will write it next time.
+Known bug: 
+- Alert slider (Will be fixed next time)
+- You tell me!
+Note:
+- 9.0.8 firmware
+- Link to an awesome Gcam (Will be included in the next update)
+- https://f.celsoazevedo.com/file/cfiles/gcm1/Gcam_6.2.030_Advanced_V2.2.2beta2.190910.1840.apk
+- Link to the latest DotFix (Will be included in the next update)
+- https://www.celsoazevedo.com/files/android/google-camera/op5fix/OnePlus5&5T-DotFix-v5.1.zip
+- Link to a working Magisk
+- https://github.com/topjohnwu/magisk_files/tree/canary
+Thank you guys so much for all the support! 
+Join my TG group chat: t.me/joweepe
