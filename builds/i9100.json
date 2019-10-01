@@ -1,21 +1,21 @@
 {
-   "pie": [
-      {
-         "file_name": "PixelExperience_i9100-9.0-20190725-0421-OFFICIAL.zip",
-         "file_size": 494644486,
-         "md5": "4f6c07f77d59514922f082f5caeedbd3"
-      }
-   ],
-   "pie_plus": [
-      {
-         "file_name": "PixelExperience_Plus_i9100-9.0-20190826-0928-OFFICIAL.zip",
-         "file_size": 488659841,
-         "md5": "f39c1d16d37f086eb474cf1f27d60ecb"
-      },
-      {
-         "file_name": "PixelExperience_Plus_i9100-9.0-20190913-0044-OFFICIAL.zip",
-         "file_size": 491152595,
-         "md5": "11ebe73387ce565bac3d2fb1ff72f071"
-      }
-   ]
+  "pie": [
+    {
+      "file_name": "PixelExperience_i9100-9.0-20190725-0421-OFFICIAL.zip",
+      "file_size": 494644486,
+      "md5": "4f6c07f77d59514922f082f5caeedbd3"
+    }
+  ],
+  "pie_plus": [
+    {
+      "file_name": "PixelExperience_Plus_i9100-9.0-20190826-0928-OFFICIAL.zip",
+      "file_size": 488659841,
+      "md5": "f39c1d16d37f086eb474cf1f27d60ecb"
+    },
+    {
+      "file_name": "PixelExperience_Plus_i9100-9.0-20190913-0044-OFFICIAL.zip",
+      "file_size": 491152595,
+      "md5": "11ebe73387ce565bac3d2fb1ff72f071"
+    }
+  ]
 }

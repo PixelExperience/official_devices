@@ -1,65 +1,65 @@
 {
-   "oreo": [
-      {
-         "file_name": "PixelExperience_jason-8.1.0-20180911-1739-OFFICIAL.zip",
-         "file_size": 927902254,
-         "md5": "a514bfaf7bea7b6b81a73f8ce0053d29"
-      },
-      {
-         "file_name": "PixelExperience_jason-8.1.0-20180923-1124-OFFICIAL.zip",
-         "file_size": 925764287,
-         "md5": "20ebadcec494d49cc360a6590f155e6f"
-      }
-   ],
-   "pie": [
-      {
-         "file_name": "PixelExperience_jason-9.0-20181106-1625-OFFICIAL.zip",
-         "file_size": 1003114767,
-         "md5": "e1f4b4ca15c76b3e02c31666c073fb25"
-      },
-      {
-         "file_name": "PixelExperience_jason-9.0-20181226-2106-OFFICIAL.zip",
-         "file_size": 1035844051,
-         "md5": "b27bce272eb4a25cf49fd29229f65436"
-      },
-      {
-         "file_name": "PixelExperience_jason-9.0-20190123-2031-OFFICIAL.zip",
-         "file_size": 1000977910,
-         "md5": "a10ec6ff8aab3184425c06cab2cac2c3"
-      },
-      {
-         "file_name": "PixelExperience_jason-9.0-20190208-0402-OFFICIAL.zip",
-         "file_size": 1002516240,
-         "md5": "c589c59f2daaebd346e695a619617f37"
-      },
-      {
-         "file_name": "PixelExperience_jason-9.0-20190522-1324-OFFICIAL.zip",
-         "file_size": 969775798,
-         "md5": "645a662b6a381d56313f039f9a50a586"
-      },
-      {
-         "file_name": "PixelExperience_jason-9.0-20190823-0146-OFFICIAL.zip",
-         "file_size": 976555752,
-         "md5": "fe18b7a11304ea529d8f95462fa33122"
-      }
-   ],
-   "pie_plus": [
-      {
-         "file_name": "PixelExperience_Plus_jason-9.0-20190823-0911-OFFICIAL.zip",
-         "file_size": 977524758,
-         "md5": "c73e31639b568a47a10c6c1402bdd8d7"
-      }
-   ],
-   "pie_caf": [
-      {
-         "file_name": "PixelExperience_jason-9.0-20190311-1405-CAF-OFFICIAL.zip",
-         "file_size": 960365313,
-         "md5": "5cdc9e989d005a774f59c3d95e6e23a9"
-      },
-      {
-         "file_name": "PixelExperience_caf_jason-9.0-20190511-1210-OFFICIAL.zip",
-         "file_size": 972108374,
-         "md5": "26adfe4c586a0f691bd979f31c7a314a"
-      }
-   ]
+  "oreo": [
+    {
+      "file_name": "PixelExperience_jason-8.1.0-20180911-1739-OFFICIAL.zip",
+      "file_size": 927902254,
+      "md5": "a514bfaf7bea7b6b81a73f8ce0053d29"
+    },
+    {
+      "file_name": "PixelExperience_jason-8.1.0-20180923-1124-OFFICIAL.zip",
+      "file_size": 925764287,
+      "md5": "20ebadcec494d49cc360a6590f155e6f"
+    }
+  ],
+  "pie": [
+    {
+      "file_name": "PixelExperience_jason-9.0-20181106-1625-OFFICIAL.zip",
+      "file_size": 1003114767,
+      "md5": "e1f4b4ca15c76b3e02c31666c073fb25"
+    },
+    {
+      "file_name": "PixelExperience_jason-9.0-20181226-2106-OFFICIAL.zip",
+      "file_size": 1035844051,
+      "md5": "b27bce272eb4a25cf49fd29229f65436"
+    },
+    {
+      "file_name": "PixelExperience_jason-9.0-20190123-2031-OFFICIAL.zip",
+      "file_size": 1000977910,
+      "md5": "a10ec6ff8aab3184425c06cab2cac2c3"
+    },
+    {
+      "file_name": "PixelExperience_jason-9.0-20190208-0402-OFFICIAL.zip",
+      "file_size": 1002516240,
+      "md5": "c589c59f2daaebd346e695a619617f37"
+    },
+    {
+      "file_name": "PixelExperience_jason-9.0-20190522-1324-OFFICIAL.zip",
+      "file_size": 969775798,
+      "md5": "645a662b6a381d56313f039f9a50a586"
+    },
+    {
+      "file_name": "PixelExperience_jason-9.0-20190823-0146-OFFICIAL.zip",
+      "file_size": 976555752,
+      "md5": "fe18b7a11304ea529d8f95462fa33122"
+    }
+  ],
+  "pie_plus": [
+    {
+      "file_name": "PixelExperience_Plus_jason-9.0-20190823-0911-OFFICIAL.zip",
+      "file_size": 977524758,
+      "md5": "c73e31639b568a47a10c6c1402bdd8d7"
+    }
+  ],
+  "pie_caf": [
+    {
+      "file_name": "PixelExperience_jason-9.0-20190311-1405-CAF-OFFICIAL.zip",
+      "file_size": 960365313,
+      "md5": "5cdc9e989d005a774f59c3d95e6e23a9"
+    },
+    {
+      "file_name": "PixelExperience_caf_jason-9.0-20190511-1210-OFFICIAL.zip",
+      "file_size": 972108374,
+      "md5": "26adfe4c586a0f691bd979f31c7a314a"
+    }
+  ]
 }

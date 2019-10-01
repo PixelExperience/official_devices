@@ -1,110 +1,103 @@
 {
-   "pie": [
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190104-2333-OFFICIAL.zip",
-         "file_size": 1063587336,
-         "md5": "d6bbd381dce39a34b10d38788a260cbd"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190110-2351-OFFICIAL.zip",
-         "file_size": 1070665112,
-         "md5": "976590990cdc030ccffafcbcfea49f23"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190112-2308-OFFICIAL.zip",
-         "file_size": 908133100,
-         "md5": "cebe755c62ca4930e433f2080ef8cfe6"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190123-1410-OFFICIAL.zip",
-         "file_size": 819016014,
-         "md5": "0da1b797a8d547a0ea8776fbf2354a82"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190207-0432-OFFICIAL.zip",
-         "file_size": 804688514,
-         "md5": "b4a04e7d3ec1b7ae9b1579cab883928b"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190219-0940-OFFICIAL.zip",
-         "file_size": 805217621,
-         "md5": "13e6b609caabcce8ea8d62121d920124"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190305-1833-OFFICIAL.zip",
-         "file_size": 804791942,
-         "md5": "8f5607a7dfd2e9574865a46e12c67d8e"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190403-1723-OFFICIAL.zip",
-         "file_size": 808928781,
-         "md5": "cc7eb0ebf8855f0dc0ba0afa38eca963"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190511-1710-OFFICIAL.zip",
-         "file_size": 819305725,
-         "md5": "7696ef430317cf2ab15bd36a9ef1f811"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190604-1342-OFFICIAL.zip",
-         "file_size": 824486294,
-         "md5": "bd4753a961d0cad5f09fd965fb7d9714"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190615-0624-OFFICIAL.zip",
-         "file_size": 824303009,
-         "md5": "a0cf83afd9b7f049061cc64d2943f3e5"
-      },
-      {
-  	 "file_name": "PixelExperience_enchilada-9.0-20190827-1419-OFFICIAL.zip",
-  	 "file_size": 833004380,
-  	 "md5": "e9a730d4d80ca447517274fd21d33c42"
-      },
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190906-1434-OFFICIAL.zip",
-         "file_size": 833480755,
-         "md5": "c246d27d8bb63537952f9090e2f880b7"
-      }
-   ],
-   "pie_plus":[
-      {
-         "file_name": "PixelExperience_Plus_enchilada-9.0-20190906-1047-OFFICIAL.zip",
-         "file_size": 836581988,
-         "md5": "cb0f1dc9944ab52498b48b044b0324ad"
-      }
-   ],
-   "pie_plus":[
-      {
-         "file_name": "PixelExperience_Plus_enchilada-9.0-20190906-1047-OFFICIAL.zip",
-         "file_size": 836581988,
-         "md5": "cb0f1dc9944ab52498b48b044b0324ad"
-      }
-   ],
-   "pie_caf": [
-      {
-         "file_name": "PixelExperience_enchilada-9.0-20190223-1223-CAF-OFFICIAL.zip",
-         "file_size": 808688532,
-         "md5": "057a4bbb76e5a9ec37bf3898d229461d"
-      },
-      {
-         "file_name": "PixelExperience_caf_enchilada-9.0-20190323-0802-OFFICIAL.zip",
-         "file_size": 811405320,
-         "md5": "c6fea4b5b0b09cfafcbcb3c71d294828"
-      },
-      {
-         "file_name": "PixelExperience_caf_enchilada-9.0-20190428-1426-OFFICIAL.zip",
-         "file_size": 811240593,
-         "md5": "68a2a56a4f0cb7ab960fc2b988dda3d3"
-      },
-      {
-         "file_name": "PixelExperience_caf_enchilada-9.0-20190509-1214-OFFICIAL.zip",
-         "file_size": 820542228,
-         "md5": "8540304d436653e323f088d55ec14bfe"
-      },
-      {
-         "file_name": "PixelExperience_caf_enchilada-9.0-20190616-1550-OFFICIAL.zip",
-         "file_size": 827595045,
-         "md5": "257f08e30b4cbe4b6a16487866ae5367"
-      }
-   ]
+  "pie": [
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190104-2333-OFFICIAL.zip",
+      "file_size": 1063587336,
+      "md5": "d6bbd381dce39a34b10d38788a260cbd"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190110-2351-OFFICIAL.zip",
+      "file_size": 1070665112,
+      "md5": "976590990cdc030ccffafcbcfea49f23"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190112-2308-OFFICIAL.zip",
+      "file_size": 908133100,
+      "md5": "cebe755c62ca4930e433f2080ef8cfe6"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190123-1410-OFFICIAL.zip",
+      "file_size": 819016014,
+      "md5": "0da1b797a8d547a0ea8776fbf2354a82"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190207-0432-OFFICIAL.zip",
+      "file_size": 804688514,
+      "md5": "b4a04e7d3ec1b7ae9b1579cab883928b"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190219-0940-OFFICIAL.zip",
+      "file_size": 805217621,
+      "md5": "13e6b609caabcce8ea8d62121d920124"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190305-1833-OFFICIAL.zip",
+      "file_size": 804791942,
+      "md5": "8f5607a7dfd2e9574865a46e12c67d8e"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190403-1723-OFFICIAL.zip",
+      "file_size": 808928781,
+      "md5": "cc7eb0ebf8855f0dc0ba0afa38eca963"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190511-1710-OFFICIAL.zip",
+      "file_size": 819305725,
+      "md5": "7696ef430317cf2ab15bd36a9ef1f811"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190604-1342-OFFICIAL.zip",
+      "file_size": 824486294,
+      "md5": "bd4753a961d0cad5f09fd965fb7d9714"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190615-0624-OFFICIAL.zip",
+      "file_size": 824303009,
+      "md5": "a0cf83afd9b7f049061cc64d2943f3e5"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190827-1419-OFFICIAL.zip",
+      "file_size": 833004380,
+      "md5": "e9a730d4d80ca447517274fd21d33c42"
+    },
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190906-1434-OFFICIAL.zip",
+      "file_size": 833480755,
+      "md5": "c246d27d8bb63537952f9090e2f880b7"
+    }
+  ],
+  "pie_plus": [
+    {
+      "file_name": "PixelExperience_Plus_enchilada-9.0-20190906-1047-OFFICIAL.zip",
+      "file_size": 836581988,
+      "md5": "cb0f1dc9944ab52498b48b044b0324ad"
+    }
+  ],
+  "pie_caf": [
+    {
+      "file_name": "PixelExperience_enchilada-9.0-20190223-1223-CAF-OFFICIAL.zip",
+      "file_size": 808688532,
+      "md5": "057a4bbb76e5a9ec37bf3898d229461d"
+    },
+    {
+      "file_name": "PixelExperience_caf_enchilada-9.0-20190323-0802-OFFICIAL.zip",
+      "file_size": 811405320,
+      "md5": "c6fea4b5b0b09cfafcbcb3c71d294828"
+    },
+    {
+      "file_name": "PixelExperience_caf_enchilada-9.0-20190428-1426-OFFICIAL.zip",
+      "file_size": 811240593,
+      "md5": "68a2a56a4f0cb7ab960fc2b988dda3d3"
+    },
+    {
+      "file_name": "PixelExperience_caf_enchilada-9.0-20190509-1214-OFFICIAL.zip",
+      "file_size": 820542228,
+      "md5": "8540304d436653e323f088d55ec14bfe"
+    },
+    {
+      "file_name": "PixelExperience_caf_enchilada-9.0-20190616-1550-OFFICIAL.zip",
+      "file_size": 827595045,
+      "md5": "257f08e30b4cbe4b6a16487866ae5367"
+    }
+  ]
 }
