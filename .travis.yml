@@ -1,6 +1,0 @@
-language: bash
-
-dist: bionic
-
-script:
-  - bash runner.sh
