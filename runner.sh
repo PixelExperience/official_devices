@@ -67,7 +67,8 @@ GIT_CHECK="$(git status | grep "modified")"
 COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
 COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
-if [ -n "$GIT_CHECK" ]; then
+# Hack around some derps
+if [ ! "$COMMIT_MESSAGE" != "*[PIXEL-CI]*" ] && [ -n "$GIT_CHECK" ]; then
     git config --global user.email "jhenrique09.mcz@hotmail.com"
     git config --global user.name "Henrique Silva"
     git reset HEAD~1
@@ -77,7 +78,6 @@ if [ -n "$GIT_CHECK" ]; then
     git remote add origin https://baalajimaestro:"${GH_PERSONAL_TOKEN}"@github.com/PixelExperience/official_devices.git
     git push -f origin master
 fi
-
 BUILD_END=$(date +"%s")
 DIFF=$((BUILD_END - BUILD_START))
 
