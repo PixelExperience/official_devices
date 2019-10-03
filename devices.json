@@ -124,6 +124,13 @@
     "codename": "enchilada",
     "supported_versions": [
       {
+        "version_code": "ten",
+        "version_name": "10 (Beta)",
+        "maintainer_name": "Yash Sonawane (rdjr5)",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8531692",
+        "xda_thread": ""
+      },
+      {
         "version_code": "pie",
         "version_name": "Pie",
         "maintainer_name": "Yash Sonawane (rdjr5)",
@@ -136,13 +143,6 @@
         "maintainer_name": "Yash Sonawane (rdjr5)",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8531692",
         "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t3856643"
-      },
-      {
-        "version_code": "ten",
-        "version_name": "10 (Beta)",
-        "maintainer_name": "Yash Sonawane (rdjr5)",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8531692",
-        "xda_thread": ""
       }
     ]
   },
@@ -348,6 +348,13 @@
     "codename": "vince",
     "supported_versions": [
       {
+        "version_code": "ten",
+        "version_name": "10 (Beta)",
+        "maintainer_name": "Luiz H.",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6918804",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
+      },
+      {
         "version_code": "pie",
         "version_name": "Pie",
         "maintainer_name": "Luiz H.",
@@ -357,13 +364,6 @@
       {
         "version_code": "pie_plus",
         "version_name": "Pie (Plus edition)",
-        "maintainer_name": "Luiz H.",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6918804",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
-      },
-      {
-        "version_code": "ten",
-        "version_name": "10 (Beta)",
         "maintainer_name": "Luiz H.",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=6918804",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
