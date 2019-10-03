@@ -42,19 +42,34 @@
     ]
   },
   {
-    "name": "Redmi Note 3 Pro",
-    "brand": "Xiaomi",
-    "codename": "kenzo",
+    "name": "OnePlus 7",
+    "brand": "OnePlus",
+    "codename": "guacamoleb",
     "supported_versions": [
       {
-        "version_code": "pie",
-        "version_name": "Pie",
+        "version_code": "ten",
+        "version_name": "10 (Beta)",
         "maintainer_name": "baalajimaestro",
         "maintainer_url": "https://github.com/baalajimaestro",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407"
+        "xda_thread": ""
       }
     ]
   },
+  {
+  "name": "Redmi Note 3 Pro",
+  "brand": "Xiaomi",
+  "codename": "kenzo",
+  "supported_versions": [
+    {
+      "version_code": "pie",
+      "version_name": "Pie",
+      "maintainer_name": "baalajimaestro",
+      "maintainer_url": "https://github.com/baalajimaestro",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-3/development/rom-pixel-experience-t3900407",
+      "deprecated": "true"
+    }
+  ]
+},
   {
     "name": "Z1",
     "brand": "ZUK",
