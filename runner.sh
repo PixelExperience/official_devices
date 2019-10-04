@@ -4,6 +4,10 @@
 ### Script to test and format our jsons
 
 ADMINS="@Dyneteve @jhenrique09 @AndroidPie9 @Hlcpereira @baalajimaestro"
+COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
+COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
+COMMIT_SMALL_HASH="$(git rev-parse --short HEAD)"
+COMMIT_HASH="$(git rev-parse --verify HEAD)"
 
 function sendAdmins() {
     curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001463677498&parse_mode=Markdown"
@@ -22,6 +26,7 @@ if [ -n "$PULL_REQUEST_NUMBER" ]; then
 else
     git checkout master  > /dev/null
     git pull origin master  > /dev/null
+    sendAdmins "**I am building master branch job.** %0A **Commit Point:** [${COMMIT_SMALL_HASH}](https://github.com/PixelExperience/official_devices/commit/${COMMIT_HASH})"
 fi
 
 sudo apt update > /dev/null
@@ -64,8 +69,6 @@ do
 done
 
 GIT_CHECK="$(git status | grep "modified")"
-COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
-COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
 # Hack around some derps
 if [[ ! "$COMMIT_MESSAGE" =~ "[PIXEL-CI]" ]] && [ -n "$GIT_CHECK" ]; then
@@ -77,8 +80,8 @@ if [[ ! "$COMMIT_MESSAGE" =~ "[PIXEL-CI]" ]] && [ -n "$GIT_CHECK" ]; then
     git remote rm origin
     git remote add origin https://baalajimaestro:"${GH_PERSONAL_TOKEN}"@github.com/PixelExperience/official_devices.git
     git push -f origin master
+    sendAdmins "JSON Linted and Force Pushed!"
 fi
 BUILD_END=$(date +"%s")
 DIFF=$((BUILD_END - BUILD_START))
-
 echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
