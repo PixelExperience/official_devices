@@ -8,6 +8,7 @@ COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
 COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
 COMMIT_SMALL_HASH="$(git rev-parse --short HEAD)"
 COMMIT_HASH="$(git rev-parse --verify HEAD)"
+CHANGED_FILES="$(git diff --name-only HEAD HEAD~1 | grep "json")"
 
 function sendAdmins() {
     curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001463677498&parse_mode=Markdown"
@@ -26,7 +27,7 @@ if [ -n "$PULL_REQUEST_NUMBER" ]; then
 else
     git checkout master  > /dev/null
     git pull origin master  > /dev/null
-    sendAdmins "**I am building master branch job.** %0A **Commit Point:** [${COMMIT_SMALL_HASH}](https://github.com/PixelExperience/official_devices/commit/${COMMIT_HASH})"
+    sendAdmins "**I am building master branch job.** %0A**Commit Point:** [${COMMIT_SMALL_HASH}](https://github.com/PixelExperience/official_devices/commit/${COMMIT_HASH})"
 fi
 
 sudo apt update > /dev/null
@@ -63,7 +64,7 @@ fi
 
 printf "Beginning Lint......\n"
 
-for i in ./**/*.json
+for i in ${CHANGED_FILES}
 do
     printf "%s" "$(jq . "$i")" > "$i"
 done
