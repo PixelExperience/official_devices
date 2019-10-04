@@ -68,7 +68,7 @@ COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
 COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
 # Hack around some derps
-if [ ! "$COMMIT_MESSAGE" != "*[PIXEL-CI]*" ] && [ -n "$GIT_CHECK" ]; then
+if [[ ! "$COMMIT_MESSAGE" =~ "[PIXEL-CI]" ]] && [ -n "$GIT_CHECK" ]; then
     git config --global user.email "jhenrique09.mcz@hotmail.com"
     git config --global user.name "Henrique Silva"
     git reset HEAD~1
