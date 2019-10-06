@@ -1,0 +1,357 @@
+=======================
+     10-06-2019
+=======================
+
+   * art/
+466b821480 Don't fail dual map if memfd isn't supported
+
+   * vendor/aosp/
+20484098 Revert "vendor: Enforce privapp-permissions whitelist"
+
+=======================
+     10-05-2019
+=======================
+
+
+   * frameworks/av/
+507b85716 audiopolicy: support extended feature in audiopolicymanager
+
+   * frameworks/base/
+b19f2cf0253 WifiDisplayController: handle preexisting p2p connection status
+74f7ecb27ca WiFiDisplayController: Defer the P2P Initialization from its constructor.
+6b894689aac Merge changes for launching wifidisplay from system settings
+
+=======================
+     10-04-2019
+=======================
+
+
+   * hardware/qcom-caf/sdm845/display/
+e6301111c gralloc: Add option for YCrCb venus camera preview
+
+=======================
+     10-03-2019
+=======================
+
+
+   * hardware/qcom-caf/msm8974/display/
+70f855728 hwcomposer: Work around overzealous fortify checks
+
+=======================
+     10-02-2019
+=======================
+
+
+=======================
+     10-01-2019
+=======================
+
+
+=======================
+     09-30-2019
+=======================
+
+
+   * manifest/
+38ede23 Track our libhardware/libhardware_legacy forks for now
+
+=======================
+     09-29-2019
+=======================
+
+
+   * device/custom/sepolicy/
+1b7876d sepolicy: qcom: RIP legacy
+
+   * device/qcom/sepolicy-legacy-um/
+61bb16f Fix path
+
+   * frameworks/base/
+c9c7683f139 Fix sim pin on DSDS
+e823e107e75 Stop USB Debugging authorization window dismissing on tap outside.
+06a1be13f17 frameworks/base: Support for third party NFC features and extensions
+ac85d9ac7c5 Revert "frameworks/base: Support for third party NFC features and extensions"
+a10a37a6196 Correction in logic of roundend size calculation of SD card
+76b7c48b09f Fix bug Device that can't support adoptable storage cannot read the sdcard.
+
+   * frameworks/native/
+36d6c9945 Add vendor version for libgui
+
+   * hardware/custom/interfaces/
+f057d87 interfaces: Camera: Add support for IMapper 3.0
+
+   * hardware/qcom-caf/msm8998/display/
+f0e8598d Revert "display: Define soong namespace"
+
+   * hardware/qcom-caf/sm8150/display/
+8660e875 display-hals: Allow building libdisplayconfig
+fe35c5fd Add 'commonsys-intf/' from tag 'LA.UM.8.1.r1-09400-sm8150.0'
+
+   * manifest/
+7d7d97e manifest: Drop system/qcom
+2dacd5a manifest: Track custom sepolicy
+1b50f05 manifest: Track some repos from lineage/aosp
+9a1f96d aosp: Track sm8150 hals
+9b50297 aosp: Track aosp 845 hals
+9556151 aosp: Add qcom platform super   * blueprints and makefiles.
+542a680 aosp: Rework qcom CAF HAL directories
+a88529a manifest: Move hardware/qcom/audio back to its original path
+9976f73 manifest: Change legacy sepolicy path
+
+   * packages/apps/Nfc/
+b3cfa130 NFC: Clean duplicated and unknown permissions
+
+   * prebuilts/tools-lineage/
+189438e prebuilts: Import vdexExtractor v0.5.2 with compact_dex_converter
+
+=======================
+     09-28-2019
+=======================
+
+
+   * device/custom/sepolicy/
+b2957c4 sepolicy: Drop fsck.exfat label
+bf21053 sepolicy: Mark mkfs and sysinit as system_file_type
+
+   * device/qcom/sepolicy/
+2e2d9f2d Revert "sepolicy: Fix target selection"
+48471a65 legacy: Fix newline in file_contexts
+61ea01c6 sepolicy: Fix target selection
+a22a6179 sepolicy: Move definitions from Android.mk to make opt-in
+
+   * device/qcom/sepolicy-legacy-um/
+a173119 Use set_prop() macro for property sets
+5f06abf qcom: Label vendor files with (vendor|system/vendor) instead of vendor
+441f113 sepolicy: Remove rules for non legacy platforms
+dcf45c0 sepolicy: Remove rules for no longer supported platforms
+
+   * external/tinycompress/
+41d822f tinycompress: Use generated kernel headers
+
+   * frameworks/base/
+8ad9abaf6da Fix Build Credentials refactored to use byte[]
+3cd334e21e7 frameworks: base: Port password retention feature
+d47cae35f12 LockSettingsService: Support for separate clear key api
+a3e549949cc fwb: Revert FBE commits
+
+   * hardware/custom/interfaces/
+349eb96 cryptfshw: dlsym: Wire up the implementation
+5a3b425 cryptfshw: ioctl: Wire up the implementation
+2b55b83 cryptfshw: Split implementations into dlsym and ioctl
+d870230 cryptfshw: Setup boilerplate items before actual implementation
+daf64ce Initial dummy cryptfshw implementation
+
+   * hardware/qcom-caf/bt/
+fc8bde9 bt: Update makefile guard
+
+   * hardware/qcom-caf/sdm845/display/
+820ab202d Revert "display: Define soong namespace"
+
+   * hardware/qcom-caf/sm8150/audio/
+935422e0 audio: Skip libhdmipassthru on OSS builds
+08e942a0 audio: Use direct    * pathmap
+
+   * hardware/qcom-caf/sm8150/display/
+5b8bda80 Revert "display: Define soong namespace"
+10ce8aab display-hals: Expose c2d2.h even if TARGET_DISABLE_DISPLAY is set
+ede34da6 Add C2D_FORMAT_BT601_FULLRANGE to C2D_FORMAT_MODE
+4082b3a9 Add C2D_COLOR_FORMAT_420_TP10 to C2D_YUV_FORMAT
+471b0fcb display: Define soong namespace
+912d214c Don't build lights module if vendor supplies it
+eef9cb3d display: Use    * pathmap
+
+   * hardware/qcom-caf/sm8150/media/
+e6ca7dc3 Revert "venc: Adding changes to query caps from firmware"
+a8c0fc01 media: Depend on display_headers not display_intf_headers
+adadf7a5 media: Exclude libplatformconfig from OSS builds
+cd4d7196 media: libOmxSw encoders require prop headers :(
+30a6fe98 media: Use    * pathmap
+
+   * hardware/qcom-caf/wlan/
+2a679e5 wlan: Update makefile guard
+
+   * hardware/qcom/audio/
+17ff4bee2 audio: Use generated kernel headers
+
+   * system/core/
+95670efc6 Add wrapped key support
+4ba457f6d Revert "fs_mgr: Wrapped key support for FBE"
+
+   * system/vold/
+7ad5e6a vold: Move QCOM HW FDE inclusion under aosp namespace
+
+   * vendor/aosp/
+e455f188 build: Remove TARGET_CRYPTFS_HW_PATH
+3819aa37 build: Don't set pathmap for repositories that do not exist
+979373e4 build: Don't set pathmap for AOSP qcom hardware repositories
+f35ba677 build: Move to new qcom HAL directory layout
+03fa5975 build: Move hardware/qcom/audio back to its original path
+d0aa3de7 build: Remove ability to set WLAN/BT_VENDOR variant
+e3e12b0e Revert "vendor: Add special conditions for devices with prebuilt display hal"
+064cf946 Revert "vendor: Allow use of AOSP wlan hal on caf devices"
+6b37fa13 Revert "soong_config: Add flag for devices use metadata as FDE key"
+
+=======================
+     09-27-2019
+=======================
+
+
+   * frameworks/base/
+ef9942d715a Partially Revert "Don't update dark boot setting onStart"
+e1f4b096002 Revert "Add an option to force pre-O apps to use full screen aspect ratio"
+7b47e1a9308 SystemUI: Hide back icon when screen pinned and gestural mode enabled
+5ca877e2964 SystemUI: Fix escape text when screen pinned and gestural mode enabled
+adab621fbb0 SystemUI: Show estimates on QS only if battery percentage is unavailable or disabled
+5713c400910 ScreenPinningRequest: Fix recents button not appearing
+
+   * hardware/qcom-caf/wlan/
+daae4f7 wcnss-service: Opt-in to disable copying WCNSS_qcom_cfg.ini to userdata
+32564b3 Reading the serialno property is forbidden
+f475655 wifi-hal: Use generated kernel headers
+981103f Make wcnss_service build with the VNDK.
+03eb5e0 Wifi: Quiet some excessive debug output
+aa943b0 wifi-hal: stop the UMAC logspam
+62f9f5e wifi-hal: Only try LOWI once
+b20eff0 wcnss_service: Deal with mdm-detect too
+e4e014d wcnss: Build and dlopen wcnss_qmi_client as a shared library
+e6e7363 wcnss-service: Additional format support
+428cafa wlan-caf: Add guard makefile
+
+   * packages/apps/Settings/
+df2346e667 SimpleBuildNumberPreferenceController: Extend from BuildNumberPreferenceController
+
+=======================
+     09-26-2019
+=======================
+
+
+   * build/make/
+65260d88a envsetup: Automatically set CCACHE_EXEC to the system's ccache
+4dd6f122f check_boot_jars: Add CAF IMS to whitelist
+de00b5ec4 fs_config: Fix generation for devices without vendor partition
+e74b9c549 build: Add back ro.build.fingerprint
+2517f9355 build: Remove some debugging props
+15abe652e Don't enable ADB by default on userdebug builds
+27ecb3228 build: Improve lunch error handling
+41004466d build: Don't add generic targets on lunch menu
+74e3b7ca1 build: Add others targets on lunch menu [1/2]
+7d7ae0b68 product: Exclude AOSP ringtones on custom build
+045c4c69d core: Only include custom sepolicy if repo exists
+409d3f606 build: Don't fail when trying to run 'export' cmd
+a7506922d Add extra variables to _readonly_late_variables
+dc965246d build: Also replace audio/include old-style kernel header
+01af6e516 build: Allow mounting system properly for A-only system-as-root devices
+54e6ae48c build: Allow build-image-kernel-modules to be called from shell
+e3dd2364d Don't export BUILD_NUMBER in envsetup
+bc85e3004 Enable dynamic linker and hidden API warnings only on eng build
+8671aeb7f build: Support system-as-root A-only backuptool
+2610e65cd build: Also replace techpack/audio old-style kernel header
+50c2d4045 Remove compatibility.zip
+778e82599 no matter what build type we dont want to see anything but Build_ID
+1185a7057 build: Add our props to ADDITIONAL_BUILD_PROPERTIES
+a60f96d9b Show ROM info while flashing
+023fedc92 core: Makefile: fix syntax coloring in some editors
+598fee15e Makefile: Changelog bringup
+d23c95c87 Use 0 compression when creating the target_files package
+557632c07 Default libnfc-nci.conf for GSI
+696f6a59d product: Exclude AOSP apn list on custom build
+08d0a000e build: Remove some apps by default
+07c8fda33 Also check if BOARD_KERNEL_SEPARATED_DTBO is set
+fba0aacfb Revert "Remove the obsolete UnpackPackageDir() in edify generator"
+8628b24e6 build: recovery: add vendor to exclusion list
+9115fa0e4 build: allow forcing build of otatools
+ae165c458 build: Remove wallpapers from full_base.
+6a34a1419 Fix inheritance of PRODUCT_PROPERTY_OVERRIDES for audio files
+c19eac83f binary: Allow specifying a path for generated proto headers
+f2fd4b814 product: Revert "Add NfcNci to default builds."
+abab282b4 releasetools: ota_from_target_files: add FullOTA_PostValidate
+6b3ea4e7c edify: bring back SetPermissionsRecursive
+1cf734d0e build: Automatically replace old-style kernel header includes with new header lib
+632ba63e6 build: Switch kernel header inclusion
+eccd31e89 Don't error on kernel headers in LOCAL_ADDITIONAL_DEPENDENCIES
+3b7f6b437 Add roomservice
+7c4289e1b releasetools: support reading release keys out of some sort of command
+9f4af5525 Disable dataroaming by default
+b159e9d5f build: Add support for device tree in boot.img
+351d5d41a build/core: Create means of ignoring subdir layer for packages.
+4353027f9 Add LOCAL_AIDL_FLAGS
+716b2673b build: Separate commands in recovery foreach loops
+8d9b6e022 build: recovery: Support adding device-specific items
+573ab75e5 build: Make vendorimage depend on installed kernel
+b66f81231 build: Make systemimage depend on installed kernel if system is root
+6886c92f8 kernel: Allow building dtbo.img
+1473ad6fe Edify: Add abort message for bootloader asserts
+a747adbf0 add adb to the disttools
+da7713f69 releasetools: squash backuptool support
+
+   * device/qcom/sepolicy-legacy-um/
+afda869 Fix newline in vendor/common/hwservice_contexts
+c5fa01a sepolicy: Update paths for new repository location
+
+   * hardware/qcom-caf/common/
+d992259 Add guard for AOSP hardware/qcom dir
+8f49fc1 Initial OS pickup files
+
+   * hardware/qcom/keymaster/
+cec5431 keymaster: Build with BOARD_VNDK_VERSION
+6f0401a keymaster: move to /vendor
+e98455d keymaster: Fix compiler warnings
+9a99104 keymaster: add TARGET_PROVIDES_KEYMASTER
+a6c0743 keymaster: Featureize support for waiting on QSEE to start
+c541c06 Keymaster: Check if keymaster TZ app is loaded
+d0c6696 keymaster: Set HEAP_MASK_COMPATIBILITY by platform for QCOM_HARDWARE
+42b5a13 Keymaster: Support for 64bit userspace and 32bit TZ
+ea9a4d7 keymaster: Use generated kernel headers
+ed194f1 Revert "Remove legacy keymaster support for msm8226"
+febaf2f Revert "msm8974: remove from top level makefile"
+
+   * prebuilts/openssl/
+93ca441 Move linux libs to their version names
+
+   * vendor/aosp/
+680bb6a3 vendor: Move perl base modules to common prebuilts dir
+77394f67 BoardConfigQcom: Fix setting UM4.9 and UM4.14 specific flags
+607c67e9 vendor: Move openssl to generic 1.1.1 directory and correct darwin path
+c1f82d33 kernel: Fix specifying custom clang compiler version
+
+   * vendor/nxp/opensource/pn5xx/halimpl/
+c6181d4d Fix include and copy file paths
+
+   * vendor/nxp/opensource/sn100x/halimpl/
+98740342 Fix include and copy file paths
+
+=======================
+     09-25-2019
+=======================
+
+
+   * frameworks/base/
+ad5e779c76c KeyguardStatusBarView: Hide multi user icon if devices has big notch
+b484f1dd80b SystemUI: BatteryPercentage: Detect when overlay changes
+0443159cdc4 fwb: Declare cutout utils
+a7044fd75ed SystemUI: Implement Smart space
+462576ea7b8 SystemUI: Port code to improve pixel live wallpapers
+118e35228c5 Initial import of SystemUIGoogleFactory
+1c6e80e2029 SystemUI: Add method for getting estimated battery time
+
+   * hardware/qcom-caf/sdm845/display/
+1c5111977 gralloc: Allow devices to opt-in for YCrCb camera preview
+
+=======================
+     09-24-2019
+=======================
+
+
+=======================
+     09-23-2019
+=======================
+
+
+   * hardware/qcom-caf/sdm845/audio/
+cb1c619a9 audio: Skip libhdmipassthru on OSS builds
+
+   * hardware/qcom-caf/sdm845/media/
+baf5067a3 media: Exclude libplatformconfig from OSS builds
+6f139893b media: libOmxSw encoders require prop headers :(
+ade19091c media: Use    * pathmap
+
