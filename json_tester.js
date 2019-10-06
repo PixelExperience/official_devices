@@ -24,6 +24,7 @@ result.forEach(function (item, index) {
     fs.writeFileSync(item, new_json);
   } catch (e) {
     console.log("Lint Failure as "+item+" has improper json format!")
+    fs.writeFileSync("/tmp/failedfile",item)
     process.exit(1);
   }
   finally {

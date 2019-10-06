@@ -29,9 +29,9 @@ else
     sendAdmins "**I am building master branch job.** %0A**Commit Point:** [${COMMIT_SMALL_HASH}](https://github.com/PixelExperience/official_devices/commit/${COMMIT_HASH})"
 fi
 
-npm install glob
 node json_tester.js
-RESULT="$?"
+
+RESULT=$?
 
 if [ -n "$PULL_REQUEST_NUMBER" ]; then
     BUILD_END=$(date +"%s")
@@ -63,9 +63,7 @@ GIT_CHECK="$(git status | grep "modified")"
 
 # Hack around some derps
 if [[ ! "$COMMIT_MESSAGE" =~ "[PIXEL-CI]" ]] && [ -n "$GIT_CHECK" ]; then
-    git config --global user.email "jhenrique09.mcz@hotmail.com"
-    git config --global user.name "Henrique Silva"
-    git reset HEAD~1
+      git reset HEAD~1
     git add .
     git commit -m "[PIXEL-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
     git remote rm origin
