@@ -1,68 +1,68 @@
 {
-  "pie_caf": [
-    {
-      "md5": "5c4fa7a73258c2d81f584e0aa317f5a7",
-      "file_size": 887242726,
-      "file_name": "PixelExperience_caf_chef-9.0-20190506-1140-OFFICIAL.zip"
-    },
-    {
-      "md5": "24459dcf5e43ffcb1b68210dd30d2fb3",
-      "file_size": 1071741881,
-      "file_name": "PixelExperience_caf_chef-9.0-20190607-2242-OFFICIAL.zip"
-    },
-    {
-      "md5": "51fca4453c4ab61011ac47ad5f067149",
-      "file_size": 964024055,
-      "file_name": "PixelExperience_caf_chef-9.0-20190714-1157-OFFICIAL.zip"
-    }
-  ],
-  "pie_plus": [
-    {
-      "md5": "1c0df89583fef1c91c063a2423654577",
-      "file_size": 946918154,
-      "file_name": "PixelExperience_Plus_chef-9.0-20190825-0953-OFFICIAL.zip"
-    }
-  ],
-  "pie": [
-    {
-      "md5": "d730444b5acef0bb71c35135ad3c7118",
-      "file_size": 883926797,
-      "file_name": "PixelExperience_chef-9.0-20190509-0833-OFFICIAL.zip"
-    },
-    {
-      "md5": "baf6547741846392c8cab1ded3ce385d",
-      "file_size": 887358964,
-      "file_name": "PixelExperience_chef-9.0-20190525-1532-OFFICIAL.zip"
-    },
-    {
-      "md5": "3dcdeef81a26903b644013ce5b06efaa",
-      "file_size": 889592553,
-      "file_name": "PixelExperience_chef-9.0-20190607-1930-OFFICIAL.zip"
-    },
-    {
-      "md5": "7ecb2c9a938292489d908df6c433995b",
-      "file_size": 1022732690,
-      "file_name": "PixelExperience_chef-9.0-20190614-2052-OFFICIAL.zip"
-    },
-    {
-      "md5": "dd602cba0b7b25430652d425c47b9731",
-      "file_size": 1046884929,
-      "file_name": "PixelExperience_chef-9.0-20190711-1640-OFFICIAL.zip"
-    },
-    {
-      "md5": "c1b381baf05ac2e4e828506b4636c5f0",
-      "file_size": 940387396,
-      "file_name": "PixelExperience_chef-9.0-20190729-0252-OFFICIAL.zip"
-    },
-    {
-      "md5": "7bf2034a4eb20c0fb4e5af26c818fef1",
-      "file_size": 945669208,
-      "file_name": "PixelExperience_chef-9.0-20190824-1617-OFFICIAL.zip"
-    },
-    {
-      "md5": "82583eea292069e0b0a263941cd63446",
-      "file_size": 946031206,
-      "file_name": "PixelExperience_chef-9.0-20190907-1524-OFFICIAL.zip"
-    }
-  ]
+   "pie_caf": [
+      {
+         "md5": "5c4fa7a73258c2d81f584e0aa317f5a7",
+         "file_size": 887242726,
+         "file_name": "PixelExperience_caf_chef-9.0-20190506-1140-OFFICIAL.zip"
+      },
+      {
+         "md5": "24459dcf5e43ffcb1b68210dd30d2fb3",
+         "file_size": 1071741881,
+         "file_name": "PixelExperience_caf_chef-9.0-20190607-2242-OFFICIAL.zip"
+      },
+      {
+         "md5": "51fca4453c4ab61011ac47ad5f067149",
+         "file_size": 964024055,
+         "file_name": "PixelExperience_caf_chef-9.0-20190714-1157-OFFICIAL.zip"
+      }
+   ],
+   "pie_plus": [
+      {
+         "md5": "1c0df89583fef1c91c063a2423654577",
+         "file_size": 946918154,
+         "file_name": "PixelExperience_Plus_chef-9.0-20190825-0953-OFFICIAL.zip"
+      }
+   ],
+   "pie": [
+      {
+         "md5": "d730444b5acef0bb71c35135ad3c7118",
+         "file_size": 883926797,
+         "file_name": "PixelExperience_chef-9.0-20190509-0833-OFFICIAL.zip"
+      },
+      {
+         "md5": "baf6547741846392c8cab1ded3ce385d",
+         "file_size": 887358964,
+         "file_name": "PixelExperience_chef-9.0-20190525-1532-OFFICIAL.zip"
+      },
+      {
+         "md5": "3dcdeef81a26903b644013ce5b06efaa",
+         "file_size": 889592553,
+         "file_name": "PixelExperience_chef-9.0-20190607-1930-OFFICIAL.zip"
+      },
+      {
+         "md5": "7ecb2c9a938292489d908df6c433995b",
+         "file_size": 1022732690,
+         "file_name": "PixelExperience_chef-9.0-20190614-2052-OFFICIAL.zip"
+      },
+      {
+         "md5": "dd602cba0b7b25430652d425c47b9731",
+         "file_size": 1046884929,
+         "file_name": "PixelExperience_chef-9.0-20190711-1640-OFFICIAL.zip"
+      },
+      {
+         "md5": "c1b381baf05ac2e4e828506b4636c5f0",
+         "file_size": 940387396,
+         "file_name": "PixelExperience_chef-9.0-20190729-0252-OFFICIAL.zip"
+      },
+      {
+         "md5": "7bf2034a4eb20c0fb4e5af26c818fef1",
+         "file_size": 945669208,
+         "file_name": "PixelExperience_chef-9.0-20190824-1617-OFFICIAL.zip"
+      },
+      {
+         "md5": "82583eea292069e0b0a263941cd63446",
+         "file_size": 946031206,
+         "file_name": "PixelExperience_chef-9.0-20190907-1524-OFFICIAL.zip"
+      }
+   ]
 }

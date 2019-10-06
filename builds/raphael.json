@@ -1,16 +1,16 @@
 {
-  "pie_plus": [
-    {
-      "md5": "31a6253275f112b0290488d605905c60",
-      "file_size": 1083205873,
-      "file_name": "PixelExperience_Plus_raphael-9.0-20190906-1038-OFFICIAL.zip"
-    }
-  ],
-  "pie": [
-    {
-      "md5": "3a6d3b3044bf652348411348f6afb151",
-      "file_size": 1080614549,
-      "file_name": "PixelExperience_raphael-9.0-20190906-0803-OFFICIAL.zip"
-    }
-  ]
+   "pie_plus": [
+      {
+         "md5": "31a6253275f112b0290488d605905c60",
+         "file_size": 1083205873,
+         "file_name": "PixelExperience_Plus_raphael-9.0-20190906-1038-OFFICIAL.zip"
+      }
+   ],
+   "pie": [
+      {
+         "md5": "3a6d3b3044bf652348411348f6afb151",
+         "file_size": 1080614549,
+         "file_name": "PixelExperience_raphael-9.0-20190906-0803-OFFICIAL.zip"
+      }
+   ]
 }

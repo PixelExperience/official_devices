@@ -1,152 +1,152 @@
 {
-  "ten": [
-    {
-      "md5": "cf46f62de124e2d2894cca92d4261d48",
-      "file_size": 897561967,
-      "file_name": "PixelExperience_tissot-10.0-20190923-2029-BETA-OFFICIAL.zip"
+   "ten": [
+      {
+         "md5": "cf46f62de124e2d2894cca92d4261d48",
+         "file_size": 897561967,
+         "file_name": "PixelExperience_tissot-10.0-20190923-2029-BETA-OFFICIAL.zip"
       },
       {
-      "md5": "1365ee9c675bee791092c3fdd1f45967",
-      "file_size": 897742862,
-      "file_name": "PixelExperience_tissot-10.0-20191004-1618-BETA-OFFICIAL.zip"
-    }
-  ],
-  "pie_caf": [
-    {
-      "md5": "ce82d47c7ac471cf9b47c8aa591f5720",
-      "file_size": 902377646,
-      "file_name": "PixelExperience_tissot-9.0-20190222-1251-CAF-OFFICIAL.zip"
-    },
-    {
-      "md5": "b4ab14974cf1e1bc0f412c248bbaa9a7",
-      "file_size": 908875066,
-      "file_name": "PixelExperience_caf_tissot-9.0-20190319-2150-OFFICIAL.zip"
-    },
-    {
-      "md5": "514e3703ddab136c29fb8cb620ee1c5f",
-      "file_size": 908930574,
-      "file_name": "PixelExperience_caf_tissot-9.0-20190414-1054-OFFICIAL.zip"
-    },
-    {
-      "md5": "54999be7d4969b85a5d05b8b2aeeb746",
-      "file_size": 920124818,
-      "file_name": "PixelExperience_caf_tissot-9.0-20190511-2116-OFFICIAL.zip"
-    },
-    {
-      "md5": "cbba1efa2cc33612e7e05fe49de7577f",
-      "file_size": 923140398,
-      "file_name": "PixelExperience_caf_tissot-9.0-20190525-1129-OFFICIAL.zip"
-    },
-    {
-      "md5": "816a9512303ac36277c931e91a62a148",
-      "file_size": 935164801,
-      "file_name": "PixelExperience_caf_tissot-9.0-20190606-0844-OFFICIAL.zip"
-    }
-  ],
-  "pie_plus": [
-    {
-      "md5": "10f5a7912f00d1f83922d5d5bb284483",
-      "file_size": 940339723,
-      "file_name": "PixelExperience_Plus_tissot-9.0-20190824-1203-OFFICIAL.zip"
-    },
-    {
-      "md5": "c6ce4b4e0ec502f52a1f694254bd3939",
-      "file_size": 942791445,
-      "file_name": "PixelExperience_Plus_tissot-9.0-20190907-1707-OFFICIAL.zip"
-    }
-  ],
-  "pie": [
-    {
-      "md5": "62ddac34a69591499315acf4f369699c",
-      "file_size": 1308878713,
-      "file_name": "PixelExperience_tissot-9.0-20181231-1905-OFFICIAL.zip"
-    },
-    {
-      "md5": "5ac39e1a3fee9d8baaf9e6ba6f574a02",
-      "file_size": 1087726657,
-      "file_name": "PixelExperience_tissot-9.0-20190111-1827-OFFICIAL.zip"
-    },
-    {
-      "md5": "e34ac1a884157ef7d673b2f792ebf3da",
-      "file_size": 1010658015,
-      "file_name": "PixelExperience_tissot-9.0-20190119-1707-OFFICIAL.zip"
-    },
-    {
-      "md5": "98b4cc6af720e87586ecf573e7e89588",
-      "file_size": 1002664725,
-      "file_name": "PixelExperience_tissot-9.0-20190128-1529-OFFICIAL.zip"
-    },
-    {
-      "md5": "89fc8abb34eb74c380053460ec712ca8",
-      "file_size": 1003765163,
-      "file_name": "PixelExperience_tissot-9.0-20190131-1935-OFFICIAL.zip"
-    },
-    {
-      "md5": "e3cc215bd1c414383fbfbae6dc31b34d",
-      "file_size": 1010226312,
-      "file_name": "PixelExperience_tissot-9.0-20190205-1214-OFFICIAL.zip"
-    },
-    {
-      "md5": "1407c88f5bbecc7523752d3dced984ae",
-      "file_size": 898581332,
-      "file_name": "PixelExperience_tissot-9.0-20190211-0724-OFFICIAL.zip"
-    },
-    {
-      "md5": "943203774d6d941dfcfa7d7e1fd7d197",
-      "file_size": 899257026,
-      "file_name": "PixelExperience_tissot-9.0-20190217-0530-OFFICIAL.zip"
-    },
-    {
-      "md5": "1111c7da251fb085398d8369b4624565",
-      "file_size": 902162083,
-      "file_name": "PixelExperience_tissot-9.0-20190307-0202-OFFICIAL.zip"
-    },
-    {
-      "md5": "86f3e17ab903447cde379131705f13a3",
-      "file_size": 905325570,
-      "file_name": "PixelExperience_tissot-9.0-20190317-0420-OFFICIAL.zip"
-    },
-    {
-      "md5": "202d9fac5c7d0da66027d8b4b503f92b",
-      "file_size": 905773982,
-      "file_name": "PixelExperience_tissot-9.0-20190410-0732-OFFICIAL.zip"
-    },
-    {
-      "md5": "797700d97c787933088b7fbbcdce70e4",
-      "file_size": 916391785,
-      "file_name": "PixelExperience_tissot-9.0-20190511-0923-OFFICIAL.zip"
-    },
-    {
-      "md5": "5c539cf68a9bcd9d1ace0f9e724673c6",
-      "file_size": 919704449,
-      "file_name": "PixelExperience_tissot-9.0-20190524-1910-OFFICIAL.zip"
-    },
-    {
-      "md5": "255c1a315fe5df6000a91dce2c2cd57c",
-      "file_size": 931506101,
-      "file_name": "PixelExperience_tissot-9.0-20190606-0650-OFFICIAL.zip"
-    },
-    {
-      "md5": "a0077593306f2e82a6922323f66baa8b",
-      "file_size": 932068420,
-      "file_name": "PixelExperience_tissot-9.0-20190617-0903-OFFICIAL.zip"
-    },
-    {
-      "md5": "6d110fe0cd5b5636bd82fc6750f0892e",
-      "file_size": 933323572,
-      "file_name": "PixelExperience_tissot-9.0-20190714-0326-OFFICIAL.zip"
-    },
-    {
-      "md5": "9af0b4a999d9cc81b429a4aeee1f833b",
-      "file_size": 939526148,
-      "file_name": "PixelExperience_tissot-9.0-20190829-0942-OFFICIAL.zip"
-    }
-  ],
-  "oreo": [
-    {
-      "md5": "1667d9cd16e63ee4869cb9ee9d3bd50e",
-      "file_size": 882206331,
-      "file_name": "PixelExperience_tissot-8.1.0-20180715-0738-OFFICIAL.zip"
-    }
-  ]
+         "md5": "1365ee9c675bee791092c3fdd1f45967",
+         "file_size": 897742862,
+         "file_name": "PixelExperience_tissot-10.0-20191004-1618-BETA-OFFICIAL.zip"
+      }
+   ],
+   "pie_caf": [
+      {
+         "md5": "ce82d47c7ac471cf9b47c8aa591f5720",
+         "file_size": 902377646,
+         "file_name": "PixelExperience_tissot-9.0-20190222-1251-CAF-OFFICIAL.zip"
+      },
+      {
+         "md5": "b4ab14974cf1e1bc0f412c248bbaa9a7",
+         "file_size": 908875066,
+         "file_name": "PixelExperience_caf_tissot-9.0-20190319-2150-OFFICIAL.zip"
+      },
+      {
+         "md5": "514e3703ddab136c29fb8cb620ee1c5f",
+         "file_size": 908930574,
+         "file_name": "PixelExperience_caf_tissot-9.0-20190414-1054-OFFICIAL.zip"
+      },
+      {
+         "md5": "54999be7d4969b85a5d05b8b2aeeb746",
+         "file_size": 920124818,
+         "file_name": "PixelExperience_caf_tissot-9.0-20190511-2116-OFFICIAL.zip"
+      },
+      {
+         "md5": "cbba1efa2cc33612e7e05fe49de7577f",
+         "file_size": 923140398,
+         "file_name": "PixelExperience_caf_tissot-9.0-20190525-1129-OFFICIAL.zip"
+      },
+      {
+         "md5": "816a9512303ac36277c931e91a62a148",
+         "file_size": 935164801,
+         "file_name": "PixelExperience_caf_tissot-9.0-20190606-0844-OFFICIAL.zip"
+      }
+   ],
+   "pie_plus": [
+      {
+         "md5": "10f5a7912f00d1f83922d5d5bb284483",
+         "file_size": 940339723,
+         "file_name": "PixelExperience_Plus_tissot-9.0-20190824-1203-OFFICIAL.zip"
+      },
+      {
+         "md5": "c6ce4b4e0ec502f52a1f694254bd3939",
+         "file_size": 942791445,
+         "file_name": "PixelExperience_Plus_tissot-9.0-20190907-1707-OFFICIAL.zip"
+      }
+   ],
+   "pie": [
+      {
+         "md5": "62ddac34a69591499315acf4f369699c",
+         "file_size": 1308878713,
+         "file_name": "PixelExperience_tissot-9.0-20181231-1905-OFFICIAL.zip"
+      },
+      {
+         "md5": "5ac39e1a3fee9d8baaf9e6ba6f574a02",
+         "file_size": 1087726657,
+         "file_name": "PixelExperience_tissot-9.0-20190111-1827-OFFICIAL.zip"
+      },
+      {
+         "md5": "e34ac1a884157ef7d673b2f792ebf3da",
+         "file_size": 1010658015,
+         "file_name": "PixelExperience_tissot-9.0-20190119-1707-OFFICIAL.zip"
+      },
+      {
+         "md5": "98b4cc6af720e87586ecf573e7e89588",
+         "file_size": 1002664725,
+         "file_name": "PixelExperience_tissot-9.0-20190128-1529-OFFICIAL.zip"
+      },
+      {
+         "md5": "89fc8abb34eb74c380053460ec712ca8",
+         "file_size": 1003765163,
+         "file_name": "PixelExperience_tissot-9.0-20190131-1935-OFFICIAL.zip"
+      },
+      {
+         "md5": "e3cc215bd1c414383fbfbae6dc31b34d",
+         "file_size": 1010226312,
+         "file_name": "PixelExperience_tissot-9.0-20190205-1214-OFFICIAL.zip"
+      },
+      {
+         "md5": "1407c88f5bbecc7523752d3dced984ae",
+         "file_size": 898581332,
+         "file_name": "PixelExperience_tissot-9.0-20190211-0724-OFFICIAL.zip"
+      },
+      {
+         "md5": "943203774d6d941dfcfa7d7e1fd7d197",
+         "file_size": 899257026,
+         "file_name": "PixelExperience_tissot-9.0-20190217-0530-OFFICIAL.zip"
+      },
+      {
+         "md5": "1111c7da251fb085398d8369b4624565",
+         "file_size": 902162083,
+         "file_name": "PixelExperience_tissot-9.0-20190307-0202-OFFICIAL.zip"
+      },
+      {
+         "md5": "86f3e17ab903447cde379131705f13a3",
+         "file_size": 905325570,
+         "file_name": "PixelExperience_tissot-9.0-20190317-0420-OFFICIAL.zip"
+      },
+      {
+         "md5": "202d9fac5c7d0da66027d8b4b503f92b",
+         "file_size": 905773982,
+         "file_name": "PixelExperience_tissot-9.0-20190410-0732-OFFICIAL.zip"
+      },
+      {
+         "md5": "797700d97c787933088b7fbbcdce70e4",
+         "file_size": 916391785,
+         "file_name": "PixelExperience_tissot-9.0-20190511-0923-OFFICIAL.zip"
+      },
+      {
+         "md5": "5c539cf68a9bcd9d1ace0f9e724673c6",
+         "file_size": 919704449,
+         "file_name": "PixelExperience_tissot-9.0-20190524-1910-OFFICIAL.zip"
+      },
+      {
+         "md5": "255c1a315fe5df6000a91dce2c2cd57c",
+         "file_size": 931506101,
+         "file_name": "PixelExperience_tissot-9.0-20190606-0650-OFFICIAL.zip"
+      },
+      {
+         "md5": "a0077593306f2e82a6922323f66baa8b",
+         "file_size": 932068420,
+         "file_name": "PixelExperience_tissot-9.0-20190617-0903-OFFICIAL.zip"
+      },
+      {
+         "md5": "6d110fe0cd5b5636bd82fc6750f0892e",
+         "file_size": 933323572,
+         "file_name": "PixelExperience_tissot-9.0-20190714-0326-OFFICIAL.zip"
+      },
+      {
+         "md5": "9af0b4a999d9cc81b429a4aeee1f833b",
+         "file_size": 939526148,
+         "file_name": "PixelExperience_tissot-9.0-20190829-0942-OFFICIAL.zip"
+      }
+   ],
+   "oreo": [
+      {
+         "md5": "1667d9cd16e63ee4869cb9ee9d3bd50e",
+         "file_size": 882206331,
+         "file_name": "PixelExperience_tissot-8.1.0-20180715-0738-OFFICIAL.zip"
+      }
+   ]
 }

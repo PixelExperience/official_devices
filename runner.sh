@@ -8,7 +8,6 @@ COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
 COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
 COMMIT_SMALL_HASH="$(git rev-parse --short HEAD)"
 COMMIT_HASH="$(git rev-parse --verify HEAD)"
-CHANGED_FILES="$(git diff --name-only HEAD HEAD~1 | grep "json")"
 
 function sendAdmins() {
     curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001463677498&parse_mode=Markdown"
@@ -30,10 +29,8 @@ else
     sendAdmins "**I am building master branch job.** %0A**Commit Point:** [${COMMIT_SMALL_HASH}](https://github.com/PixelExperience/official_devices/commit/${COMMIT_HASH})"
 fi
 
-sudo apt update > /dev/null
-sudo apt install jq -y > /dev/null
-
-python3 json_tester.py
+npm install glob
+node json_tester.js
 RESULT="$?"
 
 if [ -n "$PULL_REQUEST_NUMBER" ]; then
@@ -61,13 +58,6 @@ if [ "$RESULT" -eq 1 ]; then
     echo "My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds. But its an error!"
     exit 1
 fi
-
-printf "Beginning Lint......\n"
-
-for i in ${CHANGED_FILES}
-do
-    printf "%s" "$(jq . "$i")" > "$i"
-done
 
 GIT_CHECK="$(git status | grep "modified")"
 
