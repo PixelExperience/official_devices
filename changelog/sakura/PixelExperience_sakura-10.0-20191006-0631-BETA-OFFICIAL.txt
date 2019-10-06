@@ -1,0 +1,8 @@
+Device Changelog:
+
+* Fixed Volte (Volte Calling Will Be Fine Now)
+* Fixed Black Screen Issue (Force Power Off Issue Will Gone)
+* Updated Wi-Fi Overlays
+* Updated Time services blobs From Raphael
+* Updated IMS From Raphael
+* A Lot More No One Will Understand
