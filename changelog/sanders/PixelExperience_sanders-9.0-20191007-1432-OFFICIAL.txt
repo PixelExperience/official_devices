@@ -1,0 +1,247 @@
+=======================
+     10-07-2019
+=======================
+
+
+=======================
+     10-06-2019
+=======================
+
+
+=======================
+     10-05-2019
+=======================
+
+
+=======================
+     10-04-2019
+=======================
+
+
+   * hardware/qcom/display-caf/msm8998/
+7e778780e gralloc: Add option for YCrCb venus camera preview
+0ba726674 gralloc: Allow devices to opt-in for YCrCb camera preview
+
+=======================
+     10-03-2019
+=======================
+
+
+=======================
+     10-02-2019
+=======================
+
+
+=======================
+     10-01-2019
+=======================
+
+
+=======================
+     09-30-2019
+=======================
+
+
+=======================
+     09-29-2019
+=======================
+
+
+=======================
+     09-28-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/msm8960/
+5afa1930e audio_hw: match destruction of mutexes
+1409cb84b hal: close audio calibration fd
+1102d5f1a hal: Add support for voice calls on Fusion3 platforms
+5ccd4d923 audio-hw: Restrict voice_start_usecase only for 1 call at a time
+5bd98d30b hal: Fix no audio during voice call with voip in background
+2a7ce7570 hal: fix no sound issue in voice call
+9dd8d5268 hal: Ensure mic mute state updated before starting voice call
+286c33946 hal: fix Rx path mute issue during incall recording
+6dde97342 audio: Use generated kernel headers
+b1692dc2e msm8960: fix unused-parameter errors when no extensions are defined
+2b9cc7f08 hal: Require feature flags to be explicitly enabled
+3ba81f897 hal: Update prefixes for audio system properties
+4ab970516 mm-audio: Add -Wno-error to compile with global -Werror.
+90e42fe32 audio: Fix deprecated log warning
+f56ae1248 Use -Werror in hardware/qcom/audio
+a32bccb95 post_proc: do not use GNU old-style field designators
+1d26abcf4 visualizer: do not use GNU old-style field designators
+8c13aa1c4 voice_processing: do not use GNU old-style field designators
+980efe517 Enable strict error for warnings
+9720ebfd6 audio: Fix complilation warnings under Clang
+54cac82d5 audio: Remove policy hal directory
+49faa9704 Use header lib instead of using global include path
+a3269cffa hal: Use LOCAL_VENDOR_MODULE
+8e5442d14 policy_hal: Partial revert "audio: remove 5.1 channel mask if SSR is not supported"
+d04778891 msm8960: treblize configuration
+c31b9164d hal: audio-test: Move omx tests mm-audio-internal
+a188e8bda mm-audio: Remove omx decoder components from mm-audio folder
+79c1b7727 policy_hal: fix for MR1 function prototype.
+0a21127ee policy_hal: update custom audio policy against OPR1.170521.001_AOSP
+e309bb097 hal: return EINVAL by default for presentation_position
+fe4d8324f policy_hal: update custom audio policy APIs against AOSP
+30dca06fb policy_hal: update custom audio policy implementation APIs against O-AOSP
+b75b9901c Equalizer: Check value size for get preset name
+027d30204 aenc-aac: bounds checking
+9d78a156b Fix parameters passed to pcm_open to include PCM_MONOTONIC
+15fdc27a8 HAL: Align error code with HIDL wrapper
+c699c20ad Move device dependent modules to /vendor
+71578d835 policy_hal: fix build with concurrent audio capture
+92041d2a8 Add missing liblog dependency
+1ee5f87a2 policy_hal: Add libbase static library dependency
+78d8f6e68 Fix security vulnerability: Equalizer setParameter memory overflow
+97ced6666 audiopolicy: do not set FM volume during device connection/disconnection
+be3836249 audiopolicy: update correct device for primary output when FM resumed
+9c3c24d32 Fix security vulnerability: Equalizer command might allow negative indexes
+64804e241 Fix security vulnerability: Effect command might allow negative indexes
+3eddbdbab hal: Additional checks for dedicated VOIP input
+a75285115 hal: Remove volume boost feature for msm8960
+638e404a0 audio policy: fix media volume after ringtone
+2a51bd491 audio: set voice call volume step by property
+8d93feb47 hal: Port the dock support to non-legacy 8960 hal
+c4b7b4643 audiopolicy: Avoid spurious routing in APM::stopSource
+af1613a4e hal: Remove compress voip formats and voip_rx flag
+b9d0f77f8 hal: Fix device selection at start of the voice call
+86c1e6caa hal: Fix routing issue for voip use case
+a1ee938b2 hal: Stop log spam when COMPRESS_VOIP_ENABLED is not defined
+d99536d4d Add AudioRecord timestamps
+248ef645a policy_hal: Update policy hal for N
+cbfff7dfc hal: Increase deep buffer buffering
+86fc7205c hal: Add legacy EDID channel retrieval
+a57008257 hal: Remove listen calibration from 8960 hal
+b9641fb21 hal: Don't make missing CSD init/deinit functions fatal
+c5cbd7c3b hal: Detect additional baseband properties
+fb8984e89 hal: Add support for HTC CSD client
+f72f52dd6 hal: Support old CSD API and add support for Samsung CSD client
+ee399ac24 hal: only open the amplifier once
+f244ec43e hal: enable amplifier earlier
+5f7bde413 hal: Notify amplifier of device enable/disable
+c041d62c1 hal: Convert libaudioamp to audio_amplifier HAL
+505496624 hal: Support the audio amplifier hook
+3dd304dc4 hal: Clean up from merge
+f4080e6aa hal: Remove obsolete FM_ENABLED flag
+6d7c0e348 voice_extn: remove redundant check of mode when stop voice use case
+22fbe47a4 audiopolicy: enable deep buffer output by default for music streams
+85a496d8d audiopolicy: use deep buffer output by default for music streams
+4a01503a3 mm-audio: omx: Fix OMX encoders timestamp
+6ab6482b6 hal: fix resource leak issues in platform.c
+6fddf05a9 audio HAL: do not stop capture on overrun
+f371dbd40 audio HAL: fix thread starvation
+b6fb40825 hal: Validate active input before accessing source
+041282b9e hal: fm: add parameter to set mute options
+21c3705a7 policy_hal: fix for FM playback without active music stream
+2edf449de policy_hal: fix for volume burst during FM device switch
+b3eeb06f6 policy: Delay FM volume update to start of FM playback
+651847378 policy: Avoid unnecessary set_parameter calls
+6ef895283 hal: audio_extn: fix pop noise when FM is interrupted by voice call
+2a421fa92 audio: update flags for selection of VoIP direct output
+6b283342f hal: add support to use low latency as primary output
+8220cb3e8 hal: Sync name_to_index table with pcm_device_table
+9a5d07147 hal: Fix voice call recording on msm8960
+7e43b83c3 hal: Adjust DEEP_BUFFER_OUTPUT_PERIOD_COUNT to match legacy kernel
+cdc3673dc hal: Reduce some logspam
+f7faa89d5 hal: Update and cleanup makefiles
+2c25004bb hal: Use old mixer for setting voice volume
+bd8d3fe0c hal: Rename from 8974/8084 to msm8960
+4ea756ffb hal: Copy msm8974 platform to msm8960
+28d22cc32 hal: Squashed set of updates and fixes from 8974 branch
+ba2e9bf82 hal: header file fix for audio_hw
+982f085f4 audio: Fix compilation errors
+c0e79bc3c audio: fix member initialization
+589ad9307 hal: fix the input device selection for headphones
+e2f071e49 hal: fix miscellaneous errors
+f1ae5ef9d hal: fix unused param warnings
+25f2c4656 hal: fix incompatible APIs
+c40da96fa hal: avoid usage of extern functions and tables
+d3098dfce hal: miscellaneous fixes
+2cab1be21 hal: Remove unnecessary check in make file
+28e7e2a23 policy_hal: Always call local implementation of updateCallRouting
+d459b1076 policy_hal: Add custom audio policy
+29eb741a8 alsa_sound: Remove deprecated DEVICE_OUT_FM_TX
+dfeacab15 alsa_sound: Remove deprecated audio policy sources
+0a2356d98 alsa_sound: Enable QCOM_PROXY_DEVICE_ENABLED by default
+a9333c377 alsa_sound: Fix handling of zero size write request
+ad86259d9 libalsa-intf: Fix clang compiler errors
+ff40a6bed alsa_sound: Fix clang compiler errors
+d2d3efee7 libalsa-intf: Don't log as error on successful EC change
+4967a84f7 alsa_sound: Make changes for FM_TUNER support
+8b82aab29 alsa_sound: Invert proxy/usbaudio check
+e458ccebd alsa_sound: Add MSM string parameters.
+2469463a3 Use standard initializers
+f9d1d8584 Remove checks for TARGET_SIMULATOR
+18a48c110 Remove obsolete LOCAL_PRELINK_MODULE
+e4756a55a alsa_sound: Disable tunnel/LPA
+f246effa4 audio: Notify amplifier of device enable/disable
+d58219950 audio: Refactor amplifier_set_device logic
+b9083017b audio: Convert libaudioamp to audio_amplifier HAL
+be1b31af2 audio: Make audio device accessible to HAL functions
+41b872723 alsa_sound: Fix compilation for 5.1
+54f3fc09c alsa_sound: Remove orphaned QCOM_COMPRESSED_AUDIO flag
+3c657e35c hal: Make use of hwdep calibration optional
+a32ea8d5c alsa_sound: Fix CSD client check
+9c3a1d95b Invert ANC Headset.
+a315b78a7 audio: Use Fluence constant internal to HAL
+703e6bb8e alsa_sound: Add support for "Voice Earpiece Extra Gain" mode
+ec487c731 alsa_sound: Add support for seperated FM devices
+08ccd2db4 alsa_sound: Raise priority of separate VOIP input
+8dd930ad4 alsa_sound: fix doRouting parameters
+2b4049197 alsa_sound: fix build when QCOM_USBAUDIO_ENABLED = false
+3c65d3b85 alsa_sound: prevent mSSRComplete from being uninitialized
+7211a28d3 alsa_sound: Clean up makefiles
+80981140c alsa_sound: Squash of commits dealing with CSD client
+21824a52a alsa_sound: Add support for Moto X sound card
+53897b75b alsa_sound: Fix camcorder input selection
+03d1b4308 alsa_sound: Add support for separated speaker mic devices
+d7a8767c6 alsa_sound: Initialize variable
+75e588dcd Add Motorola EMU audio dock support
+81ff91049 libalsa-intf: snd_use_case_apply_voice_acdb: initialise current_mod[]
+7eb65a86a alsa_sound: ensure mInputSource is initialised
+53201397e alsa_sound: Fix compiler warnings
+bea0ac647 alsa_sound: Add support for sound card in Galaxy S4 Mini
+91bf03617 alsa_sound: Don't use USB devices for calls
+8a626fe26 alsa_sound: Improve USB device detection
+b0ee71a17 alsa_sound: Allow dual-mic device to be used for VOIP calls
+54aecbd77 alsa_sound: Untangle VOIP/voice speaker handling
+523546734 alsa_sound: Trigger immediate doRouting() on setMode() change to normal
+5e632ad41 audio: provide a hook for audio amplifier implementations
+2b48d4f0b alsa_sound: Add support for VR-on-wired-headset device
+5fe109c16 alsa_sound: Add support for seperated headset mic devices
+3e51042a8 alsa_sound: Add support for seperated VOIP devices
+af65aef23 alsa_sound: modify the SPEAKER_RX_ACDB to support both MONO and STEREO speaker
+60be2bec4 alsa_sound: add HTC CSD CLIENT board flag for special cases (BT)
+1144a245d alsa_sound: Support ES325 2Mic and Samsung CSD client
+e282635b8 alsa_sound: fix debug message derp
+21f89d962 alsa_sound: Disable verbose logging
+afb33053e alsa_sound: Add option to use seperated speakerphone device
+92df92271 alsa_sound: Allow SPEAKER_DUAL_MIC_* UCMs with USES_FLUENCE_INCALL
+40363f17c alsa: fix platform detection for m7 devices
+1d0c34fb1 audio: Dynamic library loading, compilation fixes.
+cc0a10d60 alsa_sound: Fix separated audio input support
+2de780ad1 alsa_sound: Add support for Audience A2220
+c8cde6fbd audio: Enhance ALSA for USB Dock Audio support
+4f4607ace audio: Use    * pathmap
+
+=======================
+     09-27-2019
+=======================
+
+
+=======================
+     09-26-2019
+=======================
+
+
+=======================
+     09-25-2019
+=======================
+
+
+=======================
+     09-24-2019
+=======================
+
+
