@@ -1,0 +1,6 @@
+Device Changelog:
+- Some little fixes no one will understand
+
+Rom Changelog: 
+- PE Upstream
+- Merged October security patch
