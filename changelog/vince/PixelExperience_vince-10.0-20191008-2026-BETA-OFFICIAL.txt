@@ -1,0 +1,7 @@
+Pixel Experience
+* October security patch
+* A bunch of fixes on the ROM source side
+
+Device side
+* Improve padding
+* Some minor fixes
