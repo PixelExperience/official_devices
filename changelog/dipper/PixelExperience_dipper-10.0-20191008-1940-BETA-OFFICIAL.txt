@@ -1,0 +1,15 @@
+PixelExperience:
+
+- October Security Patch (10.0_r4)
+- A bunch of fixes on the ROM source side
+
+Device Specific:
+
+- Kernel Upstreamed to 4.9.196
+- Battery improved
+- GCam 7.0 (F1v10.3_7.0.009.apk by san1ty)
+- Rounded Corners fixed/added back
+- Paddings improved
+
+Minimum Firmware: 9.6.20
+WARNING: If you're unencryted you must flash Disable_DM-Verity zip (link in XDA Thread)
