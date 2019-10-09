@@ -1,0 +1,11 @@
+ROM Side:
+
+- October Security Patch
+- Some fixes
+
+Device Side:
+
+- Added back navbar
+- Minor changes
+
+(New info about battery donation for mantainer, check XDA)
