@@ -1,0 +1,4 @@
+* October patch
+* Prebuilt audio blobs (louder audio)
+* Etherious kernel used
+* Some here and there..
