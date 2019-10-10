@@ -1,0 +1,11 @@
+Device side changes:
+- Upstreamed kernel to include changes from CAF (thanks to @wiktorek140)
+- Other kernel side updates
+
+ROM side changes:
+- October security patch.
+- Dark bootanimation based on device theme on Plus Edition
+- Lockscreen weather.
+- Ambient play has been removed due to conflicts on device microphone.
+
+Thanks to Péricles Guedes for testing :)
