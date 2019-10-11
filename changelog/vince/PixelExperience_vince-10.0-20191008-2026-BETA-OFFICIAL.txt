@@ -1,0 +1,8 @@
+Pixel Experience 
+- Merge October security patch 
+- Some fixes 
+
+Device
+ - Improve Padding 
+- Upstream kernel to .196
+- Some tree minor changes
