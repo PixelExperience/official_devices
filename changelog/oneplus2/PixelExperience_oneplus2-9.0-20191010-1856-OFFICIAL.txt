@@ -1,5 +1,6 @@
 Source side
 
+- Oct security patch
 -Lockscreen weather.
 -Ambient play has been removed due to conflicts on device microphone
 
