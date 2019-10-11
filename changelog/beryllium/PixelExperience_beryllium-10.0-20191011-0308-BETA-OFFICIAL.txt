@@ -1,0 +1,4 @@
+- October security update
+- Kernel upstreamed
+- Signal strength fixed
+- Others improvements
