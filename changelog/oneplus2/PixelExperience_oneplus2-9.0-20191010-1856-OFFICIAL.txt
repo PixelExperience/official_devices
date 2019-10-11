@@ -1,0 +1,9 @@
+Source side
+
+-Lockscreen weather.
+-Ambient play has been removed due to conflicts on device microphone
+
+
+Device side
+
+-Updated to latest LOS device tree
