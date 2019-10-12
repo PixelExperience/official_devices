@@ -1,0 +1,9 @@
+Device side:
+* Fully rebased kernel on LA.UM.8.1.r1-09500-sm8150.0 ( Q tag )
+* Fixed random app crashing or video playback stuck
+* Fixed audio crackling in some cases
+* Telephony injection
+* More that no one will understand
+
+Rom side:
+* Fixed default wallpeper bug
