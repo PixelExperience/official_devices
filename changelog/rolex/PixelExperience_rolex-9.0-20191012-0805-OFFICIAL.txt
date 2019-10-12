@@ -1,0 +1,31 @@
+Changelog Device:
+
+* Update rootdir from LA.UM.7.6.r1-05900-89xx.0
+
+* Remove firmware class path for kernel firmware loading
+
+* Change ownership of /vendor/firmware_mnt/image
+
+* Audio Update upto LA.UM.7.6.r1-05900-89xx.0
+
+* create vpp path in /mnt/vendor/persist/
+
+* init.qcom.rc: enable 'on property' actions for data features
+
+* init.qcom.rc: Remove creating and accessing /data/media from vendor domain
+
+* rootdir: Create display folder under /mnt/vendor/persist
+
+* init: Override android.hardware.audio@2.0-service 
+
+* init.qcom.rc: Increase the maximum size for socket receive buffer
+
+* init.qcom.rc: Create data vendor folder for eSE 
+
+* init: Clean-up tombstone related commands in rc
+
+* init.qcom.rc: Override android.hardware.contexthub@1.0-service
+
+* rootdir:Update init.qcom.rc file
+
+* init: Set opengles version from init context 
