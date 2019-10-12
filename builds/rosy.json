@@ -33,6 +33,11 @@
          "md5": "42bcd8353a95bd3943b85ee79a0319fd",
          "file_size": 1058981184,
          "file_name": "PixelExperience_Plus_rosy-9.0-20190924-0455-OFFICIAL.zip"
+      },
+      {
+         "md5": "6629ffb520c538a1e5d6d5644788fb04",
+         "file_size": 1056469856,
+         "file_name": "PixelExperience_Plus_rosy-9.0-20191011-1828-OFFICIAL.zip"
       }
    ],
    "pie": [
@@ -70,6 +75,11 @@
          "md5": "bd0c104031dd023a7e90ccaccb48d47a",
          "file_size": 1055922928,
          "file_name": "PixelExperience_rosy-9.0-20190923-1804-OFFICIAL.zip"
+      },
+      {
+         "md5": "22108dcd4d3f3a466bd34b720cfd53a0",
+         "file_size": 1053854602,
+         "file_name": "PixelExperience_rosy-9.0-20191011-2325-OFFICIAL.zip"
       }
    ],
    "oreo": [
