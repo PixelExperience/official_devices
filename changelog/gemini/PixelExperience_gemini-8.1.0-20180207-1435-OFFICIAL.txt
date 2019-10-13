@@ -1,8 +1,0 @@
-- Fixed audio issues
-- Updated ramdisk
-- February Security patches
-- Fixed some issues with themes
-- Issue with sim cards should be fixed (need test)
-- Fixed some SystemUI FC
-- Kernel update
-- More

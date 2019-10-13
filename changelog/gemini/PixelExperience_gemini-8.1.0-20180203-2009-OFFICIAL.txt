@@ -1,4 +1,0 @@
-Official release
-Enabled button backlight settings
-Enabled notification light color settings
-Updated kernel (some tweaks)

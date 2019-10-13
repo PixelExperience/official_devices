@@ -1,5 +1,0 @@
-* CLEAN FLASH!!!
-* June update
-* Add Gcam 3.5.2 by Artur
-* Increased vibration pattern
-* Reverted battery percentage inside icon

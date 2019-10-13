@@ -1,9 +1,0 @@
-- Fixed AOD
-- Added Xiaomi Doze
-- Updated Blobs
-- Updated google apps
-- Others rom side changes
-- Kernel upstreamed to 3.18.95
-- Built with Linaro-7.2
-- Merged New Caf Tags into Kernel
-- And some more kernel changes

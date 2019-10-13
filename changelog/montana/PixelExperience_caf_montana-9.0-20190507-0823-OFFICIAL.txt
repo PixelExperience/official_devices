@@ -1,6 +1,0 @@
-- All updates from Pixel Experience source (https://github.com/PixelExperience)
-- Fixed flashlight button in Quick Settings not working issue.
-- Camera now opens and functions normally.
-- Screen-off gestures removed as they don't work.
-- Pick up for Ambient Display is now fixed.
-- Initial official build

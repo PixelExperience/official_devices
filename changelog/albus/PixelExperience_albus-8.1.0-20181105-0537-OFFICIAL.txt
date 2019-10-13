@@ -1,7 +1,0 @@
-- Added prebuilt GCAM.
-- Switch to Radium Kernel;
-- Added CPU HotPlug;
-- Added custom CPU governors.
-- Improvements in batterylife.
-- Updated GApps.
-* Read XDA thread for more.

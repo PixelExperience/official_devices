@@ -1,3 +1,0 @@
-- Merged new CAF tag: LA.UM.7.3.r1-07400-sdm845.0
-- OTA app fixed
-- Others fixes

@@ -1,3 +1,0 @@
-* Kernel upstreamed and new clang
-* Ambient display and DT2W fixed
-* Improve 18:9 aspect ratio compatibility on some apps

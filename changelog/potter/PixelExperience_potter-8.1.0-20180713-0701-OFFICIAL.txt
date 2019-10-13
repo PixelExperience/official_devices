@@ -1,3 +1,0 @@
--July security patch
--GoogleCamera updated (slow motion working)
--Kernel upstreamed

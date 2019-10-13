@@ -1,7 +1,0 @@
-• Switch to libperfmgr powerhint
-• Hardcode node for dt2w implementation
-• Updated Power HAL to 1.3
-• Fixed Wifi-Display
-• Added Crosshatch Build Fingerprint (Now Safetney status will paas without changing device name to HM Note 3)
-• Upstreamed kernel to 4.4.181
-

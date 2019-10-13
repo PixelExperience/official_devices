@@ -1,9 +1,0 @@
-Device specific:
--kernel has been rebased
--Added Wakelock Blocker from rrps (system-leecoextras)
- and all other changes upstreamed from lineage
--Audio Fixes from @ThE_MarD @sdv22
--Updated powerhal
--Added a toggle to cap frequencies for power saving in (settings-system-leeco extras)
--Frequencies cap toggle is enabled by default, u can disable it if u want good antutu score
--Updated kernel with changes for zram and other stuff

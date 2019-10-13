@@ -1,4 +1,0 @@
-- Official release
-- Significant performance and stability improvements
-- Battery improvements
-- Video recording fully working

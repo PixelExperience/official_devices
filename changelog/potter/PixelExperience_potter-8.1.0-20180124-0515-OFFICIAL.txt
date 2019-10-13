@@ -1,8 +1,0 @@
-- Kernel rebased, compiled with Linaro 7.2, fixed lag on dialer and alarm not ringing issue
-- Switch to OSS sensors
-- Switch to user build type and enforcing selinux
-- New translations imported
-- Switch to Pixel ringtone picker
-- Development options: Ability to set custom animation value
-- Removed dialog when enabling/disabling mobile data on QS
-- Others fixes in ROM side

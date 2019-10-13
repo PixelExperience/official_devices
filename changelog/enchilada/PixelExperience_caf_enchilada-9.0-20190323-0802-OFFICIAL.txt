@@ -1,9 +1,0 @@
-- Kernel update to .164
-- Format data issue has been fixed. 
-  NOTE: You will need to format data when your flashing the caf build when coming from other roms but for later updates just wipe dalvic, flash the rom 2 times in TWRP and flash twrp.zip.
-- Huge update to kernel.
-- New Now Playing layout update from Android Q
-- SmartClock added
-- PowerHal update
-- Manual Network selection fc fixed
-- Hotspot fixed

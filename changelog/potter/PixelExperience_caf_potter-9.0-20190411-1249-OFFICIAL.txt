@@ -1,3 +1,0 @@
-*Kernel updated to 3.18.138
-*Aosp parts of source updated to r35
-*If this doesn't boot, decrypt your data (format data in twrp) and clean flash

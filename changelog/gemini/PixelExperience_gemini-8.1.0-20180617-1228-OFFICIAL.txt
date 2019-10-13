@@ -1,5 +1,0 @@
-• June Security Patch
-• Latest PE changes
-• Latest LOS changes (device tree)
-• Updated Denny's kernel
-• Fixed problem with notification led (thanks blinoff82)

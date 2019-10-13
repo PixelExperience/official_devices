@@ -1,7 +1,0 @@
-New features and Changes:
-1. Now on to Black screen Kernel thanks to @mosimchah for his kernel
-2. Added led notification colours
-3. Ambient display Changed to Leeco Doze
-4. Added always on Doze feature can be disabled
-5. Added Snap camera
-6. And changes upstream from Lineage

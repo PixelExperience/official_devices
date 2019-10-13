@@ -1,5 +1,0 @@
-- Added system-wide dark theme
-- Add advance reboot
-- Februray patch
-- Replaced snap cam with miui cam
-- Underhood improvements

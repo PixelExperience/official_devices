@@ -1,4 +1,0 @@
-- Kernel upstreams
-- July security Patch merged
-- Source updates
-- UI improvements

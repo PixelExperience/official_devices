@@ -1,2 +1,0 @@
--September security patch
--Latest Derp Kernel

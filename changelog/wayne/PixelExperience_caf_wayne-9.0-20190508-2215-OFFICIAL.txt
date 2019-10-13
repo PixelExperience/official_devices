@@ -1,7 +1,0 @@
-* Removed Trustzone Check
-* Updated blobs to MIUI 9.4.25
-* Added swipe with three fingers to take screenshot (exclusive version, no bugs on scrolling views)
-* Improved force fullscreen for some apps (only for devices with notch)
-* Navbar: Allow disabling by "qemu.hw.mainkeys" prop
-* Add gcam
-* Fix MIUI Camera Watermark

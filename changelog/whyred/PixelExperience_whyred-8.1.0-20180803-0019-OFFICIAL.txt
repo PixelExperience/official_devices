@@ -1,7 +1,0 @@
-* MiuiCamera included by default:
-    - Supported features: Fingerprint shutter, portrait mode (front and rear), slow motion, panorama and more
-* Kernel upstreamed to 4.4.145, also latest CAF patches
-* Update blobs from 8.7.26 global
-* Added padding on statusbar and navigation bar
-* Increased navigation bar buttons size
-* Scrolling improved

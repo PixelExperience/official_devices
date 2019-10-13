@@ -1,6 +1,0 @@
-Video Recording Bug fixed
-Led while charging can be enabled from settings
-Updated Sources
-
-Remaining Bug:
-Selinux is Permissive.

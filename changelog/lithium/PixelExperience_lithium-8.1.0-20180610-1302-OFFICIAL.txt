@@ -1,7 +1,0 @@
-- Merged 8.1.0_r33 AOSP tag
-- Merged June security patch
-- Fixed device settings applied too late
-- Fixed some selinux denials
-- Fixed haptic on navbar
-- Enabled WMA offload
-- Refer to Github for other changes

@@ -1,2 +1,0 @@
-- Switched back to Google Camera Mod
-- Switched back to stock kernel

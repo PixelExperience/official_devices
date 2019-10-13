@@ -1,3 +1,0 @@
--September security patch
--Kernel upstreamed
--GCam updated

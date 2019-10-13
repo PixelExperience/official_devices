@@ -1,4 +1,0 @@
-* Fixed duplicate contacts (you may need to clean data of Contacts Storage to apply changes, or simple do clean flash)
-* Fixed front cam on Playground
-* Fixed screen freeze when toggling acessibility menu
-* Updated gcam to GC6.2-F1-v3 by san1ty, modded for PixelExperience

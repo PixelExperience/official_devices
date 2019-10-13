@@ -1,2 +1,0 @@
-* Back support to drivers display stock 
-* Merge latest caf tag and upstream to 3.18.113

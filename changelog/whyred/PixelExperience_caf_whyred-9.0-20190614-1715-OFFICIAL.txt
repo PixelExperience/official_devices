@@ -1,7 +1,0 @@
-* Thermal improvements
-* Bring back MiuiCamera instead of Gcam (camera patches still there, so no need to apply 3rd patches on magisk)
-* Theming improvements
-* Bring back night display on some devices (Additional LiveDisplay settings will be there)
-* Improved behavior of automatic theme based on time
-* PixelLauncher and some others apps updated
-* Translations updated

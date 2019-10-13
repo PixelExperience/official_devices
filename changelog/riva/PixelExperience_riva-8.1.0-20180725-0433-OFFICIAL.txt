@@ -1,6 +1,0 @@
--Back To Stock Kernel
--Upstreamed Kernel To v3.18.116
--Removed Unnecessary Audio Props
--Added dts Eagle Sound Effect
--Optimized For Better Ram Management
--Added Default 530Mhz Minimum Clock Speed For Efficient Battery Backup

@@ -1,4 +1,0 @@
-• July security patch
-• Added Zenmotions
-• Gcam fixes included
-• Upstreamed Kernel to 4.4.184

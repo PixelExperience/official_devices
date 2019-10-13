@@ -1,4 +1,0 @@
-- Latest CAF tag LA.UM.7.3.r1-07400-sdm845.0 merged
-- Kernel upstreamd to .171
-- Changes to powerhal
-- Otg now works out of the box without root

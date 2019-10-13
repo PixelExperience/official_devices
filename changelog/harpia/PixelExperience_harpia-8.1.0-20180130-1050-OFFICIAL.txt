@@ -1,8 +1,0 @@
-Battery more improved (less drain if phone is idle).
-Audio bug fixed.
-Launcher lag fixed.
-D2w support.
-
-Remaining bugs;
-
-You tell me :p

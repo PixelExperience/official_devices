@@ -1,2 +1,0 @@
-- First CAF release
-- Some camera issues fixed

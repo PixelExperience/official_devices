@@ -1,6 +1,0 @@
-*Initial CAF Release
-*PE Sauce Upstreamed
-*Reverted Dirac Blobs 
-*Moar Underhood Phixes and improvments
-
-N.B.:- From Now Both CAF and Noraml Builds Will Be Released Together. Clean Flash Recommended 

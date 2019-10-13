@@ -1,8 +1,0 @@
-- Update fingerprint to NPJS25.93-14-13-3
-- Add RendorScript 
-- Enable HWC2 and Gralloc1
-- Updated Wi-Fi Services to 1.1
-- Increase default ZRAM size to 1024 MB
-- Ship Loony Kernel R4 by default
-- OTA Update
-- Other Minor changes 

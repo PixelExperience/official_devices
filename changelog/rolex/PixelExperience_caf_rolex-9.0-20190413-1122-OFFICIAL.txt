@@ -1,9 +1,0 @@
-- Rebased new tree ( Thanks to sunnyraj84348 )
-- power: Kill "Failed to acquire lock" log
-- Selinux Still permisive :)
-- Use Stock Kerne ( No features in kernel now )
-- Merge tag 'LA.UM.7.5.r1-04500-8x96.0' in kernel
-- Merge tag 'LA.UM.7.5.r1-04500-8x96.0' in Meda HAL
-- Merge tag 'LA.UM.7.5.r1-04500-8x96.0' in Display HAL
-
-Clean Flash Highly recomended !!!

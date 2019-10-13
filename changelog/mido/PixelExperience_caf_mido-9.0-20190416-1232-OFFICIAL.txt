@@ -1,3 +1,0 @@
-* Fixed Low Incall Audio On Speakers 
-* Updated Media Configs to LA.UM.7.6.2.r1-07300-89xx.0
-* More Adoptions From CAF!

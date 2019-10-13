@@ -1,3 +1,0 @@
-- Merged November security patch.
-* This is the last Oreo build.
-* Tip: Disable all screen off gestures in MotoActions.

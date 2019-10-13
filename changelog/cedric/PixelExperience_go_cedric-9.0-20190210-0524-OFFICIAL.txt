@@ -1,4 +1,0 @@
-• Latests sources changes
-• Dark Theme revamped added
-• Added Keydisabler (option to toggle navbar on/off)
-• Test fixes for display related issues (light night and etc).

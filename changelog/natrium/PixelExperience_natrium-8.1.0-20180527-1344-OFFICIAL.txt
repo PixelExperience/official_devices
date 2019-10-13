@@ -1,7 +1,0 @@
-PixelExperience:
-
-- Rebase done (lots of changes)
-
-Device specific:
-
-- First official release for natrium

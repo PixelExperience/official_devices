@@ -1,4 +1,0 @@
-* Fixed Colour Profiles Issues on Reboot 
-* Moved to englezos kernel 
-* Removed AdvancedControls And Other Shit 
-* Fixed Screen Unpinning Issue

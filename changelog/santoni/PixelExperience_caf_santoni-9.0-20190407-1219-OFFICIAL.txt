@@ -1,4 +1,0 @@
-**MAJOR UPDATE**
-**PLease CLEAN FLASH. If you dont clean flash and have problems dont come crying to me.**
-1. Enforcing Build.
-2. Video recording now works.

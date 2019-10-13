@@ -1,4 +1,0 @@
-August Security Patch 
-Added Rounded Corners and Padding
-Fixed aome laga while opening any apps
-kernel upstreammed to .116

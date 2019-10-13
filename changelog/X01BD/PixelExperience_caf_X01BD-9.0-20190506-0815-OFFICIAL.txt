@@ -1,5 +1,0 @@
-• Kernel upstreamed to .179
-• Reduced minimum brightness level
-• Miui poweroff charging animation added
-• Improved statusbar padding
-• Many features added under the hood

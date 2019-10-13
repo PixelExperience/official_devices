@@ -1,3 +1,0 @@
-* fixed Heating issues
-* Sources Updated
-* November Security Patch

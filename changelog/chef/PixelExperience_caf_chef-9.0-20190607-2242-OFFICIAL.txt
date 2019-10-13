@@ -1,7 +1,0 @@
-*******JUNE UPDATE CHANGELOG*******
-**** DO NOT FLASH THROUGH OTA APP, I REPEAT DO NOT FLASH THROUGH OTA APP ****
-//// IF IT FAILS AND YOUR DEVICE GETS BRICKED IT WONT BE MY PROBLEM ////
-1. Ship Pixel3 Live wallpapers by default.
-2. Moved to common tree.
-3. June Patch.
-4. Updated GApps.

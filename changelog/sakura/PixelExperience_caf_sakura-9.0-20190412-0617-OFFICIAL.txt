@@ -1,4 +1,0 @@
-* Initial CAF Version (CLEAN FLASH NEEDED)
-* Merged Latest CAF Tag
-* Kernel Upstream to 4.9.168
-* Selinux Permissive

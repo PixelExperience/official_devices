@@ -1,8 +1,0 @@
-* Fixed Hotspot
-* Selinux Enforcing
-* Now Playing adapted to Q style
-Pixel Experience Upstreams !
-
-
-•January Fimrware is a must
-•No Bug report if u use any mods/patches
