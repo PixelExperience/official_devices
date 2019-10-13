@@ -16,20 +16,17 @@ function setArgs() {
 }
 
 function sendAdmins() {
-    curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001463677498&parse_mode=Markdown"
+    curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001463677498&disable_web_page_preview=true&parse_mode=Markdown"
 }
 
 function sendMaintainers() {
-    curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001287849567&parse_mode=Markdown"
+    curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001287849567&disable_web_page_preview=true&parse_mode=Markdown"
 }
 
 function checkPullReq() {
     printf "\n\n***Pixel Experience CI***\n\n"
 
-    if [ -n "$PULL_REQUEST_NUMBER" ]; then
-        sendAdmins "\`I have recieved PR $PULL_REQUEST_NUMBER.\`"
-        sendMaintainers "\`I have recieved PR $PULL_REQUEST_NUMBER.\`"
-    else
+    if [ ! -n "$PULL_REQUEST_NUMBER" ]; then
         git checkout master >/dev/null
         git pull origin master >/dev/null
     fi
