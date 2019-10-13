@@ -2,7 +2,7 @@
    {
       "name": "Moto G5 Plus",
       "brand": "Motorola",
-      "codename": "potter",
+      "codename": "potter      ",
       "supported_versions": [
          {
             "version_code": "pie",
