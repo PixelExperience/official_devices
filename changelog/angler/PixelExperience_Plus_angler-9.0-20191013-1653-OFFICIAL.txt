@@ -1,0 +1,187 @@
+=======================
+     10-13-2019
+=======================
+
+
+=======================
+     10-12-2019
+=======================
+
+
+=======================
+     10-11-2019
+=======================
+
+
+   * bootable/recovery/
+6352b221 Add misc_writer.
+
+   * vendor/aosp/
+723a6d81 Merge "vendor: Add support for custom bootloader offset" into pie-plus
+155d8108 Merge "vendor: Add support for dark bootanimation" into pie-plus
+
+=======================
+     10-10-2019
+=======================
+
+
+   * build/make/
+61a143def Bump Security String to 2019-10-05
+de2f59067 build: Fix building on MacOS
+bd6239002 build: Disable 32-bit Darwin builds
+ea93f468a check_boot_jars: Add CAF IMS to whitelist
+345dee135 Revert "build: add org.codeaurora to package whitelist"
+
+   * frameworks/av/
+584cd7f8a m4v_h263: add a test for invalid/negative value
+70030db73 Fix OOB access in mpeg4/h263 decoder
+a57ca1eb7 audioflinger: Fix audio for WifiDisplay
+d96e24b9b libstagefright_wfd: video encoder does not actually release MediaBufferBase when done
+39c039838 stagefright: Fix buffer handle retrieval in signalBufferReturned
+cdbc52df3 stagefright: Fix SurfaceMediaSource getting handle from wrong position issue
+13edafc93 libstagefright_wfd: libmediaplayer2: compilation fixes
+d2298b6d0 Revert "stagefright: remove Miracast sender code"
+5b2e79077 Revert "Removed unused class and its test"
+5d1980d68 MTP: Add support of ObjectInfoChanged Event
+
+   * frameworks/base/
+31756cfc52a PhoneWindowManager: Disable three finger to screenshot on doze
+21d45accc4f bootanimation: Port dark bootanimation code from Android 10
+a2fa685835c Revert "Add VoLTE icon and switch on tuner"
+e8586ef8b76 [1/2] NetworkTraffic: Rework
+ebf7382e5bb NetworkTraffic: Fix traffic stats for tethering and vpn use cases
+2b2db11bde1 NetworkTraffic: Cleanup
+33fc32124a4 Automatic translation import
+80eba8022ae Revert "Implement ambient play"
+66b14a828ec Fix smartspace on Pie
+95e5ba2e4fa SystemUI: Implement Smart space
+e062aafb82e SystemUI: Port code to improve pixel live wallpapers
+93f64e377ff KeyguardSliceProvider: Fix "isDndSuppressingNotifications" missing method
+fabc8bbc58d Initial import of SystemUIGoogleFactory
+58a228ea30f StatusBarSignalPolicy: Use alternative logic
+e61f0d34790 SettingsLib: Fix PT translation for tether connected devices
+66c57e7e807 Revert "SystemUI: Implement weather on lockscreen like Pixels"
+fd3b02f5102 Revert "BatteryMeterDrawableBase: Don't colorize when level critical"
+726f231986b OP_REQUEST_INSTALL_PACKAGES denied by default
+a509c8406e3 [RESTRICT AUTOMERGE] Pass correct realCallingUid to startActivity() if provided by PendingIntentRecord#sendInner()
+edce78e1ee4 SystemUI: Allow snoozing SD card notification unconditionally
+11b62a9b4e3 FODCircleView: defer removal to next re-layout
+2eab8feafb8 Automatic translation import
+
+   * manifest/
+d019a75 Track Nfc
+e4cf396 manifest: Stop tracking AmbientPlayHistoryProvider
+610ddeb manifest: Change branch of bootable/recovery and sepolicy
+
+   * packages/apps/Recorder/
+91344a8 Automatic translation import
+25b7a88 Improve padding on overlay
+f2c7e27 Fix pref removal
+
+   * packages/apps/Settings/
+b55d72d78d Automatic translation import
+71673104f2 Settings: Add missing SystemSettingListPreference
+8ff4ec588f Settings: Refactor PE version on about phone
+55ff00c00c Remove AmbientPlay
+ab30bc74dd Revert "Settings: Add weather temperature metric/imperial toggle"
+908400516b Treat mode_default as denied for install_unknown_apps
+7ca882822d Automatic translation import
+
+   * packages/services/Telecomm/
+5894586b Telecomm: Update MSIM audio params logic again
+
+   * system/sepolicy/
+130241f4 sepolicy: Add rules for misc_writer_system and themed_bootanimation
+d490baf5 Add persist.sys.theme.
+
+   * vendor/aosp/
+f7571e34 vendor: Don't build AmbientPlayHistoryProvider
+e0be31c8 vendor: branding: Add org.pixelexperience.version.display prop
+357cb4ce build: Remove TARGET_CRYPTFS_HW_PATH
+50abf940 vendor: Add support for custom bootloader offset
+35eed318 vendor: Add support for dark bootanimation
+
+   * vendor/gapps/
+6756d98 Update perms
+
+   * vendor/themes/
+e64e727 Automatic translation import
+
+=======================
+     10-09-2019
+=======================
+
+
+   * device/qcom/sepolicy/
+a038a33 sepolicy: label persist.vendor.bluetooth.a4wp
+
+   * device/qcom/sepolicy-legacy/
+726c242 common: permit libqdutils operation (linked by mediaserver) during WFD
+
+   * hardware/interfaces/
+13a44e18 Wifi: Syncronization on reading and writing ringbuffer
+
+   * packages/apps/Nfc/
+3715f102 Prevent length underflow in NfcTag.cpp
+
+   * packages/apps/Settings/
+bb7ffd92ec Revert "Act as usb device when there is no hal, but we believe we are a device"
+
+   * packages/apps/Snap/
+5057994ce snap: remove double resources
+
+   * packages/apps/Updates/
+ef6dc22 Automatic translation import
+
+   * packages/providers/DownloadProvider/
+49f5d14 Automatic translation import
+
+=======================
+     10-08-2019
+=======================
+
+
+=======================
+     10-07-2019
+=======================
+
+
+=======================
+     10-06-2019
+=======================
+
+
+=======================
+     10-05-2019
+=======================
+
+
+=======================
+     10-04-2019
+=======================
+
+
+   * hardware/qcom/display-caf/msm8998/
+7e778780e gralloc: Add option for YCrCb venus camera preview
+0ba726674 gralloc: Allow devices to opt-in for YCrCb camera preview
+
+=======================
+     10-03-2019
+=======================
+
+
+=======================
+     10-02-2019
+=======================
+
+
+=======================
+     10-01-2019
+=======================
+
+
+=======================
+     09-30-2019
+=======================
+
+
