@@ -1,0 +1,12 @@
+Device Changes:
+- Fixed D2TW on REV2 hardware ( For people that didn't had it working )
+- Cleaned kernel oance agin and FIFO for FP/Touch
+
+Rom Changes:
+- Fixed wierd QS panel lag after 6-8h aprox
+
+Note: 
+- This will be probably the final BETA build for ten
+
+Current bugs:
+- 5Ghz hotspot as always ( Will be fixed in the non BETA versions for now enjoy )
