@@ -1,7 +1,0 @@
- -Miracast working fine
- -Gcam back
- -Ims update
- -Selinux enforced
- -Tweak headphones volume
- -A lot of small changes
- -Happy New Year!

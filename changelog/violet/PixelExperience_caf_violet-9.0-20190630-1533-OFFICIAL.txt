@@ -1,8 +1,0 @@
-Device Changes:
-- Drop Pocket mode (fixes idle drain completely)
-- Update blobs to MIUI 9.6.27
-- Drop goodix firmware
-- Update Build fingerprint to V10.3.9.0
-- Enable OEM unlocking option
-- Add Vector icons to Xiaomi Parts
-- Update rootdir/carrier overlay from caf

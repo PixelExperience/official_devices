@@ -1,5 +1,0 @@
-* Added VDSO
-* Fixed IR Blaster
-* Fixed D2TW not working in some cases
-* Fixed notification led not working in some cases
-* Updated power hal

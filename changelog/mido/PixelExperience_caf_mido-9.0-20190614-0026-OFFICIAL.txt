@@ -1,8 +1,0 @@
-* Updated camera blobs from MIUI V10.2.3.0.NCFMIXM
-* Updated Audio ACDB blobs from MIUI V10.2.3.0.NCFMIXM
-* Updated FP blobs from MIUI V10.2.3.0.NCFMIXM
-* Updated Common Blobs from tissot MIUI V10.0.9.0.PDHMIXM
-* White Flashlight has 100 intensity now
-* Added Support to use fp sensor as shutter button
-* Merged Other Zeelog Changes
-* Added IIFAAService for Alipay fingerprint payment

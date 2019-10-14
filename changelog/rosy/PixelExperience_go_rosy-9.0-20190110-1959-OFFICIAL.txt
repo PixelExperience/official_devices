@@ -1,3 +1,0 @@
-1. Fixed Doze
-2. Improved performace 
-3. Updated with latest device sources(10/01/2019)

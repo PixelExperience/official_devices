@@ -1,6 +1,0 @@
-- Added rounded corners
-- Switched to payton's fingerprint (now passes SafetyNet)
-- Smoothened vibrations
-- Fixed video recording (now works reliably)
-- Updated display blobs
-- Updated AptX blobs

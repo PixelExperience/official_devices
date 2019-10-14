@@ -1,4 +1,0 @@
-May security patch 
-Rebased trees
-Sim toggles fixed
-GoogleCam Mod is default

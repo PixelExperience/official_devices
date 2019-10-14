@@ -1,5 +1,0 @@
-- Kernel upstreamed to 3.18.93
-- Tissot Blobs
-- Offline charging animation
-- Other minor changes
-- ROM source updates

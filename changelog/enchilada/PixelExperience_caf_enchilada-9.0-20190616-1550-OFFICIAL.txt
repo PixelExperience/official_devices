@@ -1,4 +1,0 @@
-* Latest CAF tag merged
-* Merged google securty patches on top of caf
-* Kernel upstreamed to .181
-* Some rom side changes

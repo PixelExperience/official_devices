@@ -1,6 +1,0 @@
-=======================
-     09-12-2018
-=======================
-System Specific Updates:
-	* Security Patch Level: 05-September-2018
-  * Google Apps updated as on 12-Sep included

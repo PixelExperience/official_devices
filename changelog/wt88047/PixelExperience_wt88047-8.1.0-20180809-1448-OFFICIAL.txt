@@ -1,3 +1,0 @@
-* Latest LOS changes(Device Tree)
-* August Security patch
-* Latest PE changes(Source Side)

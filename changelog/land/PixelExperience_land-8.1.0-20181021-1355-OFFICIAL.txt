@@ -1,4 +1,0 @@
-Device Specific Changes -
- - October Android Security Bulletin Merged
- - More Optimized
- - Final Build

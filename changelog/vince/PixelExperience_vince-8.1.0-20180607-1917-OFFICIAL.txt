@@ -1,5 +1,0 @@
-* June security patch
-* Green pics fixed
-* Navbar on first boot fixed
-* Lags in animation fixed
-* Kernel updates (upstream and cleanups)

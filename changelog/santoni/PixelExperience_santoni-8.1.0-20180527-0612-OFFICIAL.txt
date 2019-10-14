@@ -1,9 +1,0 @@
--Kernel Built With Clang
--Upstreamed to 3.18.110
--Merged Latest Caf Tag
--Eas Added (Thanks to @wuffz)
--HALs updated to the latest CAF tag 
--Fixed Vilte (Video Call over LTE) (Thanks to @Nikesh001) 
--Fixed Data Call bug for dual sim (Thanks to @Nikesh001) 
--Update Oreo Blobs from Nokia 6 8.1 & Remove Unused Blobs (Thanks to @riteshsaxena)
--Fixed Noise Cancellation 

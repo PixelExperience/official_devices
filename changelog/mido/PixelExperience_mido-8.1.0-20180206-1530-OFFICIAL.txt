@@ -1,5 +1,0 @@
-- Kernel: Merged latest CAF tag
-- Compiled kernel with Linaro-7.2
-- Fixed omnivision camera black tint
-- February Security patch
-- ROM source updates

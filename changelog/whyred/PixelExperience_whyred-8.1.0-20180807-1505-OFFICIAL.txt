@@ -1,4 +1,0 @@
-* August security patch
-* Kernel upstreamed to 4.4.146
-* Fix scrolling and navbar size
-* Fix torch on power button sometimes not working

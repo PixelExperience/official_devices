@@ -1,4 +1,0 @@
-Performance improvements
-Magisk solution (rill error after installation of magisk)
-Added working camera app
-Updated sources....

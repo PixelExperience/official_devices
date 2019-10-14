@@ -1,5 +1,0 @@
-> August Security Patch
-> Added Dragon Elite kernel by default
-> Fixed Battery Drain
-> updated Gapps
-> fixed heating

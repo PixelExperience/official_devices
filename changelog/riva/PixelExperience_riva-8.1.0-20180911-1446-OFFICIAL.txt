@@ -1,3 +1,0 @@
-- Merged September Security Patch
-- Upstreamed To v3.18.122
-- Latest Caf Tag LA.UM.7.6.r1-02000-89xx

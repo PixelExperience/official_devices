@@ -1,7 +1,0 @@
-* Fixed LTE+/4G+ icon
-* Pocket mode removed due to issues
-* Merged new CAF tag: LA.UM.7.3.r1-07400-sdm845.0
-* Derp 3.4
-* Update Playground
-* OTA app fixed
-* Others fixes

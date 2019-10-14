@@ -1,4 +1,0 @@
-- Fixed right audio channel being silent in speaker
-- Fixed battery drain (I hope)
-- Button brightness to 255 by default
-- Refer to Github for other changes

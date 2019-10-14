@@ -1,7 +1,0 @@
-###  03 06 2018 ###
-# 1-Source has been rebased. So u will get more fluid experience then earlier with latest Security Patch Update 
-# 2-New Pixel launcher added
-# 3-Significant performance improvements (recents lag is pretty much gone)
-# 4-Video recording  fixed
-# 5-Selinux Permissive
-# 6-Ril Fixed 

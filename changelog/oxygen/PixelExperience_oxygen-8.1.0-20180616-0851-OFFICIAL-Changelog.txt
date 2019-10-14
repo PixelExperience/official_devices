@@ -1,8 +1,0 @@
-=======================
-     06-16-2018
-=======================
-June security patch
-- Migrated to HardRock Kernel v6
-- Using gapps mini instead of nano
-- OTA updates
-- Other minor changes

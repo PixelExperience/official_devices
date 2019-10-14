@@ -1,4 +1,0 @@
-- Update to latest boulzordev tree
-- GoogleCamera by default
-- DPI changed to 420
-- Update camera blobs

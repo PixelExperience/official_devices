@@ -1,4 +1,0 @@
-- "HD is Capable" icon is disabled from notification bar from now 
-- Disabled the Data Turn Off Popup 
-- Other Minor changes
-- OTA Updates

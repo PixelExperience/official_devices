@@ -1,4 +1,0 @@
-- Decreased BootAnimation Time
-- Using Infinity Kernel As Default
-- Merged July Security Patch
-- Optimized For Little Better Performance

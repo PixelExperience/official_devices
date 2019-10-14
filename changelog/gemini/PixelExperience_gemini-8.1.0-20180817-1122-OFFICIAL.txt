@@ -1,4 +1,0 @@
-﻿• August Security Patch
-• Latest PE changes
-• Latest LOS changes (device tree)
-• Updated Denny's kernel

@@ -1,2 +1,0 @@
-* Fix some model homepages and menu keys not available
-* Gapps updated to the latest

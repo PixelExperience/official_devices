@@ -1,5 +1,0 @@
-- Initial Oreo build.
-- Fingerprint gesture issues fixed
-- Fix DPI (Dirty way to adapt notch using MIUI's DPI)
-- GCAM Prebuilt (how-to set in xda thread)
-- FIRMWARE REQUIRED: LATEST STOCK MIUI OREO BASED

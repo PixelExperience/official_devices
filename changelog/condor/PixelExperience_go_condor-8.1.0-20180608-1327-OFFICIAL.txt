@@ -1,2 +1,0 @@
-- June security Patch merged
-- Offline charging fixed

@@ -1,5 +1,0 @@
-- Updated sources
-- Added togle control improvements in sound MI, added to the curtain through a pencil
-- F2FS edits
-- Fixed media codec
-- Works listening to voice messages in messengers

@@ -1,9 +1,0 @@
-ROM Side:
-- Dark theme improved
-- OTA app improved
-- Translations updated
-
-Device Side:
-- Changed to F1xy Kernel by Yaro
-- Compiled with Clang 9.0.1
-- Upstreamed to latest ZUK-Devs Sources

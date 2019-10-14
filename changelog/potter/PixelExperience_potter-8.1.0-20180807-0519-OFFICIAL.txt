@@ -1,2 +1,0 @@
-* August security patch
-* Kernel upstreamed to 3.18.117

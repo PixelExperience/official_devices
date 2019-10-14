@@ -1,7 +1,0 @@
-- Treble changes from LOS
-- Merged March & April Security Patch
-- Updated Darkness Kernel (thanks MOVZX)
-- Fixed multitouch
-- Reworked KCal, Vibration settings, QC 3.0 charging limit (thanks DennySPb & alexxxdev)
-
-Latest TWRP and CLEAN FLASH is needed.

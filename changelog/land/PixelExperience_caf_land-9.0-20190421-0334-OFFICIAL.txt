@@ -1,9 +1,0 @@
-Changelog:
-• Updated all blobs to Pie
-• Fixed ViLTE
-• Fixed power off alarm
-• Fix Wifi display
-• Optimized for 2gb devices
-• Minor under the hood changes
-• Kernel upstreamed to 3.18.138
-• Merged LA.UM.7.6.r1-04500-89xx.0 into Kernel

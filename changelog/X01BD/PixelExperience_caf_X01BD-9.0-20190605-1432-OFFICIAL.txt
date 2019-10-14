@@ -1,4 +1,0 @@
-• Updated security patch
-• Minimum brightness changed to 3
-• Dirac tile changed
-• Zenparts moved to settings dashboard

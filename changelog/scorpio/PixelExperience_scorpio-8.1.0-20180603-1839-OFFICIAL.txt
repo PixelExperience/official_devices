@@ -1,7 +1,0 @@
-- releasetools: Make modem check more user friendly
-
-- releasetools: Do not assert multiple time-stamps
-
-- Update to stock GPS configs and clean up
-
-- Unpin pre-O camera blob

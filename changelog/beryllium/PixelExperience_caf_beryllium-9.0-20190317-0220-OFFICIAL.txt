@@ -1,8 +1,0 @@
-* Fixed manual network select
-* New OTA app
-* Add support for more notifications icons on statusbar
-* Improved notch control (Settings > Display)
-* Improved now playing on lock screen
-* Improved weather
-* Only vendor 9.2.25 are supported for now
-* Derp kernel 3.1

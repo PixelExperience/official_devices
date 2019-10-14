@@ -1,7 +1,0 @@
-# PixelExperience Changelog 2018-02-15 for ham (ZUK Z1) 
-
-
-
-* Fix audio issues where loudspeaker won't give o/p on apps like WhatsApp, Jio4GVoice, etc.
-* Fix OK Google Detection
-* Use of Snap app

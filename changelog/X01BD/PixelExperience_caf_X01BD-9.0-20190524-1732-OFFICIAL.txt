@@ -1,5 +1,0 @@
-* D2w is back in settings->display and fully working
-* Etherious kernel
-* Spectrum support
-* Zenparts added
-* AOD doesn't flicker now

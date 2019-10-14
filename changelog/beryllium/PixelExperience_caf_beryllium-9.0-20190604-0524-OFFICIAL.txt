@@ -1,7 +1,0 @@
-* June security patch
-* Theming and fonts improved
-* Network traffic indicator improved
-* Translations updated
-* Google apps updated
-* Gcam updated
-* Others fixes

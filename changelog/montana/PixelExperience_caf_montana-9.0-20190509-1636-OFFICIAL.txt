@@ -1,5 +1,0 @@
-- Kernel compiled with Clang 9.0.3
-- Updated in-built GApps
-- Enabled navigation bar by default
-- Navigation bar turn on/off button added (Settings > System > Buttons)
-- Swipe with 3 fingers to screenshot gesure added

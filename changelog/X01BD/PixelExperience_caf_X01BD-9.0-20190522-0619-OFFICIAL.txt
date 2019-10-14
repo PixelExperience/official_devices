@@ -1,9 +1,0 @@
-* Enforcing build 
-* Kernel upstreamed to 4.4.180 
-* Always on display overlay added 
-* Fixed fc on some devices when connecting to bt headset 
-* Fixed screenshot when notch is hidden (no more black bar on top) 
-* Theming improvements: Added black theme (enabled by default on devices that have OLED screens), disabled dark theme when battery saver enabled (for devices that have LCD screens) 
-* Fonts improvements 
-* Fixed vibration on incoming calls
-* Others fixes

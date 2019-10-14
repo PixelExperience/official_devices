@@ -1,3 +1,0 @@
-* Source Related Fixes 
-* Switch to HWC2
-* Audio in call fixed

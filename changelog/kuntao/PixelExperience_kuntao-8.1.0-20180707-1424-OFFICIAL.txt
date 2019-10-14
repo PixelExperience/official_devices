@@ -1,7 +1,0 @@
-- Iuly security patch
-- Kernel Upstreamed to 3.18.114
-- Fixed 5ghz hotspot settings
-- Fixed proper Bluetooth stats on settings
-- Fixed NFC Switching ON & OFF
-- Modelnumber is now set to P2a42
-- Removed HD symbol for Volte users

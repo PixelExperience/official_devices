@@ -1,7 +1,0 @@
--Fixed DTV for pt-br amigos.
--Updated new camera blobs from stock.
--Kernel Upstreamed to .115.
--Fixed audio shits.
--July Patch.
--Cleaned up and updated tree for more smooth experience.
--checkfeatures.sh fixes.

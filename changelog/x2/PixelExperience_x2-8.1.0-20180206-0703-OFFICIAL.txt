@@ -1,8 +1,0 @@
-- February security patch
-- New features and Changes:
-  *Switch of OSS-CAM big thanks to @infrag (1nfrag)
-  *Music Ticker on Doze added 
-  *Added Themes
-  *Upstream Lineage updated many things to latest Lineage
-- Updated a lot of repos
-- Other minor changes

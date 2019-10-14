@@ -1,8 +1,0 @@
-- Upstreamed Kernel to v3.18.113
-
-- Fixed SafetyNet Error
-
-- Fixed Google Play Store Certification
-
-- Gcam Fixed
-

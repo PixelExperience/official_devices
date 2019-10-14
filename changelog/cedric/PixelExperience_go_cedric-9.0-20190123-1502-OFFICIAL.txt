@@ -1,6 +1,0 @@
-- Used clang 8.0.6
-- Safetynet fix
-- GCam by default
-- Added themes
-- Latests sources changes
-- Test fix for camcorder

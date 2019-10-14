@@ -1,4 +1,0 @@
-- June security patch
-- Kernel rebased
-- Camera improved
-- GoogleCamera updated

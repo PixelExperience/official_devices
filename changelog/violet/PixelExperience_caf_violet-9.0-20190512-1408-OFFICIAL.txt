@@ -1,3 +1,0 @@
-* Updated panel FW (fixes touch delay) thanks to @TheScarastic
-* Included dtbo
-* Source upstream

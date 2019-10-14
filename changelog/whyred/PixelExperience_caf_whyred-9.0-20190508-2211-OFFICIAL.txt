@@ -1,3 +1,0 @@
-* Added swipe with three fingers to take screenshot (exclusive version, no bugs on scrolling views)
-* Navbar: Allow disabling by "qemu.hw.mainkeys" prop
-* Others fixes

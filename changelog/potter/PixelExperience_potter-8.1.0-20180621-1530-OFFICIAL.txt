@@ -1,3 +1,0 @@
-* Update camera blobs
-* Fix low in-call volume
-* New translations

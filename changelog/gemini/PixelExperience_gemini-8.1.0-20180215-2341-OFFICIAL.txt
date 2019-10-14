@@ -1,5 +1,0 @@
-- Darkness kernel (Thanks MOVZX)
-- Fixed bug in Phone app
-- KCAL in Settings (Thanks IsOuzz)
-- Enforcing
-- Blobs updated to 8.2.1

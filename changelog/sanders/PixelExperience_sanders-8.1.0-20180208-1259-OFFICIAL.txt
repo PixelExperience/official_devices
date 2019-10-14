@@ -1,6 +1,0 @@
-*February Patch Merged.
-*Added ColorEngine from sources.
-*Kernel Upstreamed to .93.
-*Used Linaro GCC 7.2.
-*Many Small improvements.
-ENJOY!

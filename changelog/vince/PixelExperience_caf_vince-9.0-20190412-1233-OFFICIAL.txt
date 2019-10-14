@@ -1,8 +1,0 @@
-- (CLEAN FLASH NEEDED)
-- Merged Latest CAF Tag
-- Kernel Upstream to 4.9.168 thanks mdeejay
-- Miui camera is stock for now
-- Gcam not working stable on 4.9. kernel (omni sensor)
-- Thermal for 4.9 thanks rama982
-- Flac codec working fine
-- And other small changes

@@ -1,5 +1,0 @@
-- Fix Launcher lags
-- Set LMK Parameter to very light
-- audio: Merge LA.UM.7.6.r1-04500-89xx.0
-- overlay: Enable Swipe-up home gesture
-- Remove deprecated/useless flags

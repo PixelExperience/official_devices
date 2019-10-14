@@ -1,5 +1,0 @@
-﻿• August Security Patch
-• Latest PE changes
-• Latest LOS changes (device tree)
-• Updated Denny's kernel
-• Fixed BT (build 20180817-1122 bug)

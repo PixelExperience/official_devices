@@ -1,5 +1,0 @@
-Changelog:
-• Added factory reset protection
-• Fix low speaker volume
-• Kernel upstreamed to 3.18.139
-• Merged latest CAF tag into kernel

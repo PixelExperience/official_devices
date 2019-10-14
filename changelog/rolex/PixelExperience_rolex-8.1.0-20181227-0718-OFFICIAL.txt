@@ -1,4 +1,0 @@
-• Upstream Kernel into 3.18.130
-• Working Gcam without fix
-• Fixed Charging Offline
-• Using Fabian's Tree

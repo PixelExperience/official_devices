@@ -1,5 +1,0 @@
-
-- March security patch;
-- Stable GCAM prebuilt (how to config in xda thread);
-- Adjust light sensor warm-up time;
-- Fix for audio crashes in xda thread.

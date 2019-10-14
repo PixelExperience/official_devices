@@ -1,4 +1,0 @@
-- June security patch
-- Fix issues on navbar
-- Updated to latest phhusson's for device tree
-- Others improvements

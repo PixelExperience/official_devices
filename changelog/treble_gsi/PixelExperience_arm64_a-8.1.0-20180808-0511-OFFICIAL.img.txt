@@ -1,3 +1,0 @@
--August security patch
--Latest phh's fixes for several devices
--Bootloop fixed

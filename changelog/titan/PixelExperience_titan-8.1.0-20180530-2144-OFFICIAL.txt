@@ -1,7 +1,0 @@
-- Significant performance and stability improvements
-- Fixed occasional crashes at SetupWizard
-- Wave to wake screen or ambient display (AKA CMActions) (Last option under display settings)
-- Video recording fully working
-- WiFi connection improvements
-- Battery improvements
-- CPU Management improvements

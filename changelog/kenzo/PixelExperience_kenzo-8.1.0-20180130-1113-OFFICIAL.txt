@@ -1,4 +1,0 @@
-Google Camera by default
-Fixed equalizer fc
-Swithed to AOSP RIL
-Other Improvements

@@ -1,7 +1,0 @@
--February Patch
--Fixed Memory Leaks
--Zram decreased to 768 mb
--Kernel Related Changes
--Many other improvement
--Other source related updates
--Updated GAPPS

@@ -1,9 +1,0 @@
--Fix wi-fi after reboot
--display-caf fix Silence log spam
--Update system props for oreo
--Update Doze
--Disable bluetooth by default
--Fix video record
--Radio from Kipper 7.1 TOS125B
--Thermal from Kipper
--Fix GPS
