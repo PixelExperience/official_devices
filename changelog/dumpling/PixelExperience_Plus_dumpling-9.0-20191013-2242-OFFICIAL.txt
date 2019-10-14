@@ -1,0 +1,23 @@
+Here we go guys!
+The Final Pie Plus Edition is here!
+
+PixelExperience:
+- October security patch.
+- Dark bootanimation based on device theme
+- Lockscreen weather.
+- Ambient play has been removed due to conflicts on device microphone.
+
+Device Specific:
+- Upstreamed Weeb kernel to 4.4.196.
+- Removed display partial update.
+- Added EXT4 flags and F2FS support.
+- Moved DisplayMode to Display category.
+- Fixed NFC battery drain issue.
+- Fixed pocketmode.
+- Killed Google bug report service.
+- Disabled zram.
+- Some other changes I couldn’t remember.
+- End-Of-Life, see you all on PE Q!
+
+Have a great Thanksgiving everyone and Happy Flashing!
+Firmware requirement: 9.0.8
