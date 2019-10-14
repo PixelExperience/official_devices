@@ -1,0 +1,15 @@
+* October Security Patch
+
+Device Changelog:
+• Added MiuiCamera
+• Updated Graphic blobs to  LA.UM.8.2.r1-03200
+• Updated Media blobs to  LA.UM.8.2.r1-03200
+• Updated Perf blobs to  LA.UM.8.2.r1-03200
+• Updated Time Service blobs to  LA.UM.8.2.r1-03200
+• Updated Init files to  LA.UM.8.2.r1-04300
+• Cleaned up Vendor files
+• Updated CAF Media, Audio and Display Hals
+• Updated and cleaned up Audio Configs
+• Added Basic Sepolicy
+• Hide Volte Notification
+• Inflate signal strength
