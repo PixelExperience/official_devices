@@ -1,0 +1,3 @@
+- ROM sources update
+- October Security Patch
+- Fix bad mic quality recording

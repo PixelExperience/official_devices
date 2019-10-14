@@ -1,0 +1,8 @@
+- Update ROM Sources
+- October Security Patches
+- Fix sepolicy dirs path
+- Update media profiles (fix 1080p-4k video on stock camera)
+- Kernel patch for satefynet (google break satefynet check on lavender)
+- Wifi Hotspot fixed for 2.4ghz and 5ghz (fixed for some, bugged for few, still working for complete fix)
+- Enable VoLTE for Airtel/Vodafone India
+- Don't require FW version
