@@ -3,17 +3,14 @@
 #
 ### Script to test and format our jsons
 
-function setArgs() {
-    ADMINS="@admins"
-    BUILD_START=$(date +"%s")
-    BUILD_END=$(date +"%s")
-    DIFF=$((BUILD_END - BUILD_START))
-    GIT_CHECK="$(git status | grep "modified")"
-    COMMIT_AUTHOR="$(git log -1 --format='%an <%ae>')"
-    COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
-    COMMIT_SMALL_HASH="$(git rev-parse --short HEAD)"
-    COMMIT_HASH="$(git rev-parse --verify HEAD)"
-}
+ADMINS="@Hlcpereira @baalajimaestro"
+BUILD_START=$(date +"%s")
+BUILD_END=$(date +"%s")
+DIFF=$((BUILD_END - BUILD_START))
+GIT_CHECK="$(git status | grep "modified")"
+COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
+COMMIT_SMALL_HASH="$(git rev-parse --short HEAD)"
+COMMIT_HASH="$(git rev-parse --verify HEAD)"
 
 function sendAdmins() {
     curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001463677498&disable_web_page_preview=true&parse_mode=Markdown"
@@ -59,25 +56,22 @@ function checkJsons() {
         sendAdmins "\`Someone has merged a failing file. Please look in ASAP.\` %0A%0A${ADMINS} %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\`"
         echo "My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds. But its an error!"
         exit 1
+    else
+        sendAdmins "**I am building master branch job.** %0A**Commit Point:** [${COMMIT_SMALL_HASH}](https://github.com/PixelExperience/official_devices/commit/${COMMIT_HASH})"
     fi
 }
 
 function pushToGit() {
-    if [ ! -n "$GIT_CHECK" ]; then
-        git reset HEAD~1
-        git add .
-        git commit -m "[PIXEL-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
-        git remote rm origin
-        git remote add origin https://baalajimaestro:"${GH_PERSONAL_TOKEN}"@github.com/PixelExperience/official_devices.git
-        git push -f origin master
-        sendAdmins "JSON Linted and Force Pushed!"
-    fi
+    git add .
+    git commit --amend -m "[PIXEL-CI]: ${COMMIT_MESSAGE}"
+    git remote rm origin
+    git remote add origin https://baalajimaestro:"${GH_PERSONAL_TOKEN}"@github.com/PixelExperience/official_devices.git
+    git push -f origin master
+    sendAdmins "JSON Linted and Force Pushed!"
     echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
 }
 
-setArgs
 checkPullReq
 checkLint
 checkJsons
 pushToGit
-
