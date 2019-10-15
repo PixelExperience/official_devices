@@ -755,6 +755,13 @@
       "codename": "platina",
       "supported_versions": [
          {
+            "version_code": "ten",
+            "version_name": "10 (Beta)",
+            "maintainer_name": "Bruno Rocha (rochadev)",
+            "maintainer_url": "https://t.me/rochadev",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Bruno Rocha (rochadev)",

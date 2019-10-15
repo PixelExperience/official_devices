@@ -1,0 +1,13 @@
+** ROM Sources side **
+-October security patch
+-Lockscreen weather.
+-Ambient play has been removed due to conflicts on device microphone.
+
+** Device side **
+-No changes for Pie
+
+** Kernel side **
+-No changes for Pie
+
+** Vendor side **
+-No changes for Pie
