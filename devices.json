@@ -1128,5 +1128,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10 (Beta)",
+            "maintainer_name": "THLIVSQAZ",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9769648",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
