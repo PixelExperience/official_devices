@@ -1,0 +1,186 @@
+=======================
+     10-16-2019
+=======================
+
+
+   * device/motorola/potter/
+6231c6c4 potter: Enable workaround for old MCC/MNC format
+0a647b40 potter: Enable alternative method for manual network select
+ae2982a8 potter: Override android.hardware.audio@2.0-service
+c9895d4c potter: [DNM] Update props
+7cca780b potter: Drop unnecessary fqnames for DRM and add widevine instance
+11efc4f5 potter: Don't explicitly build the vendor.display.config 1.1 package
+b471e05e Revert "potter: Cleanup pinner service list and pin only the needed"
+f9a6cac3 potter: Update zram values
+
+   * vendor/motorola/potter/
+29ef891 potter: Update gfx (postprocessing) from AquariusX2
+95cb581 potter: Update libmmcamera_mot_ov5695.so
+
+=======================
+     10-15-2019
+=======================
+
+
+   * device/motorola/potter/
+20c0f57a potter: No need to add CarrierConfig in PRODUCT_PACKAGES
+05d473f3 potter: Drop QCOM location overlays
+3faab391 potter: Cleanup pinner service list and pin only the needed
+4e098006 potter: Cleanup init.mmi.rc for host_init_verifier
+aa999757 potter: gps: Fix 1.1 interface leftovers
+76186311 potter: GPS: Update from LA.UM.7.6.2.r1-04200-89xx.0 and update GPS packages
+
+   * vendor/motorola/potter/
+16ecb59 potter: update camera blobs from stock OPSS28.85-17-6-2
+407a9a6 potter: Update few cam blobs from 85-13-5
+
+=======================
+     10-14-2019
+=======================
+
+
+=======================
+     10-13-2019
+=======================
+
+
+=======================
+     10-12-2019
+=======================
+
+
+=======================
+     10-11-2019
+=======================
+
+
+=======================
+     10-10-2019
+=======================
+
+
+   * build/make/
+266577ae5 Bump Security String to 2019-10-05
+404b06e7d build: Fix building on MacOS
+db6f60e9d build: Disable 32-bit Darwin builds
+77210d8f0 check_boot_jars: Add CAF IMS to whitelist
+5b8354757 Revert "build: add org.codeaurora to package whitelist"
+
+   * device/qcom/sepolicy/
+a038a338 sepolicy: label persist.vendor.bluetooth.a4wp
+
+   * device/qcom/sepolicy-legacy/
+726c242 common: permit libqdutils operation (linked by mediaserver) during WFD
+
+   * frameworks/av/
+dca462a56 m4v_h263: add a test for invalid/negative value
+c7f3ab7b4 Fix OOB access in mpeg4/h263 decoder
+a9400ea46 audioflinger: Fix audio for WifiDisplay
+2faf50e90 libstagefright_wfd: video encoder does not actually release MediaBufferBase when done
+e28376268 stagefright: Fix buffer handle retrieval in signalBufferReturned
+c310b7394 stagefright: Fix SurfaceMediaSource getting handle from wrong position issue
+e7893a01c libstagefright_wfd: libmediaplayer2: compilation fixes
+af9469631 Revert "stagefright: remove Miracast sender code"
+f4c08d838 Revert "Removed unused class and its test"
+61c813555 MTP: Add support of ObjectInfoChanged Event
+
+   * frameworks/base/
+d80dd332c80 Automatic translation import
+27c14207ef1 Revert "Implement ambient play"
+60cac4b388c Fix smartspace on Pie
+edde85e1972 SystemUI: Implement Smart space
+62210c8a95c SystemUI: Port code to improve pixel live wallpapers
+a3e125c16f7 KeyguardSliceProvider: Fix "isDndSuppressingNotifications" missing method
+44e1ba70cb3 Merge "Revert "SystemUI: Implement weather on lockscreen like Pixels"" into pie
+c912bf7ec16 Initial import of SystemUIGoogleFactory
+4acfe16756d StatusBarSignalPolicy: Use alternative logic
+0b045abdcf7 SettingsLib: Fix PT translation for tether connected devices
+b6a3081f2e8 Merge "Revert "BatteryMeterDrawableBase: Don't colorize when level critical"" into pie
+6fadf58bf49 Merge "OP_REQUEST_INSTALL_PACKAGES denied by default" into pie
+154f99c3678 Merge "[RESTRICT AUTOMERGE] Pass correct realCallingUid to startActivity() if provided by PendingIntentRecord#sendInner()" into pie
+4abb9668aca Merge "SystemUI: Allow snoozing SD card notification unconditionally" into pie
+8ffe13fe792 Revert "SystemUI: Implement weather on lockscreen like Pixels"
+72fbe307986 Revert "BatteryMeterDrawableBase: Don't colorize when level critical"
+022a5bc1fa3 OP_REQUEST_INSTALL_PACKAGES denied by default
+4f80f4a38d2 [RESTRICT AUTOMERGE] Pass correct realCallingUid to startActivity() if provided by PendingIntentRecord#sendInner()
+0d7c9a869f9 SystemUI: Allow snoozing SD card notification unconditionally
+
+   * hardware/interfaces/
+13a44e18 Wifi: Syncronization on reading and writing ringbuffer
+
+   * manifest/
+df3d357 Track Nfc
+9563eb2 manifest: Stop tracking AmbientPlayHistoryProvider
+
+   * packages/apps/Nfc/
+3715f102 Prevent length underflow in NfcTag.cpp
+
+   * packages/apps/Settings/
+e296281b2e Automatic translation import
+1c4e71c456 Merge "Remove AmbientPlay" into pie
+274065d33c Settings: Add missing SystemSettingListPreference
+62a23674f5 Merge "Revert "Settings: Add weather temperature metric/imperial toggle"" into pie
+243c50c7f2 Settings: Refactor PE version on about phone
+27be01318c Remove AmbientPlay
+4720194ed4 Revert "Settings: Add weather temperature metric/imperial toggle"
+f76a66ef16 Treat mode_default as denied for install_unknown_apps
+
+   * packages/apps/Snap/
+5057994ce snap: remove double resources
+
+   * packages/apps/Updates/
+ef6dc22 Automatic translation import
+
+   * packages/providers/DownloadProvider/
+49f5d14d Automatic translation import
+
+   * packages/services/Telecomm/
+a930b92d Telecomm: Update MSIM audio params logic again
+
+   * vendor/aosp/
+43e6991a vendor: Don't build AmbientPlayHistoryProvider
+3ce17780 vendor: branding: Add org.pixelexperience.version.display prop
+e2594717 build: Remove TARGET_CRYPTFS_HW_PATH
+
+   * vendor/gapps/
+6756d98 Update perms
+
+=======================
+     10-09-2019
+=======================
+
+
+=======================
+     10-08-2019
+=======================
+
+
+=======================
+     10-07-2019
+=======================
+
+
+=======================
+     10-06-2019
+=======================
+
+
+=======================
+     10-05-2019
+=======================
+
+
+   * hardware/qcom/display-caf/msm8998/
+7e778780 gralloc: Add option for YCrCb venus camera preview
+0ba72667 gralloc: Allow devices to opt-in for YCrCb camera preview
+
+=======================
+     10-04-2019
+=======================
+
+
+=======================
+     10-03-2019
+=======================
+
+
