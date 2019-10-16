@@ -33,10 +33,18 @@ function checkPullReq() {
 }
 
 function checkLint() {
+
     if [[ "$COMMIT_MESSAGE" =~ "[PIXEL-CI]" ]]; then
+      if [[ -n "$PULL_REQUEST_NUMBER" ]]; then
+        sendMaintainers "\`PR $PULL_REQUEST_NUMBER has CI-Skip mechanism. It has been closed.\`"
+        sendAdmins "\`I have closed PR $PULL_REQUEST_NUMBER for using CI-Skip mechanism. \`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
+        curl -s -X POST -d '{"state": "closed"}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/pulls/$PULL_REQUEST_NUMBER > /dev/null
+        curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! You attempted to skip CI on a PR, its not permitted. Reopen PR after you fix the commit message."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments > /dev/null
+      else
         printf "\n\n***Commit Already Linted***\n\n"
         exit 0
     fi
+  fi
 }
 
 function checkJsons() {
