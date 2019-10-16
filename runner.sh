@@ -21,9 +21,8 @@ function sendMaintainers() {
     curl -s "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendmessage" --data "text=${*}&chat_id=-1001287849567&disable_web_page_preview=true&parse_mode=Markdown"
 }
 
-function closePR() {
-    curl -s -X POST -d '{"state": "closed"}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/pulls/$PULL_REQUEST_NUMBER >/dev/null
-    curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! This PR has been closed as it doesnt pass through our checks. You can check the Build Status under Semaphore CI to see where it failed."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments >/dev/null
+function failPR() {
+    curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! This PR has been doesnt pass through our checks. You can check the Build Status under Semaphore CI to see where it failed."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments >/dev/null
     exit 1
 }
 
@@ -44,8 +43,7 @@ function checkLint() {
         if [[ -n "$PULL_REQUEST_NUMBER" ]]; then
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has CI-Skip mechanism. It has been closed.\`"
             sendAdmins "\`I have closed PR $PULL_REQUEST_NUMBER for using CI-Skip mechanism. \`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
-            curl -s -X POST -d '{"state": "closed"}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/pulls/$PULL_REQUEST_NUMBER >/dev/null
-            curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! You attempted to skip CI on a PR, its not permitted. Reopen PR after you fix the commit message."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments >/dev/null
+            curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! You attempted to skip CI on a PR, its not permitted."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments >/dev/null
             exit 1
         else
             printf "\n\n***Commit Already Linted***\n\n"
@@ -62,11 +60,11 @@ function checkJsons() {
         if [[ ! "$CHANGED_FILES" =~ "builds" || ! "$CHANGED_FILES" =~ "changelog" ]] && [[ ! "$CHANGED_FILES" =~ "devices.json" ]]; then
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has an improper format and has been closed.\`%0A\`Maintainer has been requested to follow the PR guidelines before PR-ing again.\`"
             sendAdmins "\`I have closed PR $PULL_REQUEST_NUMBER due to failing checks.\`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
-            closePR
+            failPR
         elif [ "$RESULT" -eq 1 ]; then
             sendAdmins "\`PR $PULL_REQUEST_NUMBER is failing checks. Please don't merge\` %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\`"
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER is failing checks. Maintainer is requested to check it\` %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\` %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
-            closePR
+            failPR
         else
             echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
             sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
