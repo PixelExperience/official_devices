@@ -337,6 +337,7 @@
          {
             "version_code": "ten",
             "version_name": "10 (Beta)",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
@@ -344,6 +345,7 @@
          {
             "version_code": "pie",
             "version_name": "Pie",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197"
@@ -351,6 +353,7 @@
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197"
@@ -455,6 +458,7 @@
          {
             "version_code": "ten",
             "version_name": "10 (Beta)",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
@@ -462,6 +466,7 @@
          {
             "version_code": "pie",
             "version_name": "Pie",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3857076"
@@ -469,6 +474,7 @@
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3857076"
@@ -1025,6 +1031,7 @@
          {
             "version_code": "pie",
             "version_name": "Pie",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t3965305"
@@ -1032,6 +1039,7 @@
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
+            "maintainer_ci_login": "henrique",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
             "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t3965305"
