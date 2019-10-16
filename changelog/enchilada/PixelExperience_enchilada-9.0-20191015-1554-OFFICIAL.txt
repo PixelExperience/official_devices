@@ -1,0 +1,4 @@
+- October Patch
+- kernel upstreamed to .196
+
+NOTE : FINAL PE PIE UPDATE!!!
