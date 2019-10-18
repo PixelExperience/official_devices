@@ -1,0 +1,4 @@
+- Remove default ringtones
+- Update camera chromatix
+- Update Vendor SP with Platform SP
+- SafetyNet fixed (overwrite fingerprint)
