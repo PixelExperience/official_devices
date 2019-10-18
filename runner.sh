@@ -37,8 +37,8 @@ function checkPullReq() {
         git checkout master >/dev/null
         git pull origin master >/dev/null
     else
-        export CHANGED_FILES="$(git --no-pager diff --name-only HEAD $(git merge-base HEAD origin/master))"
         git fetch origin master >/dev/null
+        export CHANGED_FILES="$(git --no-pager diff --name-only HEAD $(git merge-base HEAD origin/master))"
     fi
 }
 
