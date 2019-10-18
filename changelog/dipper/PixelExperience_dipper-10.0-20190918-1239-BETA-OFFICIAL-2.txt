@@ -1,0 +1,3 @@
+- Initial PixelExperience Q Beta Release
+
+Minimum Firmware: 9.6.20
