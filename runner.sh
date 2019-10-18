@@ -63,7 +63,7 @@ function checkJsons() {
     RESULT=$?
 
     if [ -n "$PULL_REQUEST_NUMBER" ]; then
-        if [[ ! "$CHANGED_FILES" =~ "builds" || ! "$CHANGED_FILES" =~ "changelog" ]] && [[ ! "$CHANGED_FILES" =~ "devices.json" ]]; then
+        if [[ ! "$CHANGED_FILES" =~ "builds" || ! "$CHANGED_FILES" =~ "changelog" ]] || [[ ! "$CHANGED_FILES" =~ "devices.json" ]]; then
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has an improper format and has been closed.\`%0A\`Maintainer has been requested to follow the PR guidelines before PR-ing again.\`"
             sendAdmins "\`I have closed PR $PULL_REQUEST_NUMBER due to failing checks.\`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
             closePR
