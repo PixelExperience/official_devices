@@ -129,7 +129,8 @@
             "version_name": "Pie",
             "maintainer_name": "Akash Srivastava (markakash)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763",
+            "deprecated": true
          }
       ]
    },
