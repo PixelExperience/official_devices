@@ -1144,5 +1144,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Mi A3",
+      "brand": "Xiaomi",
+      "codename": "laurel_sprout",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10 (Beta)",
+            "maintainer_name": "Prakash (prakaship78)",
+            "maintainer_url": "https://github.com/Prakaship78",
+            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
+         }
+      ]
    }
 ]
