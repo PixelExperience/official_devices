@@ -1,0 +1,80 @@
+Kernel Changes:
+* Revert "ARM: dts: msm: Update PIL region for sm6150"
+* power: smb5: adapt Xiaomi changes for updated functions
+* techpack: Move asoc to its proper place
+* Merge tag 'LA.UM.8.1.r1-10300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel into ten
+* Merge tag 'LA.UM.8.1.r1-10300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/fw-api into ten
+* Merge tag 'LA.UM.8.1.r1-10300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn into ten
+* Merge tag 'LA.UM.8.1.r1-10300-sm8150.0' of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0 into ten
+* Merge tag 'LA.UM.8.1.r1-10300-sm8150.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.14 into ten
+* Revert "Revert "drm/msm/sde: Add 1D LUT IGC support for LUT_LAST""
+
+Tree changes:
+* violet: Use pixel fp to bypass safetynet
+* violet: init.qcom.post_boot: initialize the tuning settings for NPU bwmon
+* violet: init.qcom.post_boot: new tuning settings for atoll
+* violet: Init: Add system group for init.class_main.sh
+* violet: Add locSll library and add permissions to device node
+* violet: sdmshrike: update the min L3 and cpu frequencies
+* violet: post_boot: Increase the IO percentage for the npu devices
+* violet: init.qcom.post_boot.sh: r2 related changes updated frequency corner changes related to r2 for Lito.
+* violet: init.qcom.post_boot: Add soc_id for QCM2150
+* violet: init.qcom.post_boot: split npu dcvs nodes configuration
+* violet: init.qcom.post_boot.sh: Disable watermark_scale_factor
+* violet: init.qcom.post_boot: add NPU power on and off commands
+* violet: post_boot: add settings for qoslat device on kona
+* violet: Increase ZRAM swap size.
+* violet: init.qcom.post_boot: Update scheduler/dcvs settings for lito
+* violet: post_boot: disable coloc sched busy hyst on lito
+* violet: init: qcom: Start IRQ balancer for bengal
+* violet: gvm bringup changes
+* violet: qcom: devices: Add iuicc0 and iuicc1 devices
+* violet: Use modem version information to launch qcrild
+* violet: IMS: Add config flag for VT one way options
+* violet: Update display props
+* violet: Update WCNSS_qcom_cfg from davinci
+* violet: Update CDSP blobs from davinci
+* violet: Update ADSP blobs from davinci
+* Partially Revert "violet: init.qcom.rc: Change user/group permission for for charger"
+* violet: ueventd: Label qg battery nodes
+* violet: Switch to OSS display stack
+* violet: Update init.*_boot.sh from LA.UM.8.1.r1-09500-sm8150.0
+* violet: init.qcom.rc: Add owners for dual lcd brightness node
+* violet: init.qcom.rc: Change user/group permission for for charger
+* violet: init.qcom.rc: Nuke lct_diag stuff
+* violet: init.qcom.rc create directory for sensing output
+* violet: init.qcom.rc: Create data vendor folder for eSE
+* violet: init.qcom.rc: remove wigighalsvc service definition
+* violet: Update init.class_main.sh from LA.UM.8.1.r1-09500-sm8150.0
+* violet: ueventd: Label iuicc instead of iuicc0-1
+* Revert "violet: ueventd: add /vendor/firmware to firmware paths"
+* violet: Uprev Radio packages
+* violet: Uprev wifi supplicant to 2.1
+* violet: Build atrace hal
+* violet: Update QMI blobs from raphael
+* violet: Update radio props
+* violet: rootdir: Don't start netmgr and port-bridge
+* violet: rootdir: Remove radio definition
+* violet: Update Radio blobs from raphael
+* violet: Add iuicc0 and iuicc1 devices
+* violet: init.qcom.usb: Create 0x409 configfs directory with root user perms
+* violet: ims: Update imscmservice hal entry
+* violet: Update uceservice hal
+* violet: Update QtiRadio HAL to Version 2.3
+* violet: Split hal version for ISap, IRadio
+* violet: Version update of IUim HAL to 1.2
+* violet: Update RadioConfig HAL to 1.1 in vendor manifest.
+* violet: update IRadio HAL version to 1.4
+* violet: Updated the GID of /dev/smcinvoke to drmrpc
+* violet: Add permission for qvr external sensor  nodes.
+* violet: Remove shmbus file on bootup
+* violet: ueventd: Allow camera to access cvp
+* violet: display: Add graphics group for min_level_change node
+* violet: config.fs: init: Add AID_VENDOR_THERMAL for thermal-engine
+* violet: init: Set ownership for iar_db path
+* violet: Enable ipsec_tunnel feature
+* violet: Update permission xml file path
+* violet: init.qcom.rc: boot cvp subsystem when system boots up
+* violet: init.qcom.rc: boot up npu subsystem when system boots up
+* violet: Allow qcrild to access new QMI service
+* violet: Import init.qti.chg_policy.sh and charger_monitor rc
