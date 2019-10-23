@@ -1,0 +1,5 @@
+* Updated To October patches
+* Merged Device tree changes from Zeelog
+* Merged PixelExperience Changes 
+* Merged Kernel Upstreams From latest CAF changes
+* Final PIE update 
