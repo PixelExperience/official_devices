@@ -1180,5 +1180,19 @@
             "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
          }
       ]
+   },
+   {
+      "name": "Mi 6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10 (Beta)",
+            "maintainer_name": "THLIVSQAZ",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9769648",
+            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixelexperience-t3981749"
+         }
+      ]
    }
 ]
