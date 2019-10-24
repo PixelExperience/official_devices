@@ -9,6 +9,11 @@
          "md5": "26d13df21bc7c80d7f8e161c00e92232",
          "file_size": 1204624796,
          "file_name": "PixelExperience_Plus_capricorn-9.0-20190908-1359-OFFICIAL.zip"
+      },
+      {
+         "md5": "21a56d457a4c45b20aa1b852fd38003e",
+         "file_size": 1204460195,
+         "file_name": "PixelExperience_Plus_capricorn-9.0-20191023-0734-OFFICIAL.zip"
       }
    ],
    "pie": [
@@ -46,6 +51,11 @@
          "md5": "eeead3525c5ea740288c1c4789caa5bd",
          "file_size": 1201902302,
          "file_name": "PixelExperience_capricorn-9.0-20190907-2341-OFFICIAL.zip"
+      },
+      {
+         "md5": "727929acb4d0e3b21c73d1ce34573bed",
+         "file_size": 1201830220,
+         "file_name": "PixelExperience_capricorn-9.0-20191023-0316-OFFICIAL.zip"
       }
    ],
    "oreo": [
