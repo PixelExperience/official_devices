@@ -9,6 +9,11 @@
          "md5": "8266d445089913b4cf75ae73b2ce5717",
          "file_size": 1204940924,
          "file_name": "PixelExperience_Plus_gemini-9.0-20190910-1154-OFFICIAL.zip"
+      },
+      {
+         "md5": "8b116dce64f60800d75c15148d7b308a",
+         "file_size": 1205286602,
+         "file_name": "PixelExperience_Plus_gemini-9.0-20191024-0315-OFFICIAL.zip"
       }
    ],
    "pie": [
@@ -56,6 +61,11 @@
          "md5": "6343347eef92578989b547c9ccde2851",
          "file_size": 1202200908,
          "file_name": "PixelExperience_gemini-9.0-20190910-0332-OFFICIAL.zip"
+      },
+      {
+         "md5": "a13068b0861a90a687ed67a0d1d529f7",
+         "file_size": 1202432414,
+         "file_name": "PixelExperience_gemini-9.0-20191024-0006-OFFICIAL.zip"
       }
    ],
    "oreo": [
