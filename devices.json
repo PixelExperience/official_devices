@@ -30,6 +30,7 @@
             "version_name": "Pie",
             "maintainer_name": "",
             "maintainer_url": "",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
          },
          {
@@ -37,6 +38,7 @@
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "",
             "maintainer_url": "",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
          }
       ]
