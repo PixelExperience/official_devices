@@ -28,15 +28,17 @@
          {
             "version_code": "pie",
             "version_name": "Pie",
-            "maintainer_name": "Aryan Kedare (aryankedare)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6537039",
+            "maintainer_name": "",
+            "maintainer_url": "",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
          },
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Aryan Kedare (aryankedare)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6537039",
+            "maintainer_name": "",
+            "maintainer_url": "",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
          }
       ]
