@@ -339,9 +339,6 @@
       "codename": "whyred",
       "supported_versions": [
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "ten",
             "version_name": "10 (Beta)",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -349,9 +346,6 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
          },
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -359,9 +353,6 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3830197"
          },
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -466,9 +457,6 @@
       "codename": "beryllium",
       "supported_versions": [
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "ten",
             "version_name": "10 (Beta)",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -476,9 +464,6 @@
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
          },
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -486,9 +471,6 @@
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3857076"
          },
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -1045,9 +1027,6 @@
       "codename": "raphael",
       "supported_versions": [
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Henrique Silva (jhenrique09)",
@@ -1055,9 +1034,6 @@
             "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t3965305"
          },
          {
-            "ci_authorized_users": [
-               "henrique"
-            ],
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "Henrique Silva (jhenrique09)",
