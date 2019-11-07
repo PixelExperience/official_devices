@@ -19,9 +19,7 @@ You must be aware that just fulfilling those requirements doesn't mean that you'
 
 ### 2. OTA and Hosting
 
-Our OTA system is automatic, you should not worry about updating some script. The builds are hosted on our own host server. You must build the official releases on our CI, no builds outside of it can be released as official. After the build tested, you can released.
-
-**Note:** New builds can take up to 30 minutes to appear on the site and in the OTA application.
+Our OTA system is automatic, you should not worry about updating some script. The builds are hosted on our own server. You must build the official releases on our CI, no builds outside of it can be released as official. After the build tested, you can release.
 
 ### 3. JSON params
 
