@@ -1,6 +1,0 @@
-Changelog:
-• Added Double tap to wake switch in settings.
-• Optimized audio output from speaker.
-• Fixed UI lag.
-• Fixed video calling(working in my testing).
-• Merged latest CAF tag into kernel.

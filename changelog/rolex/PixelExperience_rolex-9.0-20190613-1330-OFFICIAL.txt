@@ -1,6 +1,0 @@
-* Revert Fix launcher 
-* Fixed WhatsApp Green Tint Issue Of Front Camera On HAL3
-* Fix Gcam crashing
-* Enable HAL3 by default ( no need enable manually again )
-* Dropped Wifi Display
-* Enable Sglscale

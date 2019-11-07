@@ -1,5 +1,0 @@
-*Fixed AGK configs
-*Merged with latest PE sources
-*Merged with latest los device tree
-
-Note : Please do a clean flash if facing any problem

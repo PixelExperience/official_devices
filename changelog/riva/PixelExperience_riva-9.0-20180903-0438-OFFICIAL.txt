@@ -1,4 +1,0 @@
-- Fixed Bluetooth (sometimes it was crashing)
-- Fixed Stock Camera
-- Fixed Front Cam For All Apps
-- Upstreamed Kernel To v3.18.120

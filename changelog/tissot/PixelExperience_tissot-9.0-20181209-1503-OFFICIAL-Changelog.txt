@@ -1,7 +1,0 @@
-* Upstream to latest Linux 4.9.144 Kernel
-* Make latest update compatible with Mi A1 December firmware
-* Enable 4G+/LTE+ icon in status bar
-* Update blobs from tissot PKQ1.180917.001
-* Update audio configuration for P
-* Add support for overriding vendor properties" into pie
-* Update pixel.xml with Pixel 3 exclusive features

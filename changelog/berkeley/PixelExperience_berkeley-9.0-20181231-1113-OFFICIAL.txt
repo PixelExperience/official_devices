@@ -1,4 +1,0 @@
-* Updated display blobs from EMUI 9
-* Fixed Ambient Play
-* Added saving options for Ambient Play
-* Improved lockscreen weather

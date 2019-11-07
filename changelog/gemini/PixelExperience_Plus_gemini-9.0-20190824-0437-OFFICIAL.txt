@@ -1,6 +1,0 @@
-PixelExperience:
-- August Security Patch (9.0.0._r46)
-- Gapps updated
-- Translations updated
-- General sources update and bug fixes
-- Initial Plus Edition Build

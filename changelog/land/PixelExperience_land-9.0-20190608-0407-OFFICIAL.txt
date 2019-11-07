@@ -1,6 +1,0 @@
-Changelog:
-
-• Enabled Adaptive Brightness by default.
-• Some minor optimizations.
-• Kernel upstreamed to 3.18.140
-• Merged latest CAF tg into kernel.

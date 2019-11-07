@@ -1,8 +1,0 @@
-Changelog for 28.01.2019 build:
-
-- Kernel upstreamed to Linux 4.9.153
-- Added QCOM's WiFi Display implementation
-- Added support for High Brightness Mode (HBM)
-- Support Alipay and WeChat fingerprint payment
-- Power optimizations
-- Misc changes

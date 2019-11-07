@@ -1,9 +1,0 @@
-- June Security patch merged
-- r_40 merged
-- Kernel upstreamed to .180
-- Livedisplay: Fixed the bug related to display mode resetting on reboot
-- Theming and fonts improved
-- Network traffic indicator improved
-- Translations updated
-- Google apps updated
-- Others fixes

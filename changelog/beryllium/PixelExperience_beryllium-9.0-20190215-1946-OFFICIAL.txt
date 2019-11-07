@@ -1,2 +1,0 @@
-* Kernel changed to Sphinx
-* Thermal and others improvements

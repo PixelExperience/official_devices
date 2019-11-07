@@ -1,8 +1,0 @@
-*Audio：Move Mi Sound to XiaomiParts
-Eventually Fix Dynamic Processing ！！！
-*GPS: Update GPS configs from MI 8 LITE
-*GPU: Add perf profile
-*Kcal: Add Pre Configurred Display Calibrations
-*Fixed Safety Net
-*Revamped dark theme merged in source (inspired on design from Google Messages and Dialer)
-*Kernel：Upstream to 4.4.174

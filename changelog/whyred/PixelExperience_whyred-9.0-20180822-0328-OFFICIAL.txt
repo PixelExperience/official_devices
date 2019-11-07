@@ -1,6 +1,0 @@
-* Fixed FM
-* Fixed searchbar on Settings
-* Calculator added by default
-* Fixed weird animation on navigation bar after changing wallpaper
-* Signal strength improved
-* Fixed fc on imei section

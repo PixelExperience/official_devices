@@ -1,5 +1,0 @@
-- merged November patch
-- updated graphics blobs (from Redmi 5A, should be better)
-- changed kernel to Direwolf
-- fixed reset SIM card after every reboot
-- synced sources (2018/11/11)

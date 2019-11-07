@@ -1,8 +1,0 @@
-* September security patch
-* Device tree rebased
-* Added back camera patch
-* PureCAF Kernel x10.2
-* Improved ambient play
-* Fixed heads up disabling
-* Improved scrolling on some apps
-* Enhanced call blocking

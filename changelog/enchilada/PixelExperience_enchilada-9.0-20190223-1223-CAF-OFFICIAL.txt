@@ -1,4 +1,0 @@
-Initial CAF-Build
-Upstreamed kernel to .160
-Lots of improvements to kernel
-Fixed double tap to wake

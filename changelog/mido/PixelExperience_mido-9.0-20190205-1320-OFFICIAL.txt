@@ -1,7 +1,0 @@
-* Merged Android-9.0.0_r31 Tag
-* Merged 3.18.133 Tag 
-* Dirac Implementation in device itself
-* updated more doze configs
-* fixed wake toggle in enforcing builds
-* fixed flashlight settings restore
-* many more underhood changes

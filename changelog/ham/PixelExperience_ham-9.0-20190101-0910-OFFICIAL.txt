@@ -1,5 +1,0 @@
-*December Securtiy Patch
-*Selinux Enforcing
-*Now Playing with added options
-*Lag Fix
-*Kernel Updated

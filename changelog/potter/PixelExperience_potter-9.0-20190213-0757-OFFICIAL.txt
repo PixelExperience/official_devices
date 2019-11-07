@@ -1,4 +1,0 @@
-*Rebased kernel
-*Preopt fixes for some system apps
-*If this update doesn't boot decrypt your data
-

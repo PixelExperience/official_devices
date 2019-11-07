@@ -1,9 +1,0 @@
-* Merged April Security Patches 
-* Added Support for Alipay fingerprint payment
-* Updated Sepolicies
-* Added Wifi MAC Address Randomisation Toggle
-* Kernel Upstreams from zeelog 
-* Device Tree Upstreams From zeelog
-* Improved Dark Theme 
-* Many Underhood Changes 
-

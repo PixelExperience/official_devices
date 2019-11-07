@@ -1,4 +1,0 @@
-Device Side Changes:
-- Improved signal reception
-- Improved battery life
-- Added dirac

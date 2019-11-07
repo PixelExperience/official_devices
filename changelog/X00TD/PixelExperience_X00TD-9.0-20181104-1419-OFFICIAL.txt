@@ -1,3 +1,0 @@
->Changed The Kernel.
->Added Snap Cam As Deafult Cam.
->Performance and Stability Improved.

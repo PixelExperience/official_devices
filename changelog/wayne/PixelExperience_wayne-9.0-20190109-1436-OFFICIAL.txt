@@ -1,2 +1,0 @@
-*Removed Dual Speaker Output(fix incall sound issue)
-*Upstream Kernel with Mi-code

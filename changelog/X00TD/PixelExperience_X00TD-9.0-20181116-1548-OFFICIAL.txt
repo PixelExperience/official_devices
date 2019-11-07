@@ -1,8 +1,0 @@
-November Security Patch.
-Updated Graphics and GPS Blobs.
-Added PBH Kernel As Default Kernel.
-Fixed FP Scanner Speed.
-Added Ambient Play And Ambient Play History.
-Performance And Stability Improvement.
-
-*******Plz Clean Flash This Build *******

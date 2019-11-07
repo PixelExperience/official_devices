@@ -1,5 +1,0 @@
-* July patch merged
-* r_44 merged
-* Kernel updated to latest CAF
-* NFC fixed
-* Switched to pie blobs

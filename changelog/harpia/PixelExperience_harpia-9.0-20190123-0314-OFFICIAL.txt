@@ -1,6 +1,0 @@
-- GPS fully fixed ( like in stock rom )
-- Improve UI and UX
-- Improved ram management
-- Fix USB audip support
-- Fix random black lines appearing randomly on screen
-- Tune Virtual Memory

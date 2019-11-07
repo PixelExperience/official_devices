@@ -1,6 +1,0 @@
-* July security patch 
-* Theming fixes 
-* Night display improvements 
-* Updated gapps
-* Updated translations
-* Others bug fixes

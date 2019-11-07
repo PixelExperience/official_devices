@@ -1,9 +1,0 @@
-- Updated source (security patch for March)
-- Changed adaptive brightness
-- Wifi calls
-- Replaced ims.apk from tissot
-- Sound fix (fix sound delay in some games)
-- Fixed download speed with wifi + bt + location
-- Updated kernel to 3.18.136-DarkPhoenix
-- Advanced settings Ambient display
-

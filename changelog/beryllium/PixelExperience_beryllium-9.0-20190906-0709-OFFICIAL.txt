@@ -1,7 +1,0 @@
-* September security patch
-* Fixed volte on some carriers
-* Illusion kernel 4.1
-* Improved ambient play
-* Fixed heads up disabling
-* Improved scrolling on some apps
-* Enhanced call blocking

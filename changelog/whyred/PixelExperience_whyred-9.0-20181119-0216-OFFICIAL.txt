@@ -1,8 +1,0 @@
-* Derp kernel 3.5 (4.4.163)
-* Enforcing selinux
-* New blobs from Mi A2 and MIUI 8.11.15
-* MiuiCamera updated
-* Fixed download notification issue
-* Fixed power button double tap
-* Fixed exfat
-* Few optimizations and other bugs fixed

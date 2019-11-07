@@ -1,4 +1,0 @@
-* Upstream kernel to 4.9.412
-* Fix previous build not booting
-* Optimize battery stats
-* Reboot options fixed

@@ -1,7 +1,0 @@
-- Kernel upstreamed to .98
-- Added AOD
-- Added raise to wake
-- Removed duplicate fingerprint icon on lockscreen
-- Fixed notification lights
-- Fixed media playback(bad quality) issue on apps like Insta, etc
-- Optimised kernel a bit more( Credits to @Alexays)

@@ -1,7 +1,0 @@
-- Initial CAF build;
-- Adjust statusbar icons padding;
-- Adjust statusbar icons in lockscreen;
-- FaceUnlock enabled by default;
-- Update vibration pattern from Pixel3;
-- Battery percentage inside icon (more free space in statusbar);
-- Fit notch as perfect statusbar size.

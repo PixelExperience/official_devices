@@ -1,2 +1,0 @@
-*SELinux is enforcing
-*GCam Mod by San1ty is prebuilt

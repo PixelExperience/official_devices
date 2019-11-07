@@ -1,7 +1,0 @@
-* February security patch
-* Per app thermal control (Settings > Apps > Select any app > Optimization mode)
-* Gcam updated
-* Derp kernel 2.7, compiled with clang 8.0.8
-* Fixed theming issues on various parts
-* Fixed dt2w for some panels
-* Fixed hdr issue on videos

@@ -1,3 +1,0 @@
-added gcam by default
-fixed preferential chip selection in every reboot
-added wheater on lockscreen and homescreen

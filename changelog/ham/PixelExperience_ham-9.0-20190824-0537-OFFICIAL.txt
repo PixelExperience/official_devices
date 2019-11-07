@@ -1,6 +1,0 @@
-* August security patch
-* Ambient play improved
-* Source code rebased and cleaned up, this will facilitate Android 10 bring up, and also few improvements to current base.
-* Google apps updated
-* Lot of under the hood fixes
-* Bug fixes and performance improvements

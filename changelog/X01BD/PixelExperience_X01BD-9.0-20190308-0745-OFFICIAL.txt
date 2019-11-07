@@ -1,5 +1,0 @@
-Changelog:-
-March Security Patch Merged
-Selinux is Enforcing now
-Fixed Camera
-Kernel Upstreamed(Thnx Arrow team)

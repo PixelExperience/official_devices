@@ -1,6 +1,0 @@
-* Fixed Flickering 
-* Updated Graphics Blobs
-* BHIM App Should Be Working Now 
-* Many Under hood changes
-* CAF SUPPORT IS OFFICIALLY DROPPED 
-

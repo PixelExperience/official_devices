@@ -1,3 +1,0 @@
-*Fixed wifi hotspot issue
-*Camera: slow/fast motion video recording
-*Minor bug fixes

@@ -1,8 +1,0 @@
-* February security patch
-* Add Dirac support
-* Fixed theming issues on various parts
-* Fixed casting ( partially audio doesn't work )
-* Fixed IR ( Can use any remote control apps now )
-* Ship LeEco IR remote apk
-* Updated prebuilt gcam
-* Add AptX blobs

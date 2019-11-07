@@ -1,5 +1,0 @@
-* Updated Audio Properties 
-* Addressed Sepolicy Denails For Kcal And Vibrator 
-* Added AdvancedControls
-* Fixed Random MAC Address For WiFi
-* AdvancedControls Icon Updated

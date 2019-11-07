@@ -1,3 +1,0 @@
-* Changed to stable Gcam
-* Upstreamed source 
-* Soft Keys added

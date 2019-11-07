@@ -1,8 +1,0 @@
-* Merged Jan Patches 
-* Merged Latest Sepolicy CAF Tag 
-* Upstreamed Kernel To 3.18.131
-* Fixes Camera Focus
-* Fixes Offline Charge
-* data-ipa-cfg-mgr from caf
-* Fixed Wake Delay
-* Updated Camera Blobs from MIUI V10.1.1.0 

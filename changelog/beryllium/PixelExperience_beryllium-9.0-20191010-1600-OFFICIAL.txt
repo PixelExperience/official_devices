@@ -1,5 +1,0 @@
-- October security update
-- Improved weather
-- Removed ambient play due to issues
-- Kernel upstreamed
-- Others improvements

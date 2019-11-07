@@ -1,9 +1,0 @@
-* Tree updated (Thanks @sohamlad7) 
-* Fixed black screen if dirty flashed 
-* Switched back to Camera2 
-* Enabled metadata for FDE 
-* USB Tethering fixed thanks to @wiktorek140 
-* Added QCOM's WFD 
-* Synced some config files with stock 
-* Addressed some vendor_init denials
-* Copied missing vendor.display.config

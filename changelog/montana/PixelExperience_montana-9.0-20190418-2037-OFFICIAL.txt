@@ -1,6 +1,0 @@
-- April Security Patch
-- Minimal Gapps is Back
-- Gcam by Default Now
-- WiFi calling in supported countries 
-- Parallalel Screens Support Now
-- Upstreamed kernel to 3.18.138 from 3.18.113

@@ -1,3 +1,0 @@
-* Upstreamed kernel to 3.18.128
-* December r21 security patch
-* Updated NFC configs for stock oreo firmware

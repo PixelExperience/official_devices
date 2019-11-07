@@ -1,5 +1,0 @@
-Plus edition:
-* New Edition to include our customizations options available in our Pie Edition
-* Added support for long screenshots
-* Improved theming
-* August Security Patch

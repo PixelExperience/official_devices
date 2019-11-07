@@ -1,4 +1,0 @@
-* Fixed manual network selection
-* New OTA app
-* Improved now playing on lock screen
-* Improved weather

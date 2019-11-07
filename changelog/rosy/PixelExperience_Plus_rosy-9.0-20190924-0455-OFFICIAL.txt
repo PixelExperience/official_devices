@@ -1,3 +1,0 @@
-- System stability improvements
-- Few essential bug fixes
-- Rest changelogs at http://downloads.shreejoydash.me/changelogs.txt

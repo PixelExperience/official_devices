@@ -1,8 +1,0 @@
--Wifi display fixed
--Led fixed
--Enforcing selinux
--Update some blobs from Mi 8 lite
--Update some blobs from MIUI V10.2.1.0.OEICNFK
--Weather on lockscreen improved
--Ambient Play improved
--Added saving options for AmbientPlay

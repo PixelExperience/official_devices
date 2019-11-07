@@ -1,5 +1,0 @@
-- merged December patch
-- improved stability and performance
-- synced sources (2018/12/06)
-- should be no glitches (backed to OpenGL renderer) or lags
-- error with wifi+gps=very much usage cpu not fixed yet..

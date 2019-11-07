@@ -1,8 +1,0 @@
--April Security Patch
--WiFi calling in supported countries
--Upstreamed kernel to 3.18.138 from 3.18.113
--Gcam installed by default
--Hal3 and EIS enable by default
--Updated device tree
--Updated vendor
--Gapps Go 

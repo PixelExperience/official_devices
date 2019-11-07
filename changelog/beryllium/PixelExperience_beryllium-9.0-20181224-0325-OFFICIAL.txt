@@ -1,5 +1,0 @@
--Kernel compiled with clang
--Kernel upstreamed
--Update touch firmware
--Update gcam to MGC_6.1.021_MI8_V2a+
--Now playing working again (experimental)

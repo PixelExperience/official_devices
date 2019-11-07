@@ -1,4 +1,0 @@
-- Improved vibration
-- Fixed hdr issue
-- Fixed ambient display settings not showing
-- Fixed screenshot issue when notch is hidden

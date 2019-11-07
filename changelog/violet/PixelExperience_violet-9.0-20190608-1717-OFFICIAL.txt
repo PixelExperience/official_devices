@@ -1,5 +1,0 @@
-Device Side Changes -
-
- - Improved touch report
- - Updated props from MIUI 9.6.5
- - And more that no user will understand

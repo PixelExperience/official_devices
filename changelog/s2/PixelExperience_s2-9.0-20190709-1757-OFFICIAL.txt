@@ -1,8 +1,0 @@
-- July security patch
-- Improved pocket lock
-- Theming fixes
-- Night display improvements
-- Updated gapps
-- Updated translations
-- Others bug fixes
-- Fixed wifi drops and 5Ghz hotspot

@@ -1,4 +1,0 @@
-* WeatherClient: Update timeout to 10 minutes
-* Update navbar home icon
-* Option to show percentage inside battery icon
-* Add and enable overlay for SettingsIntelligence

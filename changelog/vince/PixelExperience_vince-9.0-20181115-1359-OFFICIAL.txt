@@ -1,6 +1,0 @@
-Fixed white flash on pictures
-Fixed AutoFocus(dont change the default kernel)
-Fixed Night Mode
-Now adaptive brightness is working perfectly
-Improved fp speed
-and other minor changes

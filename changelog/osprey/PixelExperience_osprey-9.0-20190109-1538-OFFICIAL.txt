@@ -1,4 +1,0 @@
-- New maintainer
-- January security patch
-- Lastests tree changes
-- Android 9.0.0_r30 merged

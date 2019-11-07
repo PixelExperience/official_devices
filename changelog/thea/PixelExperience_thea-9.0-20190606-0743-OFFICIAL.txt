@@ -1,8 +1,0 @@
--Initial Build for thea
--June Security Patch
--Performance Improvements
--Memory improvements for multitasking
--Camera app with HDR support
--Time Zone Toggle fixed
--Some fixes with power saving mode
--Few optimizations 

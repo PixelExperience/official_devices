@@ -1,4 +1,0 @@
-* Derp kernel by default
-* GCam inbuilt (MGC_6.1.009_MI8_V1a), ARStickers included too
-* Device certified by default
-* Others specials improvements and features

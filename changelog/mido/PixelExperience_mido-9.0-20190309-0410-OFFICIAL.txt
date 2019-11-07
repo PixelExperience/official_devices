@@ -1,6 +1,0 @@
-* Updated Biometrics HAL To P
-* Improvments For Goodix FP 
-* Back To Perf-LineageOS Kernel 
-* Fixed Black Pattern Values For GCAM
-* Updated camera Hal's 
-* Fixed Audio Bad Quality 

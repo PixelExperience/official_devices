@@ -1,4 +1,0 @@
-Pie Edition:
-
-- September security patch
-

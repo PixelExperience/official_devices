@@ -1,4 +1,0 @@
--New maintainer
--New trees
--Perf .131 kernel now preinstalled
--January patches and PixelExperience source updates

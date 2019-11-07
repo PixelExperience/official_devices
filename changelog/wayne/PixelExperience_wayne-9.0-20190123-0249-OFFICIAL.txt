@@ -1,4 +1,0 @@
-*FS:Support F2FS cooool:) (Warning:flash InsigniuX Custom Kernel first)
-*Camera:Fix GoogleCamera issue
-*Spectrum: Improve CPU settings based on jason values
-*Brightness:Set brightness overlays from stock memeui

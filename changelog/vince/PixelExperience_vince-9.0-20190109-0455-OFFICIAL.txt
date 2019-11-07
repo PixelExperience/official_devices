@@ -1,7 +1,0 @@
-- updated sources
-- January security patch
-- Added VR and Arcore
-- Gcam (Google Camera-Pixel 2 Mod-Arnova 8G2-V8.2_Fix_R5 Plus)
-- patched ims
-- updated kernel to version 3.18.131
-- Fixes that I don't remember.

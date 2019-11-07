@@ -1,5 +1,0 @@
-
-Christmas build Changelog：
-*Update kernel to 4.4.169
-*Maybe fix Now Playing
-*Change Arnova8G2's Gcam into Tolyan009's MGC

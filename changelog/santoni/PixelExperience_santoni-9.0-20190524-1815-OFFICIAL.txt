@@ -1,1 +1,0 @@
-* Fixed a serious bug detected when enabling a new type of navigation bar gestures and resulting in a "black screen" after reboot. Thanks to users for fast detection of this bug and special thanks to Vladislav Stadnik for testing

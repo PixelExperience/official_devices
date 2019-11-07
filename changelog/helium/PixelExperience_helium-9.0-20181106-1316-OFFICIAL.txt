@@ -1,4 +1,0 @@
-* November patch.
-* Now playing added.
-* Weather can be seen on lockscreen.
-* Rest you tell me on telegram @Hasaber8

@@ -1,5 +1,0 @@
-- Default kernel perf
-- Kernel Upstreamed to .130
-- Video fixed
-- Volte fixed
-- More changes

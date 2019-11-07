@@ -1,3 +1,0 @@
-- Time services was fixed (Now time don't resets after reboot)
-- Lock Screen bug was fixed
-- Kernel was changed to Franco 3.18.140 with latest sources

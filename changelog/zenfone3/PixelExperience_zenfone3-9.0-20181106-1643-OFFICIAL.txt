@@ -1,3 +1,0 @@
-* November 2018 Security patch.
-* Now playing added.
-* Weather can be seen on lockscreen.

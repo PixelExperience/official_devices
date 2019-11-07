@@ -1,4 +1,0 @@
-*Updated to 9.0.0_r35
-*Kernel updated to 3.18.138
-*Ram & cpu boost optimisations
-*Anxiety is now default i/o scheduler

@@ -1,5 +1,0 @@
-- Fixed HWC
-- Updated kernel to 3.18.139
-- March vendor security patch
-- Enabled quota support on /data (Requires TWRP 3.3.0-1 or higher)
-- Miscellanous performance and stability fixes

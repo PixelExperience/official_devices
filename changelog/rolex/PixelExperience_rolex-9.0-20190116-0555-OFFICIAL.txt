@@ -1,8 +1,0 @@
--> Update GPS Blobs
--> January Security Patch
--> Using Pie Hals Now ( more smooth than before )
--> Source synced at 16/01/2019
--> Upstreamed Kernel into v3.18.132
--> Gapps Updated
--> Translations Updated
--> Several bug fixes

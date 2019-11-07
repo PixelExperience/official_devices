@@ -1,6 +1,0 @@
->initial Build.
->October Security Patch.
->VoLTE.
->FM RADIO.
->AOD.
->Ambient Display.

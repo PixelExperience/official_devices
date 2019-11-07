@@ -1,8 +1,0 @@
-- Updated sources
-- Updated kernel to 3.18.134
-- March security patch
-- Clean device tree and vendor
-- Not green photos in whatsup
-- Some edits to optimize the system
-- Removed for now: Alipay, WeChat ...
-- And other small changes

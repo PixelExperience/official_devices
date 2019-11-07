@@ -1,4 +1,0 @@
-*Fixed Notification Access
-*Fixed device apps incompatibility issues
-*Default LCD screen density set to 457
-

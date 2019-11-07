@@ -1,9 +1,0 @@
-- Updated ROM sources
-- lavender: add wdf permissions
-- lavender: add privapp-permissions for MiuiCamera
-- lavender: proprietary-files: Add missing mlipay blob
-- lavender: overlay: Change rounder corner size to 16dp 
-- lavender: audio: Boost the sound a little 
-- lavender: gps: Update GPS from LA.UM.7.2.r1-07500-sdm660.0
-- lavender: board: Enable full dexpreopt
-- lavender: move permissions xml to system since now PE is using whitelist enforced

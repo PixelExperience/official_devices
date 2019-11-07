@@ -1,7 +1,0 @@
-*March Security Patch.
-*Update navbar home icon.
-*Update WeatherClient.
-*WeatherClient: Fix horrible allocation abuse.
-*Add device model on about phone dialog.
-*Kernel Upstream to 4.4.175.
-*Now the Navigation Gestures can be deactivated.

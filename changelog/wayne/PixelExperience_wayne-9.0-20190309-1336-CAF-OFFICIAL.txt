@@ -1,3 +1,0 @@
-CAF sp Update
-Incall Volume:Increased
-other changes r the same as AOSP one but CAF based

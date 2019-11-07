@@ -1,7 +1,0 @@
--New maintainer
-- New trees
-- Kernel Extreme-Plus .134
-- Added DTV
-- Radio FM Work
-- VoLTE Work
-- Latest Sources

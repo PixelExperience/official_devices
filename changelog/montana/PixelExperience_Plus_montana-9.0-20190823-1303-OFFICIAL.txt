@@ -1,9 +1,0 @@
-
-Device side changes:
-- Initial Plus edition build.
- 
-ROM side changes:
-- New Edition to include our customizations options available in our Pie Edition
-- Added support for long screenshots
-- Added framework side support for system internal audio recording
-- Improved theming

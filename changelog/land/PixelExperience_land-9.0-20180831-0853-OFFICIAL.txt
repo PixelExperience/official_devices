@@ -1,6 +1,0 @@
-Changelogs:
-- Gcam is default camera
-- Gps accuracy is perfect now
-- Fm radio fixed
-- dismiss lockscreen after face-unlock
-- vibrate on connect and disconnect (no toggle)

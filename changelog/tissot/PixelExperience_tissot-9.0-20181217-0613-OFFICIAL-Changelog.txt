@@ -1,3 +1,0 @@
-* Revert Wfd additions
-* Clean up source codes
-* Fix laggy systemUI

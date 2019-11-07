@@ -1,5 +1,0 @@
-* Improved padding on statusbar
-* Fix headline font in dark theme
-* Fixed search bar on Settings in dark theme
-* Improved dark theme on DocumentsUI
-* Implement Android Q dark theme on notifications and quick settings

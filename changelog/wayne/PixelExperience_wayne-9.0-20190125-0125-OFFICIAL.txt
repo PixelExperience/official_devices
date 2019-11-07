@@ -1,5 +1,0 @@
-*Kernel：Support F2FS so ,no need to flash kernel now
-*Keyhandler: list GoogleCamera as camera app
-*Spectrum: Add new Settings and modifiy existing values slightly
-*XiaomiParts: [WIP] Add fingerprintactions
-

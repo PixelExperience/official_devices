@@ -1,5 +1,0 @@
-* Fixed LTE+/4G+ icon
-* Derp 5.2
-* Performance improvements
-* OTA app fixed
-* Others fixes

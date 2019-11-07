@@ -1,5 +1,0 @@
-* February security patch
-* Add Dirac support
-* Derp 4.6, compiled with clang 8.0.8
-* Fixed theming issues on various parts
-* OTG fixed

@@ -1,6 +1,0 @@
-- October security patch
-- Tree and rom rebased
-- Added utouch personalization
-- Kernel Changed to Pepper by dd3boh
-
-NEED CLEAN FLASH

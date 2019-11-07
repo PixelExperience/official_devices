@@ -1,7 +1,0 @@
--Rebased Trees
--Gestures Implementation Fixed
--Alert Slider settings fixed
--Deep Sleep issues addressed
--Updated to Feb Security Patches
--Upstreamed kernel to 3.18.93
--Moved Oneplus stuffs to Dashboard

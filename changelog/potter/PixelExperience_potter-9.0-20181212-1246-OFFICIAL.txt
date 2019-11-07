@@ -1,3 +1,0 @@
-*Enabled sepolicy but still permissive
-*Only snap cam is built
-

@@ -1,6 +1,0 @@
-- Added AsusCamera
-- Radium Kernel v3.1 (thanks @infixremix)
-- Clang 9.0.2
-- Full RadioFM support
-- Lastest sources changes
-- Kernel Upstreamed to 3.18.138

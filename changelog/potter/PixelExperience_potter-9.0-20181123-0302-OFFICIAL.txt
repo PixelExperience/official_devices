@@ -1,4 +1,0 @@
-*Only motocam is inbuilt
-*Added device specific health hal
-*Payton build fingerprint(Moto X4)
-*November (r16) security patch

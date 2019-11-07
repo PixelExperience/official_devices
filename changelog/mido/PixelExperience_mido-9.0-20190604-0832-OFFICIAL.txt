@@ -1,7 +1,0 @@
-* Merged Changes From Zeelog 
-* Merged June Security Patch
-* Theming and fonts improved
-* Network traffic indicator improved
-* Translations updated
-* Google apps updated
-* Others fixes

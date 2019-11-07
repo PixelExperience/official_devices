@@ -1,9 +1,0 @@
-HYDROGEN:-
-*BUGS:- 
-**(Enforcing)
-------------------------------
-* January security patch
-* Gapps updated
-* Translations updated
-* Several bug fixes
-* Updated Trees 

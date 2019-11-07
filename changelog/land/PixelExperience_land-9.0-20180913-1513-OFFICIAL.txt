@@ -1,6 +1,0 @@
-Changelogs:
-- September Security Patch (PPR2)
-- Rebase kernel, media, audio, bluetooth, wifi hal from CAF P release
-- Goodix Fixed (thanks to @abhishek987)
-- Fix mic issue 
-- Maybe something more

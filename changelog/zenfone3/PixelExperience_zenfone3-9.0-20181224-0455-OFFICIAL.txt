@@ -1,3 +1,0 @@
-* Battery Charging LED
-* Face Auto-Unlock
-* Updated SoundPicker

@@ -1,2 +1,0 @@
-* Update ROM sources
-* First build

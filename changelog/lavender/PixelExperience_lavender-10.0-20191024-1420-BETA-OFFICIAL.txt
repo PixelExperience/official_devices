@@ -1,4 +1,0 @@
-- ROM Sources updated.
-- Change stock kernel to Oniichan and patch for SafetyNet
-- Fixed audio issues
-- Increase audio in capsule

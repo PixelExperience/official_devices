@@ -1,5 +1,0 @@
-Changelog:
--Reverted to previous kernel
- (expect better battery life now)
-- Now playing fixed
-- Face auto unlock added

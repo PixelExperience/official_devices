@@ -1,6 +1,0 @@
-Changelog: 
-
-* Use lower density
-* Fix Quickswitch
-* Update Thermal
-* Disable useless camera drivers

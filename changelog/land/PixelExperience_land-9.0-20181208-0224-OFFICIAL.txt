@@ -1,5 +1,0 @@
-Changelog:
-• Chimera-lite kernel
-• D2W, S2W (with haptic feedback)
-• Specteum support
-Thanks to @rupansh

@@ -1,2 +1,0 @@
-Fixed Black Screen Issues on dirty flash 
-and black theme fcs

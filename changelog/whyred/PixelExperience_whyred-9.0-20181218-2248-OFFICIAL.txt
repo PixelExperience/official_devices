@@ -1,6 +1,0 @@
-* Now playing fixed
-* Added face auto unlock (disabled by default, you can enable on Settings > System > Lockscreen settings)
-* Updated blobs
-* Derp kernel 4.1, compiled with clang 8.0.6
-* Update SoundPicker
-* Translations updated

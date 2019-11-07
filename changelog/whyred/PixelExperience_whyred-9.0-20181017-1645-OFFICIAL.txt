@@ -1,3 +1,0 @@
--October security patch
--New blobs, tree rebased (clean flash is recommended)
--Derp kernel v3.3

@@ -1,4 +1,0 @@
--Fixed Youtube lags
--Fixed Facebook issues
--Fixed Hotpot issues
--Added option to hide notch in dev settings

@@ -1,8 +1,0 @@
-* Theming improvements
-* Bring back night display on some devices (Additional LiveDisplay settings will be there)
-* Improved behavior of automatic theme based on time
-* PixelLauncher and some others apps updated
-* Translations updated
-* Random reboots fixed
-* Kernel updated tp .181
-* Android auto should be fixed

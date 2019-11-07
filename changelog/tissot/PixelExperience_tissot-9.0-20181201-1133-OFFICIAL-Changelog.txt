@@ -1,2 +1,0 @@
-* Revert kernel to 3.18
-* Revert source changes

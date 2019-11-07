@@ -1,9 +1,0 @@
-- Upstream Kernel to 3.18.138
-- Merge April Security Patch
-- Updated Vendor Security Patch
-- Improved Stability And Performance
-- Increase Call Volume
-- Audio & Wifi Rootdir Changes
-- No More QC Location Provider
-- APTX Libs
-

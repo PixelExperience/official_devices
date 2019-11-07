@@ -1,6 +1,0 @@
-* First official build
-* Merged December security patch (05/12/2018)
-* Added Huawei Super Charging support
-* Added NFC QS tile
-* Fixed fingerprint position shown on setup
-* Changed max displayed notification icons to 6 

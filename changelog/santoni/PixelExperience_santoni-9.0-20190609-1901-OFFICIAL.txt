@@ -1,6 +1,0 @@
-- Add Gcam 3.5.2 by Artur
-- Increased vibration pattern again
-- Enabled WIFI Calls
-- Add ThermalController
-- Add AliPay support
-- UI optimization

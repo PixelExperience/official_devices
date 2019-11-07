@@ -1,6 +1,0 @@
-* Updated power configs
-* Enabled HEVC Encoding
-* Updated thermal configs
-* System wide dark theme and black notifications
-* Advanced reboot options
-* Several bug fixes

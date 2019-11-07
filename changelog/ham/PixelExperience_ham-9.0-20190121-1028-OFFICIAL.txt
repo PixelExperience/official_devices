@@ -1,6 +1,0 @@
-*January security patch
-*Gapps updated
-*Translation updated
-*Several bug fixes
-*System wide dark theme
-*Advanced reboot option added (Developer options)

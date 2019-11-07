@@ -1,8 +1,0 @@
-- Rebased kernel from perseus-p-oss (thanks Bruno)
-- Fixed proximity sensor not working
-- Fixed battery percentage drop after reboot
-- Improved signal reception
-- Fixed rounded corners
-- Fixed autobrightness (flickers)
-- Fixed FaceUnlock
-- That's all folks

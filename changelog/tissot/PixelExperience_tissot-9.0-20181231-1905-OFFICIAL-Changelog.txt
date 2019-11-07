@@ -1,3 +1,0 @@
-* Upstream kernel to 4.9.148
-* Re-include Pixel 2 GCam
-* Update Pixel 3 GCam to GCam_6.1.021_N7P_test2.apk

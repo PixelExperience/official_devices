@@ -1,7 +1,0 @@
-*October patch merged
-*Dark bootanimation based on device theme on Plus Edition
-*Lockscreen weather
-*Ambient play has been removed due to conflicts on device microphone
-*Device tree & Kernel in sync with LOS
-
-This would be the last feature update for Pie, we did promise to maintain it till December, but then, feature improvements/additions wont be done.

@@ -1,3 +1,0 @@
-December Security Patch
-Use OPENGL as default renderer ( fixes lag in some cases )
-Pin some critical apps to the system

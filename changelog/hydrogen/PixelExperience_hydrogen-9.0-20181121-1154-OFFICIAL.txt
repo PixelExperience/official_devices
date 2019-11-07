@@ -1,2 +1,0 @@
-* First Build
-* Bugs same as helium.

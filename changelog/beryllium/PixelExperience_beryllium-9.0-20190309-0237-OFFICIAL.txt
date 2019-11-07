@@ -1,6 +1,0 @@
-* March security patch
-* Merged 4.9.162
-* Weather improved
-* Fixed disabled sim icon on statusbar
-* Gapps updated
-* Others improvements

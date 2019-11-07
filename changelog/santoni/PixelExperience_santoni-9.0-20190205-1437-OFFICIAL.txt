@@ -1,5 +1,0 @@
-- Updated source (security patch for February)
-- Updated blobs
-- Fixed broadcast and fm radio
-- Updated kernel to 3.18.133-DarkPhoenix +
-- Support Alipay fingerprint payment

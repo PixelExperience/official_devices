@@ -1,4 +1,0 @@
-- Possibily, VoLTE is Fixed
-- Fixed Slow Charge Issue
-- Fixed Notification Led While Charging
-- Synced to Last ROM Sources

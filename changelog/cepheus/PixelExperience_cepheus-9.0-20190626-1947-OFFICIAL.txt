@@ -1,5 +1,0 @@
-- Kernel upstreamed to .111
-- Fixed the media issue once and for all
-- 4K video is back
-- GPU has been fixed
-- Anx camera works fully now :)

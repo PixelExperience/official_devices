@@ -1,8 +1,0 @@
-- Synced rom sources
-- Use Auto brightness for Ambient Display
-- Disabled button backlight settings
-- kernel: enabled VDSO
-- kernel: merged F2FS updates
-- kernel: merged latest caf tag
-- less debug
-- Fixed heat and charging issues

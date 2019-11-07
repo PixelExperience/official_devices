@@ -1,5 +1,0 @@
-Changelogs:
-• Updated to latest Reloaded sources
-• Kernel upstream
-• Blob updates
-• Wifi display must be fixed

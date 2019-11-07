@@ -1,8 +1,0 @@
-Changelogs:
-* fixes dual mic
-* stereo recording
-* no notification sound after a voice call
-* all new thermals for optimal performance and less heat
-* ArCore now supports without magisk module
-* notification led cycle (used to work randomly)
-* new kernel

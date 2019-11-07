@@ -1,4 +1,0 @@
-* Fixed 5ghz hotspot
-* Performance improved
-* Derp kernel 4.9
-* Others improvements

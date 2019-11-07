@@ -1,7 +1,0 @@
-===============
-  07-03-2019
-===============
-1. March Security Patch Merged
-2. Kernel Version Upstreamend
-3. Thats it :D
-===============

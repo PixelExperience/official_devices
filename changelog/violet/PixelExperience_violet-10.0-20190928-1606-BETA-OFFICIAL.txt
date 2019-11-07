@@ -1,6 +1,0 @@
-Device Changelog:
-- Fixed GPS in problem some apps ( Like Google Pay )
-- A lot more no one will understand
-
-Rom Changelog:
-- PE Upstream

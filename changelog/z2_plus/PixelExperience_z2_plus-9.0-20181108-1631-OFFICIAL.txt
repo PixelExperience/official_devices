@@ -1,9 +1,0 @@
-- November security patch
-- Ambient play (with history)
-- Weather on lockscreen
-- Enforcing selinux
-- Switch to 4.4 Kernel ( You Will need ZUI 3.1+ Bootloader, If not, you will have a blue screen)
-
-Notes:
-
-- Clean Flash is highly Recomended

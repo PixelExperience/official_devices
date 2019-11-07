@@ -1,6 +1,0 @@
-November Security patch 
-Decrease some log spam 
-Improved dex2oat 
-Increase media volume steps to 60 
-Shorten wait time to optimize shutdown time
-Some crash fix

@@ -1,9 +1,0 @@
-ROM Side
-- March Security Patch
-
-Device Side
-- Switch to Snap Camera
-- Fixed wrong wlan mac address (Thanks to DD3BOH)
-- Cleanup sepolicy
-- Switch back to AOSP offline charger instead of MIUI's
-- Increased audio a little

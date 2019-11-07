@@ -1,6 +1,0 @@
-- October security update
-- Added dark bootanimation when dark theme enabled
-- Improved weather
-- Removed ambient play due to issues
-- Kernel upstreamed
-- Others improvements

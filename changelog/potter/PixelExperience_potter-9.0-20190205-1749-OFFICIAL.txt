@@ -1,4 +1,0 @@
-*Added perfboost
-*Updated Gcam to San1ty V7
-*Kernel updated to latest optimus & 3.18.133
-*Lots of device & blobs updates

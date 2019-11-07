@@ -1,8 +1,0 @@
--Latest sources 
--Updated kernel source configs 
--Kernel upstreamed to .129
--Fixed focus issue
--Merged some caf tags 
--Cleanup trees 
--Safetynet fixed
-And many more updates 

@@ -1,2 +1,0 @@
-* Fixed Camera & Fingerprint issues caused by Pie blob update
-* Cleanup commits and rebase

@@ -1,9 +1,0 @@
-Changelog:
-• Enforcing build.
-• Device will be certified in playstore without magisk.
-• Updated carrier configs.
-• Synced blobs from MIUI V10.2.2.0.MALMIXM.
-• Fixed offline charging.
-• Fixed video calling.
-• Removed dt2w switch from settings.
-• Many under the hood changes.

@@ -1,2 +1,0 @@
-*Updated to 9.0.0_r34
-*Kernel updated to 3.18.134

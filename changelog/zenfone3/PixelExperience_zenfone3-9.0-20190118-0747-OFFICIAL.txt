@@ -1,9 +1,0 @@
-* January Security Patch
-
-* Updated telephony-common and ims from daisy
-
-* Rebased kernel on latest CAF tag (LA.UM.7.6.r1-04000-89xx.0)
-
-* Updated perf stack from Tissot
-
-* Memory/Performance optimizations

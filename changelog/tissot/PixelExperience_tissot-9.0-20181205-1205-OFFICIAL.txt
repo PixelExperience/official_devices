@@ -1,4 +1,0 @@
-* Update to December security patch
-* PE upstreams
-* Vendor upstreams
-* Kernel fixes

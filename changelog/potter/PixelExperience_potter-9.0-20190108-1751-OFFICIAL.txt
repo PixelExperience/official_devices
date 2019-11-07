@@ -1,5 +1,0 @@
-*Updated to r30 (january patch)
-*Fixed Wifi Display
-*Updated Gcam to fu24 17f
-*No enforcing because subs will not work
-*More rom updates

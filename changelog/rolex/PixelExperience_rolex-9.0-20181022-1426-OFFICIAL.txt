@@ -1,3 +1,0 @@
-- synced repo (22-10-2018)
-- solved problem with launcher (but can be small glitches, like this: after make printscreen not showing this on notification panel)
-- solved problem with selfie on low light

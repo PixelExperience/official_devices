@@ -1,6 +1,0 @@
-Device Side Changes:
-- Enable 4k recording on front cam
-- Use Studio Thermal Profile for camera
-- Address Camera lags
-- Enable Night Light
-- Build context hub / qti camera device

@@ -1,5 +1,0 @@
-Changelog for 11.02.2019 build:
-
-- Kernel upstreamed to Linux 4.9.155
-- February security patch
-- Misc changes

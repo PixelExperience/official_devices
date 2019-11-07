@@ -1,5 +1,0 @@
-* December Update *
-1. December Patch
-2. 1080p Video recording working
-3. Hotspot Working
-4. Under the Hood changes.

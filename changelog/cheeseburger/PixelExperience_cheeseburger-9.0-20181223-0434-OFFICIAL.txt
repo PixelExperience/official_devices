@@ -1,2 +1,0 @@
-更换内核至 oneplus/QC8998_P_9.0_Beta
-Change kernel to oneplus/QC8998_P_9.0_Beta

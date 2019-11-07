@@ -1,9 +1,0 @@
-* Initial Android ten build
-* Magisk work
-* Fingerprint works
-* Volte works
-
-NOTE:- Minimium .056 firmware required
-
-
-HAPPY FLASHING ! 

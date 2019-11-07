@@ -1,9 +1,0 @@
-ROM:
-- January security patch (9.0.0_r30)
-- Gapps updated
-- Translations updated
-- Several bug fixes
-
-Device:
-- Changed to msm8998 HAL's
-

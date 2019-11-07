@@ -1,5 +1,0 @@
-* Fixed CTS Profile (Safety Check = pass) Banking Apps Should Work Now 
-* Added Dirac Sound Effects
-* Reverted Wake Patch for now 
-* Cleaned Up Device Sources 
-* Many Underhood Changes

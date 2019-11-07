@@ -1,9 +1,0 @@
-ROM side:
-- Theming improvements: Added black theme, disabled dark theme when battery saver enabled 
-- Fonts improvements
-- Improved automatic theme based on time (on some regions)
-- Other Fixes
-
-Device side:
-- Fixed Safetynet
-- Upstreamed to latest LineageOS device trees

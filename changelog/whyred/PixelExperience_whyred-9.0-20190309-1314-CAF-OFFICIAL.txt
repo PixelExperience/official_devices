@@ -1,7 +1,0 @@
-* QS issue fixed on landscape
-* Latest caf tag
-* Derp kernel 5.0
-* Weather improved
-* Fixed disabled sim icon on statusbar
-* Gapps updated
-* Others improvements

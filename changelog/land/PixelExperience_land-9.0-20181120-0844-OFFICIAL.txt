@@ -1,6 +1,0 @@
-Changelogs:
-• Goodix reset fixed
-• Kernel overclocked (gpu & cpu)
-• USB fast charge added
-• Always on display added
-• Maybe something more...

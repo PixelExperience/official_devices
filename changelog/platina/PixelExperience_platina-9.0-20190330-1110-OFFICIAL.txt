@@ -1,5 +1,0 @@
-- Update vendor to MIUI 9.3.21;
-- Set wifi countrycode to fix 5gHz in flight mode;
-- Cleanup fstab.qcom and enable f2fs;
-- Update mixer paths for sdm660 internal codec;
-- Source updates.

@@ -1,8 +1,0 @@
- -First build from me
- -Change kernel (3.18.120) from mdeejay
- -Ambient Play improved
- -Added saving options for AmbientPlay
- -Fixed smoothness (if you want live Wallpaper comment out the line debug.sf.latch_unsignaled=1 in vendor/build.prop, there will be micro lag animations, but the LiveWallpaper and the system as a whole will work fine.)
- -Fixed about clicking on the fingerprint scanner (opening the programs to them.)
- -Persist Path (Fix loss of fingerprint after data format) 
- -A lot of small changes

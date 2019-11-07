@@ -1,5 +1,0 @@
-- Nov Security Patch
-- Fixed WiFi Related Issues
-- Updated Audio Configs
-- Fixed Sim Setting Reset Issue
-- Latest Linux Kernel Upstream

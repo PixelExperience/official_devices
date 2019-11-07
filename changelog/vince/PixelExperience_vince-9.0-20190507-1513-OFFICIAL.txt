@@ -1,3 +1,0 @@
-- May security patch
-- Updated kernel to 4.9.173, thanks @mdeejay
-- Many edits in sources

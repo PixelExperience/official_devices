@@ -1,9 +1,0 @@
-19.12.2018 Changelog:
-
-- Enabled auto face unlock (by default)
-- Ambient Play: API rework
-- Updated QTI Power Hal to LA.UM.7.3.r1-06600-sdm845.0 tag
-- Runtime/boottime improvements
-- Switchd qcacld-3.0 to built-in
-- Fixed CTS mismatch
-

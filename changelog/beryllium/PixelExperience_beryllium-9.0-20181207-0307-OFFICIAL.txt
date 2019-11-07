@@ -1,5 +1,0 @@
-* December security patch
-* IR face unlock
-* Updated touchscreen firmware
-* Google camera updated to MGC_6.1.021_MI8_Vc
-* Other bug fixes and improvements

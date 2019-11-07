@@ -1,5 +1,0 @@
-- Fixed weak network
-- Fixed adaptive brightness
-- Using slightly increased vibration pattern strength from Pixel XL
-- Enabled multicolor battery led
-- Fixed doze

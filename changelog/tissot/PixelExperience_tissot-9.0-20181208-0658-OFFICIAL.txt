@@ -1,8 +1,0 @@
-* Upstream stock kernel to 4.9.143
-* Fix battery status issues caused by older kernel
-* Update vendor blobs from Official Pie update
-* Update vendor security patch level
-* Add missing libraries for IMS
-* Fix Wi-Fi symlink path
-* Remove Device is HD capable from persistent notification
-

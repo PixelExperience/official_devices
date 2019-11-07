@@ -1,4 +1,0 @@
-- Initial build
-- OOS BASE REQUIRED: 908/909(Don't know about beta)
-
-Magisk : https://github.com/topjohnwu/magisk_files/blob/canary/magisk-release.zip

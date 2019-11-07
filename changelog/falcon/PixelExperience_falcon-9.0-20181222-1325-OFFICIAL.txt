@@ -1,6 +1,0 @@
-*Enforcing Build* 
-*Last Build*
-*Disabled Z-Ram, more stable(Thanks to renan)*
-*Thank you SevenRock for enforcing*
-*Thank you Allstargaurav for guiding me*
-

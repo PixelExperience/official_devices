@@ -1,7 +1,0 @@
-- January security patch
-- Dirac support
-- Downgrade touchscreen firmware to 8.12.10 (better results)
-- Gcam updated to MGC_6.1.021_MI8_V2b_plus3
-- Gapps updated
-- Translations updated
-- Several bug fixes

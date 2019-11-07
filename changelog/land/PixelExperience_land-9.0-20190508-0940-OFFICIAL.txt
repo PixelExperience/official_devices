@@ -1,6 +1,0 @@
-Changelog:
-• Added factory reset protection
-• Added dirac sound effect
-• Added Double tap to wake (use kernal auditor app to enable)
-• Fix low speaker volume
-• Kernel upstreamed to 3.18.139

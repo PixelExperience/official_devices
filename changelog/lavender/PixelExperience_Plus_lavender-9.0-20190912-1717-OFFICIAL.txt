@@ -1,2 +1,0 @@
-DEVICE:
-* Update kernel to Genom for fixing network meter issue

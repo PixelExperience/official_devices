@@ -1,4 +1,0 @@
-- Fixed toobar paddings
-- Some improvements in Device Tree
-- PixelExperience sources upstream
-

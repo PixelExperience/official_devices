@@ -1,5 +1,0 @@
-+Updated to Feb Security Patch
-+kernel updated
-+Camera improvement
-+Memory optimisation
-+New Dark theme

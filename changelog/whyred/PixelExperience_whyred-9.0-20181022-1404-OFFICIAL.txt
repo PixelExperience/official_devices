@@ -1,2 +1,0 @@
-* Implement sim card enable/disable
-* Others rom side fixes

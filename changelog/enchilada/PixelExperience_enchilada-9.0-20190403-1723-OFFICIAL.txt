@@ -1,7 +1,0 @@
-- Android r_35 merged
-- April security patch merged
-- Kernel updated to .167
-- Lots of changes added to kernel
-- Smart clock removed
-- Changes to hide notch stuff
-- Some changes here and some there!

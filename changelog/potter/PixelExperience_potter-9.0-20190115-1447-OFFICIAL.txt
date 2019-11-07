@@ -1,3 +1,0 @@
-*Added zram configs for all variants
-*Updated Gcam to San1ty V6F
-*Kernel updated to 3.18.132

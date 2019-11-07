@@ -1,9 +1,0 @@
-- June Security Patch
-- Kernel Upststreamed to 3.18.112 (Rebase of Kronic Core by Subhajeet)
-- Fixed USB Tethering (Thanks to Subhajeet)
-- U-Touch Press options added
-- Added option to select notification Theme 
-- Fixed Delay when Turn Tourch on with power button while screen is off
-- New Equalizer UI
-
-It Will appear a message about vendor mismatch, but Just ignores, it's only when device boots, will be fixed in next update.

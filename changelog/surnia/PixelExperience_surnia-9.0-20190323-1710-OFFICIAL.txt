@@ -1,5 +1,0 @@
-- Updated PE to March Sources
-- Device sources updated
-- Added IMS stuff (VoLTE not guaranteed)
-- Switched to LOS 15.1 kernel + some extras thanks to Akianonymous
-- Android Go configs: Removed the LMK limits + lockout so you can have a non-go experience with the Go optimization

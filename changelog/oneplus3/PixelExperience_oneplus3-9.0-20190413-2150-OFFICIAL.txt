@@ -1,5 +1,0 @@
-- April security patch merged
-- r_35 merged
-- Kernel upstread to .138
-- Latest caf tag merged
-- Lots of changes to source and device tree

@@ -1,4 +1,0 @@
-* You need to be on 9.2.15 (or superior) vendor
-* Derp kernel v3.0
-* Battery percentage added back
-* Others improvements

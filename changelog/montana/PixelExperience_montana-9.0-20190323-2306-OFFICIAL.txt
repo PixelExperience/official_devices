@@ -1,4 +1,0 @@
--Radio FM Fix
--Video Recording Fix
--USB Audio Fix
--Hal3 and EIS Enable by Default

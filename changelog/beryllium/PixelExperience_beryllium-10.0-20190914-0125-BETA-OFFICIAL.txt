@@ -1,5 +1,0 @@
-* Initial Android 10 Build, with these highlights:
-    -GApps included
-    -Weather on lockscreen
-    -Automatic theme on bootanimation
-    -Encryption working, you don't need to format internal storage.

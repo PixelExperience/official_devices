@@ -1,8 +1,0 @@
-- Fixed Night mode
-- New Dark Theme in UI
-- Upstreamed to latest zuk-devs sources
-- February Security Patch
-
-Note: in this build, it's needed a New TWRP with factory support and need to flash vendor2factory file.
-
-Check XDA Thread for more info.

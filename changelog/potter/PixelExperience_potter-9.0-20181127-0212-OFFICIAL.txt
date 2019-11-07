@@ -1,5 +1,0 @@
-*Updated blobs(vulkan,media,bt,AptX) from MiA2
-*NFC is fixed for users on stock oreo firmware
-*Updated persist folder path for health hal
-*Kernel upstreamed to 3.18.126
-*Merged latest caf tag LA.UM.7.6.r1-03600-89xx.0 in kernel

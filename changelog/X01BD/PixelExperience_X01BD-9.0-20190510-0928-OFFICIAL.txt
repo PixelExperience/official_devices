@@ -1,5 +1,0 @@
-1.kernel upstreamed to .179
-2.Many features added in source
-3.Charging speeds should be better
-4.Status bar padding improved
-

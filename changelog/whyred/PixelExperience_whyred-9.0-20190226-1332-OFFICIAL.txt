@@ -1,2 +1,0 @@
-* Derp kernel 4.9
-* Others improvements

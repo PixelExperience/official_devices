@@ -1,2 +1,0 @@
--Fixed encryption (FDE)
--Fixed network signal fluctuation / incorrect signal levels

@@ -1,4 +1,0 @@
-* Now the rom boots
-* Sim card problem Fixed
-* Hotstops not working don't try
-* Gcam working

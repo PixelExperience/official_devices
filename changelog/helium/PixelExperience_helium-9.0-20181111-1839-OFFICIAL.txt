@@ -1,3 +1,0 @@
-*Added Pixel 3 cam as default
-*Added Softkey option
-*Due to not getting time to build due to studies, I will be updating Helium and Falcon directly in March 2019.

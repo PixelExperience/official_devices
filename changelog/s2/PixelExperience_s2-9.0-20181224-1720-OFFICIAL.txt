@@ -1,4 +1,0 @@
-* Fixed camera issues
-* Updated prebuilt Google Cam
-* Some tweaking here and there
-* Always On Dispalay is disabled by default

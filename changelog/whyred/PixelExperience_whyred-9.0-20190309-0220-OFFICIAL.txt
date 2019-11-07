@@ -1,6 +1,0 @@
-* March security patch
-* Derp kernel 5.0
-* Weather improved
-* Fixed disabled sim icon on statusbar
-* Gapps updated
-* Others improvements

@@ -1,4 +1,0 @@
-- January security patch
-- Gapps updated
-- Translations updated
-- Several bug fixes

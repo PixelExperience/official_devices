@@ -1,6 +1,0 @@
-Quick update:
-- VOLTE fixed
-- Battery light
-- Notification light
-
-Note: (Sim selection popup after reboot exist)

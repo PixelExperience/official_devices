@@ -1,4 +1,0 @@
-- Default kernel Extreme Plus
-- Upstreamed to .131
-- Ambient Play improved
-

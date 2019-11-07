@@ -1,6 +1,0 @@
-* Fixed LTE+/4G+ icon
-* Pocket mode removed due to issues
-* Derp 3.4
-* Update Playground
-* OTA app fixed
-* Others fixes

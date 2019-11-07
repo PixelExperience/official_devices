@@ -1,7 +1,0 @@
-* Merged Jan Patches
-* Updated prebuilt Gapps
-* Enabled stereo speakers 
-* Updated Perf blobs to pie
-* Updated some blobs from EUI 6.0.030S release
-* Translations updated
-* Several bug fixes

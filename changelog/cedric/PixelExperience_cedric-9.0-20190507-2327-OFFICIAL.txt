@@ -1,2 +1,0 @@
-- Added swipe 3 fingers to screenshot (Settings > System > Gestures)
-- Fixed WiFi Display

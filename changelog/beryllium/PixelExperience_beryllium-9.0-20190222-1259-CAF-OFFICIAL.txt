@@ -1,4 +1,0 @@
-* You need to be on 9.2.15 (or superior) vendor, the latest one is: https://downloads.akhilnarang.me/MIUI/beryllium/beryllium-9.2.21-9.0-vendor-firmware.zip
-* Derp kernel v2.9
-* Fixed spotify force close
-* Fixed hotspot

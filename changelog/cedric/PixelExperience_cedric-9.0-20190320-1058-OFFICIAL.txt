@@ -1,8 +1,0 @@
-Update 20-03-2019
-
-- Added RadioFM support
-- Radium Kernel v2 by default (Thanks to @infixremix)
-- PE sources updated
-- Compiled with clang 9.0.1
-- Kernel 3.18.136
-- Re-enabled Snap Camera

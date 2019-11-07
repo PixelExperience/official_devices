@@ -1,9 +1,0 @@
-PixelExperience:
-- Oct security patch
-- Dark bootanimation based on device theme on Plus Edition
-- Lockscreen weather.
-- Ambient play has been removed due to conflicts on device microphone.
-
-Device specific:
-- Updated kernel
-- Lastest LOS changes

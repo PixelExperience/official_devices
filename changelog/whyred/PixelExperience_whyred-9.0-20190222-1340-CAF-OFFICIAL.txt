@@ -1,2 +1,0 @@
-* Fixed spotify force close
-* Latest PureCAF kernel

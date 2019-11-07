@@ -1,6 +1,0 @@
-Fixed Miracast.
-Upstreamed Kernel.
-Pixel Experience Upstreams
-        & Many More !
-
-NOTE:- USE JOEY'S CAMERA PATCH IN ORDER TO USE PIXEL 3 GCAM OR ELSE YOU GOONA FACE A FORCE STOP

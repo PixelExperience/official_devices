@@ -1,5 +1,0 @@
->Synced With OTA 331
->Fixed network flunctuation
->Increased fp speed 
->Network is now stable
->Enabled TW TWN VoLTE/FET VoLTE+VoWIFI

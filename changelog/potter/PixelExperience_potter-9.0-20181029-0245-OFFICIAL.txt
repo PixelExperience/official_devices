@@ -1,2 +1,0 @@
-* First pie build
-* MotoCamera by default

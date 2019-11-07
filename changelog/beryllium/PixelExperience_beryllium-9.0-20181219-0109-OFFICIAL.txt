@@ -1,9 +1,0 @@
-* Now playing fixed
-* Added face auto unlock (enabled by default, you can disable on Settings > System > Lockscreen settings)
-* Fixed decryption issue
-* Touchscreen firmware updated
-* Update vibration pattern
-* Update gcam to MGC_6.1.021_MI8_V1g
-* Switch from ARStickers to Playground
-* Update SoundPicker
-* Translations updated

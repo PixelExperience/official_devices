@@ -1,6 +1,0 @@
-Changelog:
-
-* Fixed green screen on Moto Camera
-* add option for Disable/Enable navbar
-* add Navbar of Pie
-

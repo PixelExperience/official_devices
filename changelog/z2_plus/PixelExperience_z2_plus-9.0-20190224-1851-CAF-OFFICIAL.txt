@@ -1,2 +1,0 @@
-Initial CAF build
-Need Clean Flash if coming from normal build

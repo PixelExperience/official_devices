@@ -1,6 +1,0 @@
-Quick update: 
-• Call ringtone fixed 
-• Notifications fixed 
-• Audio/Video playback fixed 
-• Audio shuttering fixed
-Thanks to @bauuuuu for the updated tress

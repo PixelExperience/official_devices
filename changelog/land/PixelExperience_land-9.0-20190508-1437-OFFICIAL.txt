@@ -1,3 +1,0 @@
-Changelog:
-• Fix Random network issues
-• Clean Flash is must

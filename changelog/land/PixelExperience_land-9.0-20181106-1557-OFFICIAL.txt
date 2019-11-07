@@ -1,6 +1,0 @@
-Changelogs:
-- November Security Patch
-- Sim selection after reboot fixed
-- Performance improvements
-- Weather on lockscreen added
-- Now-playing feature added

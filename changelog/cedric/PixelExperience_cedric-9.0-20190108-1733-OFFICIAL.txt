@@ -1,5 +1,0 @@
-- First official build
-- January security patch
-- Lastests tree changes
-- VoLTE fixed
-- Android 9.0.0_r30 merged

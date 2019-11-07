@@ -1,5 +1,0 @@
-* Added Asus Camera as default
-* Camera fixed in apps
-* Lots of upstream fixes and improvements
-* Fixed some memory leaks
-* Added Brazilian Translation of AsusParts (thanks to lipebs)

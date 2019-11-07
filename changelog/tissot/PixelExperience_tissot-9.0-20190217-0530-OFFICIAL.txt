@@ -1,8 +1,0 @@
-*Fixed Camera buffers
-*Stock camera supported 
-*Fixed FM
-*Pixel Experience upstreams
-
-
-NOTE:- JANUARY FIRMWARW IS A MUST !
-* DONT REPORT BROKEN CAMERA IF ANY SORT OF MODS ARE USED !

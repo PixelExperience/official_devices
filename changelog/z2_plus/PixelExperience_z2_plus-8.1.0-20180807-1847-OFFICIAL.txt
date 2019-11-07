@@ -1,8 +1,0 @@
-- August Security Patch
-- Updated Translations
-- Kernel Upstreamed to 3.18.117 (Thanks to cosmedd)
-- Full update to ZUI 3.5.389 (thanks to cosmedd)
-- Fixed some denials (thanks to cosmedd)
-- Resized Navbar
-- New icon forms in default launcher (select in settings of launcher)
-- option to enable dark theme in launcher

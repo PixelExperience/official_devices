@@ -1,7 +1,0 @@
-Fixed LAG
-Fixed Gcam
-Fixed flickering
-Added power off Charging animation
-PE Upstreams
-Add basic customisations
-Many More :-)

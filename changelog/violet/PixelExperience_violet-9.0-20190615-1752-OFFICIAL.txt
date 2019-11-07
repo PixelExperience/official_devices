@@ -1,6 +1,0 @@
-Device Side Changes -
-
- - CAF update to LA.UM.7.9.r1-07300-sm6150.0 
- - Build media hal from source
- - Build display hal from source partially
- - And some no one will understand

@@ -1,8 +1,0 @@
-- (CLEAN FLASH NEEDED)
-- Merged latest sources
-- April security patch
-- Kernel Upstream to 4.9.168 thanks mdeejay
-- Miui camera is stock for now
-- Gcam not working stable on 4.9. kernel (omni sensor)
-- Thermal for 4.9 thanks rama982
-- And other small changes

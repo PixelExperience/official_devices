@@ -1,9 +1,0 @@
-* April security patch merged
-* Dark theme improved 
-* OTA app improved
-* Translations updated
-* Ui fixes & optimisations 
-
-
-NOTE •JANUARY FIRMWARE IS A MUST
-     •NO BUG REPORTS IF U USE ANY MODS/PATCHES

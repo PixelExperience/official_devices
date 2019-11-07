@@ -1,6 +1,0 @@
-*Pe Sauce Upstreamed
-*April Security Patch
-*Added Back Volte Property
-*Dropped Dirac (as many users facing audio issue if dropping dirac didnt seem to help will add later then)
-*Kernel improvments
-*Moar Underhood Improvments && stability 

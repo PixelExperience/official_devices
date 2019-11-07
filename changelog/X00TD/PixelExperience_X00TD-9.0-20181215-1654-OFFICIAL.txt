@@ -1,5 +1,0 @@
-1. Zenmotions Added
-2. KCAL Added to Tune Display Color
-3. Selinux is Enforce
-
-And Whole credits to our @sagarmakhar and his team who work activily for our device.

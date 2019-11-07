@@ -1,5 +1,0 @@
-* Fixed notification layout
-* Added Xthermal_Fast_Charge_v4 by default
-* Fixed lockscreen font with custom fonts
-* Derp Kernel v2.8
-* Performance improved

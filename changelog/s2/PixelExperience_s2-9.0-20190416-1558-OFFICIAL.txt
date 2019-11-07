@@ -1,5 +1,0 @@
-- (CLEAN FLASH NEEDED)
-- Merged latest sources
-- April security patch
-- And other small changes
-- Use the updated twrp recovery from the XDA post.

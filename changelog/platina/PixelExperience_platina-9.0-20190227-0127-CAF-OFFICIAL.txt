@@ -1,2 +1,0 @@
-- Fixed hotspot issues;
-- Dirty way to fix audio issues (for now, need to flash magisk module, read xda thread).

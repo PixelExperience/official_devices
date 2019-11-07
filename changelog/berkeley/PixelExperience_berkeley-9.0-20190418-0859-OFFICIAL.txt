@@ -1,2 +1,0 @@
-* First build by me
-* Now EMUI 9 vendor needed

@@ -1,2 +1,0 @@
-* Fix FPC Fingerprint issues caused by Pie blob update
-* Add proper Pie vendor blobs

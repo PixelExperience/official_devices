@@ -1,5 +1,0 @@
-Fixed Hotspot Bug
-Fixed IR
-Fixed loudspeaker bug on calls
-added force apps 18:9 
-Fixed preferential sim selection on every reboot

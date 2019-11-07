@@ -1,8 +1,0 @@
-- Added OSS Camera HAL
-- Switch to enforcing
-- VoLTE Fixed
-- Led Fixed (Thanks to DD3BOH)
-- Switch to Pixel ringtone picker
-- Development options: Ability to set custom animation value
-- Removed dialog when enabling/disabling mobile data on QS
-- Others fixes in ROM side

@@ -1,9 +1,0 @@
-* Merged May Patches
-* Fixed Wake Delay
-* Merged All Latest Fixes 
-* New And Rebased Kernel Sources 
-* Merged Newer PixelExperience Changes
-* Updated Sepolicies 
-* Many Underhood Changes
-
-CUSTOMISATION ChangeLog: https://t.me/PixelExperience/1163

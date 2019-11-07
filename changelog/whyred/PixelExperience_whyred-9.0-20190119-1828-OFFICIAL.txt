@@ -1,7 +1,0 @@
-* Derp kernel 4.5
-* Updated gapps
-* Improved weather on lockscreen
-* Improved overall performance
-* Improved dark theme
-* Added advanced restart options on Settings > Dev options
-* Fixed Phonepe and Tez by mistake telling that device is rooted

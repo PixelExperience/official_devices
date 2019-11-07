@@ -1,5 +1,0 @@
-* Add QuickSettings Tile for Dirac.
-* Fix fast charging.
-* Update thermal-configs
-* Tune some audio configs.
-* Check post on telegram channel for rom side changes.

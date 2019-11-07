@@ -1,7 +1,0 @@
-* December security patch
-* Derp kernel 3.9
-* Improved power button sensitivity
-* Improved led
-* Fixed full screen when watching videos on Chrome
-* Fixed animations
-* Add support for huaxing panel

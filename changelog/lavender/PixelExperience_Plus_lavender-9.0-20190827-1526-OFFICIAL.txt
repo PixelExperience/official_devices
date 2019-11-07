@@ -1,3 +1,0 @@
-- Fixed network issue that not working Hostspot
-- Minor fixes and improvements
-- Sync latest ROM sources

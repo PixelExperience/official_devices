@@ -1,7 +1,0 @@
-- July Security Patch
-- Changed to Lineage Kernel (cosmedd)
-- Upstreamed to 3.18.115
-- Gapps Updated
-- Updated Translations
-- Flash Magisk only after first boot
-- Clean Flash Recomended

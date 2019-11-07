@@ -1,4 +1,0 @@
-*Smoothen（ofc lmao）
-*Kernel：Upstream to 4.4.170
-*Xiaomi Parts：Add Spectum Power Profiles （Performance Modes）
-*GPU Driver：Update to 331

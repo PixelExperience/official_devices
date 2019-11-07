@@ -1,8 +1,0 @@
-* Fixed camera focus issue
-* Enabled 4K recording in Gcam
-* June security patch
-* Theming and fonts improved
-* Network traffic indicator improved
-* Translations updated
-* Google apps updated
-* Other fixes

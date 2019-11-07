@@ -1,8 +1,0 @@
-* First official build by joeyhuab
-* Release kernel with 4.9.141
-* Include F2FS support
-* Auto unlock during FaceLock
-* Nav Bar toggle
-* VoLTE icon in statusbar
-* Replace NexusWallpapersStubPrebuilt2017 with NexusWallpapersStubPrebuilt2018
-* Include WallpapersBReel2018

@@ -1,2 +1,0 @@
-* Minor bug fixes
-* Source updates

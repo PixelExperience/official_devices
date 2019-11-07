@@ -1,7 +1,0 @@
--March Security Patch
--Blobs Updated 
--Night Mode Fix
--Gray Scale Fix
--Performance is Optimized
--Gapps Go (Minimal)
--Any Bugs Fix

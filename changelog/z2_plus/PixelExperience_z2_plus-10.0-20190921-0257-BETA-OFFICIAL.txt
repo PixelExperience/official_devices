@@ -1,9 +1,0 @@
-Device Side:
-- Fixed Fingerprint (Thanks to Kubersharma tip)
-- Safetynet fixed (for now using a temp hax until selinux is enforced)
-- VoLTE Fixed (Thanks to Kubersharma)
-- Fixed Blutooth Audio
-- Some improvements on performance (Thanks to Kubersharma and Davide Vinavil)
-- Added Doze
-
-Note: Encryption needs testing.

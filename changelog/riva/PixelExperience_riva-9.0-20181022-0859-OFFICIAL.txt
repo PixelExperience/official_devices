@@ -1,9 +1,0 @@
-- October Security Patch
-- Fixed Green Tint On Camera
-- Upstreamed Kernel To v3.18.124
-- Merged tag LA.UM.7.6.r1-02800-89xx.0
-- Added Pick Up gesture
-- Added Wifi Display
-- Specific Build For Riva
-- Treble Support
-- Added Doze

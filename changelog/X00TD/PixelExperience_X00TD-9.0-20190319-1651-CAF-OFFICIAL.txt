@@ -1,8 +1,0 @@
-1)Added Zenmotions and Kcal
-2)Fixed the Network coverage issue
-3)Added Gcam as default cam
-4)fixed no in-call audio issue
-5)NXP added with incall audio fix ( Thanks to TRB  team and Varun for the NXP)
-6)OTG is working, must be on stock kernel, TRB, AZURE and Overdose.
-7)Device shutdown during usb tethering fixed.
-8)Other source changes!

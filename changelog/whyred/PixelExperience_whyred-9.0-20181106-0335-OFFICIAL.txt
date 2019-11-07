@@ -1,5 +1,0 @@
-* November security patch
-* Ambient play (with history)
-* Weather on lockscreen
-* Performance improvements
-* Brightness improvements

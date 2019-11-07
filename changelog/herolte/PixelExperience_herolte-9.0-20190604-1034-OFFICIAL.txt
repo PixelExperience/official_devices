@@ -1,8 +1,0 @@
-* Linux kernel 3.18.140
-* June security patch merged on AOSP and CAF branches
-* Theming and fonts improved
-* Network traffic indicator improved
-* Translations updated
-* Google apps updated
-* Others fixes
-

@@ -1,9 +1,0 @@
-* Implement sim cards enabling/disabling
-* Add option to hide notch on Settings > Dev options
-* Added aptX support
-* Added FM support
-* Disabled battery percentage on statusbar when notch is visible
-* Fixed apps restore on setup
-* Fixed dark theme
-* Fixed pin/pattern issues during decryption
-* Fixed hotspot

@@ -1,2 +1,0 @@
--May Security Patch merged
--Minor fixes and performance improvements

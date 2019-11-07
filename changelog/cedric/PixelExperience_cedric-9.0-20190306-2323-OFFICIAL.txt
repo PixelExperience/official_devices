@@ -1,7 +1,0 @@
-- Updated sdm display blobs
-- Optimus Drunk by default
-- Media configs from aljeter
-- Updated media and camera configs
-- March security patch
-- Re-add VoLTE support
-- Fixed display hal issues

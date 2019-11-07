@@ -1,6 +1,0 @@
-* Fixed duplicated baseband on About phone
-* Fixed force close when deleting files
-* Fixed backup restore
-* Fixed camera force close when DND is enabled (however stock camera still doesn't working when HAL3/camera2 api is enabled)
-* Fixed pixel animation when gestures are enabled
-* Fixed device not booting sometimes

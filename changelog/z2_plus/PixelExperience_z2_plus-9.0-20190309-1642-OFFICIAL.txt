@@ -1,7 +1,0 @@
-Device:
-Fix Fingerprint issues for some users
-Upstreamed to latest ZUK-DEVS sources
-
-ROM Side:
-Gapps updated
-minor fixes

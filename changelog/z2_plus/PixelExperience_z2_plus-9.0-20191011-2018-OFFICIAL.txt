@@ -1,8 +1,0 @@
-ROM Side:
-- October 2019 Security Patch
-- Improved weather
-- Removed ambient play due to issues
-- Others improvements
-
-Note: This is the Last Android Pie Update for ZUK Z2 Plus.
-Check XDA Thread for more info.

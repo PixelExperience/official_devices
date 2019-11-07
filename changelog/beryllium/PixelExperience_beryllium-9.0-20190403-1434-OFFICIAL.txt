@@ -1,9 +1,0 @@
-* April security patch
-* Derp kernel 3.3
-* Added pocket mode
-* Hide notch improved
-* Removed smart clock
-* Fixed playground on google camera
-* Dark theme improved
-* OTA app improved
-* Translations updated

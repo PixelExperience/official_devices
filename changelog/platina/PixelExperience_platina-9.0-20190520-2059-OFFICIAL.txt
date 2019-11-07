@@ -1,6 +1,0 @@
--- 20/05/2019 --
-* Updated prebuilt GCAM with timelaspe and others (stable and smooth, open and shoot);
-* Added Dirac sound controll;
-* Battery improvements;
-* Rebased kernel from Lyra by @Nysadev;
-* Latest source updates.

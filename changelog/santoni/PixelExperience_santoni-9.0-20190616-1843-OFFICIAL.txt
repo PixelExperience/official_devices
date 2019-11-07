@@ -1,8 +1,0 @@
-- Theming improvements 
-- Bring back night display on some devices (Additional LiveDisplay settings will be there) 
-- Improved behavior of automatic theme based on time 
-- Pixel Launcher and some others apps updated
-- Translations updated
-- Fixed dt2w (thx to @beingstargazer for this fix)
-- Kanged aptX blobs from crosshatch
-- Fixed few denials (thx to @HarukeyUA)

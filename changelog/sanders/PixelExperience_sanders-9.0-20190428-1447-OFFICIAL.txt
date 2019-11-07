@@ -1,8 +1,0 @@
-Changelog:
-• April security patch (9.0.0_r35)
-• New trees
-• Kernel Extreme Plus 3.18.139
-• Merge latest CAF tag into Kernel
-• DTV App updated
-• VoLTE Working and Stable
-• WFD Working, FMRadio Working

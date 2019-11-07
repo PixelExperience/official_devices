@@ -1,8 +1,0 @@
-- First Official Build
-- Deleted Slow-Mo from Google Camera
-- Added Wi-Fi channel bonding for 2.4Ghz
-- Added Navigation Bar and Gestures
-- Changed name of Hot Spot as device
-- Changed name of BT as device
-- Clean and up vendor blobs partially from tissot 
-- Some overlay changes(LED, Face Unlock, Night Display)

@@ -1,4 +1,0 @@
-- Fixed vendor message at first boot
-- Kernel upstreamed to 3.18.113 (thanks to kenny3fcb)
-- Thermal configs from ZUI 3.7.033 (thanks to kenny3fcb and Characteress)
-- Fixed performance issues

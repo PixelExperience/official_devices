@@ -1,6 +1,0 @@
-- Upstreamed Kernel To v3.18.122
-- Merged Latest Pie Caf Source Tag
-- Merged September Security Patch
-- Enabled dts Eagle Sound Mod
-- Increased Charging Current
-- Fixed Launcher Scrolling Lags

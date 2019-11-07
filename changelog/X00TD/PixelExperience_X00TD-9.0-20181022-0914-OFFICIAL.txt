@@ -1,6 +1,0 @@
->Added Dt2w.
->Fixed LED Not Working For Notification & Charging.
->Solved Device is  Uncertified Issue.
->Fixed Audio Related Issue.
->Added Spectrum Support.
->Many More Improvement Here & There.
