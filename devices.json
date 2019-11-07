@@ -221,21 +221,6 @@
       ]
    },
    {
-      "name": "Moto G4 Play",
-      "brand": "Motorola",
-      "codename": "harpia",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Akianonymus",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7598239",
-            "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-pixel-experience-t3862986",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Mi 5",
       "brand": "Xiaomi",
       "codename": "gemini",
