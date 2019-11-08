@@ -1005,14 +1005,16 @@
             "version_name": "Pie",
             "maintainer_name": "Pereira Ricardo (Namaless / NunoCodex)",
             "maintainer_url": "https://t.me/nunocodex",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixelexperience-t3947858"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixelexperience-t3947858",
+            "deprecated": true
          },
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "Pereira Ricardo (Namaless / NunoCodex)",
             "maintainer_url": "https://t.me/nunocodex",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixelexperience-t3947858"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixelexperience-t3947858",
+            "deprecated": true
          }
       ]
    },
