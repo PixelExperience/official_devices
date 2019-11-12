@@ -1063,20 +1063,6 @@
       ]
    },
    {
-      "name": "Redmi K20/Mi 9T",
-      "brand": "Xiaomi",
-      "codename": "davinci",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Bruno Rocha (rochadev)",
-            "maintainer_url": "https://t.me/rochadev",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
       "name": "5T",
       "brand": "OnePlus",
       "codename": "dumpling",
