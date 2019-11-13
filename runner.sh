@@ -63,7 +63,7 @@ function checkJsons() {
     RESULT=$?
 
     if [ -n "$PULL_REQUEST_NUMBER" ]; then
-        if [[ ! "$CHANGED_FILES" =~ "builds" || ! "$CHANGED_FILES" =~ "changelog" ]] && [[ ! "$CHANGED_FILES" =~ "devices.json" ]]; then
+        if [[ ! "$CHANGED_FILES" =~ "devices.json" ]]; then
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has an improper format and has been closed.\`%0A\`Maintainer has been requested to follow the PR guidelines before PR-ing again.\`"
             sendAdmins "\`I have closed PR $PULL_REQUEST_NUMBER due to failing checks.\`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
             closePR
@@ -72,10 +72,19 @@ function checkJsons() {
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER is failing checks. Maintainer is requested to check it\` %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\` %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
             closePR
         else
-            echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
-            sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
-            sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all sanity checks. Please wait for the merge.\`"
+           if [ "$CHANGED_FILES" =~ "devices.json" ]; then
+            ALTERED_DEVICE="$(git --no-pager diff --name-only HEAD $(git merge-base HEAD origin/master)|grep "codename")"
+            if [ -n $ALTERED_DEVICE ]; then
+             echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
+             sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER) %0A%0A**Device PR-ed for:** ${ALTERED_DEVICE}"
+             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all checks. Please wait for the merge.\`%0A%0A**Device PR-ed for:** ${ALTERED_DEVICE}"
+            else
+             echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
+             sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER) %0A%0ACI couldn't figure out which device was PR-ed"
+             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all checks. Please wait for the merge.\` CI can\'t figure out which device was PR-ed"
             exit 0
+            fi
+          fi
         fi
     elif [ "$RESULT" -eq 1 ]; then
         sendAdmins "\`Someone has merged a failing file. Please look in ASAP.\` %0A%0A${ADMINS} %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\`"
