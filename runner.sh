@@ -72,16 +72,16 @@ function checkJsons() {
             sendMaintainers "\`PR $PULL_REQUEST_NUMBER is failing checks. Maintainer is requested to check it\` %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\` %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
             closePR
         else
-           if [ "$CHANGED_FILES" =~ "devices.json" ]; then
-            ALTERED_DEVICE="$(git --no-pager diff --name-only HEAD $(git merge-base HEAD origin/master)|grep "codename")"
-            if [ -n $ALTERED_DEVICE ]; then
+           if [[ "$CHANGED_FILES" =~ "devices.json" ]]; then
+            ALTERED_DEVICE="$(git --no-pager diff HEAD $(git merge-base HEAD origin/master) | grep "codename")"
+            if [[ -z "$ALTERED_DEVICE" ]]; then
+              echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
+              sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER) %0A%0A\`CI couldn't figure out which device was PR-ed\`"
+              sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all checks. Please wait for the merge. CI can't figure out which device was PR-ed\`"
+           else
              echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
-             sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER) %0A%0A**Device PR-ed for:** ${ALTERED_DEVICE}"
-             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all checks. Please wait for the merge.\`%0A%0A**Device PR-ed for:** ${ALTERED_DEVICE}"
-            else
-             echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
-             sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\` %0A%0A${ADMINS} %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER) %0A%0ACI couldn't figure out which device was PR-ed"
-             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all checks. Please wait for the merge.\` CI can\'t figure out which device was PR-ed"
+             sendAdmins "\`PR $PULL_REQUEST_NUMBER can be merged.\`%0A%0A${ADMINS}%0A%0A\`Device PR-ed for: ${ALTERED_DEVICE}\`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
+             sendMaintainers "\`PR $PULL_REQUEST_NUMBER has passed all checks. Please wait for the merge.%0A%0ADevice PR-ed for: ${ALTERED_DEVICE}\`"
             exit 0
             fi
           fi
@@ -102,8 +102,9 @@ function pushToGit() {
         git commit --amend -m "[PIXEL-CI]: ${COMMIT_MESSAGE}"
         git push -f origin master
         sendAdmins "JSON Linted and Force Pushed!"
+        echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
     fi
-    echo "Yay! My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds.~"
+
 
 }
 
