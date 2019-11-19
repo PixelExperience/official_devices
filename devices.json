@@ -697,6 +697,7 @@
             "version_name": "Pie",
             "maintainer_name": "Rahul (Rk585)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=7985055",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
          },
          {
@@ -704,6 +705,7 @@
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "Rahul (Rk585)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=7985055",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
          }
       ]
@@ -815,7 +817,7 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Jayant Deshmukh (jd1811)",
+            "maintainer_name": "Jayant Deshmukh (jd1811), Rahul (Rk585)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8276928",
             "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          },
