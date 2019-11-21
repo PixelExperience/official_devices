@@ -8,8 +8,8 @@ try {
     fs.writeFileSync("devices.json", new_json);
 }
 catch (e) {
-    console.log("Lint Failure as "+item+" has improper json format!")
-    fs.writeFileSync("/tmp/failedfile",item)
+    console.log("Lint Failure as devices.json has improper json format!")
+    fs.writeFileSync("/tmp/failedfile","devices.json")
     process.exit(1);
   }
 
