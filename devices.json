@@ -1031,18 +1031,11 @@
       "codename": "raphael",
       "supported_versions": [
          {
-            "version_code": "pie",
-            "version_name": "Pie",
+            "version_code": "ten",
+            "version_name": "10",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t3965305"
-         },
-         {
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Henrique Silva (jhenrique09)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t3965305"
+            "xda_thread": ""
          }
       ]
    },
