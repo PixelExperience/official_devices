@@ -5,6 +5,13 @@
       "codename": "potter",
       "supported_versions": [
          {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Zilberto Junior (ZJRDroid)",
+            "maintainer_url": "https://t.me/ZJRDroid",
+            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Nick van Bokhorst (GtrCraft)",
@@ -17,14 +24,6 @@
             "maintainer_name": "Nick van Bokhorst (GtrCraft)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=5293805",
             "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3880088"
-         },
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Zilberto Junior (ZJRDroid)",
-            "maintainer_url": "https://t.me/ZJRDroid",
-            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
-
          }
       ]
    },
@@ -400,21 +399,6 @@
       ]
    },
    {
-      "name": "Redmi Note 6 Pro",
-      "brand": "Xiaomi",
-      "codename": "tulip",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Aryan Gupta",
-            "maintainer_url": "https://github.com/darkbeast69",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t3912049",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Redmi Note 7 Pro",
       "brand": "Xiaomi",
       "codename": "violet",
@@ -708,21 +692,6 @@
       ]
    },
    {
-      "name": "Honor View 10",
-      "brand": "Huawei",
-      "codename": "berkeley",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Nick van Bokhorst (GtrCraft)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5293805",
-            "xda_thread": "https://forum.xda-developers.com/honor-view-10/development/rom-pixel-experience-t3867008",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Mi A2",
       "brand": "Xiaomi",
       "codename": "jasmine_sprout",
@@ -756,25 +725,20 @@
       "codename": "platina",
       "supported_versions": [
          {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Bruno Rocha (rochadev)",
-            "maintainer_url": "https://t.me/rochadev",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
-         },
-         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Bruno Rocha (rochadev)",
             "maintainer_url": "https://t.me/rochadev",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
+            "deprecated": true
          },
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
             "maintainer_name": "Bruno Rocha (rochadev)",
             "maintainer_url": "https://t.me/rochadev",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707"
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
+            "deprecated": true
          }
       ]
    },
@@ -1115,20 +1079,6 @@
             "maintainer_name": "Xhoni Rexhepi (Pepsy)",
             "maintainer_url": "https://t.me/peepsy",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t3872863"
-         }
-      ]
-   },
-   {
-      "name": "7T",
-      "brand": "OnePlus",
-      "codename": "hotdogb",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Henrique Pereira (Hlcpereira)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7838323",
-            "xda_thread": ""
          }
       ]
    },
