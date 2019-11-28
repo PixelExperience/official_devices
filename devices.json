@@ -973,10 +973,9 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "",
-            "deprecated": "true",
-            "maintainer_url": "",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/official-pixel-experience-2019-10-t3985497"
+            "maintainer_name": "Nafid Faham (letsmakecakes)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8203848",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
          },
          {
             "version_code": "pie",
