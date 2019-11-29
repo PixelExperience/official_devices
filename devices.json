@@ -1103,6 +1103,48 @@
       ]
    },
    {
+      "name": "Xperia XZ3",
+      "brand": "Sony",
+      "codename": "akatsuki",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ2",
+      "brand": "Sony",
+      "codename": "akari",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ2 Compact",
+      "brand": "Sony",
+      "codename": "apollo",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "Mi 6X",
       "brand": "Xiaomi",
       "codename": "wayne",
