@@ -1103,9 +1103,23 @@
       ]
    },
       {
-      "name": "Xperia 5",
+      "name": "Mi 6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "THLIVSQAZ",
+            "maintainer_url": "https://github.com/THLIVSQAZ",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia 5 RoW",
       "brand": "Sony",
-      "codename": "bahamut",
+      "codename": "j8210",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1117,9 +1131,37 @@
       ]
    },
       {
-      "name": "Xperia 1",
+      "name": "Xperia 5 DSDS",
       "brand": "Sony",
-      "codename": "Griffin",
+      "codename": "j9210",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia 1 RoW",
+      "brand": "Sony",
+      "codename": "j8110",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia 1 DSDS",
+      "brand": "Sony",
+      "codename": "j9110",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1131,9 +1173,23 @@
       ]
    },
    {
-      "name": "Xperia XZ3",
+      "name": "Xperia XZ3 RoW",
       "brand": "Sony",
-      "codename": "akatsuki",
+      "codename": "h8416",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia XZ3 DSDS",
+      "brand": "Sony",
+      "codename": "h9436",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1145,9 +1201,9 @@
       ]
    },
       {
-      "name": "Xperia XZ2",
+      "name": "Xperia XZ2 RoW",
       "brand": "Sony",
-      "codename": "akari",
+      "codename": "h8216",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1159,9 +1215,9 @@
       ]
    },
       {
-      "name": "Xperia XZ2 Compact",
+      "name": "Xperia XZ2 DSDS",
       "brand": "Sony",
-      "codename": "apollo",
+      "codename": "h8266",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1173,9 +1229,9 @@
       ]
    },
       {
-      "name": "Xperia 10 Plus",
+      "name": "Xperia XZ2 Compact RoW",
       "brand": "Sony",
-      "codename": "mermaid",
+      "codename": "h8314",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1187,24 +1243,9 @@
       ]
    },
       {
-      "name": "Xperia 10",
+      "name": "Xperia XZ2 Compact DSDS",
       "brand": "Sony",
-      "codename": "kirin",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
-            "maintainer_url": "https://github.com/paulbouchara",
-            "xda_thread": ""
-         }
-      ]
-   },
-
-      {
-      "name": "Xperia XA2 Plus",
-      "brand": "Sony",
-      "codename": "voyager",
+      "codename": "h8324",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1216,9 +1257,9 @@
       ]
    },
       {
-      "name": "Xperia XA2 Ultra",
+      "name": "Xperia 10 Plus RoW",
       "brand": "Sony",
-      "codename": "discovery",
+      "codename": "i3213",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1230,9 +1271,9 @@
       ]
    },
       {
-      "name": "Xperia XA2",
+      "name": "Xperia 10 Plus DSDS",
       "brand": "Sony",
-      "codename": "pioneer",
+      "codename": "i4213",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1244,9 +1285,9 @@
       ]
    },
       {
-      "name": "Xperia XZ1",
+      "name": "Xperia 10 RoW",
       "brand": "Sony",
-      "codename": "poplar",
+      "codename": "i3113",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1258,9 +1299,9 @@
       ]
    },
       {
-      "name": "Xperia XZ1 Compact",
+      "name": "Xperia 10 DSDS",
       "brand": "Sony",
-      "codename": "lilac",
+      "codename": "i4113",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1272,9 +1313,9 @@
       ]
    },
       {
-      "name": "Xperia XZ Premium",
+      "name": "Xperia XA2 Plus RoW",
       "brand": "Sony",
-      "codename": "maple",
+      "codename": "h3413",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -1286,15 +1327,141 @@
       ]
    },
       {
-      "name": "Mi 6X",
-      "brand": "Xiaomi",
-      "codename": "wayne",
+      "name": "Xperia XA2 Plus DSDS",
+      "brand": "Sony",
+      "codename": "h4413",
       "supported_versions": [
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "THLIVSQAZ",
-            "maintainer_url": "https://github.com/THLIVSQAZ",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XA2 Ultra RoW",
+      "brand": "Sony",
+      "codename": "h3213",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XA2 Ultra DSDS",
+      "brand": "Sony",
+      "codename": "h4213",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XA2 RoW",
+      "brand": "Sony",
+      "codename": "h3113",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XA2 DSDS",
+      "brand": "Sony",
+      "codename": "h4113",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ1 RoW",
+      "brand": "Sony",
+      "codename": "g8341",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ1 DSDS",
+      "brand": "Sony",
+      "codename": "g8342",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ1 Compact RoW",
+      "brand": "Sony",
+      "codename": "g8441",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ Premium RoW",
+      "brand": "Sony",
+      "codename": "g8141",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ Premium DSDS",
+      "brand": "Sony",
+      "codename": "g8142",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
             "xda_thread": ""
          }
       ]
