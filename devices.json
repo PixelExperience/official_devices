@@ -1102,6 +1102,34 @@
          }
       ]
    },
+      {
+      "name": "Xperia 5",
+      "brand": "Sony",
+      "codename": "bahamut",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia 1",
+      "brand": "Sony",
+      "codename": "Griffin",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
    {
       "name": "Xperia XZ3",
       "brand": "Sony",
@@ -1144,7 +1172,120 @@
          }
       ]
    },
-   {
+      {
+      "name": "Xperia 10 Plus",
+      "brand": "Sony",
+      "codename": "mermaid",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia 10",
+      "brand": "Sony",
+      "codename": "kirin",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+
+      {
+      "name": "Xperia XA2 Plus",
+      "brand": "Sony",
+      "codename": "voyager",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XA2 Ultra",
+      "brand": "Sony",
+      "codename": "discovery",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XA2",
+      "brand": "Sony",
+      "codename": "pioneer",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ1",
+      "brand": "Sony",
+      "codename": "poplar",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ1 Compact",
+      "brand": "Sony",
+      "codename": "lilac",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
+      "name": "Xperia XZ Premium",
+      "brand": "Sony",
+      "codename": "maple",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "AngeloGioacchino Del Regno (kholk), Paul Bouchara (Redkaled)",
+            "maintainer_url": "https://github.com/paulbouchara",
+            "xda_thread": ""
+         }
+      ]
+   },
+      {
       "name": "Mi 6X",
       "brand": "Xiaomi",
       "codename": "wayne",
