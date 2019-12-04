@@ -49,6 +49,13 @@
             "maintainer_url": "",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
+         },
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Giamma Sena (GiaSen)",
+            "maintainer_url": "https://t.me/GiaSen",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
          }
       ]
    },
@@ -789,14 +796,14 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Parshva, Rohan Hasabe (Hasaber8)",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
             "maintainer_url": "https://t.me/Hasaber8",
             "xda_thread": ""
          },
          {
             "version_code": "pie",
             "version_name": "Pie",
-            "maintainer_name": "Parshva, Rohan Hasabe (Hasaber8)",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
             "maintainer_url": "https://t.me/parshva99",
             "xda_thread": "https://forum.xda-developers.com/one-power/development/rom-pixel-experience-t3928802",
             "deprecated": true
@@ -804,7 +811,7 @@
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Parshva, Rohan Hasabe (Hasaber8)",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
             "maintainer_url": "https://t.me/Hasaber8",
             "xda_thread": "",
             "deprecated": true
@@ -1059,7 +1066,7 @@
             "version_name": "10",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
          }
       ]
    },
