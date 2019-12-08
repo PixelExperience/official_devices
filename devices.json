@@ -238,6 +238,20 @@
       ]
    },
    {
+      "name": "Redmi 4/4X",
+      "brand": "Xiaomi",
+      "codename": "santoni",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Pranaya Deomani (deomani007)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8940296",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
+         }
+      ]
+   },
+   {
       "name": "Mi 5",
       "brand": "Xiaomi",
       "codename": "gemini",
