@@ -428,11 +428,12 @@
       "codename": "violet",
       "supported_versions": [
          {
+            "deprecated": true,
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Dyneteve, merothh",
-            "maintainer_url": "https://github.com/Dyneteve",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
+            "maintainer_name": "",
+            "maintainer_url": "",
+            "xda_thread": ""
          },
          {
             "deprecated": true,
