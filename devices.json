@@ -917,6 +917,7 @@
             "version_name": "Pie",
             "maintainer_name": "Danilo Santos (linusdan)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8145312",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-pixel-experience-t3868708"
          },
          {
@@ -924,6 +925,7 @@
             "version_name": "Pie (Plus Edition)",
             "maintainer_name": "Danilo Santos (linusdan)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8145312",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-pixel-experience-t3868708"
          }
       ]
