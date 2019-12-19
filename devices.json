@@ -453,22 +453,6 @@
             "maintainer_name": "Dyneteve, merothh",
             "maintainer_url": "https://github.com/Dyneteve",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
-         },
-         {
-            "deprecated": true,
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Dyneteve, merothh",
-            "maintainer_url": "https://github.com/Dyneteve",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
-         },
-         {
-            "deprecated": true,
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Dyneteve, merothh",
-            "maintainer_url": "https://github.com/Dyneteve",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
          }
       ]
    },
