@@ -817,6 +817,35 @@
       ]
    },
    {
+      "name": "Moto G1",
+      "brand": "Motorola",
+      "codename": "falcon",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
+            "maintainer_url": "https://t.me/Hasaber8",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "pie",
+            "version_name": "Pie",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
+            "maintainer_url": "https://t.me/parshva99",
+            "xda_thread": "",
+            "deprecated": true
+         },
+         {
+            "version_code": "pie_plus",
+            "version_name": "Pie (Plus edition)",
+            "maintainer_name": "Rohan Hasabe (Hasaber8)",
+            "maintainer_url": "https://t.me/Hasaber8",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "Zenfone Max Pro M2",
       "brand": "Asus",
       "codename": "X01BD",
