@@ -603,6 +603,13 @@
       "codename": "rosy",
       "supported_versions": [
          {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Sukrut Bhagwat (sukrut4778)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9573489",
+            "xda_thread": ""
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Shreejoy Dash (Shreejoy Dash)",
