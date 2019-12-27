@@ -1548,5 +1548,19 @@
             "xda_thread": "https://forum.xda-developers.com/mi-9t/development/unofficial-pixel-experience-t4005213"
          }
       ]
+   },
+   {
+      "name": "moto x4",
+      "brand": "motorola",
+      "codename": "payton",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "trpsl",
+            "maintainer_url": "https://github.com/trpsl",
+            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
+         }
+      ]
    }
 ]
