@@ -1562,5 +1562,19 @@
             "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
          }
       ]
+   },
+   {
+      "name": "7 Pro",
+      "brand": "OnePlus",
+      "codename": "guacamole",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Chandra Chaganti",
+            "maintainer_url": "https://github.com/Chandra-Chaganti",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
+         }
+      ]
    }
 ]
