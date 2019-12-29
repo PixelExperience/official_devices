@@ -60,20 +60,6 @@
       ]
    },
    {
-      "name": "Redmi 7",
-      "brand": "Xiaomi",
-      "codename": "onclite",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Ragy",
-            "maintainer_url": "https://github.com/ragy365",
-            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixel-experience-t4019763"
-         }
-      ]
-   },
-   {
       "name": "7",
       "brand": "OnePlus",
       "codename": "guacamoleb",
