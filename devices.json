@@ -142,21 +142,6 @@
       ]
    },
    {
-      "name": "3/3T",
-      "brand": "OnePlus",
-      "codename": "oneplus3",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Akash Srivastava (markakash)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "6",
       "brand": "OnePlus",
       "codename": "enchilada",
@@ -453,27 +438,6 @@
             "maintainer_name": "Dyneteve, merothh",
             "maintainer_url": "https://github.com/Dyneteve",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
-         }
-      ]
-   },
-   {
-      "name": "Mi Note 3",
-      "brand": "Xiaomi",
-      "codename": "jason",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "EnesSastim",
-            "xda_thread": "",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus edition)",
-            "maintainer_name": "EnesSastim",
-            "xda_thread": "",
-            "deprecated": true
          }
       ]
    },
@@ -942,67 +906,6 @@
             "maintainer_name": "Vigneshwar",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6123738",
             "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/9-0-0-pixel-experience-19-01-2019-t3891445",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Galaxy S2",
-      "brand": "Samsung",
-      "codename": "i9100",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Danilo Santos (linusdan)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8145312",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-pixel-experience-t3868708",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus Edition)",
-            "maintainer_name": "Danilo Santos (linusdan)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8145312",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-pixel-experience-t3868708",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Redmi 4 Prime",
-      "brand": "Xiaomi",
-      "codename": "markw",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Granrage",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8556380",
-            "xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/rom-pixel-experience-t3964967",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Granrage",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8556380",
-            "xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/rom-pixel-experience-t3964967",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Mi 9",
-      "brand": "Xiaomi",
-      "codename": "cepheus",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Akash Srivastava",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
-            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3936738",
             "deprecated": true
          }
       ]
