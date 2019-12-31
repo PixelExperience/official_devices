@@ -442,6 +442,20 @@
       ]
    },
    {
+      "name": "Redmi Note 8",
+      "brand": "Xiaomi",
+      "codename": "ginkgo",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "",
+            "maintainer_url": "",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "Poco F1",
       "brand": "Xiaomi",
       "codename": "beryllium",
