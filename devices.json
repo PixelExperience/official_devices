@@ -674,25 +674,25 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "",
-            "maintainer_url": "",
-            "xda_thread": "",
+            "maintainer_name": "PixelBoot",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525",
             "deprecated": true
          },
          {
             "version_code": "pie",
             "version_name": "Pie",
-            "maintainer_name": "",
-            "maintainer_url": "",
-            "xda_thread": "",
+            "maintainer_name": "PixelBoot",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744",
             "deprecated": true
          },
          {
             "version_code": "pie_plus",
             "version_name": "Pie (Plus edition)",
-            "maintainer_name": "",
-            "maintainer_url": "",
-            "xda_thread": "",
+            "maintainer_name": "PixelBoot",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8086838",
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixelexperience-t3869744",
             "deprecated": true
          }
       ]
