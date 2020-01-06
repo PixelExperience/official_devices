@@ -442,34 +442,6 @@
       ]
    },
    {
-      "name": "Redmi Note 8",
-      "brand": "Xiaomi",
-      "codename": "ginkgo",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Shreejoy Dash",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 8T",
-      "brand": "Xiaomi",
-      "codename": "willow",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Shreejoy Dash",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8338700",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
-         }
-      ]
-   },
-   {
       "name": "Poco F1",
       "brand": "Xiaomi",
       "codename": "beryllium",
