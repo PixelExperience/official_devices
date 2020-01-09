@@ -1,5 +1,19 @@
 [
    {
+      "name": "Redmi 5A",
+      "brand": "Xiaomi",
+      "codename": "riva",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Ahmad Rulim (rulim34)",
+            "maintainer_url": "https://t.me/rulim34",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
+         }
+      ]
+   },
+   {
       "name": "Moto G5 Plus",
       "brand": "Motorola",
       "codename": "potter",
