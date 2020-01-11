@@ -96,7 +96,7 @@ function checkJsons() {
 }
 
 function pushToGit() {
-    if [ -z "$PULL_REQUEST_NUMBER" ] && [ -n $(git status -s) ]; then
+    if [ -z "$PULL_REQUEST_NUMBER" ] && [ -n "$(git status -s)" ]; then
         git add .
         git commit --amend -m "[PIXEL-CI]: ${COMMIT_MESSAGE}"
         git push -f origin master
