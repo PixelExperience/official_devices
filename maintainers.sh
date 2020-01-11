@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Copyright © 2019 PixelExperience Project
 #
+# SPDX-License-Identifier: GPL-3.0
+#
 ### Script to check if our maintainers updated in the previous month
 
 function sendAdmins() {

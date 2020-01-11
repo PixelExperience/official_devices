@@ -1,3 +1,9 @@
+//
+// Copyright © 2019 PixelExperience Project
+//
+// SPDX-License-Identifier: GPL-3.0
+//
+
 let fs = require('fs');
 
 try {
