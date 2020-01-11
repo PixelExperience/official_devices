@@ -7,7 +7,6 @@ ADMINS="@Hlcpereira @baalajimaestro @AndroidPie9"
 BUILD_START=$(date +"%s")
 BUILD_END=$(date +"%s")
 DIFF=$((BUILD_END - BUILD_START))
-GIT_CHECK="$(git status | grep "modified")"
 COMMIT_MESSAGE="$(git log -1 --pretty=%B)"
 COMMIT_SMALL_HASH="$(git rev-parse --short HEAD)"
 COMMIT_HASH="$(git rev-parse --verify HEAD)"
@@ -97,7 +96,7 @@ function checkJsons() {
 }
 
 function pushToGit() {
-    if [ -z "$PULL_REQUEST_NUMBER" ] && [ ! -n "$GIT_CHECK" ]; then
+    if [ -z "$PULL_REQUEST_NUMBER" ] && [ -n $(git status -s) ]; then
         git add .
         git commit --amend -m "[PIXEL-CI]: ${COMMIT_MESSAGE}"
         git push -f origin master
