@@ -1,0 +1,9 @@
+FROM baalajimaestro/pixelexp-ci:latest
+
+RUN npm install xmlhttprequest
+RUN npm install moment
+
+COPY . /app
+WORKDIR /app
+
+CMD ["bash", "maintainers.sh"]
