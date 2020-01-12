@@ -74,6 +74,20 @@
       ]
    },
    {
+      "name": "6t",
+      "brand": "OnePlus",
+      "codename": "fajita",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "IPSBHANGU",
+            "maintainer_url": "https://github.com/inderpreetsinghb",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "7",
       "brand": "OnePlus",
       "codename": "guacamoleb",
