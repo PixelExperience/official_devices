@@ -1101,18 +1101,9 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Xhoni Rexhepi (Pepsy)",
-            "maintainer_url": "https://t.me/peepsy",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t3872863",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Xhoni Rexhepi (Pepsy)",
-            "maintainer_url": "https://t.me/peepsy",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t3872863",
-            "deprecated": true
+            "maintainer_name": "Chenyang Zhong (jjpprrrr)",
+            "maintainer_url": "https://t.me/jjpprrrr",
+            "xda_thread": ""
          }
       ]
    },
