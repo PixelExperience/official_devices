@@ -1057,7 +1057,14 @@
             "version_name": "10",
             "maintainer_name": "Jowee Yu (itsjoeoui)",
             "maintainer_url": "https://t.me/itsjoeoui",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3976333"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Jowee Yu (itsjoeoui)",
+            "maintainer_url": "https://t.me/itsjoeoui",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3976333"
          },
          {
             "version_code": "pie",
@@ -1087,7 +1094,14 @@
             "version_name": "10",
             "maintainer_name": "Jowee Yu (itsjoeoui)",
             "maintainer_url": "https://t.me/itsjoeoui",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Jowee Yu (itsjoeoui)",
+            "maintainer_url": "https://t.me/itsjoeoui",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
          },
          {
             "version_code": "pie",
