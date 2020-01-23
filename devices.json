@@ -26,6 +26,13 @@
             "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
          },
          {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Zilberto Junior (ZJRDroid)",
+            "maintainer_url": "https://t.me/ZJRDroid",
+            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Nick van Bokhorst (GtrCraft)",
