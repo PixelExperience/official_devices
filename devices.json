@@ -1755,6 +1755,13 @@
             "maintainer_name": "Chandra Chaganti",
             "maintainer_url": "https://github.com/Chandra-Chaganti",
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Chandra Chaganti",
+            "maintainer_url": "https://github.com/Chandra-Chaganti",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
          }
       ]
    }
