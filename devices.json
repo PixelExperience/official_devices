@@ -204,20 +204,11 @@
             "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
          },
          {
-            "version_code": "pie",
-            "version_name": "Pie",
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
             "maintainer_name": "Jorge Lucas",
             "maintainer_url": "https://t.me/JorgeLucas",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3898658",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Jorge Lucas",
-            "maintainer_url": "https://t.me/JorgeLucas",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t3898658",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649",
          }
       ]
    },
