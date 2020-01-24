@@ -1739,16 +1739,9 @@
             "maintainer_name": "trpsl",
             "maintainer_url": "https://github.com/trpsl",
             "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
-         }
-      ]
-   },
-   {
-      "name": "Moto X4",
-      "brand": "Motorola",
-      "codename": "payton",
-      "supported_versions": [
+         },
          {
-            "version_code": "ten",
+            "version_code": "ten_plus",
             "version_name": "10 (Plus edition)",
             "maintainer_name": "trpsl",
             "maintainer_url": "https://github.com/trpsl",
