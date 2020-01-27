@@ -315,6 +315,27 @@
       ]
    },
    {
+      "name": "Mi 5s Plus",
+      "brand": "Xiaomi",
+      "codename": "natrium",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Jonas Cardoso (JonasCardoso)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Jonas Cardoso (JonasCardoso)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
+         }
+      ]
+   },
+   {
       "name": "Mi Mix",
       "brand": "Xiaomi",
       "codename": "lithium",
@@ -341,6 +362,27 @@
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=9382231",
             "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
             "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Mi Note 2",
+      "brand": "Xiaomi",
+      "codename": "scorpio",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Jonas Cardoso (JonasCardoso)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Jonas Cardoso (JonasCardoso)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5784821",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
          }
       ]
    },
