@@ -1777,5 +1777,19 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
          }
       ]
+   },
+   {
+      "name": "3 Rro",
+      "brand": "Realme",
+      "codename": "RMX1851",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "SamarV-121",
+            "maintainer_url": "https://github.com/SamarV121",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
