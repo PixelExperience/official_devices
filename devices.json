@@ -1791,5 +1791,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "3/3T",
+      "brand": "OnePlus",
+      "codename": "oneplus3",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Gaurav",
+            "maintainer_url": "https://github.com/Gaurav241",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
