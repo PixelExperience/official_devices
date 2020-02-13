@@ -151,7 +151,7 @@ try {
     else
     devices_to_kick += "`The following maintainers are whitelisted from these checks: `" + whitelist_maintainer + "%0A%0A";
     devices_to_kick += "`If build is below the one month limit, ignore this warn.%0A%0A`"
-    devices_to_kick += "@AndroidPie9 @Hlcpereira `please pin this`"
+    devices_to_kick += "@Shreejoy_Dash @Hlcpereira `please pin this`"
     fs.writeFileSync("/tmp/devices_to_kick", devices_to_kick)  
     console.log("Process Exited with 0");
 }
