@@ -5,7 +5,7 @@
 #
 ### Script to test and format our jsons
 
-ADMINS="@Hlcpereira @baalajimaestro @AndroidPie9"
+ADMINS="@Hlcpereira @baalajimaestro @Shreejoy_Dash"
 BUILD_START=$(date +"%s")
 BUILD_END=$(date +"%s")
 DIFF=$((BUILD_END - BUILD_START))
