@@ -805,36 +805,6 @@
       ]
    },
    {
-      "name": "Mi A2",
-      "brand": "Xiaomi",
-      "codename": "jasmine_sprout",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Aryan Gupta",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7515368",
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
-         },
-         {
-            "version_code": "pie",
-            "version_name": "Pie",
-            "maintainer_name": "Aryan Gupta",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7515368",
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3955704",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "version_name": "Pie (Plus edition)",
-            "maintainer_name": "Aryan Gupta",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7515368",
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3955704",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Mi 8 Lite",
       "brand": "Xiaomi",
       "codename": "platina",
