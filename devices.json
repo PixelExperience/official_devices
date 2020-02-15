@@ -234,7 +234,14 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Pranaya Deomani (deomani007)",
+            "maintainer_name": "Pranaya Deomani (pranaya2005)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8940296",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Pranaya Deomani (pranaya2005)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8940296",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
          }
