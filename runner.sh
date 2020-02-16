@@ -27,7 +27,7 @@ function sendMaintainers() {
 
 function closePR() {
     curl -s -X POST -d '{"state": "closed"}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/pulls/$PULL_REQUEST_NUMBER >/dev/null
-    curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! This PR has been closed as it doesnt pass through our checks. You can check the Build Status under Semaphore CI to see where it failed."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments >/dev/null
+    curl -s -X POST -d '{"body": "This is Pixel CI Automation Service! This PR has been closed as it has a derped devices.json and/or you are PR-ing some other file. Please recheck your PR."}' -H "Authorization: token $GH_PERSONAL_TOKEN" https://api.github.com/repos/PixelExperience/official_devices/issues/$PULL_REQUEST_NUMBER/comments >/dev/null
     exit 1
 }
 
