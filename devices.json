@@ -815,6 +815,9 @@
       "name": "Mi A2",
       "brand": "Xiaomi",
       "codename": "jasmine_sprout",
+      "buggy" : true,
+      "not_booting" : true,
+      "fix_issues_please" : true,
       "supported_versions": [
          {
             "version_code": "ten",
