@@ -60,7 +60,7 @@ function checkLint() {
 }
 
 function checkJsons() {
-    node json_tester.js
+    cargo run
     RESULT=$?
 
     if [ -n "$PULL_REQUEST_NUMBER" ]; then
@@ -68,9 +68,9 @@ function checkJsons() {
             sendMaintainers "\`Official-Devices CI%0A%0APR $PULL_REQUEST_NUMBER has an improper format and has been closed.\`%0A\`Maintainer has been requested to follow the PR guidelines before PR-ing again.\`"
             sendAdmins "\`Official-Devices CI%0A%0AI have closed PR $PULL_REQUEST_NUMBER due to failing checks.\`%0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
             closePR
-        elif [ "$RESULT" -eq 1 ]; then
-            sendAdmins "\`Official-Devices CI%0A%0APR $PULL_REQUEST_NUMBER is failing checks. Please don't merge\` %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\`"
-            sendMaintainers "\`Official-Devices CI%0A%0APR $PULL_REQUEST_NUMBER is failing checks. Maintainer is requested to check it\` %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\` %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
+        elif [ "$RESULT" -ne 0 ]; then
+            sendAdmins "\`Official-Devices CI%0A%0APR $PULL_REQUEST_NUMBER is failing JSON checks. Please don't merge\`"
+            sendMaintainers "\`Official-Devices CI%0A%0APR $PULL_REQUEST_NUMBER is failing JSON checks. Maintainer is requested to check it\` %0A%0A[PR Link](https://github.com/PixelExperience/official_devices/pull/$PULL_REQUEST_NUMBER)"
             closePR
         else
            if [[ "$CHANGED_FILES" =~ "devices.json" ]]; then
@@ -87,8 +87,8 @@ function checkJsons() {
             fi
           fi
         fi
-    elif [ "$RESULT" -eq 1 ]; then
-        sendAdmins "\`Official-Devices CI%0A%0ASomeone has merged a failing file. Please look in ASAP.\` %0A%0A${ADMINS} %0A%0A**Failed File:** \`$(cat /tmp/failedfile)\`"
+    elif [ "$RESULT" -ne 0 ]; then
+        sendAdmins "\`Official-Devices CI%0A%0ASomeone has merged a failing file. Please look in ASAP.\` %0A%0A${ADMINS}"
         echo "My works took $((DIFF / 60)) minute(s) and $((DIFF % 60)) seconds. But its an error!"
         exit 1
     else
