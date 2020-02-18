@@ -817,13 +817,6 @@
       "codename": "jasmine_sprout",
       "supported_versions": [
          {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Aryan Gupta, RandomRetard4676",
-            "maintainer_url": "https://github.com/darkbeast69",
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
-         },
-         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Aryan Gupta",
