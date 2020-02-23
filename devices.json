@@ -1811,5 +1811,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Realme 5 Pro",
+      "brand": "Realme",
+      "codename": "RMX1971",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Tejas Nanavare (Orgasmtrron),Madhav Saladi(BabluS)",
+            "maintainer_url": "https://github.com/Orgasmtron",
+            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
+         }
+      ]
    }
 ]
