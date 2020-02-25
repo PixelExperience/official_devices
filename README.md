@@ -15,11 +15,11 @@ You must fulfill the following requirements before applying:
 
 - [Maintainers' code of conduct](https://github.com/PixelExperience/docs/blob/master/maintainers_code_of_conduct.md)
 
-You must be aware that just fulfilling those requirements doesn't mean that you're going to be accept. We will also consider some other points if necessary, like experience or how's your behavior with other people (users or not) and even with some technical stuff.
+You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary, like experience or how your behavior is towards other people (users or otherwise), and even with some technical stuff.
 
 ### 2. OTA and Hosting
 
-Our OTA system is automatic, you should not worry about updating some script. The builds are hosted on our own server. You must build the official releases on our CI, no builds outside of it can be released as official. After the build tested, you can release.
+Our OTA system is automatic, you should not worry about updating some script. The builds are hosted on our own server. You must build the official releases on our CI, no builds outside of it can be released as official. After the build is tested, you may release it.
 
 ### 3. JSON params
 
