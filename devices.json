@@ -1053,6 +1053,27 @@
       ]
    },
    {
+      "name": "MI 9",
+      "brand": "Xiaomi",
+      "codename": "cepheus",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Akash Srivastava (markakash)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Akash Srivastava (markakash)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=5970333",
+            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
+         }
+      ]
+   },
+   {
       "name": "Redmi K20 Pro/Mi 9T Pro",
       "brand": "Xiaomi",
       "codename": "raphael",
