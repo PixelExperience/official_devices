@@ -1867,5 +1867,19 @@
             "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
          }
       ]
+   },
+   {
+      "name": "Mi MIX 2",
+      "brand": "Xiaomi",
+      "codename": "Chiron",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Angga Satya Putra (AnggaSP)",
+            "maintainer_url": "https://github.com/AnggaSP",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
