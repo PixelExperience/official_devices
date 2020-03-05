@@ -1869,9 +1869,9 @@
       ]
    },
    {
-      "name": "Mi MIX 2",
+      "name": "Mi Mix 2",
       "brand": "Xiaomi",
-      "codename": "Chiron",
+      "codename": "chiron",
       "supported_versions": [
          {
             "version_code": "ten",
