@@ -405,6 +405,13 @@
             "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
          },
          {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus Edition)",
+            "maintainer_name": "Abhinav Gupta (Agrd1129)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6754297",
+            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Abhinav Gupta (Agrd1129)",
