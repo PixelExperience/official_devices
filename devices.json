@@ -115,7 +115,7 @@
          },
          {
             "version_code": "pie_plus",
-            "version_name": "Pie (Plus Edition)",
+            "version_name": "Pie (Plus edition)",
             "maintainer_name": "Shubham Bhise (shubhambhise), shoaib.m",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8337173",
             "xda_thread": "https://forum.xda-developers.com/zuk-z1/orig-development/rom-pixel-experience-t3830494",
@@ -413,7 +413,7 @@
          },
          {
             "version_code": "ten_plus",
-            "version_name": "10 (Plus Edition)",
+            "version_name": "10 (Plus edition)",
             "maintainer_name": "Abhinav Gupta (Agrd1129)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6754297",
             "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
@@ -445,6 +445,7 @@
             "version_code": "ten",
             "version_name": "10",
             "maintainer_name": "Keertesh, Henrique Silva (jhenrique09)",
+            "maintainer_url": "",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
          },
          {
@@ -866,7 +867,7 @@
          },
          {
             "version_code": "ten_plus",
-            "version_name": "10 (Plus Edition)",
+            "version_name": "10 (Plus edition)",
             "maintainer_name": "RandomRetard4676, Nick C (ctwoon)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=10543397",
             "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t4062563"
@@ -926,7 +927,7 @@
          },
          {
             "version_code": "ten_plus",
-            "version_name": "10 (Plus Edition)",
+            "version_name": "10 (Plus edition)",
             "maintainer_name": "Rohan Hasabe (Hasaber8)",
             "maintainer_url": "https://t.me/Hasaber8",
             "xda_thread": ""
@@ -1287,7 +1288,7 @@
          },
          {
             "version_code": "ten_plus",
-            "version_name": "10 (Plus Edition)",
+            "version_name": "10 (Plus edition)",
             "maintainer_name": "RandomRetard4676, Nick C (ctwoon)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=10543397",
             "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
