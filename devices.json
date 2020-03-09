@@ -962,6 +962,13 @@
             "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
          },
          {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Jayant Deshmukh (jd1811), Rahul (Rk585)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8276928",
+            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Jayant-Deshmukh (jd1811)",
