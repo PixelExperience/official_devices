@@ -49,7 +49,14 @@
          {
             "version_code": "ten",
             "version_name": "10",
-            "maintainer_name": "Giamma Sena (GiaSen)",
+            "maintainer_name": "Giammarco Senatore (GiaSen)",
+            "maintainer_url": "https://t.me/GiaSen",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Giammarco Senatore (GiaSen)",
             "maintainer_url": "https://t.me/GiaSen",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
          },
