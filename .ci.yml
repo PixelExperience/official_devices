@@ -1,0 +1,19 @@
+version: v1.0
+name: PixelExperience Continuous Integration
+agent:
+  machine:
+    type: e1-standard-2
+    os_image: ubuntu1804
+
+blocks:
+  - name: JSON Checker and Linter
+    task:
+      jobs:
+      - name: Job
+        commands:
+          - checkout
+          - git clone https://github.com/PixelExperience/infra_resources --depth=1
+          - docker build -f infra_resources/ci-linter/Dockerfile.builder . -t ci
+          - docker run -it -e TELEGRAM_TOKEN=${TELEGRAM_TOKEN} -e PULL_REQUEST_NUMBER=${PULL_REQUEST_NUMBER} -e GH_PERSONAL_TOKEN=${GH_PERSONAL_TOKEN} ci        
+      secrets:
+        - name: Pixel-CI
