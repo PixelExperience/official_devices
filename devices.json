@@ -140,14 +140,8 @@
             "version_name": "10",
             "maintainer_name": "Rodrigo Rodrigues (Rodrigo594)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=7509777",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3968675"
-         },
-         {
-            "version_code": "ten_plus",
-            "version_name": "10 (Plus edition)",
-            "maintainer_name": "Rodrigo Rodrigues (Rodrigo594)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=7509777",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3968675"
+            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixel-experience-lenovo-zuk-z2-plus-t3968675",
+            "deprecated": true
          }
       ]
    },
