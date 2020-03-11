@@ -1959,5 +1959,33 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Redmi K30/Poco X2",
+      "brand": "Xiaomi",
+      "codename": "phoenix",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Henrique Silva (jhenrique09)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Zinadin Zidan (Zidan44), Henrique Silva (jhenrique09)",
+            "maintainer_url": "",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
