@@ -35,4 +35,8 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | maintainer_url | Your personal URL, eg: https://github.com/jhenrique09/ or https://forum.xda-developers.com/member.php?u=6519039 | No  |
 | xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064 | No |
 
+### 4. Device Image
+
+We need a .png image with transparent background with sane quality with at least the device front being shown for our website. Those will go to the images folder with the filename being called as <device_codename>.png.
+
 If you agree with everything, please [fill this form](https://forms.gle/b7kjDzsT2RrRh7WCA)
