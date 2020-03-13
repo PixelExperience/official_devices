@@ -1979,7 +1979,8 @@
             "version_name": "10",
             "maintainer_name": "Henrique Silva (jhenrique09)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=6519039",
-            "xda_thread": ""
+            "xda_thread": "",
+            "beta": true
          }
       ]
    },
@@ -1993,7 +1994,8 @@
             "version_name": "10",
             "maintainer_name": "Zinadin Zidan (Zidan44), Henrique Silva (jhenrique09)",
             "maintainer_url": "",
-            "xda_thread": ""
+            "xda_thread": "",
+            "beta": true
          }
       ]
    }
