@@ -155,7 +155,14 @@
             "version_name": "10",
             "maintainer_name": "Yash Sonawane (rdjr5)",
             "maintainer_url": "https://forum.xda-developers.com/member.php?u=8531692",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529/post81824245#post81824245"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Yash Sonawane (rdjr5)",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8531692",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
          },
          {
             "version_code": "pie",
