@@ -14,6 +14,6 @@ blocks:
           - checkout
           - git clone https://github.com/PixelExperience/infra_resources --depth=1
           - docker build -f infra_resources/ci-linter/Dockerfile.builder . -t ci
-          - docker run -it -e TELEGRAM_TOKEN=${TELEGRAM_TOKEN} -e PULL_REQUEST_NUMBER=${PULL_REQUEST_NUMBER} -e GH_PERSONAL_TOKEN=${GH_PERSONAL_TOKEN} ci        
+          - docker run -it -e TELEGRAM_TOKEN=${TELEGRAM_TOKEN} -e SEMAPHORE_GIT_PR_NUMBER=${SEMAPHORE_GIT_PR_NUMBER} -e GH_PERSONAL_TOKEN=${GH_PERSONAL_TOKEN} ci        
       secrets:
         - name: Pixel-CI
