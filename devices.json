@@ -456,6 +456,13 @@
             "maintainer_url": "",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
          },
+	 {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Keertesh, Henrique Silva (jhenrique09)",
+            "maintainer_url": "",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
+         },
          {
             "version_code": "pie",
             "version_name": "Pie",
