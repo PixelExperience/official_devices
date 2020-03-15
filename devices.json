@@ -912,6 +912,20 @@
       "codename": "platina",
       "supported_versions": [
          {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "nysascape",
+            "maintainer_url": "https://github.com/nysascape",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "nysascape",
+            "maintainer_url": "https://github.com/nysascape",
+            "xda_thread": ""
+         },
+         {
             "version_code": "pie",
             "version_name": "Pie",
             "maintainer_name": "Bruno Rocha (rochadev)",
