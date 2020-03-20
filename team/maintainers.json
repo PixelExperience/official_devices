@@ -43,6 +43,83 @@
        ]
     },
     {
+       "name":"Jonas Cardoso",
+       "country":"BR",
+       "github_username":"JonasCardoso",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=5784821",
+       "telegram_url":"http://t.me/JonasCardoso",
+       "devices":[
+          {
+             "codename":"gemini",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"capricorn",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"natrium",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"scorpio",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          }
+       ]
+    },
+    {
+       "name":"nysascape",
+       "country":"GB",
+       "github_username":"nysascape",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7232898",
+       "telegram_url":"http://t.me/nysascape",
+       "devices":[
+          {
+             "codename":"platina",
+             "versions":[
+                "ten",
+                "ten_plus"               
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Ahmad Rulim",
+       "country":"ID",
+       "github_username":"rulim34",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9913118",
+       "telegram_url":"https://t.me/rulim34",
+       "devices":[
+          {
+             "codename":"riva",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
       "name":"nmomcilo5",
       "country":"RS",
       "github_username":"trpsl",
@@ -58,4 +135,5 @@
          }
       ]
    }
- ]
+]
+
