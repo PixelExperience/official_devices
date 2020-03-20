@@ -86,5 +86,22 @@
              ]
           }
        ]
+    },
+    {
+       "name":"nysascape",
+       "country":"GB",
+       "github_username":"nysascape",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7232898",
+       "telegram_url":"http://t.me/nysascape",
+       "devices":[
+          {
+             "codename":"platina",
+             "versions":[
+                "ten",
+                "ten_plus"               
+             ]
+          }
+       ]
     }
  ]
+
