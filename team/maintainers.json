@@ -1,0 +1,18 @@
+[
+    {
+       "name":"Jorge Lucas",
+       "country":"BR",
+       "github_username":"Jorg3Lucas",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9604887",
+       "telegram_url":"http://t.me/JorgeLucas",
+       "devices":[
+          {
+             "codename":"sanders",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    }
+ ]

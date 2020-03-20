@@ -35,6 +35,16 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | maintainer_url | Your personal URL, eg: https://github.com/jhenrique09/ or https://forum.xda-developers.com/member.php?u=6519039 | No  |
 | xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064 | No |
 
+##### team/maintainers.json
+| Param | Description | Required |
+|--|--|--|
+| name | Your name | Yes |
+| country | ‎ISO 3166-1 code of your country (2 digits, you can get from https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) | Yes |
+| github_username | Your github username (eg: https://github.com/jhenrique09/) | Yes |
+| devices | Array with the device and the respective version that you maintain | Yes |
+| xda_url | Direct url of your XDA profile (eg: https://forum.xda-developers.com/member.php?u=6519039) | No |
+| telegram_url | Direct url of your telegram profile | No |
+
 ### 4. Device Image
 
 We need a .png image with transparent background with sane quality with at least the device front being shown for our website. Those will go to the images folder with the filename being called as <device_codename>.png.

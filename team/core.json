@@ -1,0 +1,33 @@
+[
+    {
+       "name":"Henrique Pereira",
+       "country":"BR",
+       "github_username":"HlcPereira",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7838323",
+       "devices":[
+          {
+             "codename":"beryllium",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          },
+          {
+             "codename":"dipper",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"grus",
+             "versions":[
+                "pie",
+                "pie_plus"
+             ]
+          }
+       ]
+    }
+ ]
