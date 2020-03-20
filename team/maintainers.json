@@ -150,5 +150,21 @@
             ]
          }
       ]
-   }
-]
+   },
+   {      
+       "name":"Zilberto Junior",
+       "country":"BR",
+       "github_username":"ZJRDroid",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7233293",
+       "telegram_url":"http://t.me/ZJRDroid",
+       "devices":[
+          {
+             "codename":"potter",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    }
+ ]
