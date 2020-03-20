@@ -88,10 +88,59 @@
        ]
     },
     {
+       "name":"nysascape",
+       "country":"GB",
+       "github_username":"nysascape",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7232898",
+       "telegram_url":"http://t.me/nysascape",
+       "devices":[
+          {
+             "codename":"platina",
+             "versions":[
+                "ten",
+                "ten_plus"               
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Ahmad Rulim",
+       "country":"ID",
+       "github_username":"rulim34",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9913118",
+       "telegram_url":"https://t.me/rulim34",
+       "devices":[
+          {
+             "codename":"riva",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
+      "name":"nmomcilo5",
+      "country":"RS",
+      "github_username":"trpsl",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=8399533",
+      "telegram_url":"http://t.me/trpsl",
+      "devices":[
+         {
+            "codename":"payton",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name":"Chenyang Zhong",
       "country":"CN",
       "github_username":"jjpprrrr",
       "xda_url":"https://forum.xda-developers.com/member.php?u=9585779",
+      "telegram_url":"http://t.me/jjpprrrr"
       "devices":[
          {
             "codename":"polaris",
@@ -100,7 +149,6 @@
                "ten_plus"
             ]
          }
-      ],
-      "telegram_url":"http://t.me/jjpprrrr"
+      ]
    }
- ]
+]
