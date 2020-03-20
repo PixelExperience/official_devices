@@ -22,5 +22,27 @@
              ]
           }
        ]
+    },
+    {
+       "name":"Shreejoy Dash",
+       "country":"IN",
+       "github_username":"shreejoy",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8338700",
+       "devices":[
+          {
+             "codename":"ginkgo",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          },
+          {
+             "codename":"willow",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
- ]
+]
