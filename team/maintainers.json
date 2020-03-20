@@ -16,14 +16,14 @@
        ]
     },
     {
-       "name":"Xiaowei Yu",
-       "country":"CA",
-       "github_username":"itsjoeoui",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=8125712",
-       "telegram_url":"http://t.me/itsjoeoui",
+       "name":"Jonas Cardoso",
+       "country":"BR",
+       "github_username":"JonasCardoso",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=5784821",
+       "telegram_url":"http://t.me/JonasCardoso",
        "devices":[
           {
-             "codename":"cheeseburger",
+             "codename":"gemini",
              "versions":[
                 "ten",
                 "ten_plus",
@@ -32,7 +32,25 @@
              ]
           },
           {
-             "codename":"dumpling",
+             "codename":"capricorn",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"natrium",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"scorpio",
              "versions":[
                 "ten",
                 "ten_plus",
