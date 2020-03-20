@@ -134,6 +134,21 @@
             ]
          }
       ]
+   },
+   {
+      "name":"Chenyang Zhong",
+      "country":"CN",
+      "github_username":"jjpprrrr",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=9585779",
+      "telegram_url":"http://t.me/jjpprrrr",
+      "devices":[
+         {
+            "codename":"polaris",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
-
