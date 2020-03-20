@@ -14,5 +14,32 @@
              ]
           }
        ]
+    },
+    {
+       "name":"Xiaowei Yu",
+       "country":"CA",
+       "github_username":"itsjoeoui",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8125712",
+       "telegram_url":"http://t.me/itsjoeoui",
+       "devices":[
+          {
+             "codename":"cheeseburger",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"dumpling",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          }
+       ]
     }
  ]
