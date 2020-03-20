@@ -41,5 +41,50 @@
              ]
           }
        ]
+    },
+    {
+       "name":"Jonas Cardoso",
+       "country":"BR",
+       "github_username":"JonasCardoso",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=5784821",
+       "telegram_url":"http://t.me/JonasCardoso",
+       "devices":[
+          {
+             "codename":"gemini",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"capricorn",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"natrium",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          },
+          {
+             "codename":"scorpio",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          }
+       ]
     }
  ]
