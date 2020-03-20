@@ -38,7 +38,7 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 ##### team/maintainers.json
 | Param | Description | Required |
 |--|--|--|
-| name | Your name | Yes |
+| name | Your name (or nickname) | Yes |
 | country | ISO-3166 Alpha 2 code of your country (2 digits, you can get from https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) | Yes |
 | github_username | Your github username (eg: https://github.com/jhenrique09/) | Yes |
 | devices | Array with the device and the respective version that you maintain | Yes |
