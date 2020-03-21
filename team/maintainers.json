@@ -270,5 +270,21 @@
              ]
           }
        ]
+    },
+    {
+       "name":"Chandra Chaganti",
+       "country":"IN",
+       "github_username":"Chandra-Chaganti",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7600620",
+       "telegram_url":"http://t.me/ChandraChaganti",
+       "devices":[
+          {
+             "codename":"guacamole",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
  ]
