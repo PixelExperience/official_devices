@@ -239,7 +239,7 @@
           }
        ]
     },
-    {      
+    {
        "name":"Giammarco Senatore",
        "country":"IT",
        "github_username":"GiaSen",
@@ -248,6 +248,22 @@
        "devices":[
           {
              "codename":"mido",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {      
+       "name":"Ray Lau",
+       "country":"CN",
+       "github_username":"raysenlau",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9050662",
+       "telegram_url":"http://t.me/raysenlau",
+       "devices":[
+          {
+             "codename":"davinci",
              "versions":[
                 "ten",
                 "ten_plus"
