@@ -114,7 +114,7 @@
              "codename":"platina",
              "versions":[
                 "ten",
-                "ten_plus"               
+                "ten_plus"
              ]
           }
        ]
@@ -167,7 +167,7 @@
          }
       ]
    },
-   {      
+   {
        "name":"Zilberto Junior",
        "country":"BR",
        "github_username":"ZJRDroid",
@@ -224,7 +224,7 @@
          }
       ]
    },
-   {      
+   {
        "name":"Samar Vispute",
        "country":"IN",
        "github_username":"SamarV-121",
@@ -255,7 +255,7 @@
           }
        ]
     },
-    {      
+    {
        "name":"Ray Lau",
        "country":"CN",
        "github_username":"raysenlau",
@@ -296,6 +296,38 @@
        "devices":[
           {
              "codename":"santoni",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Rahul Krishna",
+       "country":"IN",
+       "github_username":"rk779",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7985055",
+       "telegram_url":"http://t.me/rk585",
+       "devices":[
+          {
+             "codename":"X01BD",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Jayant Deshmukh",
+       "country":"IN",
+       "github_username":"Jayant-Deshmukh",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8276928",
+       "telegram_url":"http://t.me/JD1811",
+       "devices":[
+          {
+             "codename":"X01BD",
              "versions":[
                 "ten",
                 "ten_plus"
