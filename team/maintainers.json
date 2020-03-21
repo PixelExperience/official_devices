@@ -286,5 +286,21 @@
              ]
           }
        ]
+    },
+    {
+       "name":"Pranaya Deomani",
+       "country":"IN",
+       "github_username":"pranaya2005",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8940296",
+       "telegram_url":"http://t.me/pranaya2005",
+       "devices":[
+          {
+             "codename":"santoni",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
  ]
