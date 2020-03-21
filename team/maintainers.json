@@ -88,6 +88,22 @@
        ]
     },
     {
+       "name":"Gaurav",
+       "country":"IN",
+       "github_username":"Gaurav241",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8029593",
+       "telegram_url":"http://t.me/Gaurav24",
+       "devices":[
+          {
+             "codename":"oneplus3",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
        "name":"nysascape",
        "country":"GB",
        "github_username":"nysascape",
@@ -163,6 +179,24 @@
              "versions":[
                 "ten",
                 "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Jacob Deepu",
+       "country":"IN",
+       "github_username":"JacobDeepu",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9732522",
+       "telegram_url":"https://t.me/JacobDeepu",
+       "devices":[
+          {
+             "codename":"land",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
              ]
           }
        ]
