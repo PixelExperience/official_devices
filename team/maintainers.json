@@ -88,6 +88,22 @@
        ]
     },
     {
+       "name":"Gaurav",
+       "country":"IN",
+       "github_username":"Gaurav241",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8029593",
+       "telegram_url":"http://t.me/Gaurav24",
+       "devices":[
+          {
+             "codename":"oneplus3",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
        "name":"nysascape",
        "country":"GB",
        "github_username":"nysascape",
