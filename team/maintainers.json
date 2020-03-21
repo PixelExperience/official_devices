@@ -166,5 +166,28 @@
              ]
           }
        ]
-    }
+    },
+    {
+      "name":"RandomRetard4676",
+      "country":"IN",
+      "github_username":"RandomRetard4676",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=10543397",
+      "telegram_url":"http://t.me/RandomRetard4676",
+      "devices":[
+         {
+            "codename":"jasmine_sprout",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename":"wayne",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   }
  ]
