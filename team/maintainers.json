@@ -238,5 +238,21 @@
              ]
           }
        ]
+    },
+    {      
+       "name":"Giammarco Senatore",
+       "country":"IT",
+       "github_username":"GiaSen",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8167844",
+       "telegram_url":"http://t.me/GiaSen",
+       "devices":[
+          {
+             "codename":"mido",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
  ]
