@@ -166,5 +166,20 @@
              ]
           }
        ]
+   },
+   {      
+       "name":"Samar Vispute",
+       "country":"IN",
+       "github_username":"SamarV-121",
+       "telegram_url":"http://t.me/SamarV121",
+       "devices":[
+          {
+             "codename":"RMX1851",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
  ]
