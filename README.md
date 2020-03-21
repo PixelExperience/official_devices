@@ -29,8 +29,7 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | name | Device name | Yes |
 | brand | Device manufacturer | Yes |
 | codename | Device codename, eg: falcon | Yes |
-| version_code | Version code, lowercase, eg: pie | Yes |
-| version_name | Version name, will be shown on download portal, eg: Pie | Yes |
+| version_code | Version code (ten or ten_plus) | Yes |
 
 ##### team/maintainers.json
 | Param | Description | Required |
