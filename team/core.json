@@ -105,6 +105,11 @@
     {
        "name":"Jake",
        "country":"GB",
-       "github_username":""
+       "github_username":"jkmnch"
+    },
+    {
+       "name":"David",
+       "country":"IN",
+       "github_username":"legendavey"
     }
 ]
