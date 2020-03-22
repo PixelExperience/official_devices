@@ -357,5 +357,28 @@
              ]
           }
        ]
+   },
+    {
+       "name":"Nick C.",
+       "country":"RU",
+       "github_username":"ctwoon",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9818233",
+       "telegram_url":"http://t.me/rebenok90x",
+       "devices":[
+          {
+             "codename":"jasmine_sprout",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          },
+          {
+             "codename":"wayne",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
  ]
