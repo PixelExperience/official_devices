@@ -225,6 +225,23 @@
       ]
    },
    {
+       "name":"Abhinav Gupta",
+       "country":"IN",
+       "github_username":"Abhinavgupta371",
+       "telegram_url":"http://t.me/abhinavgupta371",
+       "devices":[
+          {
+             "codename":"tissot",
+             "versions":[
+                "ten",
+                "ten_plus",
+                "pie",
+                "pie_plus"
+             ]
+          }
+       ]
+   },
+   {
        "name":"Samar Vispute",
        "country":"IN",
        "github_username":"SamarV-121",
