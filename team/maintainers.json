@@ -334,5 +334,28 @@
              ]
           }
        ]
+    },
+    {
+       "name":"Paul M.",
+       "country":"RU",
+       "github_username":"pqhaz",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=9735543",
+       "telegram_url":"http://t.me/pqhaz",
+       "devices":[
+          {
+             "codename":"ginkgo",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          },
+          {
+             "codename":"willow",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     }
  ]
