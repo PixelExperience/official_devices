@@ -429,7 +429,7 @@
             ]
          }
       ]
-    },
+   },
     {      
       "name":"Zinadin Zidan",
       "country":"BD",
@@ -451,6 +451,20 @@
             "versions":[
                "ten",
                "ten_plus"
+            ]
+         }
+      ]
+   },
+    {
+      "name":"Angga Satya Putra",
+      "country":"ID",
+      "github_username":"AnggaSP",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=5153731",
+      "devices":[
+         {
+            "codename":"chiron",
+            "versions":[
+               "ten"
             ]
          }
       ]
