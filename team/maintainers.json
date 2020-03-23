@@ -429,5 +429,30 @@
             ]
          }
       ]
+    },
+    {      
+      "name":"Zinadin Zidan",
+      "country":"BD",
+      "github_username":"ZIDAN44",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=9782219",
+      "telegram_url":"https://t.me/ZIDAN44",
+      "devices":[
+         {
+            "codename":"sakura",
+            "versions":[
+               "ten",
+               "ten_plus",
+               "pie",
+               "pie_plus"
+            ]
+         },
+         {
+            "codename":"begonia",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
