@@ -429,6 +429,38 @@
             ]
          }
       ]
+   },
+   {
+       "name":"Madhav Saladi",
+       "country":"IN",
+       "github_username":"bablusss",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=8482987",
+       "telegram_url":"http://t.me/BabluS",
+       "devices":[
+          {
+             "codename":"RMX1971",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
+    },
+    {
+       "name":"Tejas Nanavare",
+       "country":"IN",
+       "github_username":"Orgasmtron",
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7312079",
+       "telegram_url":"http://t.me/Orgasmtron",
+       "devices":[
+          {
+             "codename":"RMX1971",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     },
     {      
       "name":"Zinadin Zidan",
