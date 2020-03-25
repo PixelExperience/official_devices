@@ -86,7 +86,16 @@
        "name":"Dyneteve",
        "country":"RO",
        "github_username":"Dyneteve",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=7571048"
+       "xda_url":"https://forum.xda-developers.com/member.php?u=7571048",
+       "devices":[
+          {
+             "codename":"violet",
+             "versions":[
+                "ten",
+                "ten_plus"
+             ]
+          }
+       ]
     },
     {
        "name":"Vipin Mishra",
