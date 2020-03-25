@@ -495,7 +495,9 @@
       "devices":[
          {
             "codename":"chiron",
-            "versions":"ten"
+            "versions":[
+               "ten"
+            ]
          }
       ]
    }
