@@ -341,8 +341,11 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": "true",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
          },
          {
             "version_code": "pie",
@@ -1380,21 +1383,6 @@
          {
             "version_code": "ten",
             "beta": true
-         }
-      ]
-   },
-   {
-      "name": "Redmi 5 Plus",
-      "brand": "Xiaomi",
-      "codename": "vince",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
          }
       ]
    }
