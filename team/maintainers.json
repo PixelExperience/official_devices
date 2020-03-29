@@ -539,5 +539,20 @@
             ]
          }
       ]
+   },
+      {
+      "name":"Larson",
+      "country":"US",
+      "github_username":"larson-carter",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=8623968",
+      "telegram_url":"http://t.me/larson_carter",
+      "devices":[
+         {
+            "codename":"fajita",
+            "versions":[
+               "ten",
+            ]
+         }
+      ]
    }
 ]
