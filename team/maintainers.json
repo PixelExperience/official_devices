@@ -539,5 +539,21 @@
             ]
          }
       ]
+   },
+   {
+      "name":"4PERTURE",
+      "country":"PT",
+      "github_username":"4PERTURE",
+      "xda_url":"https://forum.xda-developers.com/member.php?u=8984156",
+      "telegram_url":"http://t.me/prudev",
+      "devices":[
+         {
+            "codename":"vince",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
