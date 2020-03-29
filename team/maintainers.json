@@ -530,6 +530,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename":"fajita",
+            "versions":[
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    }
