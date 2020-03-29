@@ -551,6 +551,7 @@
             "codename":"fajita",
             "versions":[
                "ten",
+               "ten_plus"
             ]
          }
       ]
