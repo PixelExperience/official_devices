@@ -1385,5 +1385,20 @@
             "beta": true
          }
       ]
+   },
+   {
+      "name": "4c",
+      "brand": "Xiaomi",
+      "codename": "libra",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "beta": true
+         },
+         {
+            "version_code": "ten_plus",
+            "beta": true
+         }
+      ]
    }
 ]
