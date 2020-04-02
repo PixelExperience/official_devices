@@ -1371,7 +1371,7 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "beta": true
+            "stable": false
          }
       ]
    },
@@ -1382,7 +1382,7 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "beta": true
+            "stable": false
          }
       ]
    },
@@ -1393,11 +1393,11 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "beta": true
+            "stable": false
          },
          {
             "version_code": "ten_plus",
-            "beta": true
+            "stable": false
          }
       ]
    }

@@ -30,7 +30,7 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | brand | Device manufacturer | Yes |
 | codename | Device codename, eg: falcon | Yes |
 | version_code | Version code (ten or ten_plus) | Yes |
-| beta | Set to true if the version is beta or no (false by default) | No |
+| stable | Set to false if the version is beta (true by default) | No |
 
 ##### team/maintainers.json
 | Param | Description | Required |
