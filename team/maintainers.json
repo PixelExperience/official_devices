@@ -518,6 +518,22 @@
       ]
    },
    {
+      "name": "Rohan Hasabe (Hasaber8)",
+      "country": "IN",
+      "github_username": "Hasaber8",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9506906",
+      "telegram_url": "http://t.me/Hasaber8",
+      "devices": [
+         {
+            "codename": "chef",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Yash Sonawane",
       "country": "IN",
       "github_username": "yashsonawane",
