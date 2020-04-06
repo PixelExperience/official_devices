@@ -252,6 +252,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "kunlun2",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },

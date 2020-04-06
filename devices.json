@@ -1404,5 +1404,20 @@
             "stable": false
          }
       ]
+   },
+   {
+      "name": "Z6 Lite",
+      "brand": "Lenovo",
+      "codename": "kunlun2",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
