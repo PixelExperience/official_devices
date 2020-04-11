@@ -502,12 +502,8 @@
             "xda_thread": ""
          },
          {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
+            "version_code": "ten_plus",
+            "xda_thread": ""
          }
       ]
    },
