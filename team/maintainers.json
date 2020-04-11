@@ -311,6 +311,22 @@
       ]
    },
    {
+      "name": "Pulkit Agarwal",
+      "country": "IN",
+      "github_username": "Pulkit077",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8788269",
+      "telegram_url": "http://t.me/Pulkit077",
+      "devices": [
+         {
+            "codename": "rosy",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Rahul Krishna",
       "country": "IN",
       "github_username": "rk779",
