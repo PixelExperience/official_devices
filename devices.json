@@ -451,6 +451,21 @@
       ]
    },
    {
+      "name": "Asus Max M1",
+      "brand": "Asus",
+      "codename": "X00P",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/zenfone-max-m1/development/rom-pixel-experience-t4080061"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "Redmi 4A",
       "brand": "Xiaomi",
       "codename": "rolex",
