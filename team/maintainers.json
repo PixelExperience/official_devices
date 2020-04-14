@@ -120,22 +120,6 @@
       ]
    },
    {
-      "name": "Ahmad Rulim",
-      "country": "ID",
-      "github_username": "rulim34",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9913118",
-      "telegram_url": "https://t.me/rulim34",
-      "devices": [
-         {
-            "codename": "riva",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "nmomcilo5",
       "country": "RS",
       "github_username": "trpsl",
