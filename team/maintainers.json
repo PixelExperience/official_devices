@@ -777,5 +777,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Saalim",
+      "country": "IN",
+      "github_username": "iamsaalim",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9254143",
+      "telegram_url": "http://t.me/gabbyintegral",
+      "devices": [
+         {
+            "codename": "X00P",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
