@@ -53,12 +53,6 @@
       "xda_url": "https://forum.xda-developers.com/member.php?u=8801146",
       "devices": [
          {
-            "codename": "guacamoleb",
-            "versions": [
-               "ten"
-            ]
-         },
-         {
             "codename": "davinci",
             "versions": [
                "ten",

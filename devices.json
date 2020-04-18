@@ -55,17 +55,6 @@
       ]
    },
    {
-      "name": "7",
-      "brand": "OnePlus",
-      "codename": "guacamoleb",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
       "name": "Redmi Note 3 Pro",
       "brand": "Xiaomi",
       "codename": "kenzo",
@@ -1402,21 +1391,6 @@
       "name": "Redmi Note 8 Pro",
       "brand": "Xiaomi",
       "codename": "begonia",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "stable": false
-         },
-         {
-            "version_code": "ten_plus",
-            "stable": false
-         }
-      ]
-   },
-   {
-      "name": "Mi 4c",
-      "brand": "Xiaomi",
-      "codename": "libra",
       "supported_versions": [
          {
             "version_code": "ten",
