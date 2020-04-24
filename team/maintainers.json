@@ -350,14 +350,7 @@
       "telegram_url": "http://t.me/pqhaz",
       "devices": [
          {
-            "codename": "ginkgo",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "willow",
+            "codename": "laurel_sprout",
             "versions": [
                "ten",
                "ten_plus"
@@ -787,6 +780,21 @@
       "devices": [
          {
             "codename": "X00P",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   }, {
+      "name": "Kuba Wojciechowski",
+      "country": "PL",
+      "github_username": "nullbytepl",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8493232",
+      "telegram_url": "http://t.me/nullby",
+      "devices": [
+         {
+            "codename": "laurel_sprout",
             "versions": [
                "ten",
                "ten_plus"
