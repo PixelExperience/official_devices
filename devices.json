@@ -1420,5 +1420,35 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Pixel",
+      "brand": "Google",
+      "codename": "sailfish",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
+         }
+      ]
+   },
+   {
+      "name": "Pixel XL",
+      "brand": "Google",
+      "codename": "marlin",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+         }
+      ]
    }
 ]
