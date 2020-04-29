@@ -802,5 +802,28 @@
             ]
          }
       ]
+   },
+   {
+      "name": "PixelBoot",
+      "country": "MT",
+      "github_username": "PixelBoot",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8086838",
+      "telegram_url": "https://t.me/PixelBoot",
+      "devices": [
+         {
+            "codename": "sailfish",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "marlin",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
