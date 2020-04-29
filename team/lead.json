@@ -12,24 +12,6 @@
          ]
       },
       {
-         "codename": "whyred",
-         "versions": [
-            "ten",
-            "ten_plus",
-            "pie",
-            "pie_plus"
-         ]
-      },
-      {
-         "codename": "beryllium",
-         "versions": [
-            "ten",
-            "ten_plus",
-            "pie",
-            "pie_plus"
-         ]
-      },
-      {
          "codename": "phoenix",
          "versions": [
             "ten"
