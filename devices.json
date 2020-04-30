@@ -370,11 +370,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281",
+            "deprecated": true
          }
       ]
    },
@@ -385,11 +387,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281",
+            "deprecated": true
          }
       ]
    },
