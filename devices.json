@@ -253,6 +253,10 @@
             "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
          },
          {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+         },
+         {
             "version_code": "pie",
             "deprecated": true
          },

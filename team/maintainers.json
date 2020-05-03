@@ -825,5 +825,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Nicholas Magill",
+      "country": "GB",
+      "github_username": "Inkypen79",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9382231",
+      "telegram_url": "https://t.me/Inkypen",
+      "devices": [
+         {
+            "codename": "lithium",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
