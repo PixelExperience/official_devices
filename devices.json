@@ -1318,21 +1318,6 @@
       ]
    },
    {
-      "name": "7 Pro",
-      "brand": "OnePlus",
-      "codename": "guacamole",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
-         }
-      ]
-   },
-   {
       "name": "3 Pro",
       "brand": "Realme",
       "codename": "RMX1851",
@@ -1456,6 +1441,51 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+         }
+      ]
+   },
+   {
+      "name": "7 Pro",
+      "brand": "OnePlus",
+      "codename": "guacamole",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
+         }
+      ]
+   },
+   {
+      "name": "7T",
+      "brand": "OnePlus",
+      "codename": "hotdogb",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "beta": true
+         },
+         {
+            "version_code": "ten_plus",
+            "beta": true
+         }
+      ]
+   },
+   {
+      "name": "7T Pro",
+      "brand": "OnePlus",
+      "codename": "hotdog",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "beta": true
+         },
+         {
+            "version_code": "ten_plus",
+            "beta": true
          }
       ]
    }
