@@ -394,6 +394,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "beryllium",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
