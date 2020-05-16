@@ -532,6 +532,13 @@
       "telegram_url": "http://t.me/Hasaber8",
       "devices": [
          {
+            "codename": "violet",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
             "codename": "chef",
             "versions": [
                "ten",
