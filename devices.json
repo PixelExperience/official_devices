@@ -834,11 +834,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329",
+            "deprecated": true
          },
          {
             "version_code": "pie",
