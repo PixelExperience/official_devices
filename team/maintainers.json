@@ -855,5 +855,32 @@
             ]
          }
       ]
+   },
+   {
+      "name": "idkwhoiam322",
+      "country": "IN",
+      "github_username": "idkwhoiam322",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6609957",
+      "telegram_url": "https://t.me/idkwhoiam322",
+      "devices": [
+         {
+            "codename": "cheeseburger",
+            "versions": [
+               "pie",
+               "pie_plus",
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "dumpling",
+            "versions": [
+               "pie",
+               "pie_plus",
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
