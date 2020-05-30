@@ -58,7 +58,14 @@
                "ten",
                "ten_plus"
             ]
-         }
+         },
+         {
+            "codename": "guacamoleb",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }        
       ]
    },
    {

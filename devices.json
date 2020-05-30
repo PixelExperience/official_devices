@@ -1447,6 +1447,21 @@
       ]
    },
    {
+      "name": "7",
+      "brand": "OnePlus",
+      "codename": "guacamoleb",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "7T",
       "brand": "OnePlus",
       "codename": "hotdogb",
