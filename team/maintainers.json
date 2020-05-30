@@ -880,6 +880,20 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "guacamoleb",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    }
