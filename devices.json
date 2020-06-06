@@ -1378,11 +1378,11 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
          },
          {
             "version_code": "ten_plus",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
          }
       ]
    },
