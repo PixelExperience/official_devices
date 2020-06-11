@@ -909,6 +909,36 @@
       ]
    },
    {
+      "name": "Xperia 10 II RoW",
+      "brand": "Sony",
+      "codename": "xqau51",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia 10 II DSDS",
+      "brand": "Sony",
+      "codename": "xqau52",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "Xperia 5 DSDS",
       "brand": "Sony",
       "codename": "j9210",
