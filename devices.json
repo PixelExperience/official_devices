@@ -620,11 +620,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375"
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375"
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
+            "deprecated": true
          },
          {
             "version_code": "pie",
