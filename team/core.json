@@ -92,18 +92,69 @@
       ]
    },
    {
-      "name": "Vipin Mishra",
-      "country": "IN",
-      "github_username": "thevipinmishra"
+      "name": "itsjoeoui",
+      "country": "CA",
+      "github_username": "itsjoeoui",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8125712",
+      "telegram_url": "http://t.me/itsjoeoui",
+      "devices": [
+         {
+            "codename": "cheeseburger",
+            "versions": [
+               "ten",
+               "ten_plus",
+               "pie",
+               "pie_plus"
+            ]
+         },
+         {
+            "codename": "dumpling",
+            "versions": [
+               "ten",
+               "ten_plus",
+               "pie",
+               "pie_plus"
+            ]
+         }
+      ]
    },
    {
-      "name": "Jake",
-      "country": "GB",
-      "github_username": "jkmnch"
+      "name": "Rohan Hasabe (Hasaber8)",
+      "country": "IN",
+      "github_username": "Hasaber8",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9506906",
+      "telegram_url": "http://t.me/Hasaber8",
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "chef",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    },
    {
-      "name": "David",
+      "name": "Rahul Krishna",
       "country": "IN",
-      "github_username": "legendavey"
+      "github_username": "rk779",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7985055",
+      "telegram_url": "http://t.me/rk585",
+      "devices": [
+         {
+            "codename": "X01BD",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
