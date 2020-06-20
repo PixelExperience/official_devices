@@ -1056,5 +1056,32 @@
             ]
          }
       ]
-   }
+   },
+   {
+    "name": "Luke WIlliams",
+    "country": "GB",
+    "github_username": "expressluke",
+    "xda_url": "https://forum.xda-developers.com/member.php?u=7166349",
+    "telegram_url": "https://t.me/ogexpressluke",
+    "devices": [
+       {
+          "codename": "herolte",
+          "versions": [
+             "pie",
+             "pie_plus",
+             "ten",
+             "ten_plus"
+          ]
+       },
+       {
+          "codename": "hero2lte",
+          "versions": [
+             "pie",
+             "pie_plus",
+             "ten",
+             "ten_plus"
+          ]
+       }
+    ]
+ }
 ]
