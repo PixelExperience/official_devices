@@ -460,7 +460,8 @@
          {
             "codename": "chiron",
             "versions": [
-               "ten"
+               "ten",
+               "ten_plus"
             ]
          }
       ]
