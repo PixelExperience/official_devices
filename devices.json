@@ -174,10 +174,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": "true",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
          },
          {
             "version_code": "ten_plus",
+            "deprecated": "true",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
          }
       ]
@@ -334,10 +336,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": "true",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
          },
          {
             "version_code": "ten_plus",
+            "deprecated": "true",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
          },
          {
@@ -1504,36 +1508,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "7T",
-      "brand": "OnePlus",
-      "codename": "hotdogb",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "stable": false
-         },
-         {
-            "version_code": "ten_plus",
-            "stable": false
-         }
-      ]
-   },
-   {
-      "name": "7T Pro",
-      "brand": "OnePlus",
-      "codename": "hotdog",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "stable": false
-         },
-         {
-            "version_code": "ten_plus",
-            "stable": false
          }
       ]
    }
