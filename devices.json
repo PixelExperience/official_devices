@@ -256,11 +256,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
+            "deprecated": true
          },
          {
             "version_code": "pie",
