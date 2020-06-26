@@ -467,29 +467,6 @@
       ]
    },
    {
-      "name": "Yash Sonawane",
-      "country": "IN",
-      "github_username": "yashsonawane",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8531692",
-      "telegram_url": "http://t.me/rdjr5",
-      "devices": [
-         {
-            "codename": "enchilada",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "fajita",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "AngeloGioacchino Del Regno",
       "country": "IT",
       "github_username": "kholk",

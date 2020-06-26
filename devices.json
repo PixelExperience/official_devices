@@ -98,10 +98,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
          },
          {
             "version_code": "ten_plus",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
          },
          {
@@ -121,10 +123,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": true,
             "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
+            "deprecated": true,
             "xda_thread": ""
          }
       ]
