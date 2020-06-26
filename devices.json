@@ -722,11 +722,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479",
+            "deprecated": true
          }
       ]
    },
@@ -745,11 +747,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
+            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
+            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463",
+            "deprecated": true
          }
       ]
    },
