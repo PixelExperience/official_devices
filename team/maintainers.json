@@ -432,6 +432,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "daisy",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
