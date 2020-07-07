@@ -950,6 +950,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "andromeda",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
