@@ -273,6 +273,21 @@
       ]
    },
    {
+      "name": "Mi Mix 3 5G",
+      "brand": "Xiaomi",
+      "codename": "andromeda",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4114795"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4114795"
+         }
+      ]
+   },
+   {
       "name": "Mi Note 2",
       "brand": "Xiaomi",
       "codename": "scorpio",
