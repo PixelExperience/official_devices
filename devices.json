@@ -6,11 +6,11 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
          },
          {
             "version_code": "ten_plus",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
          }
       ]
    },
