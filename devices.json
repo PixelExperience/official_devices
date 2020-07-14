@@ -41,16 +41,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t3861251"
          }
       ]
    },
@@ -105,14 +95,6 @@
             "version_code": "ten_plus",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -160,14 +142,6 @@
          {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -200,14 +174,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -223,14 +189,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -261,14 +219,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -314,14 +264,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -337,14 +279,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -362,16 +296,6 @@
             "version_code": "ten_plus",
             "deprecated": "true",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": "true",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": "true",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/rom-pixel-experience-t3864136"
          }
       ]
    },
@@ -417,14 +341,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -440,14 +356,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -474,14 +382,6 @@
          {
             "version_code": "ten",
             "deprecated": true
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -497,14 +397,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -520,14 +412,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -543,14 +427,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixel-experience-t3971421"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -566,14 +442,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -584,14 +452,6 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
             "deprecated": true
          }
       ]
@@ -625,14 +485,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t4062563"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -665,14 +517,6 @@
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
             "deprecated": true
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -688,14 +532,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": ""
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -711,14 +547,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -743,14 +571,6 @@
       "codename": "herolte",
       "supported_versions": [
          {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         },
-         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
          },
@@ -765,14 +585,6 @@
       "brand": "Samsung",
       "codename": "hero2lte",
       "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         },
          {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
@@ -870,14 +682,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3976333"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -893,14 +697,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
-         },
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
