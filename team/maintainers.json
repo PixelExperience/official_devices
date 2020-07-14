@@ -26,36 +26,28 @@
             "codename": "gemini",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          },
          {
             "codename": "capricorn",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          },
          {
             "codename": "natrium",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          },
          {
             "codename": "scorpio",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          }
       ]
@@ -167,9 +159,7 @@
             "codename": "land",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          }
       ]
@@ -371,9 +361,7 @@
             "codename": "tissot",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          }
       ]
@@ -437,9 +425,7 @@
             "codename": "sakura",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          },
          {
@@ -986,8 +972,6 @@
          {
             "codename": "cheeseburger",
             "versions": [
-               "pie",
-               "pie_plus",
                "ten",
                "ten_plus"
             ]
@@ -995,8 +979,6 @@
          {
             "codename": "dumpling",
             "versions": [
-               "pie",
-               "pie_plus",
                "ten",
                "ten_plus"
             ]
@@ -1043,8 +1025,6 @@
          {
             "codename": "herolte",
             "versions": [
-               "pie",
-               "pie_plus",
                "ten",
                "ten_plus"
             ]
@@ -1052,8 +1032,6 @@
          {
             "codename": "hero2lte",
             "versions": [
-               "pie",
-               "pie_plus",
                "ten",
                "ten_plus"
             ]
