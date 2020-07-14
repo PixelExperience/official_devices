@@ -9,9 +9,7 @@
             "codename": "dipper",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          }
       ]
@@ -102,18 +100,14 @@
             "codename": "cheeseburger",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          },
          {
             "codename": "dumpling",
             "versions": [
                "ten",
-               "ten_plus",
-               "pie",
-               "pie_plus"
+               "ten_plus"
             ]
          }
       ]
