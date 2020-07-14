@@ -71,17 +71,6 @@
       ]
    },
    {
-      "name": "Z2 Plus",
-      "brand": "ZUK",
-      "codename": "z2_plus",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "6",
       "brand": "OnePlus",
       "codename": "enchilada",
@@ -375,17 +364,6 @@
       ]
    },
    {
-      "name": "Redmi 4A",
-      "brand": "Xiaomi",
-      "codename": "rolex",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Nexus 5X",
       "brand": "Google",
       "codename": "bullhead",
@@ -442,17 +420,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
-         }
-      ]
-   },
-   {
-      "name": "Nexus 6P",
-      "brand": "Google",
-      "codename": "angler",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true
          }
       ]
    },
