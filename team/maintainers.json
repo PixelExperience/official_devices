@@ -226,22 +226,6 @@
       ]
    },
    {
-      "name": "Ray Lau",
-      "country": "CN",
-      "github_username": "raysenlau",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9050662",
-      "telegram_url": "http://t.me/raysenlau",
-      "devices": [
-         {
-            "codename": "davinci",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "Chandra Chaganti",
       "country": "IN",
       "github_username": "Chandra-Chaganti",
