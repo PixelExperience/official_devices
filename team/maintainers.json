@@ -1021,5 +1021,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Luís Ferreira",
+      "country": "PT",
+      "github_username": "ljmf00",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=5414107",
+      "telegram_url": "https://t.me/ljmf00",
+      "devices": [
+         {
+            "codename": "grus",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
