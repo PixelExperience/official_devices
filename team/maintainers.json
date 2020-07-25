@@ -191,6 +191,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "phoenix",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
