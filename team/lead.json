@@ -14,7 +14,8 @@
       {
          "codename": "phoenix",
          "versions": [
-            "ten"
+            "ten",
+            "ten_plus"
          ]
       }
    ]
