@@ -113,6 +113,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "davinci",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
