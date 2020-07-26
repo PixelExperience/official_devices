@@ -295,7 +295,7 @@
       "telegram_url": "http://t.me/pqhaz",
       "devices": [
          {
-            "codename": "laurel_sprout",
+            "codename": "curtana",
             "versions": [
                "ten",
                "ten_plus"
@@ -304,11 +304,11 @@
       ]
    },
    {
-      "name": "Nick C.",
+      "name": "ctwoon",
       "country": "RU",
       "github_username": "ctwoon",
       "xda_url": "https://forum.xda-developers.com/member.php?u=9818233",
-      "telegram_url": "http://t.me/rebenok90x",
+      "telegram_url": "http://t.me/ctwoon",
       "devices": [
          {
             "codename": "jasmine_sprout",
@@ -319,6 +319,13 @@
          },
          {
             "codename": "wayne",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "curtana",
             "versions": [
                "ten",
                "ten_plus"
