@@ -1219,6 +1219,10 @@
          {
             "version_code": "ten",
             "stable": false
+         },
+         {
+            "version_code": "ten_plus",
+            "stable": false
          }
       ]
    },
