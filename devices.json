@@ -1311,5 +1311,20 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Note 9S",
+      "brand": "Redmi",
+      "codename": "curtana",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
