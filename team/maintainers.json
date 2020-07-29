@@ -1059,5 +1059,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Juampapo546",
+      "country": "AR",
+      "github_username": "juampapo546",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9141885",
+      "telegram_url": "http://t.me/juampapo546",
+      "devices": [
+         {
+            "codename": "evert",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]

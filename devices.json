@@ -1330,5 +1330,20 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Moto G6 Plus",
+      "brand": "Motorola",
+      "codename": "evert",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
+         }
+      ]
    }
 ]
