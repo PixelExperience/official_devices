@@ -1345,5 +1345,20 @@
             "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
          }
       ]
+   },
+   {
+      "name": "Moto G7 Plus",
+      "brand": "Motorola",
+      "codename": "lake",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
