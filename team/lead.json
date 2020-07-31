@@ -17,6 +17,13 @@
             "ten",
             "ten_plus"
          ]
+      },
+      {
+         "codename": "lake",
+         "versions": [
+            "ten",
+            "ten_plus"
+         ]
       }
    ]
 }
