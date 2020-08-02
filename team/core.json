@@ -80,13 +80,6 @@
       "github_username": "Dyneteve",
       "xda_url": "https://forum.xda-developers.com/member.php?u=7571048",
       "devices": [
-         {
-            "codename": "violet",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
       ]
    },
    {
@@ -119,14 +112,6 @@
       "xda_url": "https://forum.xda-developers.com/member.php?u=9506906",
       "telegram_url": "http://t.me/Hasaber8",
       "devices": [
-         {
-            "codename": "violet",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ],
-            "main_maintainer": true
-         },
          {
             "codename": "chef",
             "versions": [
