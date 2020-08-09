@@ -51,7 +51,7 @@
       "supported_versions": [
          {
             "version_code": "pie",
-            "deprecated": "true"
+            "deprecated": true
          }
       ]
    },
@@ -141,12 +141,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": "true",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
          },
          {
             "version_code": "ten_plus",
-            "deprecated": "true",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
          }
       ]
@@ -278,12 +278,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": "true",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
          },
          {
             "version_code": "ten_plus",
-            "deprecated": "true",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
          }
       ]
