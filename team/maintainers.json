@@ -207,6 +207,13 @@
                "ten_plus"
             ],
             "main_maintainer": true
+         },
+         {
+            "codename": "avicii",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
