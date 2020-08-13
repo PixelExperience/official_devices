@@ -1362,5 +1362,20 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Nord",
+      "brand": "OnePlus",
+      "codename": "avicii",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
+         }
+      ]
    }
 ]
