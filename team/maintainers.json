@@ -187,20 +187,6 @@
       "telegram_url": "http://t.me/CryllicBuster273",
       "devices": [
          {
-            "codename": "jasmine_sprout",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "wayne",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "phoenix",
             "versions": [
                "ten",
