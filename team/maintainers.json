@@ -386,6 +386,20 @@
                "ten",
                "ten_plus"
             ]
+         },
+	{
+            "codename": "a5y17lte",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+	{
+            "codename": "a7y17lte",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
