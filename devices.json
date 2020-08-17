@@ -1377,5 +1377,35 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
          }
       ]
+   },
+   {
+      "name": "Galaxy A5",
+      "brand": "Samsung",
+      "codename": "a5y17lte",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         }
+      ]
+   },
+   {
+      "name": "Galaxy A7",
+      "brand": "Samsung",
+      "codename": "a7y17lte",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         }
+      ]
    }
 ]
