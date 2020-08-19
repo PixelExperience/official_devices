@@ -313,20 +313,6 @@
       "telegram_url": "http://t.me/ctwoon",
       "devices": [
          {
-            "codename": "jasmine_sprout",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "wayne",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "curtana",
             "versions": [
                "ten",
