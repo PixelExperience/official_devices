@@ -295,13 +295,11 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
          },
          {
             "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t3921595"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
          }
       ]
    },

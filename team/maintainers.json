@@ -1052,5 +1052,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Shubham Das",
+      "country": "IN",
+      "github_username": "dasshubham762",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8330494",
+      "telegram_url": "http://t.me/dasshubham762",
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
