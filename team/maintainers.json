@@ -1068,5 +1068,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "solidv",
+      "country": "PT",
+      "github_username": "solidv",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=3590119",
+      "telegram_url": "http://t.me/solidv",
+      "devices": [
+         {
+            "codename": "sirius",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
