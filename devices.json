@@ -1409,5 +1409,20 @@
             "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
          }
       ]
+   },
+   {
+      "name": "Mi 8 SE",
+      "brand": "Xiaomi",
+      "codename": "sirius",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+         }
+      ]
    }
 ]
