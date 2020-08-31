@@ -1424,5 +1424,20 @@
             "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
          }
       ]
+   },
+   {
+      "name": "Moto G7",
+      "brand": "Motorola",
+      "codename": "river",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
+         }
+      ]
    }
 ]
