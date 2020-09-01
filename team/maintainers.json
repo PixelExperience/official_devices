@@ -1084,5 +1084,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Jarl-Penguin",
+      "country": "KR",
+      "github_username": "JarlPenguin",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9506129",
+      "telegram_url": "http://t.me/JarlPenguin",
+      "devices": [
+         {
+            "codename": "river",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
