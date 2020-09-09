@@ -1100,5 +1100,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Jean Graff",
+      "country": "BR",
+      "github_username": "jeangraff30",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9466600",
+      "telegram_url": "https://t.me/JeanGraff30",
+      "devices": [
+         {
+            "codename": "jasmine_sprout",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]

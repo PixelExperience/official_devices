@@ -447,13 +447,11 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t4062563"
+            "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t4062563"
+            "xda_thread": ""
          }
       ]
    },
