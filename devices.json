@@ -629,7 +629,8 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": ""
+            "xda_thread": "",
+            "stable": false
          },
          {
             "version_code": "ten",
@@ -1359,7 +1360,8 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": ""
+            "xda_thread": "",
+            "stable": false
          },
          {
             "version_code": "ten",
