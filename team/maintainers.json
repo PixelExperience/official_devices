@@ -1116,5 +1116,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "Luiz Dores",
+      "country": "BR",
+      "github_username": "luizdores",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6826334",
+      "telegram_url": "http://t.me/luizdores",
+      "devices": [
+         {
+            "codename": "ocean",
+            "versions": [
+               "ten",
+	       "ten_plus"
+            ]
+         }
+      ]
    }
 ]
