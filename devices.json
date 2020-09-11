@@ -1447,5 +1447,20 @@
             "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
          }
       ]
+   },
+   {
+      "name": "Moto G7 Power",
+      "brand": "Motorola",
+      "codename": "ocean",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-plus-t4072061"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
