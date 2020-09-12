@@ -10,7 +10,8 @@
             "versions": [
                "ten",
                "ten_plus"
-            ]
+            ],
+            "main_maintainer": true
          }
       ]
    },

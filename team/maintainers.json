@@ -214,6 +214,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "dipper",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
