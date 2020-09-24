@@ -1462,5 +1462,20 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "8 Pro",
+      "brand": "OnePlus",
+      "codename": "instantnoodlep",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
+         }
+      ]
    }
 ]

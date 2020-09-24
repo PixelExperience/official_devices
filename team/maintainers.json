@@ -237,6 +237,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "instantnoodlep",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
