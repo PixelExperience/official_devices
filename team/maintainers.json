@@ -244,6 +244,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "instantnoodle",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
