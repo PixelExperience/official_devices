@@ -263,10 +263,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
          },
          {
             "version_code": "ten_plus",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
          }
       ]
