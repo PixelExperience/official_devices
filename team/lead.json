@@ -7,7 +7,6 @@
       {
          "codename": "raphael",
          "versions": [
-            "eleven",
             "ten",
             "ten_plus"
          ]
@@ -22,7 +21,6 @@
       {
          "codename": "lake",
          "versions": [
-            "eleven",
             "ten",
             "ten_plus"
          ]
