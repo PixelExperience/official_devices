@@ -630,11 +630,6 @@
       "codename": "raphael",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": false
-         },
-         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
          },
@@ -1360,11 +1355,6 @@
       "brand": "Motorola",
       "codename": "lake",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": false
-         },
          {
             "version_code": "ten",
             "xda_thread": ""
