@@ -1456,6 +1456,21 @@
       ]
    },
    {
+      "name": "Moto One Fusion +",
+      "brand": "Motorola",
+      "codename": "liber",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "name": "8 Pro",
       "brand": "OnePlus",
       "codename": "instantnoodlep",
