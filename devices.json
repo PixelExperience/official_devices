@@ -1,355 +1,31 @@
 [
    {
-      "name": "Redmi 5A",
-      "brand": "Xiaomi",
-      "codename": "riva",
+      "name": "3 Pro",
+      "brand": "Realme",
+      "codename": "RMX1851",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
-         }
-      ]
-   },
-   {
-      "name": "Moto G5 Plus",
-      "brand": "Motorola",
-      "codename": "potter",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 4/4X",
-      "brand": "Xiaomi",
-      "codename": "mido",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 3 Pro",
-      "brand": "Xiaomi",
-      "codename": "kenzo",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Z1",
-      "brand": "ZUK",
-      "codename": "ham",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "6",
-      "brand": "OnePlus",
-      "codename": "enchilada",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
-         }
-      ]
-   },
-   {
-      "name": "6T",
-      "brand": "OnePlus",
-      "codename": "fajita",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
             "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
-            "deprecated": true,
             "xda_thread": ""
          }
       ]
    },
    {
-      "name": "Moto G5S Plus",
-      "brand": "Motorola",
-      "codename": "sanders",
+      "name": "5 Pro",
+      "brand": "Realme",
+      "codename": "RMX1971",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
+            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
-         }
-      ]
-   },
-   {
-      "name": "Redmi 3S/3X",
-      "brand": "Xiaomi",
-      "codename": "land",
-      "supported_versions": [
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
-         },
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
-         }
-      ]
-   },
-   {
-      "name": "Redmi 4X",
-      "brand": "Xiaomi",
-      "codename": "santoni",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
-         }
-      ]
-   },
-   {
-      "name": "Mi 5",
-      "brand": "Xiaomi",
-      "codename": "gemini",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
-         }
-      ]
-   },
-   {
-      "name": "Mi 5s",
-      "brand": "Xiaomi",
-      "codename": "capricorn",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
-         }
-      ]
-   },
-   {
-      "name": "Mi 5s Plus",
-      "brand": "Xiaomi",
-      "codename": "natrium",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
-         }
-      ]
-   },
-   {
-      "name": "Mi Mix",
-      "brand": "Xiaomi",
-      "codename": "lithium",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
-         }
-      ]
-   },
-   {
-      "name": "Mi Mix 3 5G",
-      "brand": "Xiaomi",
-      "codename": "andromeda",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
-         }
-      ]
-   },
-   {
-      "name": "Mi Note 2",
-      "brand": "Xiaomi",
-      "codename": "scorpio",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
-         }
-      ]
-   },
-   {
-      "name": "Mi A1",
-      "brand": "Xiaomi",
-      "codename": "tissot",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 5 Global/Pro",
-      "brand": "Xiaomi",
-      "codename": "whyred",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 5/Plus",
-      "brand": "Xiaomi",
-      "codename": "vince",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 7 Pro",
-      "brand": "Xiaomi",
-      "codename": "violet",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 8",
-      "brand": "Xiaomi",
-      "codename": "ginkgo",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
-            
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
-         }
-      ]
-   },
-   {
-      "name": "Poco F1",
-      "brand": "Xiaomi",
-      "codename": "beryllium",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
-         }
-      ]
-   },
-   {
-      "name": "Zenfone Max Pro M1",
-      "brand": "Asus",
-      "codename": "X00TD",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-t4065093"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407"
+            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
          }
       ]
    },
@@ -369,6 +45,126 @@
       ]
    },
    {
+      "name": "Zenfone Max Pro M1",
+      "brand": "Asus",
+      "codename": "X00TD",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-t4065093"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407"
+         }
+      ]
+   },
+   {
+      "name": "Zenfone Max Pro M2",
+      "brand": "Asus",
+      "codename": "X01BD",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
+         }
+      ]
+   },
+   {
+      "name": "Galaxy A5",
+      "brand": "Samsung",
+      "codename": "a5y17lte",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         }
+      ]
+   },
+   {
+      "name": "Galaxy A7",
+      "brand": "Samsung",
+      "codename": "a7y17lte",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+         }
+      ]
+   },
+   {
+      "name": "Mi Mix 3 5G",
+      "brand": "Xiaomi",
+      "codename": "andromeda",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
+         }
+      ]
+   },
+   {
+      "name": "Nord",
+      "brand": "OnePlus",
+      "codename": "avicii",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
+         }
+      ]
+   },
+   {
+      "name": "Poco F1",
+      "brand": "Xiaomi",
+      "codename": "beryllium",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
+         }
+      ]
+   },
+   {
       "name": "Nexus 5X",
       "brand": "Google",
       "codename": "bullhead",
@@ -384,71 +180,86 @@
       ]
    },
    {
-      "name": "Redmi 5",
+      "name": "Mi 5s",
       "brand": "Xiaomi",
-      "codename": "rosy",
+      "codename": "capricorn",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
          }
       ]
    },
    {
-      "name": "Redmi 6 Pro",
+      "name": "Mi 9",
       "brand": "Xiaomi",
-      "codename": "sakura",
+      "codename": "cepheus",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixel-experience-t3971421"
+            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixel-experience-t3971421"
+            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
          }
       ]
    },
    {
-      "name": "Mi 8",
-      "brand": "Xiaomi",
-      "codename": "dipper",
+      "name": "5",
+      "brand": "OnePlus",
+      "codename": "cheeseburger",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
-         }
-      ]
-   },
-   {
-      "name": "Le 2",
-      "brand": "LeEco",
-      "codename": "s2",
-      "supported_versions": [
-         {
-            "version_code": "pie",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
          },
          {
-            "version_code": "pie_plus",
+            "version_code": "ten_plus",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
          }
       ]
    },
    {
-      "name": "Mi A2",
+      "name": "Moto One Power",
+      "brand": "Motorola",
+      "codename": "chef",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Mi Mix 2",
       "brand": "Xiaomi",
-      "codename": "jasmine_sprout",
+      "codename": "chiron",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 9S",
+      "brand": "Xiaomi",
+      "codename": "curtana",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -476,169 +287,32 @@
       ]
    },
    {
-      "name": "Mi 8 Lite",
+      "name": "Redmi K20/Mi 9T",
       "brand": "Xiaomi",
-      "codename": "platina",
+      "codename": "davinci",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
          }
       ]
    },
    {
-      "name": "Moto One Power",
-      "brand": "Motorola",
-      "codename": "chef",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Zenfone Max Pro M2",
-      "brand": "Asus",
-      "codename": "X01BD",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/official-pixel-experience-caf-t3905068"
-         }
-      ]
-   },
-   {
-      "name": "Moto G5S",
-      "brand": "Motorola",
-      "codename": "montana",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Galaxy S7",
-      "brand": "Samsung",
-      "codename": "herolte",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
-         }
-      ]
-   },
-   {
-      "name": "Galaxy S7 Edge",
-      "brand": "Samsung",
-      "codename": "hero2lte",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
-         }
-      ]
-   },
-   {
-      "name": "2",
-      "brand": "OnePlus",
-      "codename": "oneplus2",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Mi 9 SE",
+      "name": "Mi 8",
       "brand": "Xiaomi",
-      "codename": "grus",
+      "codename": "dipper",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477"
+            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 7",
-      "brand": "Xiaomi",
-      "codename": "lavender",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
-         }
-      ]
-   },
-   {
-      "name": "Mi 9",
-      "brand": "Xiaomi",
-      "codename": "cepheus",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
-         }
-      ]
-   },
-   {
-      "name": "Redmi K20 Pro/Mi 9T Pro",
-      "brand": "Xiaomi",
-      "codename": "raphael",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
+            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
          }
       ]
    },
@@ -660,73 +334,195 @@
       ]
    },
    {
-      "name": "5",
+      "name": "6",
       "brand": "OnePlus",
-      "codename": "cheeseburger",
+      "codename": "enchilada",
       "supported_versions": [
          {
             "version_code": "ten",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
          },
          {
             "version_code": "ten_plus",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
          }
       ]
    },
    {
-      "name": "Mi Mix 2s",
+      "name": "Moto G6 Plus",
+      "brand": "Motorola",
+      "codename": "evert",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
+         }
+      ]
+   },
+   {
+      "name": "6T",
+      "brand": "OnePlus",
+      "codename": "fajita",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true,
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true,
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia XZ Premium RoW",
+      "brand": "Sony",
+      "codename": "g8141",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia XZ Premium DSDS",
+      "brand": "Sony",
+      "codename": "g8142",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia XZ1 RoW",
+      "brand": "Sony",
+      "codename": "g8341",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia XZ1 DSDS",
+      "brand": "Sony",
+      "codename": "g8342",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia XZ1 Compact RoW",
+      "brand": "Sony",
+      "codename": "g8441",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Mi 5",
       "brand": "Xiaomi",
-      "codename": "polaris",
+      "codename": "gemini",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t4038949"
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t4038949"
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
          }
       ]
    },
    {
-      "name": "Mi A3",
+      "name": "Redmi Note 8",
       "brand": "Xiaomi",
-      "codename": "laurel_sprout",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
-         }
-      ]
-   },
-   {
-      "name": "Mi 6X",
-      "brand": "Xiaomi",
-      "codename": "wayne",
+      "codename": "ginkgo",
       "supported_versions": [
          {
             "version_code": "ten",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
          },
          {
             "version_code": "ten_plus",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
          }
       ]
    },
    {
-      "name": "Xperia 5 RoW",
-      "brand": "Sony",
-      "codename": "j8210",
+      "name": "Mi 9 SE",
+      "brand": "Xiaomi",
+      "codename": "grus",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477"
+         }
+      ]
+   },
+   {
+      "name": "7 Pro",
+      "brand": "OnePlus",
+      "codename": "guacamole",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
+         }
+      ]
+   },
+   {
+      "name": "7",
+      "brand": "OnePlus",
+      "codename": "guacamoleb",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -739,9 +535,9 @@
       ]
    },
    {
-      "name": "Xperia 10 II RoW",
+      "name": "Xperia XA2 RoW",
       "brand": "Sony",
-      "codename": "xqau51",
+      "codename": "h3113",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -754,9 +550,9 @@
       ]
    },
    {
-      "name": "Xperia 10 II DSDS",
+      "name": "Xperia XA2 Ultra RoW",
       "brand": "Sony",
-      "codename": "xqau52",
+      "codename": "h3213",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -769,9 +565,9 @@
       ]
    },
    {
-      "name": "Xperia 5 DSDS",
+      "name": "Xperia XA2 Plus RoW",
       "brand": "Sony",
-      "codename": "j9210",
+      "codename": "h3413",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -784,9 +580,9 @@
       ]
    },
    {
-      "name": "Xperia 1 RoW",
+      "name": "Xperia XA2 DSDS",
       "brand": "Sony",
-      "codename": "j8110",
+      "codename": "h4113",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -799,9 +595,9 @@
       ]
    },
    {
-      "name": "Xperia 1 DSDS",
+      "name": "Xperia XA2 Ultra DSDS",
       "brand": "Sony",
-      "codename": "j9110",
+      "codename": "h4213",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -814,24 +610,9 @@
       ]
    },
    {
-      "name": "Xperia XZ3 RoW",
+      "name": "Xperia XA2 Plus DSDS",
       "brand": "Sony",
-      "codename": "h8416",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XZ3 DSDS",
-      "brand": "Sony",
-      "codename": "h9436",
+      "codename": "h4413",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -904,9 +685,9 @@
       ]
    },
    {
-      "name": "Xperia 10 Plus RoW",
+      "name": "Xperia XZ3 RoW",
       "brand": "Sony",
-      "codename": "i3213",
+      "codename": "h8416",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -919,9 +700,9 @@
       ]
    },
    {
-      "name": "Xperia 10 Plus DSDS",
+      "name": "Xperia XZ3 DSDS",
       "brand": "Sony",
-      "codename": "i4213",
+      "codename": "h9436",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -930,6 +711,51 @@
          {
             "version_code": "ten_plus",
             "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Z1",
+      "brand": "ZUK",
+      "codename": "ham",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "deprecated": true
+         },
+         {
+            "version_code": "pie_plus",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S7 Edge",
+      "brand": "Samsung",
+      "codename": "hero2lte",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S7",
+      "brand": "Samsung",
+      "codename": "herolte",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
          }
       ]
    },
@@ -937,6 +763,21 @@
       "name": "Xperia 10 RoW",
       "brand": "Sony",
       "codename": "i3113",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia 10 Plus RoW",
+      "brand": "Sony",
+      "codename": "i3213",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -964,9 +805,9 @@
       ]
    },
    {
-      "name": "Xperia XA2 Plus RoW",
+      "name": "Xperia 10 Plus DSDS",
       "brand": "Sony",
-      "codename": "h3413",
+      "codename": "i4213",
       "supported_versions": [
          {
             "version_code": "ten",
@@ -979,482 +820,17 @@
       ]
    },
    {
-      "name": "Xperia XA2 Plus DSDS",
-      "brand": "Sony",
-      "codename": "h4413",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XA2 Ultra RoW",
-      "brand": "Sony",
-      "codename": "h3213",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XA2 Ultra DSDS",
-      "brand": "Sony",
-      "codename": "h4213",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XA2 RoW",
-      "brand": "Sony",
-      "codename": "h3113",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XA2 DSDS",
-      "brand": "Sony",
-      "codename": "h4113",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XZ1 RoW",
-      "brand": "Sony",
-      "codename": "g8341",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XZ1 DSDS",
-      "brand": "Sony",
-      "codename": "g8342",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XZ1 Compact RoW",
-      "brand": "Sony",
-      "codename": "g8441",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XZ Premium RoW",
-      "brand": "Sony",
-      "codename": "g8141",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Xperia XZ Premium DSDS",
-      "brand": "Sony",
-      "codename": "g8142",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Redmi K20/Mi 9T",
-      "brand": "Xiaomi",
-      "codename": "davinci",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
-         }
-      ]
-   },
-   {
-      "name": "Moto X4",
-      "brand": "Motorola",
-      "codename": "payton",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
-         }
-      ]
-   },
-   {
-      "name": "3 Pro",
-      "brand": "Realme",
-      "codename": "RMX1851",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "3/3T",
+      "name": "8",
       "brand": "OnePlus",
-      "codename": "oneplus3",
+      "codename": "instantnoodle",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643"
-         }
-      ]
-   },
-   {
-      "name": "5 Pro",
-      "brand": "Realme",
-      "codename": "RMX1971",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
-         }
-      ]
-   },
-   {
-      "name": "Mi Mix 2",
-      "brand": "Xiaomi",
-      "codename": "chiron",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847"
-         }
-      ]
-   },
-   {
-      "name": "Redmi K30/Poco X2",
-      "brand": "Xiaomi",
-      "codename": "phoenix",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 8 Pro",
-      "brand": "Xiaomi",
-      "codename": "begonia",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
-         }
-      ]
-   },
-   {
-      "name": "Z6 Lite",
-      "brand": "Lenovo",
-      "codename": "kunlun2",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Pixel",
-      "brand": "Google",
-      "codename": "sailfish",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
-         }
-      ]
-   },
-   {
-      "name": "Pixel XL",
-      "brand": "Google",
-      "codename": "marlin",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
-         }
-      ]
-   },
-   {
-      "name": "7 Pro",
-      "brand": "OnePlus",
-      "codename": "guacamole",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
-         }
-      ]
-   },
-   {
-      "name": "7",
-      "brand": "OnePlus",
-      "codename": "guacamoleb",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 9S",
-      "brand": "Xiaomi",
-      "codename": "curtana",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Moto G6 Plus",
-      "brand": "Motorola",
-      "codename": "evert",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
-         }
-      ]
-   },
-   {
-      "name": "Moto G7 Plus",
-      "brand": "Motorola",
-      "codename": "lake",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": ""
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "Nord",
-      "brand": "OnePlus",
-      "codename": "avicii",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
-         }
-      ]
-   },
-   {
-      "name": "Galaxy A5",
-      "brand": "Samsung",
-      "codename": "a5y17lte",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
-         }
-      ]
-   },
-   {
-      "name": "Galaxy A7",
-      "brand": "Samsung",
-      "codename": "a7y17lte",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
-         }
-      ]
-   },
-   {
-      "name": "Mi 8 SE",
-      "brand": "Xiaomi",
-      "codename": "sirius",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
-         }
-      ]
-   },
-   {
-      "name": "Moto G7",
-      "brand": "Motorola",
-      "codename": "river",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
-         }
-      ]
-   },
-   {
-      "name": "Moto G7 Power",
-      "brand": "Motorola",
-      "codename": "ocean",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-plus-t4072061"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
          }
       ]
    },
@@ -1474,17 +850,640 @@
       ]
    },
    {
-      "name": "8",
-      "brand": "OnePlus",
-      "codename": "instantnoodle",
+      "name": "Xperia 1 RoW",
+      "brand": "Sony",
+      "codename": "j8110",
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
+            "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia 5 RoW",
+      "brand": "Sony",
+      "codename": "j8210",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia 1 DSDS",
+      "brand": "Sony",
+      "codename": "j9110",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia 5 DSDS",
+      "brand": "Sony",
+      "codename": "j9210",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Mi A2",
+      "brand": "Xiaomi",
+      "codename": "jasmine_sprout",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 3 Pro",
+      "brand": "Xiaomi",
+      "codename": "kenzo",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Z6 Lite",
+      "brand": "Lenovo",
+      "codename": "kunlun2",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Moto G7 Plus",
+      "brand": "Motorola",
+      "codename": "lake",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Redmi 3S/3X",
+      "brand": "Xiaomi",
+      "codename": "land",
+      "supported_versions": [
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
+         },
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
+         }
+      ]
+   },
+   {
+      "name": "Mi A3",
+      "brand": "Xiaomi",
+      "codename": "laurel_sprout",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
+         }
+      ]
+   },
+   {
+      "name": "Mi Mix",
+      "brand": "Xiaomi",
+      "codename": "lithium",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+         }
+      ]
+   },
+   {
+      "name": "Pixel XL",
+      "brand": "Google",
+      "codename": "marlin",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 4/4X",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
+         }
+      ]
+   },
+   {
+      "name": "Moto G5S",
+      "brand": "Motorola",
+      "codename": "montana",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "deprecated": true
+         },
+         {
+            "version_code": "pie_plus",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Mi 5s Plus",
+      "brand": "Xiaomi",
+      "codename": "natrium",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
+         }
+      ]
+   },
+   {
+      "name": "Moto G7 Power",
+      "brand": "Motorola",
+      "codename": "ocean",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-plus-t4072061"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "2",
+      "brand": "OnePlus",
+      "codename": "oneplus2",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "deprecated": true
+         },
+         {
+            "version_code": "pie_plus",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "3/3T",
+      "brand": "OnePlus",
+      "codename": "oneplus3",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643"
+         }
+      ]
+   },
+   {
+      "name": "Moto X4",
+      "brand": "Motorola",
+      "codename": "payton",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
+         }
+      ]
+   },
+   {
+      "name": "Redmi K30/Poco X2",
+      "brand": "Xiaomi",
+      "codename": "phoenix",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+         }
+      ]
+   },
+   {
+      "name": "Mi 8 Lite",
+      "brand": "Xiaomi",
+      "codename": "platina",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
+            "deprecated": true
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
+            "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Mi Mix 2s",
+      "brand": "Xiaomi",
+      "codename": "polaris",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t4038949"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/rom-pixel-experience-t4038949"
+         }
+      ]
+   },
+   {
+      "name": "Moto G5 Plus",
+      "brand": "Motorola",
+      "codename": "potter",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
+         }
+      ]
+   },
+   {
+      "name": "Redmi K20 Pro/Mi 9T Pro",
+      "brand": "Xiaomi",
+      "codename": "raphael",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
+         }
+      ]
+   },
+   {
+      "name": "Redmi 5A",
+      "brand": "Xiaomi",
+      "codename": "riva",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
+         }
+      ]
+   },
+   {
+      "name": "Moto G7",
+      "brand": "Motorola",
+      "codename": "river",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
+         }
+      ]
+   },
+   {
+      "name": "Redmi 5",
+      "brand": "Xiaomi",
+      "codename": "rosy",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
+         }
+      ]
+   },
+   {
+      "name": "Le 2",
+      "brand": "LeEco",
+      "codename": "s2",
+      "supported_versions": [
+         {
+            "version_code": "pie",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
+         },
+         {
+            "version_code": "pie_plus",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
+         }
+      ]
+   },
+   {
+      "name": "Pixel",
+      "brand": "Google",
+      "codename": "sailfish",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
+         }
+      ]
+   },
+   {
+      "name": "Redmi 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "sakura",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixel-experience-t3971421"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixel-experience-t3971421"
+         }
+      ]
+   },
+   {
+      "name": "Moto G5S Plus",
+      "brand": "Motorola",
+      "codename": "sanders",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
+         }
+      ]
+   },
+   {
+      "name": "Redmi 4X",
+      "brand": "Xiaomi",
+      "codename": "santoni",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
+         }
+      ]
+   },
+   {
+      "name": "Mi Note 2",
+      "brand": "Xiaomi",
+      "codename": "scorpio",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
+         }
+      ]
+   },
+   {
+      "name": "Mi 8 SE",
+      "brand": "Xiaomi",
+      "codename": "sirius",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+         }
+      ]
+   },
+   {
+      "name": "Mi A1",
+      "brand": "Xiaomi",
+      "codename": "tissot",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 5/Plus",
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
+         }
+      ]
+   },
+   {
+      "name": "Mi 6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
+         }
+      ]
+   },
+   {
+      "name": "Redmi Note 5 Global/Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
+         },
+         {
+            "version_code": "ten_plus",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
+         }
+      ]
+   },
+   {
+      "name": "Xperia 10 II RoW",
+      "brand": "Sony",
+      "codename": "xqau51",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Xperia 10 II DSDS",
+      "brand": "Sony",
+      "codename": "xqau52",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": ""
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": ""
          }
       ]
    }
