@@ -113,16 +113,7 @@
       "country": "IN",
       "github_username": "shreejoy",
       "xda_url": "https://forum.xda-developers.com/member.php?u=8338700",
-      "telegram_url": "http://t.me/Shreejoy_Dash",
-      "devices": [
-         {
-            "codename": "ginkgo",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
+      "telegram_url": "http://t.me/Shreejoy_Dash"
    },
    {
       "name": "Vipin Mishra",
