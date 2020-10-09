@@ -242,22 +242,6 @@
       ]
    },
    {
-      "name": "ManoloRey",
-      "country": "BR",
-      "github_username": "ManoloRey",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8834098",
-      "telegram_url": "https://t.me/manolorey",
-      "devices": [
-         {
-            "codename": "ginkgo",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "Chandra Chaganti",
       "country": "IN",
       "github_username": "Chandra-Chaganti",
@@ -593,6 +577,22 @@
       "devices": [
          {
             "codename": "RMX1971",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
+      "name": "ManoloRey",
+      "country": "BR",
+      "github_username": "ManoloRey",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8834098",
+      "telegram_url": "https://t.me/manolorey",
+      "devices": [
+         {
+            "codename": "ginkgo",
             "versions": [
                "ten",
                "ten_plus"
