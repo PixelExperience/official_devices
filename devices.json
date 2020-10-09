@@ -479,12 +479,10 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
          },
          {
             "version_code": "ten_plus",
-            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/10-0-rom-pixel-experience-t4029281"
          }
       ]
