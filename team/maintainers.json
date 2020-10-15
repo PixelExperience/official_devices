@@ -397,22 +397,6 @@
       ]
    },
    {
-      "name": "Jayant Deshmukh",
-      "country": "IN",
-      "github_username": "Jayant-Deshmukh",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8276928",
-      "telegram_url": "http://t.me/JD1811",
-      "devices": [
-         {
-            "codename": "X01BD",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "Jean Graff",
       "country": "BR",
       "github_username": "jeangraff30",
