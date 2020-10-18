@@ -1135,5 +1135,21 @@
             ]
          }
       ]
+   },
+   {
+      "name": "SevralT",
+      "country": "UA",
+      "github_username": "sevralt",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=11167025",
+      "telegram_url": "http://t.me/sevralt",
+      "devices": [
+         {
+            "codename": "fajita",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
    }
 ]
