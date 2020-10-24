@@ -126,7 +126,7 @@
    },
    {
       "name": "itsjoeoui",
-      "country": "CN",
+      "country": "CA",
       "github_username": "itsjoeoui",
       "xda_url": "https://forum.xda-developers.com/member.php?u=8125712",
       "telegram_url": "http://t.me/itsjoeoui",
@@ -140,6 +140,13 @@
          },
          {
             "codename": "dumpling",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "guacamole",
             "versions": [
                "ten",
                "ten_plus"
