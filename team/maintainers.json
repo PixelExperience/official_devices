@@ -916,6 +916,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "X01AD",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
