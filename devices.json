@@ -60,21 +60,6 @@
       ]
    },
    {
-      "name": "Asus Max M2",
-      "brand": "Asus",
-      "codename": "X01AD",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371"
-         }
-      ]
-   },
-   {
       "name": "Zenfone Max Pro M1",
       "brand": "Asus",
       "codename": "X00TD",
@@ -86,6 +71,21 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407"
+         }
+      ]
+   },
+   {
+      "name": "Asus Max M2",
+      "brand": "Asus",
+      "codename": "X01AD",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371"
          }
       ]
    },
