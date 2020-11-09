@@ -997,21 +997,7 @@
       "telegram_url": "https://t.me/ZIDAN44",
       "devices": [
          {
-            "codename": "sakura",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "begonia",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "daisy",
             "versions": [
                "ten",
                "ten_plus"
