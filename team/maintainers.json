@@ -1059,29 +1059,6 @@
       ]
    },
    {
-      "name": "trpsl",
-      "country": "RS",
-      "github_username": "trpsl",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8399533",
-      "telegram_url": "http://t.me/trpsl",
-      "devices": [
-         {
-            "codename": "payton",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "davinci",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "pqhaz",
       "country": "RU",
       "github_username": "pqhaz",
@@ -1106,6 +1083,29 @@
       "devices": [
          {
             "codename": "sirius",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
+      "name": "trpsl",
+      "country": "RS",
+      "github_username": "trpsl",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8399533",
+      "telegram_url": "http://t.me/trpsl",
+      "devices": [
+         {
+            "codename": "payton",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "davinci",
             "versions": [
                "ten",
                "ten_plus"
