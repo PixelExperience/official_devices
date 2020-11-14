@@ -1017,10 +1017,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
          },
          {
             "version_code": "ten_plus",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
          }
       ]

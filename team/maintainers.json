@@ -473,13 +473,6 @@
       "telegram_url": "http://t.me/nullby",
       "devices": [
          {
-            "codename": "laurel_sprout",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "TP1803",
             "versions": [
                "ten",
