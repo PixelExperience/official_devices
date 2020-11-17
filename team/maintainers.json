@@ -601,6 +601,7 @@
          {
             "codename": "lavender",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
