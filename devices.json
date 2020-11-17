@@ -1035,6 +1035,10 @@
       "codename": "lavender",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": ""
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
          },
