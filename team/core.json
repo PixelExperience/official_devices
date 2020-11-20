@@ -95,6 +95,7 @@
          {
             "codename": "X01BD",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]

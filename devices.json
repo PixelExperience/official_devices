@@ -95,6 +95,10 @@
       "codename": "X01BD",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-pixel-experience-t4177107"
          },
@@ -1176,6 +1180,10 @@
       "brand": "OnePlus",
       "codename": "oneplus3",
       "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         },
          {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643"
