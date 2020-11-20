@@ -389,6 +389,7 @@
          {
             "codename": "river",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
