@@ -356,6 +356,7 @@
          {
             "codename": "kunlun2",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]

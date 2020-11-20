@@ -994,12 +994,16 @@
       "codename": "kunlun2",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791"
          }
       ]
    },
