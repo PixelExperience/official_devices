@@ -8,6 +8,7 @@
          {
             "codename": "tissot",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
