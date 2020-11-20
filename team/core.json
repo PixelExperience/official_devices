@@ -69,6 +69,7 @@
          {
             "codename": "lake",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
