@@ -1028,6 +1028,10 @@
       "codename": "land",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
          },
