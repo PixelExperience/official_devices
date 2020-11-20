@@ -329,6 +329,10 @@
       "codename": "davinci",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
          },
