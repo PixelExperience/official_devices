@@ -503,6 +503,7 @@
          {
             "codename": "beryllium",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
