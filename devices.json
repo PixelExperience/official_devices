@@ -1110,6 +1110,10 @@
       "codename": "mido",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
          },
