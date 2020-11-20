@@ -976,6 +976,7 @@
          {
             "codename": "potter",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
