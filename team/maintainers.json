@@ -472,6 +472,7 @@
          {
             "codename": "evert",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
