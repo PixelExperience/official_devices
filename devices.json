@@ -50,6 +50,10 @@
       "codename": "X00P",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/zenfone-max-m1/development/rom-pixel-experience-t4080061"
          },
