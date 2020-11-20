@@ -1308,6 +1308,10 @@
       "codename": "river",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
          },
