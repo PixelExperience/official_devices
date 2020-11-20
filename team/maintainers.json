@@ -297,6 +297,7 @@
          {
             "codename": "phoenix",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -304,6 +305,7 @@
          {
             "codename": "avicii",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
