@@ -874,6 +874,7 @@
          {
             "codename": "rosy",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
