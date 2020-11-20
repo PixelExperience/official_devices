@@ -155,6 +155,10 @@
       "codename": "avicii",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
          },
@@ -1198,6 +1202,10 @@
       "brand": "Xiaomi",
       "codename": "phoenix",
       "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         },
          {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
