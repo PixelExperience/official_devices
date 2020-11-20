@@ -10,20 +10,6 @@
             "ten",
             "ten_plus"
          ]
-      },
-      {
-         "codename": "phoenix",
-         "versions": [
-            "ten",
-            "ten_plus"
-         ]
-      },
-      {
-         "codename": "lake",
-         "versions": [
-            "ten",
-            "ten_plus"
-         ]
       }
    ]
 }

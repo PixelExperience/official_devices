@@ -71,6 +71,14 @@
             "versions": [
                "ten",
                "ten_plus"
+            ]
+         },
+         {
+            "codename": "raphael",
+            "versions": [
+               "ten",
+               "ten_plus",
+               "eleven"
             ],
             "main_maintainer": true
          }
