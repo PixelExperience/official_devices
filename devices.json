@@ -170,6 +170,11 @@
       "codename": "begonia",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
          },
