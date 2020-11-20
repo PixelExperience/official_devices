@@ -228,6 +228,10 @@
       "codename": "capricorn",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
          },
@@ -515,6 +519,10 @@
       "brand": "Xiaomi",
       "codename": "gemini",
       "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         },
          {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
@@ -1152,6 +1160,10 @@
       "codename": "natrium",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
          },
@@ -1459,6 +1471,10 @@
       "brand": "Xiaomi",
       "codename": "scorpio",
       "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         },
          {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"

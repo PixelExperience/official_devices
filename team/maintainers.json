@@ -431,6 +431,7 @@
          {
             "codename": "gemini",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -438,6 +439,7 @@
          {
             "codename": "capricorn",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -445,6 +447,7 @@
          {
             "codename": "natrium",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -452,6 +455,7 @@
          {
             "codename": "scorpio",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
