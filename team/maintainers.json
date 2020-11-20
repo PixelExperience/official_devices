@@ -489,6 +489,7 @@
          {
             "codename": "TP1803",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
