@@ -349,6 +349,7 @@
          {
             "codename": "mido",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -356,6 +357,7 @@
          {
             "codename": "kunlun2",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
