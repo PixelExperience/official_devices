@@ -1499,8 +1499,8 @@
       "codename": "sirius",
       "supported_versions": [
          {
-           "version_code": "eleven",
-           "stable": false
+            "version_code": "eleven",
+            "stable": false
          },
          {
             "version_code": "ten",
