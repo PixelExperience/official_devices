@@ -305,6 +305,10 @@
       "codename": "curtana",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": ""
          },

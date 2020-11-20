@@ -1018,9 +1018,11 @@
          {
             "codename": "curtana",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
-            ]
+            ],
+            "main_maintainer": true
          }
       ]
    },
@@ -1071,6 +1073,7 @@
          {
             "codename": "curtana",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
