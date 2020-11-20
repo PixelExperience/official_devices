@@ -951,6 +951,7 @@
          {
             "codename": "violet",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]

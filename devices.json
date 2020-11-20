@@ -1505,6 +1505,10 @@
       "codename": "violet",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-t4141933"
          },
