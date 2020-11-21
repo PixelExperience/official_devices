@@ -286,6 +286,7 @@
          {
             "codename": "instantnoodlep",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -293,6 +294,7 @@
          {
             "codename": "instantnoodle",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
