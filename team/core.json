@@ -23,6 +23,7 @@
          {
             "codename": "davinci",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
