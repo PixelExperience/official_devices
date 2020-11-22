@@ -964,6 +964,7 @@
          {
             "codename": "X00TD",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
