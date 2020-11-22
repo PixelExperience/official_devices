@@ -46,6 +46,7 @@
          {
             "codename": "dipper",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ],
