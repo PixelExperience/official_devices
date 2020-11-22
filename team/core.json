@@ -95,6 +95,7 @@
          {
             "codename": "guacamole",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]

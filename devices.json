@@ -617,6 +617,10 @@
       "codename": "guacamole",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
