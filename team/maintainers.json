@@ -1004,6 +1004,7 @@
          {
             "codename": "RMX1851",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
