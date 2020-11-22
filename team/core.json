@@ -72,6 +72,36 @@
       ]
    },
    {
+      "name": "Joey Yu",
+      "country": "CA",
+      "github_username": "itsjoeoui",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8125712",
+      "telegram_url": "http://t.me/itsjoeoui",
+      "devices": [
+         {
+            "codename": "cheeseburger",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "dumpling",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Jorge Lucas",
       "country": "BR",
       "github_username": "Jorg3Lucas",
@@ -145,35 +175,5 @@
       "xda_url": "",
       "telegram_url": "http://t.me/thevipinmishra",
       "devices": []
-   },
-   {
-      "name": "Joey Yu",
-      "country": "CA",
-      "github_username": "itsjoeoui",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8125712",
-      "telegram_url": "http://t.me/itsjoeoui",
-      "devices": [
-         {
-            "codename": "cheeseburger",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "dumpling",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "guacamole",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
    }
 ]
