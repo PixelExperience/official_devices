@@ -176,6 +176,7 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
             "stable": false
          },
          {
@@ -1388,6 +1389,7 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
             "stable": false
          },
          {
