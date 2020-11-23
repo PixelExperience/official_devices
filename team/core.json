@@ -15,6 +15,31 @@
       ]
    },
    {
+      "name": "Akshay Kakatkar",
+      "country": "IN",
+      "github_username": "CryllicBuster273",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=10543397",
+      "telegram_url": "http://t.me/CryllicBuster273",
+      "devices": [
+         {
+            "codename": "phoenix",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         },
+         {
+            "codename": "avicii",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Baalaji Balasubramani",
       "country": "IN",
       "github_username": "baalajimaestro",
@@ -176,30 +201,5 @@
       "xda_url": "",
       "telegram_url": "http://t.me/thevipinmishra",
       "devices": []
-   },
-   {
-      "name": "Akshay Kakatkar",
-      "country": "IN",
-      "github_username": "CryllicBuster273",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=10543397",
-      "telegram_url": "http://t.me/CryllicBuster273",
-      "devices": [
-         {
-            "codename": "phoenix",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "avicii",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
    }
 ]
