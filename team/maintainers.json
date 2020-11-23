@@ -302,31 +302,6 @@
       ]
    },
    {
-      "name": "CryllicBuster273",
-      "country": "IN",
-      "github_username": "CryllicBuster273",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=10543397",
-      "telegram_url": "http://t.me/CryllicBuster273",
-      "devices": [
-         {
-            "codename": "phoenix",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "avicii",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "Gaurav",
       "country": "IN",
       "github_username": "Gaurav241",
