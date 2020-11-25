@@ -1318,14 +1318,18 @@
       "name": "Moto G7 Power",
       "brand": "Motorola",
       "codename": "ocean",
-      "supported_versions": [
+      "supported_versions": [ 
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+	 {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-plus-t4072061"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-t4162045"
          }
       ]
    },
