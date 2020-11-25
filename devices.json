@@ -877,21 +877,6 @@
       ]
    },
    {
-      "name": "Z1",
-      "brand": "ZUK",
-      "codename": "ham",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Galaxy S7 Edge",
       "brand": "Samsung",
       "codename": "hero2lte",
@@ -1127,17 +1112,6 @@
       ]
    },
    {
-      "name": "Redmi Note 3 Pro",
-      "brand": "Xiaomi",
-      "codename": "kenzo",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Z6 Lite",
       "brand": "Lenovo",
       "codename": "kunlun2",
@@ -1281,21 +1255,6 @@
       ]
    },
    {
-      "name": "Moto G5S",
-      "brand": "Motorola",
-      "codename": "montana",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
-         }
-      ]
-   },
-   {
       "name": "Mi 5s Plus",
       "brand": "Xiaomi",
       "codename": "natrium",
@@ -1326,21 +1285,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "name": "2",
-      "brand": "OnePlus",
-      "codename": "oneplus2",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true
          }
       ]
    },
@@ -1528,23 +1472,6 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
-         }
-      ]
-   },
-   {
-      "name": "Le 2",
-      "brand": "LeEco",
-      "codename": "s2",
-      "supported_versions": [
-         {
-            "version_code": "pie",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
-         },
-         {
-            "version_code": "pie_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/le-2/development/rom-pixel-experience-t3840866"
          }
       ]
    },
