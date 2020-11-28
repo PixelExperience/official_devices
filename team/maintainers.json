@@ -900,6 +900,7 @@
          {
             "codename": "sailfish",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
@@ -907,6 +908,7 @@
          {
             "codename": "marlin",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
