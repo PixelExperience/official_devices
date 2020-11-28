@@ -188,6 +188,7 @@
          {
             "codename": "chef",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
