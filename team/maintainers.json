@@ -1,5 +1,22 @@
 [
    {
+      "name": "Abdul Sakil Mondal",
+      "country": "IN",
+      "github_username": "SakilMondal",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6151980",
+      "telegram_url": "http://t.me/SakilMondal",
+      "devices": [
+         {
+            "codename": "whyred",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Abhinav Gupta",
       "country": "IN",
       "github_username": "Abhinavgupta371",
