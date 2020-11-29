@@ -170,6 +170,25 @@
       ]
    },
    {
+      "name": "Nexus 6P",
+      "brand": "Google",
+      "codename": "angler",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
+            "version_code": "ten",
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525"
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525"
+         }
+      ]
+   },
+   {
       "name": "Nord",
       "brand": "OnePlus",
       "codename": "avicii",
@@ -1725,25 +1744,6 @@
          {
             "version_code": "eleven",
             "stable": "false"
-         }
-      ]
-   },
-   {
-      "name": "Nexus 6P",
-      "brand": "Google",
-      "codename": "angler",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         },
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525"
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525"
          }
       ]
    }
