@@ -897,6 +897,14 @@
       "xda_url": "https://forum.xda-developers.com/member.php?u=8086838",
       "telegram_url": "https://t.me/PixelBoot",
       "devices": [
+	     {
+            "codename": "angler",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         },
          {
             "codename": "sailfish",
             "versions": [
