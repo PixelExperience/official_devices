@@ -49,6 +49,21 @@
       ]
    },
    {
+      "name": "Andriel Ferreira",
+      "country": "BR",
+      "github_username": "AndrielFR",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=10476617",
+      "telegram_url": "https://t.me/AndrielFR",
+      "devices": [
+         {
+            "codename": "ginkgo",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ]
+   },
+   {
       "name": "AngeloGioacchino Del Regno",
       "country": "IT",
       "github_username": "kholk",
@@ -606,9 +621,11 @@
          {
             "codename": "ginkgo",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
-            ]
+            ],
+            "main_maintainer": true
          }
       ]
    },
