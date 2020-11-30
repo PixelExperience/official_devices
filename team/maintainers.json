@@ -420,6 +420,7 @@
          {
             "codename": "jasmine_sprout",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
