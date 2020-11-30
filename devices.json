@@ -510,7 +510,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -529,7 +529,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -548,7 +548,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -567,7 +567,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -586,7 +586,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -690,7 +690,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -709,7 +709,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -728,7 +728,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -747,7 +747,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -766,7 +766,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -785,7 +785,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -804,7 +804,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -823,7 +823,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -842,7 +842,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -861,7 +861,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -880,7 +880,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -899,7 +899,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -948,7 +948,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -967,7 +967,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -986,7 +986,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1005,7 +1005,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1062,7 +1062,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1081,7 +1081,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1100,7 +1100,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1119,7 +1119,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1731,7 +1731,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    },
@@ -1750,7 +1750,7 @@
          },
          {
             "version_code": "eleven",
-            "stable": "false"
+            "stable": false
          }
       ]
    }
