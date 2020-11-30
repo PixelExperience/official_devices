@@ -1066,24 +1066,6 @@
       ]
    },
    {
-      "name": "ctwoon",
-      "country": "RU",
-      "github_username": "ctwoon",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9818233",
-      "telegram_url": "http://t.me/ctwoon",
-      "devices": [
-         {
-            "codename": "curtana",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ],
-            "main_maintainer": true
-         }
-      ]
-   },
-   {
       "name": "idkwhoiam322",
       "country": "IN",
       "github_username": "idkwhoiam322",
@@ -1114,23 +1096,6 @@
          {
             "codename": "guacamole",
             "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
-      "name": "pqhaz",
-      "country": "RU",
-      "github_username": "pqhaz",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9735543",
-      "telegram_url": "http://t.me/pqhaz",
-      "devices": [
-         {
-            "codename": "curtana",
-            "versions": [
-               "eleven",
                "ten",
                "ten_plus"
             ]
