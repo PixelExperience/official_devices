@@ -192,6 +192,12 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "liber",
+            "versions": [
+               "eleven"
+            ]
          }
       ]
    },

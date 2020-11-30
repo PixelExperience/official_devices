@@ -334,6 +334,17 @@
       ]
    },
    {
+      "name": "One Fusion +",
+      "brand": "Motorola",
+      "codename": "liber",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
       "name": "Mi Mix 2",
       "brand": "Xiaomi",
       "codename": "chiron",
