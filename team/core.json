@@ -4,15 +4,7 @@
       "country": "BE",
       "github_username": "markakash",
       "xda_url": "https://forum.xda-developers.com/member.php?u=5970333",
-      "devices": [
-         {
-            "codename": "cepheus",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
+      "devices": []
    },
    {
       "name": "Akshay Kakatkar",

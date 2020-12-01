@@ -289,10 +289,12 @@
       "supported_versions": [
          {
             "version_code": "ten",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
          },
          {
             "version_code": "ten_plus",
+            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
          }
       ]
