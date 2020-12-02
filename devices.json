@@ -1480,6 +1480,11 @@
       "codename": "riva",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixel-experience-t4027707"
          },
