@@ -78,18 +78,15 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false,
-            "deprecated": true
+            "stable": false
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-t4065093",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-t4065093"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407",
-            "deprecated": true
+            "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407"
          }
       ]
    },
