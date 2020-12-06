@@ -943,23 +943,6 @@
       ]
    },
    {
-      "name": "Rohan Salkar",
-      "country": "IN",
-      "github_username": "Alexmercer09",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7745191",
-      "telegram_url": "http://t.me/Alex_mercer09",
-      "devices": [
-         {
-            "codename": "X00TD",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ]
-   },
-   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "iamsaalim",
