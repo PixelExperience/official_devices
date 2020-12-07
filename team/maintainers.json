@@ -659,13 +659,6 @@
       "telegram_url": "https://t.me/Inkypen",
       "devices": [
          {
-            "codename": "lithium",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "andromeda",
             "versions": [
                "ten",
