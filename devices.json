@@ -163,6 +163,10 @@
       "codename": "andromeda",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
          },
