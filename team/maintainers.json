@@ -896,7 +896,7 @@
       "name": "PixelBoot",
       "country": "MT",
       "github_username": "PixelBoot",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8086838",
+      "xda_url": "https://forum.xda-developers.com/m/pixelboot.8086838",
       "telegram_url": "https://t.me/PixelBoot",
       "devices": [
          {
@@ -921,6 +921,18 @@
                "eleven",
                "ten",
                "ten_plus"
+            ]
+         },
+         {
+            "codename": "walleye",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "taimen",
+            "versions": [
+               "eleven"
             ]
          }
       ]

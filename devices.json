@@ -1775,5 +1775,27 @@
             "stable": false
          }
       ]
+   },
+   {
+      "name": "Pixel 2",
+      "brand": "Google",
+      "codename": "walleye",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
+      "name": "Pixel 2XL",
+      "brand": "Google",
+      "codename": "taimen",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
    }
 ]
