@@ -1053,6 +1053,18 @@
       ]
    },
    {
+      "name": "8T",
+      "brand": "OnePlus",
+      "codename": "kebab",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
+         }
+      ]
+   },
+   {
       "name": "Xperia 1 RoW",
       "brand": "Sony",
       "codename": "j8110",
