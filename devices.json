@@ -163,6 +163,10 @@
       "codename": "andromeda",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
          },
@@ -1271,11 +1275,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
+            "deprecated": true
          }
       ]
    },
