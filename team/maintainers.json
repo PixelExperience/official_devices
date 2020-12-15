@@ -472,6 +472,14 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "lithium",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
          }
       ]
    },
