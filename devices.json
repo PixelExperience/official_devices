@@ -1424,18 +1424,6 @@
       ]
    },
    {
-      "name": "Poco X3",
-      "brand": "Xiaomi",
-      "codename": "surya",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": false
-         }
-      ]
-   },
-   {
       "name": "Mi 8 Lite",
       "brand": "Xiaomi",
       "codename": "platina",
@@ -1676,6 +1664,18 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+         }
+      ]
+   },
+   {
+      "name": "Poco X3",
+      "brand": "Xiaomi",
+      "codename": "surya",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
          }
       ]
    },
