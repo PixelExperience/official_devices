@@ -957,8 +957,8 @@
    {
       "name": "Saalim",
       "country": "IN",
-      "github_username": "iamsaalim",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9254143",
+      "github_username": "danascape",
+      "xda_url": "https://forum.xda-developers.com/m/iamsaalim.9254143/",
       "telegram_url": "http://t.me/gabbyintegral",
       "devices": [
          {
@@ -972,6 +972,7 @@
          {
             "codename": "X01AD",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
