@@ -226,16 +226,16 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4196041",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-11-begonia-pixel-experience-official-aosp.4196041/",
             "stable": false
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixel-experience-t4059977"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/"
          }
       ]
    },
@@ -1420,6 +1420,18 @@
          {
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+         }
+      ]
+   },
+   {
+      "name": "Poco X3",
+      "brand": "Xiaomi",
+      "codename": "surya",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
          }
       ]
    },
