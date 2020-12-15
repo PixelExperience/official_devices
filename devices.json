@@ -1424,6 +1424,18 @@
       ]
    },
    {
+      "name": "Poco X3",
+      "brand": "Xiaomi",
+      "codename": "surya",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
+         }
+      ]
+   },
+   {
       "name": "Mi 8 Lite",
       "brand": "Xiaomi",
       "codename": "platina",
