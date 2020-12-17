@@ -127,14 +127,6 @@
       "telegram_url": "http://t.me/JorgeLucas",
       "devices": [
          {
-            "codename": "sanders",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "lake",
             "versions": [
                "eleven",
