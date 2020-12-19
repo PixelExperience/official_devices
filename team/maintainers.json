@@ -625,6 +625,14 @@
                "ten",
                "ten_plus"
             ]
+          },
+          {
+             "codename": "surya",
+             "versions": [
+                "eleven",
+                "ten",
+                "ten_plus"
+             ]
          }
       ]
    },
@@ -1071,8 +1079,11 @@
          {
             "codename": "surya",
             "versions": [
-               "eleven"
-            ]
+               "eleven",
+               "ten",
+               "ten_plus"
+            ],
+            "main_maintainer": true
          }
       ]
    },
