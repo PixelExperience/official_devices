@@ -625,12 +625,12 @@
                "ten",
                "ten_plus"
             ]
-          },
-          {
-             "codename": "surya",
-             "versions": [
-                "eleven"
-             ]
+         },
+         {
+            "codename": "surya",
+            "versions": [
+               "eleven"
+            ]
          }
       ]
    },
