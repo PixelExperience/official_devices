@@ -629,9 +629,7 @@
           {
              "codename": "surya",
              "versions": [
-                "eleven",
-                "ten",
-                "ten_plus"
+                "eleven"
              ]
          }
       ]
@@ -1079,9 +1077,7 @@
          {
             "codename": "surya",
             "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
+               "eleven"
             ],
             "main_maintainer": true
          }
