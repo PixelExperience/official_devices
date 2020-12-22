@@ -4,7 +4,8 @@
       "country": "BE",
       "github_username": "markakash",
       "xda_url": "https://forum.xda-developers.com/m/markakash.5970333/",
-      "devices": []
+      "devices": [],
+      "ci_username": "markakash"
    },
    {
       "name": "Akshay Kakatkar",
@@ -29,7 +30,8 @@
                "ten_plus"
             ]
          }
-      ]
+      ],
+      "ci_username": "kakatkarakshay"
    },
    {
       "name": "Baalaji Balasubramani",
@@ -52,7 +54,8 @@
                "ten_plus"
             ]
          }
-      ]
+      ],
+      "ci_username": "baalajimaestro"
    },
    {
       "name": "Chenyang Zhong",
@@ -69,7 +72,8 @@
                "ten_plus"
             ]
          }
-      ]
+      ],
+      "ci_username": "jjpprrrr"
    },
    {
       "name": "Henrique Pereira",
@@ -86,7 +90,8 @@
             ],
             "main_maintainer": true
          }
-      ]
+      ],
+      "ci_username": "hlcpereira"
    },
    {
       "name": "Joey Yu",
@@ -117,7 +122,8 @@
                "ten_plus"
             ]
          }
-      ]
+      ],
+      "ci_username": "itsjoeoui"
    },
    {
       "name": "Jorge Lucas",
@@ -151,7 +157,8 @@
             ],
             "main_maintainer": true
          }
-      ]
+      ],
+      "ci_username": "jorg3lucas"
    },
    {
       "name": "Rahul Krishna",
@@ -168,7 +175,8 @@
                "ten_plus"
             ]
          }
-      ]
+      ],
+      "ci_username": "rk779"
    },
    {
       "name": "Rohan Hasabe (Hasaber8)",
@@ -191,7 +199,8 @@
                "eleven"
             ]
          }
-      ]
+      ],
+      "ci_username": "hasaber8"
    },
    {
       "name": "Vipin Mishra",
@@ -199,6 +208,7 @@
       "github_username": "thevipinmishra",
       "xda_url": "",
       "telegram_url": "http://t.me/thevipinmishra",
-      "devices": []
+      "devices": [],
+      "ci_username": "thevipinmishra"
    }
 ]
