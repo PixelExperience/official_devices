@@ -80,17 +80,7 @@
       "country": "BR",
       "github_username": "Hlcpereira",
       "xda_url": "https://forum.xda-developers.com/m/hlcpereira.7838323/",
-      "devices": [
-         {
-            "codename": "dipper",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ],
-            "main_maintainer": true
-         }
-      ],
+      "devices": [],
       "ci_username": "hlcpereira"
    },
    {
