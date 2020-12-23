@@ -1506,16 +1506,16 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-riva-pixelexperience-aosp-official.4206805/",
             "stable": false
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-riva-pixelexperience-aosp-10-0.4027707/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/"
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-riva-pixelexperience-aosp-10-0.4027707/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/"
          }
       ]
    },
