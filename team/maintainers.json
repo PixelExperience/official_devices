@@ -584,7 +584,7 @@
          {
             "codename": "ocean",
             "versions": [
-	       "eleven",
+               "eleven",
                "ten",
                "ten_plus"
             ]
