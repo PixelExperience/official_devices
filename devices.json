@@ -474,6 +474,17 @@
       ]
    },
    {
+      "name": "Moto G6",
+      "brand": "Motorola",
+      "codename": "ali",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
       "name": "Moto G6 Plus",
       "brand": "Motorola",
       "codename": "evert",

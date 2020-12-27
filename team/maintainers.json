@@ -459,6 +459,12 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "ali",
+            "versions": [
+               "eleven"
+            ]
          }
       ],
       "ci_username": "jeangraff30"
