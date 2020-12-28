@@ -474,6 +474,17 @@
       ]
    },
    {
+      "name": "Moto Z2 Play",
+      "brand": "Motorola",
+      "codename": "albus",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
       "name": "Moto G6",
       "brand": "Motorola",
       "codename": "ali",

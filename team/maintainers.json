@@ -465,6 +465,12 @@
             "versions": [
                "eleven"
             ]
+         },
+         {
+            "codename": "albus",
+            "versions": [
+               "eleven"
+            ]
          }
       ],
       "ci_username": "jeangraff30"
