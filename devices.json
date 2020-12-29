@@ -162,6 +162,28 @@
       ]
    },
    {
+      "name": "Moto Z2 Play",
+      "brand": "Motorola",
+      "codename": "albus",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
+      "name": "Moto G6",
+      "brand": "Motorola",
+      "codename": "ali",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
       "name": "Mi Mix 3 5G",
       "brand": "Xiaomi",
       "codename": "andromeda",
@@ -470,28 +492,6 @@
             "version_code": "ten_plus",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
-         }
-      ]
-   },
-   {
-      "name": "Moto Z2 Play",
-      "brand": "Motorola",
-      "codename": "albus",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         }
-      ]
-   },
-   {
-      "name": "Moto G6",
-      "brand": "Motorola",
-      "codename": "ali",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
          }
       ]
    },
