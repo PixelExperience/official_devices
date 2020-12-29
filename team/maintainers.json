@@ -453,11 +453,15 @@
       "telegram_url": "https://t.me/JeanGraff30",
       "devices": [
          {
-            "codename": "jasmine_sprout",
+            "codename": "ali",
             "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
+               "eleven"
+            ]
+         },
+         {
+            "codename": "albus",
+            "versions": [
+               "eleven"
             ]
          }
       ],

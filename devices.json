@@ -474,6 +474,28 @@
       ]
    },
    {
+      "name": "Moto Z2 Play",
+      "brand": "Motorola",
+      "codename": "albus",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
+      "name": "Moto G6",
+      "brand": "Motorola",
+      "codename": "ali",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         }
+      ]
+   },
+   {
       "name": "Moto G6 Plus",
       "brand": "Motorola",
       "codename": "evert",
@@ -1145,14 +1167,17 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "deprecated": true,
             "stable": false
          },
          {
             "version_code": "ten",
+            "deprecated": true,
             "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
+            "deprecated": true,
             "xda_thread": ""
          }
       ]
