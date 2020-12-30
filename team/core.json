@@ -50,6 +50,7 @@
          {
             "codename": "guacamoleb",
             "versions": [
+               "eleven",
                "ten",
                "ten_plus"
             ]
