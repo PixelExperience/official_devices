@@ -10,11 +10,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          }
       ]
    },
@@ -25,11 +27,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
+            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357"
+            "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357",
+            "deprecated": true
          }
       ]
    },
@@ -44,11 +48,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          }
       ]
    },
@@ -63,11 +69,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/zenfone-max-m1/development/rom-pixel-experience-t4080061"
+            "xda_thread": "https://forum.xda-developers.com/zenfone-max-m1/development/rom-pixel-experience-t4080061",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          }
       ]
    },
@@ -104,11 +112,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371"
+            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371"
+            "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371",
+            "deprecated": true
          }
       ]
    },
@@ -123,11 +133,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-pixel-experience-t4177107"
+            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-pixel-experience-t4177107",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-pixel-experience-t4177107"
+            "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-pixel-experience-t4177107",
+            "deprecated": true
          }
       ]
    },
@@ -138,11 +150,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
+            "deprecated": true
          }
       ]
    },
@@ -153,11 +167,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921"
+            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
+            "deprecated": true
          }
       ]
    },
@@ -194,11 +210,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417",
+            "deprecated": true
          }
       ]
    },
@@ -213,11 +231,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525"
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525"
+            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525",
+            "deprecated": true
          }
       ]
    },
@@ -233,11 +253,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
+            "deprecated": true
          }
       ]
    },
@@ -253,11 +275,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/",
+            "deprecated": true
          }
       ]
    },
@@ -273,11 +297,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593"
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593",
+            "deprecated": true
          }
       ]
    },
@@ -288,11 +314,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437"
+            "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437"
+            "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437",
+            "deprecated": true
          }
       ]
    },
@@ -308,11 +336,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747"
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747",
+            "deprecated": true
          }
       ]
    },
@@ -361,11 +391,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          }
       ]
    },
@@ -376,11 +408,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847"
+            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847",
+            "deprecated": true
          }
       ]
    },
@@ -434,11 +468,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
+            "deprecated": true
          }
       ]
    },
@@ -453,11 +489,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
+            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169"
+            "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169",
+            "deprecated": true
          }
       ]
    },
@@ -506,11 +544,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
+            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215"
+            "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215",
+            "deprecated": true
          }
       ]
    },
@@ -538,11 +578,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -557,11 +599,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -576,11 +620,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -595,11 +641,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -614,11 +662,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -638,11 +688,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003"
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003",
+            "deprecated": true
          }
       ]
    },
@@ -653,11 +705,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          }
       ]
    },
@@ -668,11 +722,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477"
+            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477"
+            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477",
+            "deprecated": true
          }
       ]
    },
@@ -725,11 +781,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -744,11 +802,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -763,11 +823,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -782,11 +844,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -801,11 +865,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -820,11 +886,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -839,11 +907,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -858,11 +928,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -877,11 +949,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -896,11 +970,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -915,11 +991,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -934,11 +1012,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -953,11 +1033,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
+            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463"
+            "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463",
+            "deprecated": true
          }
       ]
    },
@@ -968,11 +1050,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479"
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479",
+            "deprecated": true
          }
       ]
    },
@@ -983,11 +1067,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1002,11 +1088,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1021,11 +1109,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1040,11 +1130,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1063,11 +1155,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203",
+            "deprecated": true
          }
       ]
    },
@@ -1082,11 +1176,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993",
+            "deprecated": true
          }
       ]
    },
@@ -1097,11 +1193,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1116,11 +1214,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1135,11 +1235,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1154,11 +1256,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1211,11 +1315,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791"
+            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791"
+            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791",
+            "deprecated": true
          }
       ]
    },
@@ -1230,11 +1336,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          }
       ]
    },
@@ -1249,11 +1357,13 @@
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619",
+            "deprecated": true
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619"
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619",
+            "deprecated": true
          }
       ]
    },
@@ -1286,11 +1396,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709",
+            "deprecated": true
          }
       ]
    },
@@ -1317,11 +1429,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207121"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207121",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207121"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207121",
+            "deprecated": true
          }
       ]
    },
@@ -1336,11 +1450,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571"
+            "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571",
+            "deprecated": true
          }
       ]
    },
@@ -1355,11 +1471,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239",
+            "deprecated": true
          }
       ]
    },
@@ -1375,11 +1493,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793"
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793",
+            "deprecated": true
          }
       ]
    },
@@ -1394,11 +1514,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-plus-t4072061"
+            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-plus-t4072061",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-t4162045"
+            "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-t4162045",
+            "deprecated": true
          }
       ]
    },
@@ -1413,11 +1535,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643",
+            "deprecated": true
          }
       ]
    },
@@ -1432,11 +1556,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
+            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641"
+            "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641",
+            "deprecated": true
          }
       ]
    },
@@ -1452,11 +1578,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
+            "deprecated": true
          }
       ]
    },
@@ -1489,11 +1617,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-polaris-pixel-experience-aosp-2020-11-29.4038949/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-polaris-pixel-experience-aosp-2020-11-29.4038949/",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-polaris-pixel-experience-aosp-2020-11-29.4038949/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-polaris-pixel-experience-aosp-2020-11-29.4038949/",
+            "deprecated": true
          }
       ]
    },
@@ -1508,11 +1638,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
+            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717"
+            "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717",
+            "deprecated": true
          }
       ]
    },
@@ -1528,11 +1660,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
+            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141"
+            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141",
+            "deprecated": true
          }
       ]
    },
@@ -1548,11 +1682,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/",
+            "deprecated": true
          }
       ]
    },
@@ -1567,11 +1703,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
+            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245"
+            "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245",
+            "deprecated": true
          }
       ]
    },
@@ -1586,11 +1724,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
+            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285"
+            "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285",
+            "deprecated": true
          }
       ]
    },
@@ -1605,11 +1745,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
+            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573"
+            "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573",
+            "deprecated": true
          }
       ]
    },
@@ -1641,11 +1783,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649"
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649",
+            "deprecated": true
          }
       ]
    },
@@ -1678,11 +1822,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923"
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923",
+            "deprecated": true
          }
       ]
    },
@@ -1697,11 +1843,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373",
+            "deprecated": true
          }
       ]
    },
@@ -1739,11 +1887,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
+            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933"
+            "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933",
+            "deprecated": true
          }
       ]
    },
@@ -1776,11 +1926,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixel-experience-official-aosp.4141933/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixel-experience-official-aosp.4141933/",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixel-experience-official-aosp.4141933/"
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixel-experience-official-aosp.4141933/",
+            "deprecated": true
          }
       ]
    },
@@ -1824,11 +1976,13 @@
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479",
+            "deprecated": true
          }
       ]
    },
@@ -1872,11 +2026,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1891,11 +2047,13 @@
       "supported_versions": [
          {
             "version_code": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "eleven",
