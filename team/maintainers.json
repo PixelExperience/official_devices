@@ -1115,9 +1115,9 @@
    {
       "name": "Zilberto Junior",
       "country": "BR",
-      "github_username": "ZJRDroid",
+      "github_username": "zjunior06",
       "xda_url": "https://forum.xda-developers.com/member.php?u=7233293",
-      "telegram_url": "http://t.me/ZJRDroid",
+      "telegram_url": "http://t.me/zjunior06",
       "devices": [
          {
             "codename": "potter",
@@ -1128,7 +1128,7 @@
             ]
          }
       ],
-      "ci_username": "zjrdroid"
+      "ci_username": "zjunior06"
    },
    {
       "name": "Zinadin Zidan",
