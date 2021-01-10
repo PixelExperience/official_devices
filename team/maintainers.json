@@ -638,23 +638,6 @@
       "ci_username": "ljmf00"
    },
    {
-      "name": "Madhav Saladi",
-      "country": "IN",
-      "github_username": "MadhavSaladi",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8482987",
-      "telegram_url": "http://t.me/BabluS",
-      "devices": [
-         {
-            "codename": "RMX1971",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ],
-      "ci_username": "madhavsaladi"
-   },
-   {
       "name": "ManoloRey",
       "country": "BR",
       "github_username": "ManoloRey",
@@ -1094,23 +1077,6 @@
          }
       ],
       "ci_username": "dasshubham762"
-   },
-   {
-      "name": "Tejas Nanavare",
-      "country": "IN",
-      "github_username": "Orgasmtron",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7312079",
-      "telegram_url": "http://t.me/Orgasmtron",
-      "devices": [
-         {
-            "codename": "RMX1971",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ],
-      "ci_username": "orgasmtron"
    },
    {
       "name": "Zilberto Junior",
