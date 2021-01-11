@@ -419,14 +419,14 @@
       ]
    },
    {
-      "name": "Redmi Note 9S",
+      "name": "Redmi Note 9S/9 Pro/Pro Max/Poco M2 Pro",
       "brand": "Xiaomi",
-      "codename": "curtana",
+      "codename": "miatoll",
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false,
-            "deprecated": true
+            "xda_thread": "",
+            "stable": false
          },
          {
             "version_code": "ten",
