@@ -53,6 +53,22 @@
       "ci_username": "rulim34"
    },
    {
+      "name": "Andriel Ferreira",
+      "country": "BR",
+      "github_username": "AndrielFR",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=10476617",
+      "telegram_url": "https://t.me/AndrielFR",
+      "devices": [
+         {
+            "codename": "ginkgo",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ],
+      "ci_username": "andrielfr"
+   },
+   {
       "name": "AngeloGioacchino Del Regno",
       "country": "IT",
       "github_username": "kholk",
