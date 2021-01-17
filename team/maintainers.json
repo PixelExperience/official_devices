@@ -1034,6 +1034,23 @@
       "ci_username": "pulkit077"
    },
    {
+      "name": "Subins Mani",
+      "country": "IN",
+      "github_username": "Subinsmani",
+      "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
+      "telegram_url": "http://t.me/Subinsmani",
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ]
+   },
+   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "danascape",
