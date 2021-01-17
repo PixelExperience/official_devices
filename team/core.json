@@ -15,14 +15,6 @@
       "telegram_url": "http://t.me/KakatkarAkshay",
       "devices": [
          {
-            "codename": "phoenix",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "avicii",
             "versions": [
                "eleven",

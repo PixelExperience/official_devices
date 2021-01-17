@@ -1566,11 +1566,6 @@
       "codename": "phoenix",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
-            "stable": false
-         },
-         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
             "deprecated": true
