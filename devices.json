@@ -2050,5 +2050,17 @@
             "stable": false
          }
       ]
+   },
+   {
+      "name": "One",
+      "brand": "Teracube",
+      "codename": "v7101o",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
+         }
+      ]
    }
 ]
