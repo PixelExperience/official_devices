@@ -1236,5 +1236,21 @@
          }
       ],
       "ci_username": "trpsl"
+   },
+   {
+      "name": "Elias",
+      "country": "FR",
+      "github_username": "TheMalachite",
+      "xda_url": "https://forum.xda-developers.com/m/themalachite.9609718/",
+      "telegram_url": "https://t.me/TheMalachite",
+      "devices": [
+         {
+            "codename": "v7101o",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ],
+      "ci_username": "themalachite"
    }
 ]
