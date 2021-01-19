@@ -1034,24 +1034,6 @@
       "ci_username": "pulkit077"
    },
    {
-      "name": "Subins Mani",
-      "country": "IN",
-      "github_username": "Subinsmani",
-      "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
-      "telegram_url": "http://t.me/Subinsmani",
-      "devices": [
-         {
-            "codename": "X00TD",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ],
-      "ci_username": "subinsmani"
-   },
-   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "danascape",
@@ -1111,6 +1093,24 @@
          }
       ],
       "ci_username": "dasshubham762"
+   },
+   {
+      "name": "Subins Mani",
+      "country": "IN",
+      "github_username": "Subinsmani",
+      "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
+      "telegram_url": "http://t.me/Subinsmani",
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         }
+      ],
+      "ci_username": "subinsmani"
    },
    {
       "name": "Zilberto Junior",
