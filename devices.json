@@ -679,6 +679,10 @@
       "codename": "ginkgo",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": ""
+         },
+         {
             "version_code": "ten",
             "xda_thread": "",
             "deprecated": true
