@@ -597,6 +597,13 @@
                "ten",
                "ten_plus"
             ]
+         },
+         {
+            "codename": "surya",
+            "versions": [
+               "eleven"
+            ],
+            "main_maintainer": true
          }
       ],
       "ci_username": "nullbytepl"
@@ -697,12 +704,6 @@
             "versions": [
                "ten",
                "ten_plus"
-            ]
-         },
-         {
-            "codename": "surya",
-            "versions": [
-               "eleven"
             ]
          }
       ],
@@ -1181,8 +1182,7 @@
             "codename": "surya",
             "versions": [
                "eleven"
-            ],
-            "main_maintainer": true
+            ]
          }
       ],
       "ci_username": "zidan44"
