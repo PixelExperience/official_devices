@@ -1667,7 +1667,8 @@
          {
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-riva-pixelexperience-aosp-official.4206805/",
-            "stable": false
+            "stable": false,
+            "deprecated": true
          },
          {
             "version_code": "ten",
