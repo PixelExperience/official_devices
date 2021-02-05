@@ -35,24 +35,6 @@
       "ci_username": "abhinavgupta371"
    },
    {
-      "name": "Ahmad Rulim",
-      "country": "ID",
-      "github_username": "rulim34",
-      "xda_url": "https://forum.xda-developers.com/m/rulim34.9913118/",
-      "telegram_url": "https://t.me/rulim34",
-      "devices": [
-         {
-            "codename": "riva",
-            "versions": [
-               "eleven",
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ],
-      "ci_username": "rulim34"
-   },
-   {
       "name": "Andriel Ferreira",
       "country": "BR",
       "github_username": "AndrielFR",
