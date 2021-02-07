@@ -1250,5 +1250,23 @@
          }
       ],
       "ci_username": "trpsl"
+   },
+   {
+      "name": "Immanuel Raj",
+      "country": "IN",
+      "github_username": "immanuel44",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9376270",
+      "telegram_url": "http://t.me/Immanuel_Raj",
+      "devices": [
+         {
+            "codename": "jasmine_sprout",
+            "versions": [
+               "eleven",
+               "ten",
+               "ten_plus"
+            ]
+         },
+      ],
+      "ci_username": "Immanuel Raj"
    }
 ]

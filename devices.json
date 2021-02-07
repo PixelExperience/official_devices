@@ -1259,7 +1259,7 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "deprecated": true,
+            "deprecated": false,
             "stable": false
          },
          {
