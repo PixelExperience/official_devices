@@ -1194,14 +1194,16 @@
             "codename": "guacamoleb",
             "versions": [
                "ten",
-               "ten_plus"
+               "ten_plus",
+               "eleven"
             ]
          },
          {
             "codename": "guacamole",
             "versions": [
                "ten",
-               "ten_plus"
+               "ten_plus",
+               "eleven"
             ]
          }
       ],
