@@ -679,7 +679,8 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": ""
+            "xda_thread": "",
+            "deprecated": true
          },
          {
             "version_code": "ten",
