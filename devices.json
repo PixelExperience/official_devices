@@ -1543,7 +1543,8 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "stable": false,
+            "deprecated": true
          },
          {
             "version_code": "ten",
