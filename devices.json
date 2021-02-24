@@ -189,17 +189,6 @@
       ]
    },
    {
-      "name": "Moto Z3 Play",
-      "brand": "Motorola",
-      "codename": "beckham",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         }
-      ]
-   },   
-   {
       "name": "Moto G6",
       "brand": "Motorola",
       "codename": "ali",
@@ -267,6 +256,17 @@
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
             "deprecated": true
+         }
+      ]
+   },
+   {
+      "name": "Moto Z3 Play",
+      "brand": "Motorola",
+      "codename": "beckham",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
          }
       ]
    },
