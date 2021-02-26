@@ -270,24 +270,6 @@
                "ten_plus",
                "eleven"
             ]
-         },
-         {
-            "codename": "xqas52",
-            "versions": [
-               "eleven"
-            ]
-         },
-         {
-            "codename": "xqat51",
-            "versions": [
-               "eleven"
-            ]
-         },
-         {
-            "codename": "xqat52",
-            "versions": [
-               "eleven"
-            ]
          }
       ],
       "ci_username": "kholk"
