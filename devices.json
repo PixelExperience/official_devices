@@ -1999,39 +1999,6 @@
       ]
    },
    {
-      "name": "Xperia 5 II",
-      "brand": "Sony",
-      "codename": "xqas52",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         }
-      ]
-   },
-   {
-      "name": "Xperia 1 II RoW",
-      "brand": "Sony",
-      "codename": "xqat51",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         }
-      ]
-   },
-   {
-      "name": "Xperia 1 II DSDS",
-      "brand": "Sony",
-      "codename": "xqat52",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         }
-      ]
-   },
-   {
       "name": "Xperia 10 II RoW",
       "brand": "Sony",
       "codename": "xqau51",
