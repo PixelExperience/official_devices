@@ -582,6 +582,7 @@
             "codename": "beryllium",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
