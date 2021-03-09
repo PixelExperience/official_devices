@@ -1340,7 +1340,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
          },
          {
             "version_code": "ten",
@@ -1823,6 +1828,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
             "stable": false
          },
          {

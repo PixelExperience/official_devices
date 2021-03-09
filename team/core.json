@@ -120,6 +120,7 @@
             "codename": "sanders",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -128,6 +129,7 @@
             "codename": "lake",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
