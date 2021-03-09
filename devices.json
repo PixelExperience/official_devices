@@ -497,7 +497,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": true
          },
          {
             "version_code": "ten",
@@ -1345,16 +1351,22 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/android/development/rom-pixel-experience-lenovo-z6-lite-t4078791",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "deprecated": true
          }
       ]
@@ -1519,20 +1531,22 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
+            "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
+            "stable": true
          },
          {
             "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
             "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixel-experience-t4004239",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
             "deprecated": true
          }
       ]
