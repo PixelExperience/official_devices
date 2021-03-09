@@ -1934,7 +1934,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+	    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-pixelexperience-aosp-official.4244497/",
+            "stable": true
+         },
+	 {
+            "version_code": "eleven_plus",
+	    "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-pixelexperience-aosp-official.4244497/",
+            "stable": true
          }
       ]
    },
@@ -2022,7 +2028,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/",
+            "stable": true
+         },
+	 {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/",
+            "stable": true
          }
       ]
    },
