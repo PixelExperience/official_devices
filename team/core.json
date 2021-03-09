@@ -61,7 +61,7 @@
             "codename": "polaris",
             "versions": [
                "eleven",
-               "eleven-plus",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
