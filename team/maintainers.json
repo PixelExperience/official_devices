@@ -990,13 +990,15 @@
          {
             "codename": "walleye",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          },
          {
             "codename": "taimen",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
