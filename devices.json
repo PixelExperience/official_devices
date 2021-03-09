@@ -1386,6 +1386,11 @@
             "stable": false
          },
          {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709",
             "deprecated": true
