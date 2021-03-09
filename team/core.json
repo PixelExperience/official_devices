@@ -136,7 +136,8 @@
             "versions": [
                "ten",
                "ten_plus",
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ],
             "main_maintainer": true
          }
