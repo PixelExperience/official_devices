@@ -308,6 +308,7 @@
             "codename": "instantnoodlep",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -316,6 +317,7 @@
             "codename": "instantnoodle",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -323,7 +325,8 @@
          {
             "codename": "kebab",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
