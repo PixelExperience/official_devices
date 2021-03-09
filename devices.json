@@ -185,6 +185,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "",
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
             "stable": false
          }
       ]
@@ -196,7 +202,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579",
+            "stable": true
          }
       ]
    },

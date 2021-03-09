@@ -471,13 +471,15 @@
          {
             "codename": "ali",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          },
          {
             "codename": "albus",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
