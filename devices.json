@@ -369,6 +369,11 @@
             "stable": false
          },
          {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747",
             "deprecated": true
@@ -701,6 +706,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127",
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127",
             "stable": false
          },
@@ -1485,6 +1495,11 @@
             "stable": false
          },
          {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207151",
+            "stable": false
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207121",
             "deprecated": true
@@ -1564,6 +1579,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141",
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141",
             "stable": false
          },
@@ -1914,6 +1934,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4207145",
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4207145",
             "stable": false
          },

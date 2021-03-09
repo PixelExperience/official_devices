@@ -482,6 +482,7 @@
             "codename": "gemini",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -490,6 +491,7 @@
             "codename": "capricorn",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -498,6 +500,7 @@
             "codename": "natrium",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -506,6 +509,7 @@
             "codename": "scorpio",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -514,6 +518,7 @@
             "codename": "lithium",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
