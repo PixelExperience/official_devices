@@ -378,7 +378,7 @@
       "name": "Giammarco Senatore",
       "country": "IT",
       "github_username": "GiaSen",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8167844",
+      "xda_url": "https://forum.xda-developers.com/m/giasen.8167844/",
       "telegram_url": "http://t.me/GiaSen",
       "devices": [
          {
@@ -394,6 +394,7 @@
             "codename": "kunlun2",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -402,6 +403,7 @@
             "codename": "dipper",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
