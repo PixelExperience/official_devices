@@ -349,22 +349,6 @@
       "ci_username": "themalachite"
    },
    {
-      "name": "Emma",
-      "country": "PT",
-      "github_username": "4PERTURE",
-      "xda_url": "https://forum.xda-developers.com/m/4perture.10984511/",
-      "telegram_url": "http://t.me/prudev",
-      "devices": [
-         {
-            "codename": "miatoll",
-            "versions": [
-               "eleven"
-            ]
-         }
-      ],
-      "ci_username": "4perture"
-   },
-   {
       "name": "Gaurav",
       "country": "IN",
       "github_username": "Gaurav241",
