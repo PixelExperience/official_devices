@@ -657,23 +657,6 @@
       "ci_username": "ljmf00"
    },
    {
-      "name": "ManoloRey",
-      "country": "BR",
-      "github_username": "ManoloRey",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8834098",
-      "telegram_url": "https://t.me/manolorey",
-      "devices": [
-         {
-            "codename": "ginkgo",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         }
-      ],
-      "ci_username": "manolorey"
-   },
-   {
       "name": "Nafid Faham",
       "country": "BD",
       "github_username": "faham1997",
