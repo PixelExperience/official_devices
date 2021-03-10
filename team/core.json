@@ -179,6 +179,7 @@
             "codename": "chef",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -186,7 +187,8 @@
          {
             "codename": "liber",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
