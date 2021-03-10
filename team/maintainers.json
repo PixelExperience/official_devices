@@ -9,7 +9,8 @@
          {
             "codename": "beckham",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
