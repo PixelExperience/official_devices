@@ -555,6 +555,7 @@
             "codename": "TP1803",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -562,7 +563,8 @@
          {
             "codename": "surya",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ],
             "main_maintainer": true
          }
