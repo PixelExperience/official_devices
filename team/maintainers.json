@@ -359,6 +359,7 @@
             "codename": "oneplus3",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -367,6 +368,7 @@
             "codename": "X01BD",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
