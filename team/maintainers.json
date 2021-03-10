@@ -1144,6 +1144,7 @@
             "codename": "begonia",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -1151,13 +1152,15 @@
          {
             "codename": "sakura",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          },
          {
             "codename": "surya",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
