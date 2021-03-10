@@ -1018,13 +1018,14 @@
       "name": "Pulkit Agarwal",
       "country": "IN",
       "github_username": "Pulkit077",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8788269",
+      "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
       "telegram_url": "http://t.me/Pulkit077",
       "devices": [
          {
             "codename": "rosy",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
