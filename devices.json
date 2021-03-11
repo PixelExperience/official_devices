@@ -2188,8 +2188,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
-            "stable": false
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-whyred-pixel-experience-stable-official.4245467/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-whyred-pixel-experience-stable-official.4245467/",
+            "stable": true
          },
          {
             "version_code": "ten",
