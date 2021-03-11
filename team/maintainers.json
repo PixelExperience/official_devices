@@ -1097,6 +1097,7 @@
             "codename": "X00TD",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
