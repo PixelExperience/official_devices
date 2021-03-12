@@ -812,6 +812,23 @@
       ]
    },
    {
+      "name": "Mi 10T",
+      "brand": "Xiaomi",
+      "codename": "apollo",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ]
+   },
+   {
       "name": "7 Pro",
       "brand": "OnePlus",
       "codename": "guacamole",
