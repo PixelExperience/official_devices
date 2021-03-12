@@ -839,7 +839,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
          },
          {
             "version_code": "ten",
