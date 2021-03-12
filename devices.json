@@ -274,6 +274,23 @@
       ]
    },
    {
+      "name": "Mi 10T",
+      "brand": "Xiaomi",
+      "codename": "apollo",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ]
+   },
+   {
       "name": "Nord",
       "brand": "OnePlus",
       "codename": "avicii",
@@ -808,23 +825,6 @@
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477",
             "deprecated": true
-         }
-      ]
-   },
-   {
-      "name": "Mi 10T",
-      "brand": "Xiaomi",
-      "codename": "apollo",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
          }
       ]
    },
