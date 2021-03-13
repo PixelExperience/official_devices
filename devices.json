@@ -557,6 +557,16 @@
             "version_code": "ten_plus",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
+         },
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
          }
       ],
       "repositories": [
