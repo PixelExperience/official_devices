@@ -1031,6 +1031,13 @@
       "telegram_url": "http://t.me/gabbyintegral",
       "devices": [
          {
+            "codename": "ginkgo",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
             "codename": "X00P",
             "versions": [
                "eleven",
