@@ -797,7 +797,12 @@
          {
             "version_code": "eleven",
             "xda_thread": "",
-            "deprecated": true
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
          },
          {
             "version_code": "ten",
