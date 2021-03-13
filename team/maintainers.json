@@ -347,6 +347,13 @@
             "versions": [
                "eleven"
             ]
+         },
+         {
+            "codename": "begonia",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "themalachite"
@@ -1153,7 +1160,8 @@
                "eleven_plus",
                "ten",
                "ten_plus"
-            ]
+            ],
+            "main_maintainer": true
          },
          {
             "codename": "sakura",
