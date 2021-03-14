@@ -30,6 +30,7 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | brand | Device manufacturer | Yes |
 | codename | Device codename, eg: falcon | Yes |
 | version_code | Version code (ten or ten_plus) | Yes |
+| repositories | Array containing needed repositories by your device | Yes |
 | stable | Set to false if the version is beta (true by default) | No |
 | deprecated | Set to true if the device is no longer maintained (false by default) | No |
 

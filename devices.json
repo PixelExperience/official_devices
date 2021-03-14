@@ -22,6 +22,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_realme_RMX1851",
+         "kernel_realme_RMX1851",
+         "vendor_realme_RMX1851"
       ]
    },
    {
@@ -39,6 +44,11 @@
             "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_realme_RMX1971",
+         "kernel_realme_RMX1971",
+         "vendor_realme_RMX1971"
       ]
    },
    {
@@ -64,6 +74,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_nubia_TP1803",
+         "kernel_nubia_TP1803",
+         "vendor_nubia_TP1803"
       ]
    },
    {
@@ -86,6 +101,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_asus_X00P",
+         "kernel_asus_X00P",
+         "vendor_asus_X00P"
       ]
    },
    {
@@ -113,6 +133,11 @@
             "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixel-experience-plus-edition-t4066407",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_asus_X00TD",
+         "kernel_asus_X00TD",
+         "vendor_asus_X00TD"
       ]
    },
    {
@@ -138,6 +163,11 @@
             "xda_thread": "https://forum.xda-developers.com/max-m2/development/rom-pixel-experience-t4183371",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_asus_X01AD",
+         "kernel_asus_X01AD",
+         "vendor_asus_X01AD"
       ]
    },
    {
@@ -165,6 +195,11 @@
             "xda_thread": "https://forum.xda-developers.com/max-pro-m2/development/rom-pixel-experience-t4177107",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_asus_X01BD",
+         "kernel_asus_X01BD",
+         "vendor_asus_X01BD"
       ]
    },
    {
@@ -182,6 +217,11 @@
             "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_samsung_a5y17lte",
+         "kernel_samsung_a5y17lte",
+         "vendor_samsung_a5y17lte"
       ]
    },
    {
@@ -199,6 +239,11 @@
             "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_samsung_a7y17lte",
+         "kernel_samsung_a7y17lte",
+         "vendor_samsung_a7y17lte"
       ]
    },
    {
@@ -216,6 +261,11 @@
             "xda_thread": "",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_motorola_albus",
+         "kernel_motorola_albus",
+         "vendor_motorola_albus"
       ]
    },
    {
@@ -233,6 +283,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_motorola_ali",
+         "kernel_motorola_ali",
+         "vendor_motorola_ali"
       ]
    },
    {
@@ -259,6 +314,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-mix-3-5g/development/rom-pixel-experience-mix-3-5g-t4131417",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_andromeda",
+         "kernel_xiaomi_andromeda",
+         "vendor_xiaomi_andromeda"
       ]
    },
    {
@@ -276,6 +336,11 @@
             "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_google_angler",
+         "kernel_google_angler",
+         "vendor_google_angler"
       ]
    },
    {
@@ -293,6 +358,11 @@
             "xda_thread": "",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_apollo",
+         "kernel_xiaomi_apollo",
+         "vendor_xiaomi_apollo"
       ]
    },
    {
@@ -320,6 +390,11 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_oneplus_avicii",
+         "kernel_oneplus_avicii",
+         "vendor_oneplus_avicii"
       ]
    },
    {
@@ -337,6 +412,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-beckham-pixel-experience-aosp.4238561/",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_motorola_beckham",
+         "kernel_motorola_beckham",
+         "vendor_motorola_beckham"
       ]
    },
    {
@@ -364,6 +444,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-begonia-pixel-experience-official-aosp.4059977/",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_begonia",
+         "kernel_xiaomi_begonia",
+         "vendor_xiaomi_begonia"
       ]
    },
    {
@@ -391,6 +476,11 @@
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_beryllium",
+         "kernel_xiaomi_beryllium",
+         "vendor_xiaomi_beryllium"
       ]
    },
    {
@@ -408,6 +498,11 @@
             "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_google_bullhead",
+         "kernel_google_bullhead",
+         "vendor_google_bullhead"
       ]
    },
    {
@@ -435,6 +530,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4020747",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_capricorn",
+         "kernel_xiaomi_capricorn",
+         "vendor_xiaomi_capricorn"
       ]
    },
    {
@@ -452,6 +552,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-pixel-experience-t3993151"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_cepheus",
+         "kernel_xiaomi_cepheus",
+         "vendor_xiaomi_cepheus"
       ]
    },
    {
@@ -469,6 +574,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
          }
+      ],
+      "repositories": [
+         "device_oneplus_cheeseburger",
+         "kernel_oneplus_cheeseburger",
+         "vendor_oneplus_cheeseburger"
       ]
    },
    {
@@ -496,6 +606,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_chef",
+         "kernel_motorola_chef",
+         "vendor_motorola_chef"
       ]
    },
    {
@@ -513,6 +628,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_chiron",
+         "kernel_xiaomi_chiron",
+         "vendor_xiaomi_chiron"
       ]
    },
    {
@@ -530,6 +650,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t4123633"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_daisy",
+         "kernel_xiaomi_daisy",
+         "vendor_xiaomi_daisy"
       ]
    },
    {
@@ -557,6 +682,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_davinci",
+         "kernel_xiaomi_davinci",
+         "vendor_xiaomi_davinci"
       ]
    },
    {
@@ -584,6 +714,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3969169",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_dipper",
+         "kernel_xiaomi_dipper",
+         "vendor_xiaomi_dipper"
       ]
    },
    {
@@ -601,6 +736,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3976333"
          }
+      ],
+      "repositories": [
+         "device_oneplus_dumpling",
+         "kernel_oneplus_dumpling",
+         "vendor_oneplus_dumpling"
       ]
    },
    {
@@ -618,6 +758,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-6/development/rom-pixel-experience-t4054529"
          }
+      ],
+      "repositories": [
+         "device_oneplus_enchilada",
+         "kernel_oneplus_enchilada",
+         "vendor_oneplus_enchilada"
       ]
    },
    {
@@ -643,6 +788,11 @@
             "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixel-experience-t4069215",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_evert",
+         "kernel_motorola_evert",
+         "vendor_motorola_evert"
       ]
    },
    {
@@ -660,6 +810,11 @@
             "deprecated": true,
             "xda_thread": ""
          }
+      ],
+      "repositories": [
+         "device_oneplus_fajita",
+         "kernel_oneplus_fajita",
+         "vendor_oneplus_fajita"
       ]
    },
    {
@@ -681,6 +836,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_g8141",
+         "kernel_sony_g8141",
+         "vendor_sony_g8141"
       ]
    },
    {
@@ -702,6 +862,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_g8142",
+         "kernel_sony_g8142",
+         "vendor_sony_g8142"
       ]
    },
    {
@@ -723,6 +888,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_g8341",
+         "kernel_sony_g8341",
+         "vendor_sony_g8341"
       ]
    },
    {
@@ -744,6 +914,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_g8342",
+         "kernel_sony_g8342",
+         "vendor_sony_g8342"
       ]
    },
    {
@@ -765,6 +940,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_g8441",
+         "kernel_sony_g8441",
+         "vendor_sony_g8441"
       ]
    },
    {
@@ -792,6 +972,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4001003",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_gemini",
+         "kernel_xiaomi_gemini",
+         "vendor_xiaomi_gemini"
       ]
    },
    {
@@ -819,6 +1004,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_ginkgo",
+         "kernel_xiaomi_ginkgo",
+         "vendor_xiaomi_ginkgo"
       ]
    },
    {
@@ -836,6 +1026,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_grus",
+         "kernel_xiaomi_grus",
+         "vendor_xiaomi_grus"
       ]
    },
    {
@@ -861,6 +1056,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
          }
+      ],
+      "repositories": [
+         "device_oneplus_guacamole",
+         "kernel_oneplus_guacamole",
+         "vendor_oneplus_guacamole"
       ]
    },
    {
@@ -886,6 +1086,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_oneplus_guacamoleb",
+         "kernel_oneplus_guacamoleb",
+         "vendor_oneplus_guacamoleb"
       ]
    },
    {
@@ -907,6 +1112,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h3113",
+         "kernel_sony_h3113",
+         "vendor_sony_h3113"
       ]
    },
    {
@@ -928,6 +1138,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h3213",
+         "kernel_sony_h3213",
+         "vendor_sony_h3213"
       ]
    },
    {
@@ -949,6 +1164,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h3413",
+         "kernel_sony_h3413",
+         "vendor_sony_h3413"
       ]
    },
    {
@@ -970,6 +1190,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h4113",
+         "kernel_sony_h4113",
+         "vendor_sony_h4113"
       ]
    },
    {
@@ -991,6 +1216,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h4213",
+         "kernel_sony_h4213",
+         "vendor_sony_h4213"
       ]
    },
    {
@@ -1012,6 +1242,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h4413",
+         "kernel_sony_h4413",
+         "vendor_sony_h4413"
       ]
    },
    {
@@ -1033,6 +1268,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h8216",
+         "kernel_sony_h8216",
+         "vendor_sony_h8216"
       ]
    },
    {
@@ -1054,6 +1294,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h8266",
+         "kernel_sony_h8266",
+         "vendor_sony_h8266"
       ]
    },
    {
@@ -1075,6 +1320,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h8314",
+         "kernel_sony_h8314",
+         "vendor_sony_h8314"
       ]
    },
    {
@@ -1096,6 +1346,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h8324",
+         "kernel_sony_h8324",
+         "vendor_sony_h8324"
       ]
    },
    {
@@ -1117,6 +1372,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h8416",
+         "kernel_sony_h8416",
+         "vendor_sony_h8416"
       ]
    },
    {
@@ -1138,6 +1398,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_h9436",
+         "kernel_sony_h9436",
+         "vendor_sony_h9436"
       ]
    },
    {
@@ -1155,6 +1420,11 @@
             "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_samsung_hero2lte",
+         "kernel_samsung_hero2lte",
+         "vendor_samsung_hero2lte"
       ]
    },
    {
@@ -1172,6 +1442,11 @@
             "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_samsung_herolte",
+         "kernel_samsung_herolte",
+         "vendor_samsung_herolte"
       ]
    },
    {
@@ -1193,6 +1468,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_i3113",
+         "kernel_sony_i3113",
+         "vendor_sony_i3113"
       ]
    },
    {
@@ -1214,6 +1494,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_i3213",
+         "kernel_sony_i3213",
+         "vendor_sony_i3213"
       ]
    },
    {
@@ -1235,6 +1520,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_i4113",
+         "kernel_sony_i4113",
+         "vendor_sony_i4113"
       ]
    },
    {
@@ -1256,6 +1546,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_i4213",
+         "kernel_sony_i4213",
+         "vendor_sony_i4213"
       ]
    },
    {
@@ -1283,6 +1578,11 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_oneplus_instantnoodle",
+         "kernel_oneplus_instantnoodle",
+         "vendor_oneplus_instantnoodle"
       ]
    },
    {
@@ -1310,6 +1610,11 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_oneplus_instantnoodlep",
+         "kernel_oneplus_instantnoodlep",
+         "vendor_oneplus_instantnoodlep"
       ]
    },
    {
@@ -1331,6 +1636,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_j8110",
+         "kernel_sony_j8110",
+         "vendor_sony_j8110"
       ]
    },
    {
@@ -1352,6 +1662,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_j8210",
+         "kernel_sony_j8210",
+         "vendor_sony_j8210"
       ]
    },
    {
@@ -1373,6 +1688,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_j9110",
+         "kernel_sony_j9110",
+         "vendor_sony_j9110"
       ]
    },
    {
@@ -1394,6 +1714,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_j9210",
+         "kernel_sony_j9210",
+         "vendor_sony_j9210"
       ]
    },
    {
@@ -1416,6 +1741,11 @@
             "deprecated": true,
             "xda_thread": ""
          }
+      ],
+      "repositories": [
+         "device_xiaomi_jasmine_sprout",
+         "kernel_xiaomi_jasmine_sprout",
+         "vendor_xiaomi_jasmine_sprout"
       ]
    },
    {
@@ -1433,6 +1763,11 @@
             "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
          }
+      ],
+      "repositories": [
+         "device_oneplus_kebab",
+         "kernel_oneplus_kebab",
+         "vendor_oneplus_kebab"
       ]
    },
    {
@@ -1460,6 +1795,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_lenovo_kunlun2",
+         "kernel_lenovo_kunlun2",
+         "vendor_lenovo_kunlun2"
       ]
    },
    {
@@ -1487,6 +1827,11 @@
             "xda_thread": "",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_lake",
+         "kernel_motorola_lake",
+         "vendor_motorola_lake"
       ]
    },
    {
@@ -1508,6 +1853,11 @@
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixel-experience-t3970619",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_land",
+         "kernel_xiaomi_land",
+         "vendor_xiaomi_land"
       ]
    },
    {
@@ -1525,6 +1875,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_laurel_sprout",
+         "kernel_xiaomi_laurel_sprout",
+         "vendor_xiaomi_laurel_sprout"
       ]
    },
    {
@@ -1552,6 +1907,11 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t3930709",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_lavender",
+         "kernel_xiaomi_lavender",
+         "vendor_xiaomi_lavender"
       ]
    },
    {
@@ -1569,6 +1929,11 @@
             "xda_thread": "",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_motorola_liber",
+         "kernel_motorola_liber",
+         "vendor_motorola_liber"
       ]
    },
    {
@@ -1596,6 +1961,11 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207121",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_lithium",
+         "kernel_xiaomi_lithium",
+         "vendor_xiaomi_lithium"
       ]
    },
    {
@@ -1623,6 +1993,11 @@
             "xda_thread": "https://forum.xda-developers.com/pixel-xl/development/rom-pixel-experience-t4087571",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_google_marlin",
+         "kernel_google_marlin",
+         "vendor_google_marlin"
       ]
    },
    {
@@ -1636,6 +2011,11 @@
             "stable": false,
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_miatoll",
+         "kernel_xiaomi_miatoll",
+         "vendor_xiaomi_miatoll"
       ]
    },
    {
@@ -1663,6 +2043,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_mido",
+         "kernel_xiaomi_mido",
+         "vendor_xiaomi_mido"
       ]
    },
    {
@@ -1690,6 +2075,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4037793",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_natrium",
+         "kernel_xiaomi_natrium",
+         "vendor_xiaomi_natrium"
       ]
    },
    {
@@ -1715,6 +2105,11 @@
             "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-pixel-experience-t4162045",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_ocean",
+         "kernel_motorola_ocean",
+         "vendor_motorola_ocean"
       ]
    },
    {
@@ -1742,6 +2137,11 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_oneplus_oneplus3",
+         "kernel_oneplus_oneplus3",
+         "vendor_oneplus_oneplus3"
       ]
    },
    {
@@ -1764,6 +2164,11 @@
             "xda_thread": "https://forum.xda-developers.com/moto-x4/development/rom-pixel-experience-t4016641",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_payton",
+         "kernel_motorola_payton",
+         "vendor_motorola_payton"
       ]
    },
    {
@@ -1781,6 +2186,11 @@
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_phoenix",
+         "kernel_xiaomi_phoenix",
+         "vendor_xiaomi_phoenix"
       ]
    },
    {
@@ -1798,6 +2208,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-thread-title-pixel-experience-t4067375",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_platina",
+         "kernel_xiaomi_platina",
+         "vendor_xiaomi_platina"
       ]
    },
    {
@@ -1825,6 +2240,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-polaris-pixel-experience-aosp-2020-11-29.4038949/",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_polaris",
+         "kernel_xiaomi_polaris",
+         "vendor_xiaomi_polaris"
       ]
    },
    {
@@ -1850,6 +2270,11 @@
             "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3995717",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_potter",
+         "kernel_motorola_potter",
+         "vendor_motorola_potter"
       ]
    },
    {
@@ -1877,6 +2302,11 @@
             "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-pixel-experience-t4014141",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_raphael",
+         "kernel_xiaomi_raphael",
+         "vendor_xiaomi_raphael"
       ]
    },
    {
@@ -1900,6 +2330,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-riva-pixelexperience-aosp-official.4027707/",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_riva",
+         "kernel_xiaomi_riva",
+         "vendor_xiaomi_riva"
       ]
    },
    {
@@ -1925,6 +2360,11 @@
             "xda_thread": "https://forum.xda-developers.com/moto-g7/development/rom-pixel-experience-t4156245",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_river",
+         "kernel_motorola_river",
+         "vendor_motorola_river"
       ]
    },
    {
@@ -1952,6 +2392,11 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixel-experience-t4083285",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_rosy",
+         "kernel_xiaomi_rosy",
+         "vendor_xiaomi_rosy"
       ]
    },
    {
@@ -1979,6 +2424,11 @@
             "xda_thread": "https://forum.xda-developers.com/pixel/development/rom-pixel-experience-t4087573",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_google_sailfish",
+         "kernel_google_sailfish",
+         "vendor_google_sailfish"
       ]
    },
    {
@@ -2004,6 +2454,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixel-experience-t3971421"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_sakura",
+         "kernel_xiaomi_sakura",
+         "vendor_xiaomi_sakura"
       ]
    },
    {
@@ -2031,6 +2486,11 @@
             "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixel-experience-t4002649",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_motorola_sanders",
+         "kernel_motorola_sanders",
+         "vendor_motorola_sanders"
       ]
    },
    {
@@ -2048,6 +2508,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_santoni",
+         "kernel_xiaomi_santoni",
+         "vendor_xiaomi_santoni"
       ]
    },
    {
@@ -2075,6 +2540,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4037923",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_scorpio",
+         "kernel_xiaomi_scorpio",
+         "vendor_xiaomi_scorpio"
       ]
    },
    {
@@ -2102,6 +2572,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_sirius",
+         "kernel_xiaomi_sirius",
+         "vendor_xiaomi_sirius"
       ]
    },
    {
@@ -2119,6 +2594,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-surya-karna-new-pixelexperience-aosp.4231127",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_surya",
+         "kernel_xiaomi_surya",
+         "vendor_xiaomi_surya"
       ]
    },
    {
@@ -2136,6 +2616,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-pixelexperience-aosp-official.4244497/",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_google_taimen",
+         "kernel_google_taimen",
+         "vendor_google_taimen"
       ]
    },
    {
@@ -2163,6 +2648,11 @@
             "xda_thread": "https://forum.xda-developers.com/mi-a1/development/rom-pixel-experience-t3968933",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_tissot",
+         "kernel_xiaomi_tissot",
+         "vendor_xiaomi_tissot"
       ]
    },
    {
@@ -2175,6 +2665,11 @@
             "xda_thread": "",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_teracube_v7101o",
+         "kernel_teracube_v7101o",
+         "vendor_teracube_v7101o"
       ]
    },
    {
@@ -2192,6 +2687,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_vince",
+         "kernel_xiaomi_vince",
+         "vendor_xiaomi_vince"
       ]
    },
    {
@@ -2219,6 +2719,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixel-experience-official-aosp.4141933/",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_violet",
+         "kernel_xiaomi_violet",
+         "vendor_xiaomi_violet"
       ]
    },
    {
@@ -2236,6 +2741,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/",
             "stable": true
          }
+      ],
+      "repositories": [
+         "device_google_walleye",
+         "kernel_google_walleye",
+         "vendor_google_walleye"
       ]
    },
    {
@@ -2253,6 +2763,11 @@
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
          }
+      ],
+      "repositories": [
+         "device_xiaomi_wayne",
+         "kernel_xiaomi_wayne",
+         "vendor_xiaomi_wayne"
       ]
    },
    {
@@ -2280,6 +2795,11 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixel-experience-t3973479",
             "deprecated": true
          }
+      ],
+      "repositories": [
+         "device_xiaomi_whyred",
+         "kernel_xiaomi_whyred",
+         "vendor_xiaomi_whyred"
       ]
    },
    {
@@ -2301,6 +2821,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_xqau51",
+         "kernel_sony_xqau51",
+         "vendor_sony_xqau51"
       ]
    },
    {
@@ -2322,6 +2847,11 @@
             "version_code": "eleven",
             "stable": false
          }
+      ],
+      "repositories": [
+         "device_sony_xqau52",
+         "kernel_sony_xqau52",
+         "vendor_sony_xqau52"
       ]
    }
 ]
