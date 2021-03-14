@@ -983,6 +983,7 @@
             "codename": "sailfish",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
@@ -991,6 +992,7 @@
             "codename": "marlin",
             "versions": [
                "eleven",
+               "eleven_plus",
                "ten",
                "ten_plus"
             ]
