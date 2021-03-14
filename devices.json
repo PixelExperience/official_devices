@@ -2243,6 +2243,7 @@
       ],
       "repositories": [
          "device_xiaomi_sdm845-common",
+         "vendor_xiaomi_sdm845-common",
          "vendor_xiaomi-firmware",
          "device_xiaomi_polaris",
          "kernel_xiaomi_polaris",
