@@ -1566,7 +1566,7 @@
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203",
-            "stable": false
+            "stable": true
          },
          {
             "version_code": "ten",
@@ -1598,7 +1598,7 @@
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993",
-            "stable": false
+            "stable": true
          },
          {
             "version_code": "ten",
@@ -1760,7 +1760,7 @@
          },
          {
             "version_code": "eleven_plus",
-            "stable": false,
+            "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
          }
       ],
