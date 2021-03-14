@@ -2749,7 +2749,7 @@
       ],
       "repositories": [
          "device_google_walleye",
-         "device_google_wahoo"
+         "device_google_wahoo",
          "kernel_google_wahoo",
          "vendor_google_walleye"
       ]
