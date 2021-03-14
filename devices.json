@@ -1810,12 +1810,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/",
             "stable": true
          },
          {
@@ -1831,8 +1831,10 @@
       ],
       "repositories": [
          "device_motorola_lake",
-         "kernel_motorola_lake",
-         "vendor_motorola_lake"
+         "device_motorola_sdm660-common",
+         "vendor_motorola_lake",
+         "vendor_motorola_sdm660-common",
+         "kernel_motorola_msm8998"
       ]
    },
    {
@@ -2288,12 +2290,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/",
             "stable": true
          },
          {
@@ -2473,12 +2475,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/",
             "stable": true
          },
          {
@@ -2494,8 +2496,10 @@
       ],
       "repositories": [
          "device_motorola_sanders",
-         "kernel_motorola_sanders",
-         "vendor_motorola_sanders"
+         "device_motorola_msm8953-common",
+         "vendor_motorola_sanders",
+         "vendor_motorola_msm8953-common",
+         "kernel_motorola_msm8953"
       ]
    },
    {
