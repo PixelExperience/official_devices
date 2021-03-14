@@ -2430,7 +2430,8 @@
       ],
       "repositories": [
          "device_google_sailfish",
-         "kernel_google_sailfish",
+         "device_google_marlin",
+         "kernel_google_marlin",
          "vendor_google_sailfish"
       ]
    },
@@ -2622,7 +2623,8 @@
       ],
       "repositories": [
          "device_google_taimen",
-         "kernel_google_taimen",
+         "device_google_wahoo",
+         "kernel_google_wahoo",
          "vendor_google_taimen"
       ]
    },
@@ -2747,7 +2749,8 @@
       ],
       "repositories": [
          "device_google_walleye",
-         "kernel_google_walleye",
+         "device_google_wahoo",
+         "kernel_google_wahoo",
          "vendor_google_walleye"
       ]
    },
