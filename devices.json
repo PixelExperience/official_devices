@@ -1068,8 +1068,11 @@
       ],
       "repositories": [
          "device_oneplus_guacamole",
-         "kernel_oneplus_guacamole",
-         "vendor_oneplus_guacamole"
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus_guacamole",
+         "vendor_oneplus_sm8150-common",
+         "vendor_oneplus-firmware"
       ]
    },
    {
@@ -1098,8 +1101,11 @@
       ],
       "repositories": [
          "device_oneplus_guacamoleb",
-         "kernel_oneplus_guacamoleb",
-         "vendor_oneplus_guacamoleb"
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus_guacamoleb",
+         "vendor_oneplus_sm8150-common",
+         "vendor_oneplus-firmware"
       ]
    },
    {
