@@ -134,7 +134,10 @@
       ],
       "repositories": [
          "device_asus_X00TD",
-         "vendor_asus_X00TD"
+         "kernel_asus_sdm660",
+         "device_asus_sdm660-common",
+         "vendor_asus_X00TD",
+         "vendor_asus_sdm660-common"
       ]
    },
    {
