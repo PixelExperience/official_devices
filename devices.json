@@ -340,9 +340,9 @@
          }
       ],
       "repositories": [
-         "device_google_angler",
-         "kernel_google_angler",
-         "vendor_google_angler"
+         "device_huawei_angler",
+         "kernel_huawei_angler",
+         "vendor_huawei_angler"
       ]
    },
    {
