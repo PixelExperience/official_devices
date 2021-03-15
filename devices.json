@@ -1584,8 +1584,10 @@
       ],
       "repositories": [
          "device_oneplus_instantnoodle",
-         "kernel_oneplus_instantnoodle",
-         "vendor_oneplus_instantnoodle"
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus_instantnoodle",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250"
       ]
    },
    {
@@ -1616,8 +1618,10 @@
       ],
       "repositories": [
          "device_oneplus_instantnoodlep",
-         "kernel_oneplus_instantnoodlep",
-         "vendor_oneplus_instantnoodlep"
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus_instantnoodlep",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250"
       ]
    },
    {
@@ -1769,8 +1773,10 @@
       ],
       "repositories": [
          "device_oneplus_kebab",
-         "kernel_oneplus_kebab",
-         "vendor_oneplus_kebab"
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus_kebab",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250"
       ]
    },
    {
