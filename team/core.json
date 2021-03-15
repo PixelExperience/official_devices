@@ -2,7 +2,7 @@
    {
       "name": "Akshay Kakatkar",
       "country": "IN",
-      "github_username": "KakatkarAkshay",
+      "github_username": "kakatkarakshay",
       "xda_url": "https://forum.xda-developers.com/m/cryllicbuster273.10543397/",
       "telegram_url": "http://t.me/KakatkarAkshay",
       "devices": [
@@ -10,9 +10,7 @@
             "codename": "avicii",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          }
       ],
@@ -28,18 +26,14 @@
             "codename": "davinci",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          },
          {
             "codename": "guacamoleb",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          }
       ],
@@ -56,9 +50,7 @@
             "codename": "polaris",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          }
       ],
@@ -67,7 +59,7 @@
    {
       "name": "Henrique Pereira",
       "country": "BR",
-      "github_username": "Hlcpereira",
+      "github_username": "hlcpereira",
       "xda_url": "https://forum.xda-developers.com/m/hlcpereira.7838323/",
       "devices": [],
       "ci_username": "hlcpereira"
@@ -80,26 +72,10 @@
       "telegram_url": "http://t.me/itsjoeoui",
       "devices": [
          {
-            "codename": "cheeseburger",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
-            "codename": "dumpling",
-            "versions": [
-               "ten",
-               "ten_plus"
-            ]
-         },
-         {
             "codename": "guacamole",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          }
       ],
@@ -108,7 +84,7 @@
    {
       "name": "Jorge Lucas",
       "country": "BR",
-      "github_username": "Jorg3Lucas",
+      "github_username": "jorg3lucas",
       "xda_url": "https://forum.xda-developers.com/m/jorge-lucas.9604887/",
       "telegram_url": "http://t.me/JorgeLucas",
       "devices": [
@@ -116,25 +92,19 @@
             "codename": "sanders",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          },
          {
             "codename": "lake",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          },
          {
             "codename": "raphael",
             "versions": [
-               "ten",
-               "ten_plus",
                "eleven",
                "eleven_plus"
             ],
@@ -154,9 +124,7 @@
             "codename": "X01BD",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          }
       ],
@@ -165,7 +133,7 @@
    {
       "name": "Rohan Hasabe (Hasaber8)",
       "country": "IN",
-      "github_username": "Hasaber8",
+      "github_username": "hasaber8",
       "xda_url": "https://forum.xda-developers.com/m/rohanhasabe8.9506906/",
       "telegram_url": "http://t.me/Hasaber8",
       "devices": [
@@ -173,9 +141,7 @@
             "codename": "chef",
             "versions": [
                "eleven",
-               "eleven_plus",
-               "ten",
-               "ten_plus"
+               "eleven_plus"
             ]
          },
          {
