@@ -217,8 +217,7 @@
             "deprecated": true
          }
       ],
-      "repositories": [
-      ]
+      "repositories": []
    },
    {
       "name": "Galaxy A7",
@@ -236,8 +235,7 @@
             "deprecated": true
          }
       ],
-      "repositories": [
-      ]
+      "repositories": []
    },
    {
       "name": "Moto Z2 Play",
@@ -1403,8 +1401,7 @@
             "deprecated": true
          }
       ],
-      "repositories": [
-      ]
+      "repositories": []
    },
    {
       "name": "Galaxy S7",
@@ -1422,8 +1419,7 @@
             "deprecated": true
          }
       ],
-      "repositories": [
-      ]
+      "repositories": []
    },
    {
       "name": "Xperia 10 RoW",
@@ -1905,8 +1901,7 @@
             "stable": true
          }
       ],
-      "repositories": [
-      ]
+      "repositories": []
    },
    {
       "name": "Mi Mix",
