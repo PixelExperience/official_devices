@@ -2366,8 +2366,11 @@
       ],
       "repositories": [
          "device_motorola_river",
-         "kernel_motorola_river",
-         "vendor_motorola_river"
+         "device_motorola_sdm632-common",
+         "hardware_motorola",
+         "kernel_motorola_sdm632",
+         "vendor_motorola_river",
+         "vendor_motorola_sdm632-common"
       ]
    },
    {
