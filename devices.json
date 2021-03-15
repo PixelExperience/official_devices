@@ -247,18 +247,21 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163",
             "stable": false
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163",
             "stable": false
          }
       ],
       "repositories": [
          "device_motorola_albus",
-         "vendor_motorola_albus"
+         "device_motorola_msm8953-common",
+         "vendor_motorola_albus",
+         "vendor_motorola_msm8953-common",
+         "kernel_motorola_msm8953"
       ]
    },
    {
@@ -279,7 +282,10 @@
       ],
       "repositories": [
          "device_motorola_ali",
-         "vendor_motorola_ali"
+         "device_motorola_msm8953-common",
+         "vendor_motorola_ali",
+         "vendor_motorola_msm8953-common",
+         "kernel_motorola_msm8953"
       ]
    },
    {
