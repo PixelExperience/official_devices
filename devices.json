@@ -776,11 +776,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": true
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-evert-pixelexperience-normal-plus-aosp.4247629/"
          },
          {
             "version_code": "eleven_plus",
-            "stable": true
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-evert-pixelexperience-normal-plus-aosp.4247629/"
          },
          {
             "version_code": "ten",
@@ -795,8 +797,10 @@
       ],
       "repositories": [
          "device_motorola_evert",
-         "kernel_motorola_evert",
-         "vendor_motorola_evert"
+         "kernel_motorola_msm8998",
+         "vendor_motorola_evert",
+         "vendor_motorola_sdm660-common",
+         "device_motorola_sdm660-common"
       ]
    },
    {
