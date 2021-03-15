@@ -363,6 +363,7 @@
       ],
       "repositories": [
          "device_xiaomi_apollo",
+         "device_xiaomi_apollo-kernel",
          "kernel_xiaomi_apollo",
          "vendor_xiaomi_apollo"
       ]
@@ -451,6 +452,7 @@
       ],
       "repositories": [
          "device_xiaomi_begonia",
+         "device_xiaomi_begonia-kernel",
          "kernel_xiaomi_begonia",
          "vendor_xiaomi_begonia"
       ]
