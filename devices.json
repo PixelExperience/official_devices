@@ -847,8 +847,7 @@
       ],
       "repositories": [
          "device_sony_g8141",
-         "kernel_sony_g8141",
-         "vendor_sony_g8141"
+         "device_sony_customization"
       ]
    },
    {
@@ -873,8 +872,7 @@
       ],
       "repositories": [
          "device_sony_g8142",
-         "kernel_sony_g8142",
-         "vendor_sony_g8142"
+         "device_sony_customization"
       ]
    },
    {
@@ -899,8 +897,7 @@
       ],
       "repositories": [
          "device_sony_g8341",
-         "kernel_sony_g8341",
-         "vendor_sony_g8341"
+         "device_sony_customization"
       ]
    },
    {
@@ -925,8 +922,7 @@
       ],
       "repositories": [
          "device_sony_g8342",
-         "kernel_sony_g8342",
-         "vendor_sony_g8342"
+         "device_sony_customization"
       ]
    },
    {
@@ -951,8 +947,7 @@
       ],
       "repositories": [
          "device_sony_g8441",
-         "kernel_sony_g8441",
-         "vendor_sony_g8441"
+         "device_sony_customization"
       ]
    },
    {
@@ -1130,8 +1125,7 @@
       ],
       "repositories": [
          "device_sony_h3113",
-         "kernel_sony_h3113",
-         "vendor_sony_h3113"
+         "device_sony_customization"
       ]
    },
    {
@@ -1156,8 +1150,7 @@
       ],
       "repositories": [
          "device_sony_h3213",
-         "kernel_sony_h3213",
-         "vendor_sony_h3213"
+         "device_sony_customization"
       ]
    },
    {
@@ -1182,8 +1175,7 @@
       ],
       "repositories": [
          "device_sony_h3413",
-         "kernel_sony_h3413",
-         "vendor_sony_h3413"
+         "device_sony_customization"
       ]
    },
    {
@@ -1208,8 +1200,7 @@
       ],
       "repositories": [
          "device_sony_h4113",
-         "kernel_sony_h4113",
-         "vendor_sony_h4113"
+         "device_sony_customization"
       ]
    },
    {
@@ -1234,8 +1225,7 @@
       ],
       "repositories": [
          "device_sony_h4213",
-         "kernel_sony_h4213",
-         "vendor_sony_h4213"
+         "device_sony_customization"
       ]
    },
    {
@@ -1260,8 +1250,7 @@
       ],
       "repositories": [
          "device_sony_h4413",
-         "kernel_sony_h4413",
-         "vendor_sony_h4413"
+         "device_sony_customization"
       ]
    },
    {
@@ -1286,8 +1275,7 @@
       ],
       "repositories": [
          "device_sony_h8216",
-         "kernel_sony_h8216",
-         "vendor_sony_h8216"
+         "device_sony_customization"
       ]
    },
    {
@@ -1312,8 +1300,7 @@
       ],
       "repositories": [
          "device_sony_h8266",
-         "kernel_sony_h8266",
-         "vendor_sony_h8266"
+         "device_sony_customization"
       ]
    },
    {
@@ -1338,8 +1325,7 @@
       ],
       "repositories": [
          "device_sony_h8314",
-         "kernel_sony_h8314",
-         "vendor_sony_h8314"
+         "device_sony_customization"
       ]
    },
    {
@@ -1364,8 +1350,7 @@
       ],
       "repositories": [
          "device_sony_h8324",
-         "kernel_sony_h8324",
-         "vendor_sony_h8324"
+         "device_sony_customization"
       ]
    },
    {
@@ -1390,8 +1375,7 @@
       ],
       "repositories": [
          "device_sony_h8416",
-         "kernel_sony_h8416",
-         "vendor_sony_h8416"
+         "device_sony_customization"
       ]
    },
    {
@@ -1416,8 +1400,7 @@
       ],
       "repositories": [
          "device_sony_h9436",
-         "kernel_sony_h9436",
-         "vendor_sony_h9436"
+         "device_sony_customization"
       ]
    },
    {
@@ -1486,8 +1469,7 @@
       ],
       "repositories": [
          "device_sony_i3113",
-         "kernel_sony_i3113",
-         "vendor_sony_i3113"
+         "device_sony_customization"
       ]
    },
    {
@@ -1512,8 +1494,7 @@
       ],
       "repositories": [
          "device_sony_i3213",
-         "kernel_sony_i3213",
-         "vendor_sony_i3213"
+         "device_sony_customization"
       ]
    },
    {
@@ -1538,8 +1519,7 @@
       ],
       "repositories": [
          "device_sony_i4113",
-         "kernel_sony_i4113",
-         "vendor_sony_i4113"
+         "device_sony_customization"
       ]
    },
    {
@@ -1564,8 +1544,7 @@
       ],
       "repositories": [
          "device_sony_i4213",
-         "kernel_sony_i4213",
-         "vendor_sony_i4213"
+         "device_sony_customization"
       ]
    },
    {
@@ -1658,8 +1637,7 @@
       ],
       "repositories": [
          "device_sony_j8110",
-         "kernel_sony_j8110",
-         "vendor_sony_j8110"
+         "device_sony_customization"
       ]
    },
    {
@@ -1684,8 +1662,7 @@
       ],
       "repositories": [
          "device_sony_j8210",
-         "kernel_sony_j8210",
-         "vendor_sony_j8210"
+         "device_sony_customization"
       ]
    },
    {
@@ -1710,8 +1687,7 @@
       ],
       "repositories": [
          "device_sony_j9110",
-         "kernel_sony_j9110",
-         "vendor_sony_j9110"
+         "device_sony_customization"
       ]
    },
    {
@@ -1736,8 +1712,7 @@
       ],
       "repositories": [
          "device_sony_j9210",
-         "kernel_sony_j9210",
-         "vendor_sony_j9210"
+         "device_sony_customization"
       ]
    },
    {
@@ -2855,8 +2830,7 @@
       ],
       "repositories": [
          "device_sony_xqau51",
-         "kernel_sony_xqau51",
-         "vendor_sony_xqau51"
+         "device_sony_customization"
       ]
    },
    {
@@ -2881,8 +2855,7 @@
       ],
       "repositories": [
          "device_sony_xqau52",
-         "kernel_sony_xqau52",
-         "vendor_sony_xqau52"
+         "device_sony_customization"
       ]
    }
 ]
