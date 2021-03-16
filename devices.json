@@ -25,6 +25,7 @@
       ],
       "repositories": [
          "device_realme_RMX1851",
+         "kernel_realme_sdm710",
          "vendor_realme_RMX1851"
       ]
    },
