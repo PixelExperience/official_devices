@@ -2083,7 +2083,10 @@
       ],
       "repositories": [
          "device_motorola_ocean",
-         "vendor_motorola_ocean"
+         "device_motorola_sdm632-common",
+	 "kernel_motorola_sdm632",
+	 "vendor_motorola_ocean",
+	 "vendor_motorola_sdm632-common"
       ]
    },
    {
