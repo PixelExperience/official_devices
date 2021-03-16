@@ -449,6 +449,7 @@
          "device_xiaomi_begonia",
          "device_xiaomi_begonia-kernel",
          "kernel_xiaomi_begonia",
+         "vendor_xiaomi-firmware",
          "vendor_xiaomi_begonia"
       ]
    },
@@ -2438,6 +2439,7 @@
       ],
       "repositories": [
          "device_xiaomi_sakura",
+         "kernel_xiaomi_msm8953",
          "vendor_xiaomi_sakura"
       ]
    },
