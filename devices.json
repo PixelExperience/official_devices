@@ -2779,8 +2779,11 @@
       ],
       "repositories": [
          "device_xiaomi_whyred",
+         "device_xiaomi_sdm660-common",
          "kernel_xiaomi_whyred",
-         "vendor_xiaomi_whyred"
+         "kernel_xiaomi_sdm660",
+         "vendor_xiaomi_whyred",
+         "vendor_xiaomi_sdm660-common"
       ]
    },
    {
