@@ -1824,7 +1824,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": false
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
          },
          {
             "version_code": "ten_plus",
@@ -1839,6 +1843,7 @@
       ],
       "repositories": [
          "device_xiaomi_land",
+         "kernel_xiaomi_msm8937",
          "vendor_xiaomi_land"
       ]
    },
