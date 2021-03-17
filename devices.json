@@ -136,9 +136,7 @@
       "repositories": [
          "device_asus_X00TD",
          "kernel_asus_sdm660",
-         "device_asus_sdm660-common",
-         "vendor_asus_X00TD",
-         "vendor_asus_sdm660-common"
+         "vendor_asus_X00TD"
       ]
    },
    {
@@ -201,8 +199,10 @@
       ],
       "repositories": [
          "device_asus_X01BD",
+         "device_asus_sdm660-common",
          "kernel_asus_X01BD",
          "vendor_asus_X01BD"
+         "vendor_asus_sdm660-common"
       ]
    },
    {
@@ -2120,6 +2120,7 @@
       "repositories": [
          "device_oneplus_oneplus3",
          "vendor_oneplus_oneplus3"
+         "kernel_oneplus_msm8996"
       ]
    },
    {
