@@ -2559,7 +2559,11 @@
       ],
       "repositories": [
          "device_xiaomi_sirius",
-         "vendor_xiaomi_sirius"
+         "device_xiaomi_sdm710-common",
+         "kernel_xiaomi_sdm710",
+         "vendor_xiaomi_sdm710-common",
+         "vendor_xiaomi_sirius",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
