@@ -329,7 +329,8 @@
          {
             "codename": "land",
             "versions": [
-               "eleven"
+               "eleven",
+               "eleven_plus"
             ]
          }
       ],
