@@ -424,6 +424,25 @@
       ]
    },
    {
+      "name": "Poco F2 Pro",
+      "brand": "Xiaomi",
+      "codename": "lmi",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lmi",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_lmi",
+         "vendor_xiaomi_sm8250-common"
+      ]
+   },
+   {
       "name": "Nord N10",
       "brand": "OnePlus",
       "codename": "billie",
