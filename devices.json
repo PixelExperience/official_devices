@@ -417,7 +417,10 @@
       ],
       "repositories": [
          "device_motorola_beckham",
-         "vendor_motorola_beckham"
+         "device_motorola_sdm660-common",
+         "kernel_motorola_msm8998",
+         "vendor_motorola_beckham",
+         "vendor_motorola_sdm660-common"
       ]
    },
    {
