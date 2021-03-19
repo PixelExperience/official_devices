@@ -2648,8 +2648,10 @@
       ],
       "repositories": [
          "device_xiaomi_tissot",
+       	 "device_xiaomi_msm8953-common",
          "kernel_xiaomi_tissot",
-         "vendor_xiaomi_tissot"
+         "vendor_xiaomi_tissot",
+	 "vendor_xiaomi_msm8953-common"
       ]
    },
    {
