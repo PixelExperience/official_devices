@@ -349,12 +349,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/",
             "stable": true
          }
       ],
