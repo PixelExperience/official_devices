@@ -65,23 +65,6 @@
       "ci_username": "hlcpereira"
    },
    {
-      "name": "Joey Yu",
-      "country": "CA",
-      "github_username": "itsjoeoui",
-      "xda_url": "https://forum.xda-developers.com/m/itsjoeoui.8125712/",
-      "telegram_url": "http://t.me/itsjoeoui",
-      "devices": [
-         {
-            "codename": "guacamole",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "itsjoeoui"
-   },
-   {
       "name": "Jorge Lucas",
       "country": "BR",
       "github_username": "jorg3lucas",
