@@ -613,7 +613,10 @@
       ],
       "repositories": [
          "device_motorola_chef",
-         "vendor_motorola_chef"
+         "device_motorola_sdm660-common",
+         "vendor_motorola_chef",
+         "vendor_motorola_sdm660-common",
+         "kernel_motorola_msm8998"
       ]
    },
    {
