@@ -222,21 +222,24 @@
             "versions": [
                "eleven",
                "eleven_plus"
-            ]
+            ],
+            "main_maintainer": true
          },
          {
             "codename": "instantnoodle",
             "versions": [
                "eleven",
                "eleven_plus"
-            ]
+            ],
+            "main_maintainer": true
          },
          {
             "codename": "kebab",
             "versions": [
                "eleven",
                "eleven_plus"
-            ]
+            ],
+            "main_maintainer": true
          }
       ],
       "ci_username": "chandrachaganti"
