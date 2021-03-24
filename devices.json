@@ -361,6 +361,7 @@
       "repositories": [
          "device_xiaomi_apollo",
          "device_xiaomi_apollo-kernel",
+         "device_xiaomi_apollo-sepolicy",
          "kernel_xiaomi_apollo",
          "vendor_xiaomi_apollo"
       ]
