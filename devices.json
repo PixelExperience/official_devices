@@ -491,6 +491,28 @@
       ]
    },
    {
+      "name": "Nord N10",
+      "brand": "OnePlus",
+      "codename": "billie",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533/#post-84622757"
+         },
+         {
+            "version_code": "eleven_plus",
+            "deprecated": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533/#post-84622757"
+         }
+      ],
+      "repositories": [
+         "device_oneplus_billie",
+         "kernel_oneplus_sm6350",
+         "vendor_oneplus_billie"
+      ]
+   },
+   {
       "name": "Nexus 5X",
       "brand": "Google",
       "codename": "bullhead",
@@ -2856,28 +2878,6 @@
       "repositories": [
          "device_sony_xqau52",
          "device_sony_customization"
-      ]
-   },
-   {
-      "name": "Nord N10",
-      "brand": "OnePlus",
-      "codename": "billie",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533/#post-84622757"
-         },
-         {
-            "version_code": "eleven_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533/#post-84622757"
-         }
-      ],
-      "repositories": [
-         "device_oneplus_billie",
-         "kernel_oneplus_sm6350",
-         "vendor_oneplus_billie"
       ]
    }
 ]

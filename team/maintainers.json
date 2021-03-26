@@ -211,6 +211,15 @@
       "ci_username": "anggasp"
    },
    {
+      "name": "Billaids",
+      "country": "DE",
+      "github_username": "billaids",
+      "xda_url": "https://forum.xda-developers.com/m/billaids.10408595/",
+      "telegram_url": "http://t.me/billaids",
+      "devices": [],
+      "ci_username": "billaids"
+   },
+   {
       "name": "Chandra Chaganti",
       "country": "IN",
       "github_username": "chandra-chaganti",
@@ -992,23 +1001,5 @@
          }
       ],
       "ci_username": "trpsl"
-   },
-   {
-      "name": "Billaids",
-      "country": "DE",
-      "github_username": "Billaids",
-      "xda_url": "https://forum.xda-developers.com/m/billaids.10408595/",
-      "telegram_url": "http://t.me/billaids",
-      "devices": [
-         {
-            "codename": "billie",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ],
-            "main_maintainer": true
-         }
-      ],
-      "ci_username": "billaids"
    }
 ]
