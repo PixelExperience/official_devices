@@ -277,6 +277,23 @@
       "ci_username": "themalachite"
    },
    {
+      "name": "Evasi0n Xiao",
+      "country": "CN",
+      "github_username": "ecrosoftxiao",
+      "xda_url": "",
+      "telegram_url": "http://t.me/Evasi0nXiao",
+      "devices": [
+         {
+            "codename": "cepheus",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "ecrosoftxiao"
+   },
+   {
       "name": "Gaurav",
       "country": "IN",
       "github_username": "gaurav241",
@@ -1001,22 +1018,5 @@
          }
       ],
       "ci_username": "trpsl"
-   },
-   {
-      "name": "Evasi0n Xiao",
-      "country": "CN",
-      "github_username": "EcrosoftXiao",
-      "xda_url": "",
-      "telegram_url": "http://t.me/Evasi0nXiao",
-      "devices": [
-         {
-            "codename": "cepheus",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "EcrosoftXiao"
    }
 ]
