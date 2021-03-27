@@ -35,11 +35,11 @@
             ]
          },
          {
-         "codename": "billie",
-         "versions": [
-            "eleven",
-            "eleven_plus"
-         ]
+            "codename": "billie",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "kakatkarakshay"
