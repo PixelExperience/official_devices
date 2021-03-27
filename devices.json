@@ -497,12 +497,10 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533/#post-84622757"
          },
          {
             "version_code": "eleven_plus",
-            "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533/#post-84622757"
          }
       ],

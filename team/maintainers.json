@@ -216,7 +216,16 @@
       "github_username": "billaids",
       "xda_url": "https://forum.xda-developers.com/m/billaids.10408595/",
       "telegram_url": "http://t.me/billaids",
-      "devices": [],
+      "devices": [  
+         {
+         "codename": "billie",
+         "versions": [
+            "eleven",
+            "eleven_plus"
+         ],
+         "main_maintainer": true
+      }
+   ],
       "ci_username": "billaids"
    },
    {
