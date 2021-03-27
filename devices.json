@@ -594,7 +594,8 @@
       "repositories": [
          "device_xiaomi_cepheus",
          "kernel_xiaomi_cepheus",
-         "vendor_xiaomi_cepheus"
+         "vendor_xiaomi_cepheus",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
