@@ -1985,7 +1985,6 @@
       ],
       "repositories": [
          "device_xiaomi_lithium",
-         "kernel_xiaomi_lithium",
          "vendor_xiaomi_lithium"
       ]
    },
