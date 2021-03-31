@@ -507,7 +507,8 @@
       "repositories": [
          "device_oneplus_billie",
          "kernel_oneplus_sm6350",
-         "vendor_oneplus_billie"
+         "vendor_oneplus_billie",
+         "vendor_oneplus_billie-vendor"
       ]
    },
    {
