@@ -2388,7 +2388,6 @@
          "device_motorola_river",
          "device_motorola_sdm632-common",
          "kernel_motorola_sdm632",
-         "packages_apps_MotCamera2",
          "vendor_motorola_river",
          "vendor_motorola_sdm632-common"
       ]
