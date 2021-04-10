@@ -968,6 +968,13 @@
             "main_maintainer": true
          },
          {
+            "codename": "mojito",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
             "codename": "sakura",
             "versions": [
                "eleven",
