@@ -2702,6 +2702,8 @@
       ],
       "repositories": [
          "device_teracube_v7101o",
+         "device_teracube_v7101o-modules",
+         "kernel_mediatek_alps-4.4",
          "vendor_teracube_v7101o"
       ]
    },
