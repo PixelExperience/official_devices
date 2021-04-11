@@ -997,12 +997,6 @@
                "eleven",
                "eleven_plus"
             ]
-         },
-         {
-            "codename": "guacamole",
-            "versions": [
-               "eleven"
-            ]
          }
       ],
       "ci_username": "idkwhoiam322"

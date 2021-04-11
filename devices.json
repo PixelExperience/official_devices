@@ -1075,14 +1075,6 @@
       "codename": "guacamole",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": true
-         },
-         {
             "version_code": "ten",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
@@ -1939,24 +1931,6 @@
          "kernel_xiaomi_lavender",
          "vendor_xiaomi_lavender"
       ]
-   },
-   {
-      "name": "One Fusion +",
-      "brand": "Motorola",
-      "codename": "liber",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": []
    },
    {
       "name": "Mi Mix",
