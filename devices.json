@@ -2040,6 +2040,27 @@
       ]
    },
    {
+      "name": "Redmi Note 10",
+      "brand": "Xiaomi",
+      "codename": "mojito",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mojito",
+         "kernel_xiaomi_mojito",
+         "vendor_xiaomi_mojito"
+      ]
+   },
+   {
       "name": "Redmi Note 4/4X",
       "brand": "Xiaomi",
       "codename": "mido",
