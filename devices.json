@@ -2063,7 +2063,8 @@
       "repositories": [
          "device_xiaomi_mojito",
          "kernel_xiaomi_mojito",
-         "vendor_xiaomi_mojito"
+         "vendor_xiaomi_mojito",
+         "vendor_xiaomi_mojito-vendor"
       ]
    },
    {
