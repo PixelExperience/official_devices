@@ -35,6 +35,14 @@
       "codename": "RMX1971",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         },
+         {
             "version_code": "ten",
             "xda_thread": "https://forum.xda-developers.com/realme-5-pro/development/rom-pixel-experience-t4053357",
             "deprecated": true
@@ -47,8 +55,10 @@
       ],
       "repositories": [
          "device_realme_RMX1971",
+         "device_realme_sdm710-common",
          "kernel_realme_RMX1971",
-         "vendor_realme_RMX1971"
+         "vendor_realme_RMX1971",
+         "vendor_realme_sm710-common"
       ]
    },
    {

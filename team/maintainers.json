@@ -1051,5 +1051,22 @@
          }
       ],
       "ci_username": "trpsl"
+   },
+   {
+      "name": "MadhavSaladi(BabluS)",
+      "country": "IN",
+      "github_username": "MadhavSaladi",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8482987",
+      "telegram_url": "http://t.me/BabluS",
+      "devices": [
+         {
+            "codename": "RMX1971",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "bablus"
    }
 ]
