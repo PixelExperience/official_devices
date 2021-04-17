@@ -896,22 +896,6 @@
       "ci_username": "saalim"
    },
    {
-      "name": "Samar Vispute",
-      "country": "IN",
-      "github_username": "samarv-121",
-      "telegram_url": "http://t.me/SamarV121",
-      "devices": [
-         {
-            "codename": "RMX1851",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "samarv121"
-   },
-   {
       "name": "Shubham Das",
       "country": "IN",
       "github_username": "dasshubham762",

@@ -6,11 +6,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": true
+            "stable": true,
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
-            "stable": true
+            "stable": true,
+            "deprecated": true
          },
          {
             "version_code": "ten",
