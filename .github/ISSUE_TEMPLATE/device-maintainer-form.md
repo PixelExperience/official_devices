@@ -1,7 +1,7 @@
 ---
 name: Device maintainer form
 about: Apply to be a maintainer at PE here
-title: "[DEVICE] - New maintainer"
+title: DEVICE - New maintainer
 assignees: [Hasaber8, jhenrique09]
 ---
 
