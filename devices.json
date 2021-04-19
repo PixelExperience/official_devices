@@ -2704,7 +2704,7 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-pixelexperience-for-teracube-one-v7101o.4197855/",
             "stable": true
          }
       ],
@@ -2713,6 +2713,7 @@
          "device_teracube_v7101o-modules",
          "kernel_mediatek_alps-4.4",
          "vendor_teracube_v7101o",
+         "vendor_teracube_v7101o-vendor",
          "vendor_teracube_firmware"
       ]
    },
