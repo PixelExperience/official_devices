@@ -615,6 +615,11 @@
       "codename": "cheeseburger",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
             "version_code": "ten",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"

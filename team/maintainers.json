@@ -855,6 +855,23 @@
       "ci_username": "pixelboot"
    },
    {
+      "name": "Protowise",
+      "country": "IN",
+      "github_username": "Protowise",
+      "xda_url": "",
+      "telegram_url": "",
+      "devices": [
+         {
+            "codename": "cheeseburger",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "Protowise"
+   },
+   {
       "name": "Pulkit Agarwal",
       "country": "IN",
       "github_username": "pulkit077",
