@@ -2922,5 +2922,46 @@
          "device_sony_xqau52",
          "device_sony_customization"
       ]
+   },
+   {
+      "name": "Pixel 3A",
+      "brand": "Google",
+      "codename": "sargo",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_google_sargo",
+         "device_google_bonito",
+         "vendor_google_sargo",
+         "kernel_google_msm-4.9"
+      ]
+   },
+   {
+      "name": "Pixel 3A XL",
+      "brand": "Google",
+      "codename": "bonito",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_google_bonito",
+         "vendor_google_bonito",
+         "kernel_google_msm-4.9"
+      ]
    }
 ]
