@@ -252,6 +252,23 @@
       "ci_username": "billaids"
    },
    {
+      "name": "baolong24",
+      "country": "CN",
+      "github_username": "baolong24",
+      "xda_url": "",
+      "telegram_url": "http://t.me/baolong24",
+      "devices": [
+         {
+            "codename": "gauguin",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "baolong24"
+   },
+   {
       "name": "Chandra Chaganti",
       "country": "IN",
       "github_username": "chandra-chaganti",

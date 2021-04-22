@@ -2878,6 +2878,25 @@
       ]
    },
    {
+      "name": "Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
+      "brand": "Xiaomi",
+      "codename": "gauguin",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         },
+      ],
+      "repositories": [
+         "device_xiaomi_gauguin",
+         "vendor_xiaomi_gauguin"
+      ]
+   },
+   {
       "name": "Xperia 10 II DSDS",
       "brand": "Sony",
       "codename": "xqau52",
