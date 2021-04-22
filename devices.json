@@ -2015,8 +2015,8 @@
          {
             "version_code": "eleven",
             "xda_thread": "",
-            "stable": false,
-            "deprecated": true
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
