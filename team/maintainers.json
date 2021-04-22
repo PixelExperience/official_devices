@@ -211,6 +211,23 @@
       "ci_username": "anggasp"
    },
    {
+      "name": "Aryan Gupta",
+      "country": "IN",
+      "github_username": "darkbeast69",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7515368",
+      "telegram_url": "http://t.me/heisinbug",
+      "devices": [
+         {
+            "codename": "miatoll",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "heisinbug"
+   },
+   {
       "name": "Baalaji Balasubramani",
       "country": "IN",
       "github_username": "baalajimaestro",
@@ -1069,22 +1086,5 @@
          }
       ],
       "ci_username": "trpsl"
-   },
-   {
-      "name": "Aryan Gupta",
-      "country": "IN",
-      "github_username": "darkbeast69",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7515368",
-      "telegram_url": "http://t.me/heisinbug",
-      "devices": [
-         {
-            "codename": "miatoll",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "heisinbug"
    }
 ]
