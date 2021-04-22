@@ -610,27 +610,6 @@
       ]
    },
    {
-      "name": "Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
-      "brand": "Xiaomi",
-      "codename": "gauguin",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_gauguin",
-         "vendor_xiaomi_gauguin"
-      ]
-   },
-   {
       "name": "5",
       "brand": "OnePlus",
       "codename": "cheeseburger",
@@ -1014,6 +993,27 @@
       "repositories": [
          "device_sony_g8441",
          "device_sony_customization"
+      ]
+   },
+   {
+      "name": "Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
+      "brand": "Xiaomi",
+      "codename": "gauguin",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_gauguin",
+         "vendor_xiaomi_gauguin"
       ]
    },
    {

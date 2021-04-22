@@ -986,6 +986,23 @@
       "ci_username": "zidan44"
    },
    {
+      "name": "baolong24",
+      "country": "CN",
+      "github_username": "baolong24",
+      "xda_url": "",
+      "telegram_url": "http://t.me/baolong24",
+      "devices": [
+         {
+            "codename": "gauguin",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "baolong24"
+   },
+   {
       "name": "idkwhoiam322",
       "country": "IN",
       "github_username": "idkwhoiam322",
@@ -1052,22 +1069,5 @@
          }
       ],
       "ci_username": "trpsl"
-   },
-   {
-      "name": "baolong24",
-      "country": "CN",
-      "github_username": "baolong24",
-      "xda_url": "",
-      "telegram_url": "http://t.me/baolong24",
-      "devices": [
-         {
-            "codename": "gauguin",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "baolong24"
    }
 ]
