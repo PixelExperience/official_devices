@@ -2124,29 +2124,6 @@
       ]
    },
    {
-      "name": "Redmi Note 10 Pro",
-      "brand": "Xiaomi",
-      "codename": "sweet",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_sweet",
-         "kernel_xiaomi_sweet",
-         "vendor_xiaomi_sweet",
-         "vendor_xiaomi_sweet-vendor"
-      ]
-   },
-   {
       "name": "Mi 5s Plus",
       "brand": "Xiaomi",
       "codename": "natrium",
@@ -2726,6 +2703,29 @@
          "device_xiaomi_surya",
          "kernel_xiaomi_surya",
          "vendor_xiaomi_surya"
+      ]
+   },
+   {
+      "name": "Redmi Note 10 Pro",
+      "brand": "Xiaomi",
+      "codename": "sweet",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_sweet",
+         "kernel_xiaomi_sweet",
+         "vendor_xiaomi_sweet",
+         "vendor_xiaomi_sweet-vendor"
       ]
    },
    {
