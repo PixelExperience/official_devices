@@ -998,6 +998,13 @@
                "eleven",
                "eleven_plus"
             ]
+         },
+         {
+            "codename": "sweet",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "zidan44"
