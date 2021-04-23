@@ -89,7 +89,9 @@
       ],
       "repositories": [
          "device_nubia_TP1803",
-         "vendor_nubia_TP1803"
+         "device_qcom_common",
+         "vendor_nubia_TP1803",
+         "vendor_qcom_common"
       ]
    },
    {
