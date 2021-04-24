@@ -2065,7 +2065,8 @@
       "repositories": [
          "device_xiaomi_miatoll",
          "kernel_xiaomi_miatoll",
-         "vendor_xiaomi_miatoll"
+         "vendor_xiaomi_miatoll",
+         "vendor_xiaomi_6250-common"
       ]
    },
    {
