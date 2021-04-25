@@ -50,4 +50,4 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 
 We need a .png image with transparent background with sane quality with at least the device front being shown for our website. Those will go to the images folder with the filename being called as <device_codename>.png.
 
-If you agree with everything, please [fill this form](https://forms.gle/b7kjDzsT2RrRh7WCA)
+If you agree with everything, please [fill this form](https://github.com/PixelExperience/official_devices/issues/new/choose)
