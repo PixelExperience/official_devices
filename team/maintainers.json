@@ -298,6 +298,14 @@
                "eleven_plus"
             ],
             "main_maintainer": true
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ],
+            "main_maintainer": true
          }
       ],
       "ci_username": "chandrachaganti"

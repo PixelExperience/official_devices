@@ -1131,6 +1131,16 @@
       "codename": "guacamole",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496",
+            "stable": true
+         },
+         {
             "version_code": "ten",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
@@ -1146,8 +1156,7 @@
          "device_oneplus_sm8150-common",
          "kernel_oneplus_sm8150",
          "vendor_oneplus_guacamole",
-         "vendor_oneplus_sm8150-common",
-         "vendor_oneplus-firmware"
+         "vendor_oneplus_sm8150-common"
       ]
    },
    {
