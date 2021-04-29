@@ -1131,6 +1131,16 @@
       "codename": "guacamole",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
+            "stable": true
+         },
+         {
             "version_code": "ten",
             "deprecated": true,
             "xda_thread": "https://forum.xda-developers.com/oneplus-7-pro/development/rom-pixel-experience-t3956496"
@@ -1146,8 +1156,7 @@
          "device_oneplus_sm8150-common",
          "kernel_oneplus_sm8150",
          "vendor_oneplus_guacamole",
-         "vendor_oneplus_sm8150-common",
-         "vendor_oneplus-firmware"
+         "vendor_oneplus_sm8150-common"
       ]
    },
    {
@@ -1181,6 +1190,54 @@
          "vendor_oneplus_guacamoleb",
          "vendor_oneplus_sm8150-common",
          "vendor_oneplus-firmware"
+      ]
+   },
+   {
+      "name": "7T Pro",
+      "brand": "OnePlus",
+      "codename": "hotdog",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_hotdog",
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus_hotdog",
+         "vendor_oneplus_sm8150-common"
+      ]
+   },
+   {
+      "name": "7T",
+      "brand": "OnePlus",
+      "codename": "hotdogb",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_oneplus_hotdogb",
+         "device_oneplus_sm8150-common",
+         "kernel_oneplus_sm8150",
+         "vendor_oneplus_hotdogb",
+         "vendor_oneplus_sm8150-common"
       ]
    },
    {
