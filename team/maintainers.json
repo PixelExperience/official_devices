@@ -1016,15 +1016,7 @@
       "github_username": "idkwhoiam322",
       "xda_url": "https://forum.xda-developers.com/member.php?u=6609957",
       "telegram_url": "https://t.me/idkwhoiam322",
-      "devices": [
-         {
-            "codename": "guacamoleb",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "idkwhoiam322"
    },
    {
