@@ -12,34 +12,6 @@
                "eleven",
                "eleven_plus"
             ]
-         },
-         {
-            "codename": "instantnoodlep",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "instantnoodle",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "kebab",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "billie",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
          }
       ],
       "ci_username": "kakatkarakshay"
