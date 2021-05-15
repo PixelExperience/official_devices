@@ -914,6 +914,23 @@
       "ci_username": "dasshubham762"
    },
    {
+      "name": "Sreekanth Palakurthi",
+      "country": "IN",
+      "github_username": "sreekanthpalakurthi",
+      "xda_url": "https://forum.xda-developers.com/m/sreek995.8555981/",
+      "telegram_url": "http://t.me/SreekanthPalakurthi",
+      "devices": [
+         {
+            "codename": "phoenix",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "sreekanth"
+   },
+   {
       "name": "Subins Mani",
       "country": "IN",
       "github_username": "subinsmani",
@@ -1069,22 +1086,5 @@
          }
       ],
       "ci_username": "trpsl"
-   },
-   {
-      "name": "Sreekanth Palakurthi",
-      "country": "IN",
-      "github_username": "SreekanthPalakurthi",
-      "xda_url": "https://forum.xda-developers.com/m/sreek995.8555981/",
-      "telegram_url": "http://t.me/SreekanthPalakurthi",
-      "devices": [
-         {
-            "codename": "phoenix",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "sreekanth"
    }
 ]
