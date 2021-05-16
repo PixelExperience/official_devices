@@ -2328,10 +2328,12 @@
             "deprecated": true
          },
          {
-            "version_code": "eleven"
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
          },
          {
-            "version_code": "eleven_plus"
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
          }
       ],
       "repositories": [
