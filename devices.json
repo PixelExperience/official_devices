@@ -1100,6 +1100,7 @@
       ],
       "repositories": [
          "device_xiaomi_ginkgo",
+         "device_xiaomi_ginkgo-sepolicy",
          "device_xiaomi_ginkgo-kernel",
          "kernel_xiaomi_ginkgo",
          "vendor_xiaomi_ginkgo"
