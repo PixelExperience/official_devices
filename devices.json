@@ -792,7 +792,8 @@
       "repositories": [
          "device_xiaomi_dipper",
          "kernel_xiaomi_dipper",
-         "vendor_xiaomi_dipper"
+         "vendor_xiaomi_dipper",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
