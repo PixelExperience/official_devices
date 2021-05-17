@@ -1169,13 +1169,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": true,
-            "deprecated": true
+            "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "stable": true,
-            "deprecated": true
+            "stable": true
          },
          {
             "version_code": "ten",
