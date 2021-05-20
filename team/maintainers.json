@@ -907,7 +907,8 @@
             "versions": [
                "eleven",
                "eleven_plus"
-            ]
+            ],
+            "main_maintainer": true
          },
          {
             "codename": "X01AD",
@@ -935,6 +936,23 @@
          }
       ],
       "ci_username": "dasshubham762"
+   },
+   {
+      "name": "Simone Esposito",
+      "country": "IT",
+      "github_username": "DarkJoker360",
+      "xda_url": "https://forum.xda-developers.com/m/darkjoker360.7019289/",
+      "telegram_url": "https://t.me/DarkJoker360dev",
+      "devices": [
+         {
+            "codename": "ginkgo",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "DarkJoker360"
    },
    {
       "name": "Sreekanth Palakurthi",
