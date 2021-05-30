@@ -1513,9 +1513,23 @@
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/s7-edge/development/rom-pixel-experience-t4040463",
             "deprecated": true
+         },
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/"
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/"
          }
       ],
-      "repositories": []
+      "repositories": [
+         "device_samsung_hero2lte",
+         "device_samsung_universal8890-common",
+         "kernel_samsung_universal8890",
+         "vendor_samsung_universal8890-common",
+         "hardware_samsung"
+      ]
    },
    {
       "name": "Galaxy S7",
@@ -1531,9 +1545,23 @@
             "version_code": "ten_plus",
             "xda_thread": "https://forum.xda-developers.com/galaxy-s7/development/rom-pixel-experience-t4040479",
             "deprecated": true
+         },
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-herolte-pixelexperience-aosp.4276777/"
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unoffical-herolte-pixelexperience-aosp.4276777/"
          }
       ],
-      "repositories": []
+      "repositories": [
+         "device_samsung_herolte",
+         "device_samsung_universal8890-common",
+         "kernel_samsung_universal8890",
+         "vendor_samsung_universal8890-common",
+         "hardware_samsung"
+      ]
    },
    {
       "name": "7T Pro",
