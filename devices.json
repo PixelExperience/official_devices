@@ -761,6 +761,7 @@
       "repositories": [
          "device_xiaomi_davinci",
          "kernel_xiaomi_davinci",
+         "kernel_xiaomi_davinci-headers",         
          "vendor_xiaomi_davinci"
       ]
    },
@@ -1192,9 +1193,11 @@
          "device_oneplus_guacamoleb",
          "device_oneplus_sm8150-common",
          "kernel_oneplus_sm8150",
+         "kernel_oneplus_sm8150-headers",
          "vendor_oneplus_guacamoleb",
          "vendor_oneplus_sm8150-common",
          "vendor_oneplus-firmware"
+         
       ]
    },
    {
