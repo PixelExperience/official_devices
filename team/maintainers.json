@@ -33,6 +33,22 @@
       "ci_username": "abhinavgupta371"
    },
    {
+      "name": "Alexander Chycherin",
+      "country": "UA",
+      "github_username": "sevralt",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=11167025",
+      "telegram_url": "http://t.me/sevralt",
+      "devices": [
+         {
+            "codename": "fajita",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ],
+      "ci_username": "sevralt"
+   },
+   {
       "name": "AngeloGioacchino Del Regno",
       "country": "IT",
       "github_username": "kholk",
@@ -1142,21 +1158,5 @@
          }
       ],
       "ci_username": "trpsl"
-   },
-   {
-      "name": "Alexander Chycherin",
-      "country": "UA",
-      "github_username": "sevralt",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=11167025",
-      "telegram_url": "http://t.me/sevralt",
-      "devices": [
-         {
-            "codename": "fajita",
-            "versions": [
-               "eleven"
-            ]
-         }
-      ],
-      "ci_username": "sevralt"
    }
 ]
