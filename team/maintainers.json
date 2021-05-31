@@ -588,7 +588,22 @@
       "github_username": "expressluke",
       "xda_url": "https://forum.xda-developers.com/member.php?u=7166349",
       "telegram_url": "https://t.me/ogexpressluke",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "herolte",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "hero2lte",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
       "ci_username": "expressluke"
    },
    {
