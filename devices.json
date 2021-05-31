@@ -882,7 +882,7 @@
       "supported_versions": [
 	     {
             "version_code": "eleven",
-            "deprecated": true,
+            "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-fajita-pixelexperience-aosp-official.4266611/"
          },
          {
@@ -898,8 +898,8 @@
       ],
       "repositories": [
          "device_oneplus_fajita",
-		 "device_oneplus_sdm845-common",
-		 "device_oneplus_common",
+         "device_oneplus_sdm845-common",
+	 "device_oneplus_common",
          "kernel_oneplus_sdm845",
          "vendor_oneplus_sdm845-common"
       ]
