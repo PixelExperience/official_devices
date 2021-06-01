@@ -42,7 +42,8 @@
          {
             "codename": "fajita",
             "versions": [
-               "eleven"
+               "eleven",
+			   "eleven_plus"
             ]
          }
       ],
