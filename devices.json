@@ -849,7 +849,6 @@
          "device_oneplus_enchilada",
          "device_oneplus_sdm845-common",
          "device_oneplus_common",
-         "kernel_oneplus_sdm845",
          "vendor_oneplus_sdm845-common"
       ]
    },
