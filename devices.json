@@ -184,6 +184,7 @@
       "repositories": [
          "device_asus_X01AD",
          "kernel_asus_X01AD",
+         "vendor_asus-firmware",
          "vendor_asus_X01AD"
       ]
    },
