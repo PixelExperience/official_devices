@@ -1052,13 +1052,6 @@
       "telegram_url": "https://t.me/ZIDAN44",
       "devices": [
          {
-            "codename": "apollo",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
             "codename": "begonia",
             "versions": [
                "eleven",
