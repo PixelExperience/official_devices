@@ -258,24 +258,6 @@
       "ci_username": "baalajimaestro"
    },
    {
-      "name": "Billaids",
-      "country": "DE",
-      "github_username": "billaids",
-      "xda_url": "https://forum.xda-developers.com/m/billaids.10408595/",
-      "telegram_url": "http://t.me/billaids",
-      "devices": [
-         {
-            "codename": "billie",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ],
-            "main_maintainer": true
-         }
-      ],
-      "ci_username": "billaids"
-   },
-   {
       "name": "Chandra Chaganti",
       "country": "IN",
       "github_username": "chandra-chaganti",
