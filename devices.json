@@ -603,6 +603,8 @@
       ],
       "repositories": [
          "device_xiaomi_capricorn",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
          "vendor_xiaomi_capricorn"
       ]
    },
@@ -1100,6 +1102,8 @@
       ],
       "repositories": [
          "device_xiaomi_gemini",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
          "vendor_xiaomi_gemini"
       ]
    },
@@ -2136,6 +2140,8 @@
       ],
       "repositories": [
          "device_xiaomi_lithium",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
          "vendor_xiaomi_lithium"
       ]
    },
@@ -2254,6 +2260,8 @@
       ],
       "repositories": [
          "device_xiaomi_natrium",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
          "vendor_xiaomi_natrium"
       ]
    },
@@ -2756,6 +2764,8 @@
       ],
       "repositories": [
          "device_xiaomi_scorpio",
+         "device_xiaomi_msm8996-common",
+         "kernel_xiaomi_msm8996",
          "vendor_xiaomi_scorpio"
       ]
    },
