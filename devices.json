@@ -283,30 +283,6 @@
       ]
    },
    {
-      "name": "Moto One Fusion +",
-      "brand": "Motorola",
-      "codename": "liber",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_motorola_liber",
-         "device_motorola_sm6150-common",
-         "vendor_motorola_liber",
-         "vendor_motorola_sm6150-common",
-         "kernel_motorola_sm6150"
-      ]
-   },
-   {
       "name": "Moto G6",
       "brand": "Motorola",
       "codename": "ali",
@@ -2136,6 +2112,30 @@
          "device_xiaomi_lavender",
          "kernel_xiaomi_lavender",
          "vendor_xiaomi_lavender"
+      ]
+   },
+   {
+      "name": "Moto One Fusion +",
+      "brand": "Motorola",
+      "codename": "liber",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_liber",
+         "device_motorola_sm6150-common",
+         "vendor_motorola_liber",
+         "vendor_motorola_sm6150-common",
+         "kernel_motorola_sm6150"
       ]
    },
    {
