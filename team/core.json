@@ -103,6 +103,13 @@
                "eleven",
                "eleven_plus"
             ]
+         },
+         {
+            "codename": "liber",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "hasaber8"
