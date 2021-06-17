@@ -2139,6 +2139,30 @@
       ]
    },
    {
+      "name": "Moto One Zoom",
+      "brand": "Motorola",
+      "codename": "parker",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_motorola_parker",
+         "device_motorola_sm6150-common",
+         "vendor_motorola_parker",
+         "vendor_motorola_sm6150-common",
+         "kernel_motorola_sm6150"
+      ]
+   },
+   {
       "name": "Mi Mix",
       "brand": "Xiaomi",
       "codename": "lithium",
