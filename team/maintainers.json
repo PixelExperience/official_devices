@@ -1124,22 +1124,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "trpsl",
-      "country": "RS",
-      "github_username": "trpsl",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8399533",
-      "telegram_url": "http://t.me/trpsl",
-      "devices": [
-         {
-            "codename": "davinci",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "trpsl"
    }
 ]
