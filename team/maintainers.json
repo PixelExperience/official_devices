@@ -634,6 +634,13 @@
                "eleven",
                "eleven_plus"
             ]
+         },
+         {
+            "codename": "r5x",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "bablus"

@@ -64,6 +64,26 @@
       ]
    },
    {
+      "name": "5 Series",
+      "brand": "Realme",
+      "codename": "r5x",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_realme_r5x",
+         "kernel_realme_r5x",
+         "vendor_realme_r5x"
+      ]
+   },
+   {
       "name": "Mini 5G",
       "brand": "Nubia",
       "codename": "TP1803",
