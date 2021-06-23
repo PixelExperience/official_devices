@@ -323,12 +323,6 @@
       "telegram_url": "https://t.me/TheMalachite",
       "devices": [
          {
-            "codename": "v7101o",
-            "versions": [
-               "eleven"
-            ]
-         },
-         {
             "codename": "begonia",
             "versions": [
                "eleven",
