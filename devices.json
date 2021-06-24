@@ -1225,11 +1225,9 @@
       ],
       "repositories": [
          "device_oneplus_guacamoleb",
-         "device_oneplus_sm8150-common",
-         "kernel_oneplus_sm8150",
-         "kernel_oneplus_sm8150-headers",
+         "kernel_oneplus_guacamoleb",
+         "kernel_oneplus_guacamoleb-headers",
          "vendor_oneplus_guacamoleb",
-         "vendor_oneplus_sm8150-common",
          "vendor_oneplus-firmware"
       ]
    },
