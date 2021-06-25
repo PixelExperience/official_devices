@@ -316,6 +316,23 @@
       "ci_username": "chandrachaganti"
    },
    {
+      "name": "Daniel Jacob",
+      "country": "IN",
+      "github_username": "djchittoor",
+      "xda_url": "https://forum.xda-developers.com/m/djchittoor.10664579",
+      "telegram_url": "http://t.me/djchittoor",
+      "devices": [
+         {
+            "codename": "avicii",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "djchittoor"
+   },
+   {
       "name": "Elias",
       "country": "FR",
       "github_username": "themalachite",
@@ -1125,22 +1142,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "Daniel Jacob",
-      "country": "IN",
-      "github_username": "djchittoor",
-      "xda_url": "https://forum.xda-developers.com/m/djchittoor.10664579",
-      "telegram_url": "http://t.me/djchittoor",
-      "devices": [
-         {
-            "codename": "avicii",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "djchittoor"
    }
 ]
