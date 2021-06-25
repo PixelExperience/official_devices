@@ -1228,8 +1228,7 @@
          "kernel_oneplus_guacamoleb",
          "kernel_oneplus_guacamoleb-headers",
          "vendor_oneplus_guacamoleb",
-         "vendor_oneplus-firmware",
-         "vendor_oneplus-apps"
+         "vendor_oneplus-firmware"
       ]
    },
    {
