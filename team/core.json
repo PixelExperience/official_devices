@@ -110,6 +110,13 @@
                "eleven",
                "eleven_plus"
             ]
+         },
+         {
+            "codename": "parker",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "hasaber8"
