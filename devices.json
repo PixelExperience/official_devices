@@ -670,22 +670,22 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-chef-pixelexperience-normal-plus-aosp.4302671/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-chef-pixelexperience-normal-plus-aosp.4302671/",
             "stable": true
          },
          {
             "version_code": "ten",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-chef-pixel-experience-aosp-10-12-2019.4018079/",
             "deprecated": true
          },
          {
             "version_code": "ten_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-0-chef-pixel-experience-aosp-10-12-2019.4018079/",
             "deprecated": true
          }
       ],
@@ -2119,12 +2119,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-liber-pixelexperience-plus-aosp.4302669/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-liber-pixelexperience-plus-aosp.4302669/",
             "stable": true
          }
       ],
@@ -2362,12 +2362,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/",
             "stable": true
          }
       ],
