@@ -648,18 +648,31 @@
       "codename": "cheeseburger",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/"
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/"
+         },
+         {
             "version_code": "ten",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+            "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5/development/rom-pixel-experience-t3976329"
+            "xda_thread": ""
          }
       ],
       "repositories": [
+         "device_oneplus_msm8998-common",
          "device_oneplus_cheeseburger",
+         "kernel_oneplus_msm8998",
+         "vendor_oneplus_msm8998-common",
          "vendor_oneplus_cheeseburger"
       ]
    },
@@ -814,18 +827,31 @@
       "codename": "dumpling",
       "supported_versions": [
          {
+            "version_code": "eleven",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/"
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/"
+         },
+         {
             "version_code": "ten",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3976333"
+            "xda_thread": ""
          },
          {
             "version_code": "ten_plus",
             "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/oneplus-5t/development/rom-pixel-experience-t3976333"
+            "xda_thread": ""
          }
       ],
       "repositories": [
+         "device_oneplus_msm8998-common",
          "device_oneplus_dumpling",
+         "kernel_oneplus_msm8998",
+         "vendor_oneplus_msm8998-common",
          "vendor_oneplus_dumpling"
       ]
    },

@@ -590,6 +590,30 @@
       "ci_username": "lakshay18"
    },
    {
+      "name": "Lexip",
+      "country": "DE",
+      "github_username": "xLexip",
+      "xda_url": "https://forum.xda-developers.com/m/xlexip.11110723/",
+      "telegram_url": "https://t.me/xLexip",
+      "devices": [
+        {
+            "codename": "cheeseburger",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "dumpling",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "xLexip"
+   },
+   {
       "name": "Luiz Dores",
       "country": "BR",
       "github_username": "luizdores",
