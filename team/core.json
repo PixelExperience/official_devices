@@ -12,6 +12,13 @@
                "eleven",
                "eleven_plus"
             ]
+         },
+         {
+            "codename": "ebba",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "kakatkarakshay"
