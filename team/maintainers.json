@@ -609,11 +609,11 @@
    {
       "name": "Lexip",
       "country": "DE",
-      "github_username": "xLexip",
+      "github_username": "xlexip",
       "xda_url": "https://forum.xda-developers.com/m/xlexip.11110723/",
       "telegram_url": "https://t.me/xLexip",
       "devices": [
-        {
+         {
             "codename": "cheeseburger",
             "versions": [
                "eleven",
@@ -628,7 +628,7 @@
             ]
          }
       ],
-      "ci_username": "xLexip"
+      "ci_username": "xlexip"
    },
    {
       "name": "Luiz Dores",
