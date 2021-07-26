@@ -1104,6 +1104,28 @@
       ]
    },
    {
+      "name": "Redmi K30 5G / Redmi K30i",
+      "brand": "Xiaomi",
+      "codename": "picasso",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_picasso",
+         "vendor_xiaomi_picasso",
+         "vendor_xiaomi_picasso-vendor"
+      ]
+   },
+   {
       "name": "Mi 5",
       "brand": "Xiaomi",
       "codename": "gemini",

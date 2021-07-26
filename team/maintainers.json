@@ -1144,6 +1144,13 @@
                "eleven",
                "eleven_plus"
             ]
+         },
+         {
+            "codename": "picasso",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
          }
       ],
       "ci_username": "baolong24"
