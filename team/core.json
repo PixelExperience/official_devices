@@ -38,7 +38,15 @@
       "country": "BR",
       "github_username": "hlcpereira",
       "xda_url": "https://forum.xda-developers.com/m/hlcpereira.7838323/",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "tucana",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
       "ci_username": "hlcpereira"
    },
    {
