@@ -487,13 +487,6 @@
       "telegram_url": "https://t.me/JeanGraff30",
       "devices": [
          {
-            "codename": "ali",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
             "codename": "albus",
             "versions": [
                "eleven",
