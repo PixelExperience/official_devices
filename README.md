@@ -33,6 +33,8 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | repositories | Array containing needed repositories by your device | Yes |
 | stable | Set to false if the version is beta (true by default) | No |
 | deprecated | Set to true if the device is no longer maintained (false by default) | No |
+| xda_url | Url to thread in xda-developers forum | No |
+| telegram_url | Telegram related group/channel url (full url that starts with https://t.me) | No |
 
 ##### team/maintainers.json
 | Param | Description | Required |
@@ -43,7 +45,7 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | github_username | Your GitHub username (eg: https://github.com/jhenrique09/) | Yes |
 | devices | Array with the device and the respective version that you maintain | Yes |
 | xda_url | Direct url of your XDA profile (eg: https://forum.xda-developers.com/member.php?u=6519039) | No |
-| telegram_url | Direct url of your telegram profile | No |
+| telegram_url | Direct url of your Telegram profile | No |
 | main_maintainer | Used in co-maintainer cases, set to true to keep your name at the top on the list of maintainers | No |
 
 ### 4. Device Image
