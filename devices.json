@@ -3007,11 +3007,11 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "stable": true
+            "stable": false
          },
          {
             "version_code": "eleven_plus",
-            "stable": true
+            "stable": false
          }
       ],
       "repositories": [
