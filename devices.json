@@ -3029,28 +3029,6 @@
       ]
    },
    {
-      "name": "Mi CC9 Pro/Note 10",
-      "brand": "Xiaomi",
-      "codename": "tucana",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_tucana",
-         "device_xiaomi_sm6150-common",
-         "vendor_xiaomi_tucana",
-         "vendor_xiaomi_sm6150-common",
-         "kernel_xiaomi_tucana"
-      ]
-   },
-   {
       "name": "Mi A1",
       "brand": "Xiaomi",
       "codename": "tissot",
@@ -3082,6 +3060,28 @@
          "kernel_xiaomi_tissot",
          "vendor_xiaomi_tissot",
          "vendor_xiaomi_msm8953-common"
+      ]
+   },
+   {
+      "name": "Mi CC9 Pro/Note 10",
+      "brand": "Xiaomi",
+      "codename": "tucana",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_tucana",
+         "device_xiaomi_sm6150-common",
+         "vendor_xiaomi_tucana",
+         "vendor_xiaomi_sm6150-common",
+         "kernel_xiaomi_tucana"
       ]
    },
    {
