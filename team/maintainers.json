@@ -266,6 +266,13 @@
             ]
          },
          {
+            "codename": "kunlun2_row",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
             "codename": "dipper",
             "versions": [
                "eleven",
