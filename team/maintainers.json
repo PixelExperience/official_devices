@@ -391,13 +391,6 @@
                "eleven",
                "eleven_plus"
             ]
-         },
-         {
-            "codename": "surya",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
          }
       ],
       "ci_username": "nullbytepl"
