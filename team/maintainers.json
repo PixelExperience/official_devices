@@ -379,23 +379,6 @@
       "ci_username": "jonascardoso"
    },
    {
-      "name": "Juampapo546",
-      "country": "AR",
-      "github_username": "juampapo546",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9141885",
-      "telegram_url": "http://t.me/juampapo546",
-      "devices": [
-         {
-            "codename": "evert",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "juampapo546"
-   },
-   {
       "name": "Kuba Wojciechowski",
       "country": "PL",
       "github_username": "nullbytepl",
