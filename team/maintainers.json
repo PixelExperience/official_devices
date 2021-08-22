@@ -600,6 +600,23 @@
       "ci_username": "pulkit077"
    },
    {
+      "name": "Rahul Krishna",
+      "country": "IN",
+      "github_username": "rk779",
+      "xda_url": "https://forum.xda-developers.com/m/rk585.7985055/",
+      "telegram_url": "http://t.me/rk585",
+      "devices": [
+         {
+            "codename": "X01BD",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "rk779"
+   },
+   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "danascape",
@@ -814,22 +831,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "Rahul Krishna",
-      "country": "IN",
-      "github_username": "rk779",
-      "xda_url": "https://forum.xda-developers.com/m/rk585.7985055/",
-      "telegram_url": "http://t.me/rk585",
-      "devices": [
-         {
-            "codename": "X01BD",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "rk779"
    }
 ]
