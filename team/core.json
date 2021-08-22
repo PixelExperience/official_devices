@@ -82,23 +82,6 @@
       "ci_username": "jorgelucas"
    },
    {
-      "name": "Rahul Krishna",
-      "country": "IN",
-      "github_username": "rk779",
-      "xda_url": "https://forum.xda-developers.com/m/rk585.7985055/",
-      "telegram_url": "http://t.me/rk585",
-      "devices": [
-         {
-            "codename": "X01BD",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "rk779"
-   },
-   {
       "name": "Rohan Hasabe (Hasaber8)",
       "country": "IN",
       "github_username": "hasaber8",
