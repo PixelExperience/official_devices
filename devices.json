@@ -309,6 +309,30 @@
       ]
    },
    {
+      "name": "Mi 11X",
+      "brand": "Xiaomi",
+      "codename": "alioth",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_alioth",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_alioth",
+         "vendor_xiaomi_sm8250-common"
+      ]
+   },
+   {
       "name": "Mi Mix 3 5G",
       "brand": "Xiaomi",
       "codename": "andromeda",
@@ -382,30 +406,6 @@
          "device_xiaomi_sm8250-common",
          "kernel_xiaomi_sm8250",
          "vendor_xiaomi_apollon",
-         "vendor_xiaomi_sm8250-common"
-      ]
-   },
-   {
-      "name": "Mi 11X",
-      "brand": "Xiaomi",
-      "codename": "alioth",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_alioth",
-         "device_xiaomi_sm8250-common",
-         "kernel_xiaomi_sm8250",
-         "vendor_xiaomi_alioth",
          "vendor_xiaomi_sm8250-common"
       ]
    },
