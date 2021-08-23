@@ -364,27 +364,49 @@
    {
       "name": "Mi 10T",
       "brand": "Xiaomi",
-      "codename": "apollo",
+      "codename": "apollon",
       "supported_versions": [
          {
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/",
-            "stable": true,
-            "deprecated": true
+            "stable": true
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/",
-            "stable": true,
-            "deprecated": true
+            "stable": true
          }
       ],
       "repositories": [
-         "device_xiaomi_apollo",
-         "device_xiaomi_apollo-kernel",
-         "device_xiaomi_apollo-sepolicy",
-         "kernel_xiaomi_apollo",
-         "vendor_xiaomi_apollo"
+         "device_xiaomi_apollon",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_apollon",
+         "vendor_xiaomi_sm8250-common"
+      ]
+   },
+   {
+      "name": "Mi 11X",
+      "brand": "Xiaomi",
+      "codename": "alioth",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_alioth",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_alioth",
+         "vendor_xiaomi_sm8250-common"
       ]
    },
    {
@@ -2394,12 +2416,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/",
             "stable": true
          }
       ],
