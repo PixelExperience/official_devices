@@ -2667,5 +2667,34 @@
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
       ]
+   },
+   {
+      "name": "2 / C1",
+      "brand": "Realme",
+      "codename": "RMX1805",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         },
+         {
+            "version_code": "ten",
+            "xda_thread": "",
+            "deprecated": true
+         },
+         {
+            "version_code": "ten_plus",
+            "xda_thread": "",
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_oppo_RMX1805",
+         "vendor_oppo_RMX1805"
+      ]
    }
 ]
