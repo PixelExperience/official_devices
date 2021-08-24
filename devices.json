@@ -388,7 +388,7 @@
    {
       "name": "Mi 10T",
       "brand": "Xiaomi",
-      "codename": "apollon",
+      "codename": "apollo",
       "supported_versions": [
          {
             "version_code": "eleven",
@@ -402,10 +402,10 @@
          }
       ],
       "repositories": [
-         "device_xiaomi_apollon",
+         "device_xiaomi_apollo",
          "device_xiaomi_sm8250-common",
          "kernel_xiaomi_sm8250",
-         "vendor_xiaomi_apollon",
+         "vendor_xiaomi_apollo",
          "vendor_xiaomi_sm8250-common"
       ]
    },
