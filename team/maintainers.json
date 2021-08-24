@@ -830,6 +830,23 @@
       "ci_username": "jro1979oliver"
    },
    {
+      "name": "Jaideep",
+      "country": "IN",
+      "github_username": "jaideepgithub",
+      "xda_url": " ",
+      "telegram_url": "http://t.me/callme_as_jai",
+      "devices": [
+         {
+            "codename": "RMX1805",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "jaideepci"
+   },
+   {
       "name": "solidv",
       "country": "PT",
       "github_username": "solidv",
