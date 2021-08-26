@@ -160,6 +160,23 @@
             "main_maintainer": true
          }
       ],
+      "ci_username": "bagualisson"
+   },
+   {
+      "name": "Alisson Grizotti",
+      "country": "BR",
+      "github_username": "AlissonGrizotti",
+      "xda_url": "https://forum.xda-developers.com/m/alisson1397.7677621/",
+      "telegram_url": "http://t.me/bagualisson",
+      "devices": [
+         {
+            "codename": "vayu",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
       "ci_username": "chandrachaganti"
    },
    {
