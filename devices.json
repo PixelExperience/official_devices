@@ -437,10 +437,10 @@
       ],
       "repositories": [
          "device_oneplus_avicii",
+         "device_oneplus_sm7250-common",
          "kernel_oneplus_sm7250",
          "vendor_oneplus_avicii",
-         "vendor_oneplus_avicii-vendor",
-         "vendor_oneplus_camera",
+         "vendor_oneplus_sm7250-common",
          "vendor_oneplus-firmware"
       ]
    },
