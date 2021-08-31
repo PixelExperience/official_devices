@@ -1,25 +1,5 @@
 [
    {
-      "name": "2 Pro",
-      "brand": "Realme",
-      "codename": "r2p",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_realme_r2p",
-         "kernel_realme_sdm660",
-         "vendor_realme_r2p"
-      ]
-   },
-   {
       "name": "3 Pro",
       "brand": "Realme",
       "codename": "RMX1851",
@@ -2047,6 +2027,26 @@
          "device_motorola_potter",
          "kernel_motorola_potter",
          "vendor_motorola_potter"
+      ]
+   },
+   {
+      "name": "2 Pro",
+      "brand": "Realme",
+      "codename": "r2p",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_realme_r2p",
+         "kernel_realme_sdm660",
+         "vendor_realme_r2p"
       ]
    },
    {
