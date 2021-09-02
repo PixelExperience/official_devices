@@ -74,6 +74,23 @@
       "ci_username": "sevralt"
    },
    {
+      "name": "Alisson Grizotti",
+      "country": "BR",
+      "github_username": "alissongrizotti",
+      "xda_url": "https://forum.xda-developers.com/m/alisson1397.7677621/",
+      "telegram_url": "http://t.me/bagualisson",
+      "devices": [
+         {
+            "codename": "vayu",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "bagualisson"
+   },
+   {
       "name": "Allan Pereira",
       "country": "BR",
       "github_username": "allansouzadk",
@@ -178,23 +195,6 @@
          }
       ],
       "ci_username": "chandrachaganti"
-   },
-   {
-      "name": "Alisson Grizotti",
-      "country": "BR",
-      "github_username": "AlissonGrizotti",
-      "xda_url": "https://forum.xda-developers.com/m/alisson1397.7677621/",
-      "telegram_url": "http://t.me/bagualisson",
-      "devices": [
-         {
-            "codename": "vayu",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "bagualisson"
    },
    {
       "name": "Daniel Jacob",

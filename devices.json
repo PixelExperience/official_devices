@@ -535,28 +535,6 @@
       ]
    },
    {
-      "name": "Poco X3 Pro",
-      "brand": "Xiaomi",
-      "codename": "vayu",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_vayu",
-         "kernel_xiaomi_vayu",
-         "vendor_xiaomi_vayu"
-      ]
-   },
-   {
       "name": "Nord N10",
       "brand": "OnePlus",
       "codename": "billie",
@@ -2574,6 +2552,28 @@
          "vendor_teracube_v7101o",
          "vendor_teracube_v7101o-vendor",
          "vendor_teracube_firmware"
+      ]
+   },
+   {
+      "name": "Poco X3 Pro",
+      "brand": "Xiaomi",
+      "codename": "vayu",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_vayu",
+         "kernel_xiaomi_vayu",
+         "vendor_xiaomi_vayu"
       ]
    },
    {
