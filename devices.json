@@ -1392,6 +1392,31 @@
       ]
    },
    {
+      "name": "Z5s",
+      "brand": "Lenovo",
+      "codename": "jd2019",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-unofficial-jd2019-pixel-experience-for-lenovo-z5s-august-22-2021.4228875/",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-unofficial-jd2019-pixel-experience-for-lenovo-z5s-august-22-2021.4228875/",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_lenovo_jd2019",
+         "device_lenovo_sdm710-common",
+         "kernel_lenovo_sdm710",
+         "vendor_lenovo_jd2019",
+         "vendor_lenovo_sdm710-common",
+         "vendor_lenovo-firmware"
+      ]
+   },
+   {
       "name": "Z6 Lite",
       "brand": "Lenovo",
       "codename": "kunlun2",
