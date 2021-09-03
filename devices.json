@@ -1368,30 +1368,6 @@
       ]
    },
    {
-      "name": "8T",
-      "brand": "OnePlus",
-      "codename": "kebab",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": true,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": true,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
-         }
-      ],
-      "repositories": [
-         "device_oneplus_kebab",
-         "device_oneplus_sm8250-common",
-         "vendor_oneplus_kebab",
-         "vendor_oneplus_sm8250-common",
-         "kernel_oneplus_sm8250"
-      ]
-   },
-   {
       "name": "Z5s",
       "brand": "Lenovo",
       "codename": "jd2019",
@@ -1414,6 +1390,30 @@
          "vendor_lenovo_jd2019",
          "vendor_lenovo_sdm710-common",
          "vendor_lenovo-firmware"
+      ]
+   },
+   {
+      "name": "8T",
+      "brand": "OnePlus",
+      "codename": "kebab",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053"
+         }
+      ],
+      "repositories": [
+         "device_oneplus_kebab",
+         "device_oneplus_sm8250-common",
+         "vendor_oneplus_kebab",
+         "vendor_oneplus_sm8250-common",
+         "kernel_oneplus_sm8250"
       ]
    },
    {

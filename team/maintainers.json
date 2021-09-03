@@ -512,23 +512,6 @@
       "ci_username": "expressluke"
    },
    {
-      "name": "lzgmc",
-      "country": "US",
-      "github_username": "lzgmc",
-      "xda_url": "https://forum.xda-developers.com/m/lzgmc.7277634/",
-      "telegram_url": "https://t.me/lzgmc",
-      "devices": [
-         {
-            "codename": "jd2019",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "lzgmc"
-   },
-   {
       "name": "Luís Ferreira",
       "country": "PT",
       "github_username": "ljmf00",
@@ -879,6 +862,23 @@
          }
       ],
       "ci_username": "jro1979oliver"
+   },
+   {
+      "name": "lzgmc",
+      "country": "US",
+      "github_username": "lzgmc",
+      "xda_url": "https://forum.xda-developers.com/m/lzgmc.7277634/",
+      "telegram_url": "https://t.me/lzgmc",
+      "devices": [
+         {
+            "codename": "jd2019",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "lzgmc"
    },
    {
       "name": "solidv",
