@@ -2437,15 +2437,13 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-surya-karna-new-pixelexperience-aosp.4231127",
-            "stable": true,
-            "deprecated": true
+            "xda_thread": "",
+            "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-surya-karna-new-pixelexperience-aosp.4231127",
-            "stable": true,
-            "deprecated": true
+            "xda_thread": "",
+            "stable": true
          }
       ],
       "repositories": [
