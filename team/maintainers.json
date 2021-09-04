@@ -139,6 +139,23 @@
       "ci_username": "baalajimaestro"
    },
    {
+      "name": "CHRISL7",
+      "country": "BR",
+      "github_username": "chrisw444",
+      "xda_url": "https://forum.xda-developers.com/m/chrisw444.11220339/",
+      "telegram_url": "http://t.me/CHRISL7",
+      "devices": [
+         {
+            "codename": "surya",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "chris"
+   },
+   {
       "name": "Chandra Chaganti",
       "country": "IN",
       "github_username": "chandra-chaganti",
@@ -195,23 +212,6 @@
          }
       ],
       "ci_username": "chandrachaganti"
-   },
-   {
-      "name": "CHRISL7",
-      "country": "BR",
-      "github_username": "ChrisW444",
-      "xda_url": "https://forum.xda-developers.com/m/chrisw444.11220339/",
-      "telegram_url": "http://t.me/CHRISL7",
-      "devices": [
-         {
-            "codename": "surya",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "chris"
    },
    {
       "name": "Daniel Jacob",
