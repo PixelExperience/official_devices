@@ -1,5 +1,6 @@
 # PixelExperience
 ## Official devices application
+## New Device intake is frozen until we start rolling out stable A12 builds.
 
 Devices repository: [PixelExperience-Devices](https://github.com/PixelExperience-Devices)
 
