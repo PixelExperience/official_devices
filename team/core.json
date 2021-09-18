@@ -88,27 +88,6 @@
       "xda_url": "https://forum.xda-developers.com/m/rohanhasabe8.9506906/",
       "telegram_url": "http://t.me/Hasaber8",
       "devices": [
-         {
-            "codename": "chef",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "liber",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "parker",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
       ],
       "ci_username": "hasaber8"
    },
