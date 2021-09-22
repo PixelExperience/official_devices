@@ -1977,10 +1977,12 @@
       "supported_versions": [
          {
             "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-tucana-pixel-experience-aosp-2021-09-22.4337385",
             "stable": false
          },
          {
             "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-tucana-pixel-experience-aosp-2021-09-22.4337385",
             "stable": false
          }
       ],
