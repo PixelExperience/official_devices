@@ -782,15 +782,7 @@
       "github_username": "zjunior06",
       "xda_url": "https://forum.xda-developers.com/member.php?u=7233293",
       "telegram_url": "http://t.me/zjunior06",
-      "devices": [
-         {
-            "codename": "potter",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "zjunior06"
    },
    {
