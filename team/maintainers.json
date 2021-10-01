@@ -163,30 +163,6 @@
       "telegram_url": "http://t.me/ChandraChaganti",
       "devices": [
          {
-            "codename": "instantnoodlep",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ],
-            "main_maintainer": true
-         },
-         {
-            "codename": "instantnoodle",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ],
-            "main_maintainer": true
-         },
-         {
-            "codename": "kebab",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ],
-            "main_maintainer": true
-         },
-         {
             "codename": "guacamole",
             "versions": [
                "eleven",
