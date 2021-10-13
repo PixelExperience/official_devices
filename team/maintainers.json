@@ -529,23 +529,6 @@
       "ci_username": "bablus"
    },
    {
-      "name": "Nafid Faham",
-      "country": "BD",
-      "github_username": "faham1997",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8203848",
-      "telegram_url": "http://t.me/letsmakecakes",
-      "devices": [
-         {
-            "codename": "lavender",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "letsmakecakes"
-   },
-   {
       "name": "Nicholas Magill",
       "country": "GB",
       "github_username": "inkypen79",
