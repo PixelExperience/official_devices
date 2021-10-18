@@ -422,23 +422,6 @@
       "ci_username": "jonascardoso"
    },
    {
-      "name": "Kuba Wojciechowski",
-      "country": "PL",
-      "github_username": "nullbytepl",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8493232",
-      "telegram_url": "http://t.me/nullby",
-      "devices": [
-         {
-            "codename": "TP1803",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "nullbytepl"
-   },
-   {
       "name": "Lakshay Garg",
       "country": "IN",
       "github_username": "lakgarg",
