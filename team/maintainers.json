@@ -74,6 +74,22 @@
       "ci_username": "sevralt"
    },
    {
+      "name": "Alexandre Rangel",
+      "country": "BR",
+      "github_username": "mamutal91",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8414586",
+      "telegram_url": "http://t.me/mamutal91",
+      "devices": [
+         {
+            "codename": "lmi",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "mamutal91"
+   },
+   {
       "name": "Alisson Grizotti",
       "country": "BR",
       "github_username": "alissongrizotti",
