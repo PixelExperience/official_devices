@@ -295,13 +295,6 @@
       "telegram_url": "http://t.me/GiaSen",
       "devices": [
          {
-            "codename": "mido",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
             "codename": "kunlun2",
             "versions": [
                "eleven",
