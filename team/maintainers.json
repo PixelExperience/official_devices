@@ -124,14 +124,6 @@
       "ci_username": "allansouzadk"
    },
    {
-      "name": "Angga Satya Putra",
-      "country": "ID",
-      "github_username": "anggasp",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=5153731",
-      "devices": [],
-      "ci_username": "anggasp"
-   },
-   {
       "name": "Baalaji Balasubramani",
       "country": "IN",
       "github_username": "baalajimaestro",
@@ -726,15 +718,6 @@
          }
       ],
       "ci_username": "subinsmani"
-   },
-   {
-      "name": "Zilberto Junior",
-      "country": "BR",
-      "github_username": "zjunior06",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7233293",
-      "telegram_url": "http://t.me/zjunior06",
-      "devices": [],
-      "ci_username": "zjunior06"
    },
    {
       "name": "baolong24",
