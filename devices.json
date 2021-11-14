@@ -2108,7 +2108,8 @@
       "repositories": [
          "device_xiaomi_violet",
          "kernel_xiaomi_violet",
-         "vendor_xiaomi_violet"
+         "vendor_xiaomi_violet",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
