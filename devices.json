@@ -2064,12 +2064,17 @@
             "version_code": "eleven_plus",
             "xda_thread": "",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
          "device_xiaomi_vayu",
          "kernel_xiaomi_vayu",
-         "vendor_xiaomi_vayu"
+         "vendor_xiaomi_vayu",
+         "hardware_xiaomi"
       ]
    },
    {
