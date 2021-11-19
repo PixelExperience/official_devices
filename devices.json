@@ -1925,7 +1925,8 @@
       "repositories": [
          "device_xiaomi_surya",
          "kernel_xiaomi_surya",
-         "vendor_xiaomi_surya"
+         "vendor_xiaomi_surya",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
