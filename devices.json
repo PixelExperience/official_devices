@@ -553,6 +553,11 @@
             "version_code": "eleven_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/"
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/"
          }
       ],
       "repositories": [
@@ -692,6 +697,11 @@
             "version_code": "eleven_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/official-rom-11-0-pixel-experience-11-oneplus-5-5t-dumpling-cheeseburger.4198963/"
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/"
          }
       ],
       "repositories": [
