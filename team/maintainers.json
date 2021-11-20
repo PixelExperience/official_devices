@@ -436,14 +436,16 @@
             "codename": "cheeseburger",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          },
          {
             "codename": "dumpling",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          }
       ],
