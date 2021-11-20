@@ -1951,6 +1951,10 @@
             "version_code": "eleven_plus",
             "xda_thread": "",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
