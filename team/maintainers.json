@@ -556,14 +556,16 @@
             "codename": "walleye",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          },
          {
             "codename": "taimen",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          }
       ],
