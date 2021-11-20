@@ -789,6 +789,10 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-gauguin-official-pixel-experience-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4236779/",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
@@ -1529,6 +1533,10 @@
             "version_code": "eleven_plus",
             "xda_thread": "",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
