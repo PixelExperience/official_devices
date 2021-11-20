@@ -1199,6 +1199,10 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
@@ -1708,6 +1712,10 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/",
             "telegram_url": "https://t.me/peraphaelofficial",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
