@@ -342,6 +342,11 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
+            "stable": false
          }
       ],
       "repositories": [
