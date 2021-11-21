@@ -1685,6 +1685,10 @@
          {
             "version_code": "eleven_plus",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [

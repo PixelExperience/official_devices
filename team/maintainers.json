@@ -44,7 +44,8 @@
             "codename": "r2p",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+	       "twelve"
             ]
          }
       ],
