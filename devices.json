@@ -535,6 +535,11 @@
             "version_code": "eleven_plus",
             "xda_thread": "",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false
          }
       ],
       "repositories": [
