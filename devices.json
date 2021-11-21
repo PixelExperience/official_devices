@@ -33,12 +33,16 @@
          {
             "version_code": "eleven_plus",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
          "device_realme_RMX1971",
          "device_realme_sdm710-common",
-         "kernel_realme_RMX1971",
+         "kernel_realme_sdm710",
          "vendor_realme_RMX1971",
          "vendor_realme_sdm710-common"
       ]
