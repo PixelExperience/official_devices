@@ -120,7 +120,8 @@
             "codename": "platina",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          }
       ],
