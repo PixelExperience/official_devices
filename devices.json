@@ -965,8 +965,7 @@
          "device_samsung_hero2lte",
          "device_samsung_universal8890-common",
          "kernel_samsung_universal8890",
-         "vendor_samsung_universal8890-common",
-         "hardware_samsung"
+         "vendor_samsung_universal8890-common"
       ]
    },
    {
@@ -987,8 +986,7 @@
          "device_samsung_herolte",
          "device_samsung_universal8890-common",
          "kernel_samsung_universal8890",
-         "vendor_samsung_universal8890-common",
-         "hardware_samsung"
+         "vendor_samsung_universal8890-common"
       ]
    },
    {
@@ -2149,8 +2147,7 @@
       "repositories": [
          "device_xiaomi_vayu",
          "kernel_xiaomi_vayu",
-         "vendor_xiaomi_vayu",
-         "hardware_xiaomi"
+         "vendor_xiaomi_vayu"
       ]
    },
    {
