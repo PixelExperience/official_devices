@@ -476,7 +476,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": true
+            "stable": false
          }
       ],
       "repositories": [
@@ -1933,7 +1933,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": true
+            "stable": false
          }
       ],
       "repositories": [
