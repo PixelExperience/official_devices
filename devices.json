@@ -476,7 +476,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": false
+            "stable": true
          }
       ],
       "repositories": [
@@ -1929,6 +1929,10 @@
          },
          {
             "version_code": "eleven_plus",
+            "stable": true
+         },
+         {
+            "version_code": "twelve",
             "stable": true
          }
       ],
