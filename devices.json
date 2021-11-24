@@ -432,6 +432,11 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
+            "stable": false
          }
       ],
       "repositories": [
