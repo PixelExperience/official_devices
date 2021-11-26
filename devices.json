@@ -2293,5 +2293,23 @@
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
       ]
+   },
+      {
+      "name": "Redmi 8 | 8A | 8A Dual",
+      "brand": "Xiaomi",
+      "codename": "olive, olivelite, olivewood",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_olives",
+         "device_xiaomi_sdm439-common",
+         "kernel_xiaomi_sdm439",
+         "vendor_xiaomi_olives",
+         "vendor_xiaomi_sdm439-common"
+      ]
    }
 ]
