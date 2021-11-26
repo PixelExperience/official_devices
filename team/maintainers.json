@@ -805,5 +805,33 @@
          }
       ],
       "ci_username": "solidv"
+   },
+      {
+      "name": "Emanuele Scarlata",
+      "country": "IT",
+      "github_username": "Fenix46",
+      "xda_url": "https://forum.xda-developers.com/m/fenix46.6140342/",
+      "telegram_url": "http://t.me/Fenix46",
+      "devices": [
+         {
+            "codename": "olive",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "olivelite",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "olivewood",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "Fenix46"
    }
 ]
