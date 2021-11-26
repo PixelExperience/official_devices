@@ -653,7 +653,8 @@
             "codename": "ginkgo",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ],
             "main_maintainer": true
          },
@@ -695,7 +696,8 @@
             "codename": "ginkgo",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          }
       ],
