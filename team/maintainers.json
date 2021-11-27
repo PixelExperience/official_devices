@@ -179,7 +179,8 @@
             "codename": "guacamole",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ],
             "main_maintainer": true
          },
@@ -187,7 +188,8 @@
             "codename": "hotdog",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ],
             "main_maintainer": true
          },
@@ -195,7 +197,8 @@
             "codename": "hotdogb",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ],
             "main_maintainer": true
          }
