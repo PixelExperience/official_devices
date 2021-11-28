@@ -138,13 +138,18 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-x01bd-pixelexperience-aosp-24-february-2021.4221219/",
+            "xda_thread": "https://forum.xda-developers.com/t/4221219/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-x01bd-pixelexperience-aosp-24-february-2021.4221219/",
+            "xda_thread": "https://forum.xda-developers.com/t/4221219/",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false
          }
       ],
       "repositories": [
@@ -1513,13 +1518,18 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-3-3t-pixel-experience-aosp-23-02-2021.4196403/",
+            "xda_thread": "https://forum.xda-developers.com/t/4196403/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-3-3t-pixel-experience-aosp-23-02-2021.4196403/",
+            "xda_thread": "https://forum.xda-developers.com/t/4196403/",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false
          }
       ],
       "repositories": [
