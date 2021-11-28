@@ -1996,12 +1996,17 @@
          {
             "version_code": "eleven",
             "stable": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+            "xda_thread": "https://forum.xda-developers.com/t/4039373/"
          },
          {
             "version_code": "eleven_plus",
             "stable": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373"
+            "xda_thread": "https://forum.xda-developers.com/t/4039373/"
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/4355535/"
          }
       ],
       "repositories": [
@@ -2010,7 +2015,8 @@
          "kernel_xiaomi_sdm710",
          "vendor_xiaomi_sdm710-common",
          "vendor_xiaomi_sirius",
-         "vendor_xiaomi-firmware"
+         "vendor_xiaomi-firmware",
+         "vendor_xiaomi_sdm845-common-extra"
       ]
    },
    {
