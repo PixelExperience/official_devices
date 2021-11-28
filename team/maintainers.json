@@ -137,7 +137,8 @@
             "codename": "davinci",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          },
          {
@@ -823,7 +824,8 @@
             "codename": "davinci",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          }
       ],

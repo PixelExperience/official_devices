@@ -672,6 +672,11 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
             "stable": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
          }
       ],
       "repositories": [
