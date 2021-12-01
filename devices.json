@@ -698,16 +698,17 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-dipper-pixel-experience-aosp.4244675/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-dipper-pixel-experience-aosp.4244675/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": true
          },
          {
             "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": false
          }
       ],
@@ -1193,16 +1194,17 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true
          },
          {
             "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": false
          }
       ],
@@ -1222,16 +1224,17 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true
          },
          {
             "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": false
          }
       ],
