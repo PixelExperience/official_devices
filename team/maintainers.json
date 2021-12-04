@@ -527,7 +527,8 @@
             "codename": "r5x",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          }
       ],
