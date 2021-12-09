@@ -845,8 +845,8 @@
       ],
       "repositories": [
          "device_xiaomi_gauguin",
-         "vendor_xiaomi_gauguin",
-         "vendor_xiaomi_gauguin-vendor"
+         "kernel_xiaomi_gauguin",
+         "vendor_xiaomi_gauguin"
       ]
    },
    {
