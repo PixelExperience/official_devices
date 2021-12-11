@@ -628,37 +628,12 @@
       "ci_username": "rk779"
    },
    {
-      "name": "Richard Moser",
-      "country": "CA",
-      "github_username": "kronflux",
-      "xda_url": "https://forum.xda-developers.com/m/kronflux.4676634/",
-      "telegram_url": "http://t.me/kronfux",
-      "devices": [
-         {
-            "codename": "billie",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "kronflux"
-   },
-   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "danascape",
       "xda_url": "https://forum.xda-developers.com/m/iamsaalim.9254143/",
       "telegram_url": "http://t.me/gabbyintegral",
       "devices": [
-         {
-            "codename": "billie",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ],
-            "main_maintainer": true
-         },
          {
             "codename": "ginkgo",
             "versions": [

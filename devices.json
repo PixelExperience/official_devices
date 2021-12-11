@@ -456,27 +456,6 @@
       ]
    },
    {
-      "name": "Nord N10",
-      "brand": "OnePlus",
-      "codename": "billie",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533"
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-11-oneplus-nord-n10-billie-pixel-experience-aosp.4243533"
-         }
-      ],
-      "repositories": [
-         "device_oneplus_billie",
-         "kernel_oneplus_sm6350",
-         "vendor_oneplus_billie",
-         "vendor_oneplus_billie-vendor"
-      ]
-   },
-   {
       "name": "Pixel 3A XL",
       "brand": "Google",
       "codename": "bonito",
