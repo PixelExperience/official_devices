@@ -1527,14 +1527,17 @@
       "supported_versions": [
          {
             "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
             "stable": true,
             "deprecated": false
          },
          {
             "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-mido-pixel-experience-aosp-11-0.4004239/",
             "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
             "deprecated": false
          }
       ],
