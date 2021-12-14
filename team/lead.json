@@ -19,6 +19,14 @@
             "eleven_plus",
             "twelve"
          ]
+      },
+      {
+         "codename": "mido",
+         "versions": [
+            "eleven",
+            "eleven_plus",
+            "twelve"
+         ]
       }
    ],
    "ci_username": "jhenrique09"
