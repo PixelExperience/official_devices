@@ -276,6 +276,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-alioth-aliothin-pixel-experience-official-aosp.4323569/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -351,6 +357,12 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/",
             "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -447,6 +459,12 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-11-begonia-pixel-experience-official-aosp.4196041/",
             "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -1563,6 +1581,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-mojito-sunny-pixel-experience-official-aosp.4264285/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2049,6 +2073,11 @@
             "version_code": "eleven_plus",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2236,6 +2265,12 @@
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/",
             "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": false,
             "deprecated": false
          }
       ],
