@@ -994,18 +994,18 @@
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -1095,18 +1095,18 @@
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -1126,18 +1126,18 @@
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [

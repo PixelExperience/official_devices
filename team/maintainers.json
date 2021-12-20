@@ -170,43 +170,6 @@
       "ci_username": "chrisw444"
    },
    {
-      "name": "Chandra Chaganti",
-      "country": "IN",
-      "github_username": "chandra-chaganti",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7600620",
-      "telegram_url": "http://t.me/ChandraChaganti",
-      "devices": [
-         {
-            "codename": "guacamole",
-            "versions": [
-               "eleven",
-               "eleven_plus",
-               "twelve"
-            ],
-            "main_maintainer": true
-         },
-         {
-            "codename": "hotdog",
-            "versions": [
-               "eleven",
-               "eleven_plus",
-               "twelve"
-            ],
-            "main_maintainer": true
-         },
-         {
-            "codename": "hotdogb",
-            "versions": [
-               "eleven",
-               "eleven_plus",
-               "twelve"
-            ],
-            "main_maintainer": true
-         }
-      ],
-      "ci_username": "chandrachaganti"
-   },
-   {
       "name": "Daniel Jacob",
       "country": "IN",
       "github_username": "djchittoor",
