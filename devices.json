@@ -952,7 +952,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
