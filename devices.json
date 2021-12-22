@@ -600,7 +600,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
