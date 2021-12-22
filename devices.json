@@ -217,13 +217,13 @@
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
