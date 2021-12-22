@@ -280,7 +280,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -363,7 +363,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -465,7 +465,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -1586,7 +1586,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -2076,7 +2076,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -2270,7 +2270,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
