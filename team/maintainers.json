@@ -325,23 +325,6 @@
       "ci_username": "jarlpenguin"
    },
    {
-      "name": "Jean Graff",
-      "country": "BR",
-      "github_username": "jeangraff30",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9466600",
-      "telegram_url": "https://t.me/JeanGraff30",
-      "devices": [
-         {
-            "codename": "albus",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "jeangraff30"
-   },
-   {
       "name": "Jonas Cardoso",
       "country": "BR",
       "github_username": "jonascardoso",
