@@ -224,6 +224,12 @@
                "eleven_plus",
                "twelve"
             ]
+         },
+         {
+            "codename": "haydn",
+            "versions": [
+               "twelve"
+            ]
          }
       ],
       "ci_username": "ecrosoftxiao"
