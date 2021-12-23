@@ -293,23 +293,6 @@
       ]
    },
    {
-      "name": "Redmi K40 Pro / Pro+ / Mi 11X Pro / Mi 11i",
-      "brand": "Xiaomi",
-      "codename": "haydn",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_haydn",
-         "kernel_xiaomi_haydn",
-         "vendor_xiaomi_haydn"
-      ]
-   },
-   {
       "name": "Mi Mix 3 5G",
       "brand": "Xiaomi",
       "codename": "andromeda",
@@ -1056,6 +1039,24 @@
          "kernel_oneplus_guacamoleb-headers",
          "vendor_oneplus_guacamoleb",
          "vendor_oneplus-firmware"
+      ]
+   },
+   {
+      "name": "Redmi K40 Pro / Pro+ / Mi 11X Pro / Mi 11i",
+      "brand": "Xiaomi",
+      "codename": "haydn",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_haydn",
+         "kernel_xiaomi_haydn",
+         "vendor_xiaomi_haydn"
       ]
    },
    {
