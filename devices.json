@@ -2223,7 +2223,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4355535/",
             "deprecated": false
          }
