@@ -2612,5 +2612,36 @@
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
       ]
+   },
+   {
+      "name": "Xiaomi Mi 10 Lite 5G",
+      "brand": "Xiaomi",
+      "codename": "monet",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-monet-pixelexperience-non-plus-plus-aosp-official.4333241/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "eleven_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-monet-pixelexperience-non-plus-plus-aosp-official.4333241/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-monet-pixelexperience-aosp-official.4378865/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_monet",
+         "device_xiaomi_sm7250-common",
+         "kernel_xiaomi_sm7250",
+         "vendor_xiaomi_monet"
+      ]
    }
 ]
