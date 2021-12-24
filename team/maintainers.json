@@ -743,5 +743,27 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "ReallySnow",
+      "country": "SG",
+      "github_username": "ReallySnow",
+      "xda_url": "",
+      "telegram_url": "http://t.me/reallysnow",
+      "devices": [
+         {
+            "codename": "blueline",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "crosshatch",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "reallysnow"
    }
 ]
