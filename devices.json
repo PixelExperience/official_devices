@@ -508,6 +508,25 @@
       ]
    },
    {
+      "name": "Pixel 3",
+      "brand": "Google",
+      "codename": "blueline",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_blueline",
+         "device_google_crosshatch",
+         "kernel_google_bluecross",
+         "vendor_google_blueline"
+      ]
+   },
+   {
       "name": "Pixel 3A XL",
       "brand": "Google",
       "codename": "bonito",
@@ -688,6 +707,24 @@
       "repositories": [
          "device_xiaomi_chiron",
          "vendor_xiaomi_chiron"
+      ]
+   },
+   {
+      "name": "Pixel 3 XL",
+      "brand": "Google",
+      "codename": "crosshatch",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_crosshatch",
+         "kernel_google_bluecross",
+         "vendor_google_crosshatch"
       ]
    },
    {
@@ -2574,41 +2611,6 @@
          "kernel_xiaomi_sdm660",
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
-      ]
-   },
-   {
-      "name": "Pixel 3",
-      "brand": "Google",
-      "codename": "blueline",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_google_blueline",
-         "device_google_crosshatch",
-         "kernel_google_bluecross",
-         "vendor_google_blueline"
-      ]
-   },
-   {
-      "name": "Pixel 3 XL",
-      "brand": "Google",
-      "codename": "crosshatch",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_google_crosshatch",
-         "kernel_google_bluecross",
-         "vendor_google_crosshatch"
       ]
    }
 ]
