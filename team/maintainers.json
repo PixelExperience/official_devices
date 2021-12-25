@@ -198,13 +198,6 @@
                "eleven_plus",
                "twelve"
             ]
-         },
-         {
-            "codename": "pine",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
          }
       ],
       "ci_username": "themalachite"
