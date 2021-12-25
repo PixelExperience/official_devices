@@ -185,7 +185,7 @@
       "ci_username": "djchittoor"
    },
    {
-      "name": "Elias",
+      "name": "Elias E. Gheeraert",
       "country": "FR",
       "github_username": "themalachite",
       "xda_url": "https://forum.xda-developers.com/m/themalachite.9609718/",
@@ -195,7 +195,8 @@
             "codename": "begonia",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+               "twelve"
             ]
          },
          {
