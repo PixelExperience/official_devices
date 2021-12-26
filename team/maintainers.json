@@ -759,5 +759,21 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "Marlon Alkan",
+      "country": "DE",
+      "github_username": "maluueu",
+      "xda_url": "https://forum.xda-developers.com/m/maluueu.11669459/",
+      "telegram_url": "https://t.me/maluueu",
+      "devices": [
+         {
+            "codename": "monet",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "maluueu"
    }
 ]
