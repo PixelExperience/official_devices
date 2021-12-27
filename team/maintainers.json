@@ -47,7 +47,8 @@
                "eleven",
                "eleven_plus",
                "twelve"
-            ]
+            ],
+            "main_maintainer": true
          }
       ],
       "ci_username": "ad1tyas1ngh"
@@ -183,6 +184,24 @@
          }
       ],
       "ci_username": "djchittoor"
+   },
+   {
+      "name": "Debayan Kar",
+      "country": "IN",
+      "github_username": "kardebayan",
+      "xda_url": "https://forum.xda-developers.com/m/kardebayan3.9878693/",
+      "telegram_url": "https://t.me/kardebayan",
+      "devices": [
+         {
+            "codename": "r2p",
+            "versions": [
+               "eleven",
+               "eleven_plus",
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "kardebayan"
    },
    {
       "name": "Elias E. Gheeraert",
