@@ -485,6 +485,12 @@
             "versions": [
                "twelve"
             ]
+         },
+         {
+            "codename": "vangogh",
+            "versions": [
+               "twelve"
+            ]
          }
       ],
       "ci_username": "maluueu"
