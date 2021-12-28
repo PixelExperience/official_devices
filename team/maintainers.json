@@ -548,23 +548,6 @@
       "ci_username": "pixelboot"
    },
    {
-      "name": "Pulkit Agarwal",
-      "country": "IN",
-      "github_username": "pulkit077",
-      "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
-      "telegram_url": "http://t.me/Pulkit077",
-      "devices": [
-         {
-            "codename": "rosy",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
-      "ci_username": "pulkit077"
-   },
-   {
       "name": "Rahul Krishna",
       "country": "IN",
       "github_username": "rk779",
