@@ -1673,6 +1673,25 @@
       ]
    },
    {
+      "name": "Mi 10 Lite Zoom / Youth Edition",
+      "brand": "Xiaomi",
+      "codename": "vangogh",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-vangogh-pixelexperience-aosp-official.4380355/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_vangogh",
+         "device_xiaomi_sm7250-common",
+         "kernel_xiaomi_sm7250",
+         "vendor_xiaomi_vangogh"
+      ]
+   },
+   {
       "name": "Mi 5s Plus",
       "brand": "Xiaomi",
       "codename": "natrium",
