@@ -2094,13 +2094,13 @@
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-rosy-pixelexperience-aosp-official-2021-02-05.4083285/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-rosy-pixelexperience-aosp-official-2021-02-05.4083285/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
