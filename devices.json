@@ -1483,16 +1483,9 @@
       "codename": "lavender",
       "supported_versions": [
          {
-            "version_code": "eleven",
+            "version_code": "twelve",
             "xda_thread": "",
-            "stable": true,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": true,
-            "deprecated": true
+            "stable": true
          }
       ],
       "repositories": [
