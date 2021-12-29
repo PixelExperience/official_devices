@@ -649,7 +649,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
             "deprecated": false
          }
@@ -826,7 +826,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
             "deprecated": false
          }
