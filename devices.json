@@ -1493,6 +1493,11 @@
             "xda_thread": "",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true
          }
       ],
       "repositories": [
