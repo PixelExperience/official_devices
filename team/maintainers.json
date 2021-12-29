@@ -759,5 +759,21 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "ticklemykettle",
+      "country": "AU",
+      "github_username": "ticklemykettle",
+      "xda_url": "https://forum.xda-developers.com/m/ticklemykettle.11958139/",
+      "telegram_url": "http://t.me/ticklemykettle",
+      "devices": [
+         {
+            "codename": "lavender",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "ticklemykettle"
    }
 ]
