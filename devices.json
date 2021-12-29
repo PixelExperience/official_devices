@@ -1497,7 +1497,8 @@
          {
             "version_code": "twelve",
             "xda_thread": "",
-            "stable": true
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
