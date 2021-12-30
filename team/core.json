@@ -106,14 +106,6 @@
       "telegram_url": "https://t.me/ZIDAN44",
       "devices": [
          {
-            "codename": "alioth",
-            "versions": [
-               "eleven",
-               "eleven_plus",
-               "twelve"
-            ]
-         },
-         {
             "codename": "apollo",
             "versions": [
                "eleven",
