@@ -2321,6 +2321,23 @@
       ]
    },
    {
+      "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
+      "brand": "Xiaomi",
+      "codename": "miatoll",
+      "supported_versions": [
+         {
+            "version_code": "twelve"
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_miatoll",
+         "device_xiaomi_sm6250-common",
+         "kernel_xiaomi_sm6250",
+         "vendor_xiaomi_miatoll",
+         "vendor_xiaomi_sm6250-common"
+      ]
+   },
+   {
       "name": "Poco X3",
       "brand": "Xiaomi",
       "codename": "surya",

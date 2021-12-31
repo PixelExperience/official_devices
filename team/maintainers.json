@@ -54,6 +54,22 @@
       "ci_username": "ad1tyas1ngh"
    },
    {
+      "name": "Alexander Winkowski",
+      "country": "PL",
+      "github_username": "dereference23",
+      "xda_url": "https://forum.xda-developers.com/m/dereference23.9347858",
+      "telegram_url": "https://t.me/dereference",
+      "devices": [
+         {
+            "codename": "miatoll",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "dereference"
+   },
+   {
       "name": "Alexandre Rangel",
       "country": "BR",
       "github_username": "mamutal91",
