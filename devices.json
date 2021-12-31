@@ -1602,6 +1602,25 @@
       ]
    },
    {
+      "name": "Redmi Note 9",
+      "brand": "Xiaomi",
+      "codename": "merlinx",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_merlinx",
+         "device_xiaomi_mt6768-common",
+         "kernel_xiaomi_mt6768",
+         "vendor_xiaomi_merlinx",
+         "vendor_xiaomi_mt6768-ims"
+      ]
+   },
+   {
       "name": "Redmi Note 4/4X",
       "brand": "Xiaomi",
       "codename": "mido",
