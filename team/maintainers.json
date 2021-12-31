@@ -493,22 +493,6 @@
       "ci_username": "bablus"
    },
    {
-      "name": "Matsvei Niaverau",
-      "country": "BY",
-      "github_username": "surblazer",
-      "xda_url": "https://forum.xda-developers.com/m/ud4.5213841/",
-      "telegram_url": "https://t.me/surblazer",
-      "devices": [
-         {
-            "codename": "merlinx",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "surblazer"
-   },
-   {
       "name": "Marlon Alkan",
       "country": "DE",
       "github_username": "maluueu",
@@ -529,6 +513,22 @@
          }
       ],
       "ci_username": "maluueu"
+   },
+   {
+      "name": "Matsvei Niaverau",
+      "country": "BY",
+      "github_username": "surblazer",
+      "xda_url": "https://forum.xda-developers.com/m/ud4.5213841/",
+      "telegram_url": "https://t.me/surblazer",
+      "devices": [
+         {
+            "codename": "merlinx",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "surblazer"
    },
    {
       "name": "Nicholas Magill",
