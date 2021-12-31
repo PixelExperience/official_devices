@@ -2358,6 +2358,7 @@
       "repositories": [
          "device_xiaomi_sweet",
          "device_xiaomi_sm6150-common",
+         "device_xiaomi_sm6150-extras",
          "kernel_xiaomi_sweet",
          "vendor_xiaomi_sweet",
          "vendor_xiaomi_sm6150-common",
