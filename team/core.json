@@ -91,7 +91,8 @@
             "codename": "kebab",
             "versions": [
                "eleven",
-               "eleven_plus"
+               "eleven_plus",
+	       "twelve"
             ],
             "main_maintainer": true
          }
