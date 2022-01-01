@@ -1323,11 +1323,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053",
             "deprecated": false
          },
-	 {
-	    "version_code": "twelve",
-	    "stable": false,
-	    "deprecated": false
-	 }
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
+         }
       ],
       "repositories": [
          "device_oneplus_kebab",
