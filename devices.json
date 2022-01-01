@@ -401,6 +401,7 @@
       ],
       "repositories": [
          "device_oneplus_avicii",
+         "device_oneplus_extras",
          "device_oneplus_sm7250-common",
          "kernel_oneplus_sm7250",
          "vendor_oneplus_avicii",
