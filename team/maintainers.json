@@ -9,8 +9,6 @@
          {
             "codename": "whyred",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -26,8 +24,6 @@
          {
             "codename": "tissot",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -44,8 +40,6 @@
          {
             "codename": "r2p",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ],
             "main_maintainer": true
@@ -111,8 +105,6 @@
          {
             "codename": "platina",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -124,22 +116,7 @@
       "country": "IN",
       "github_username": "baalajimaestro",
       "xda_url": "https://forum.xda-developers.com/m/baalajimaestro.8801146/",
-      "devices": [
-         {
-            "codename": "davinci",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "guacamoleb",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "baalajimaestro"
    },
    {
@@ -152,8 +129,6 @@
          {
             "codename": "surya",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -170,8 +145,6 @@
          {
             "codename": "alioth",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ],
             "main_maintainer": true
@@ -185,15 +158,7 @@
       "github_username": "djchittoor",
       "xda_url": "https://forum.xda-developers.com/m/djchittoor.10664579",
       "telegram_url": "http://t.me/djchittoor",
-      "devices": [
-         {
-            "codename": "avicii",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "djchittoor"
    },
    {
@@ -206,8 +171,6 @@
          {
             "codename": "r2p",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -224,8 +187,6 @@
          {
             "codename": "begonia",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -242,8 +203,6 @@
          {
             "codename": "cepheus",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
@@ -266,16 +225,12 @@
          {
             "codename": "oneplus3",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "X01BD",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -292,24 +247,18 @@
          {
             "codename": "kunlun2",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "kunlun2_row",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "dipper",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -326,8 +275,6 @@
          {
             "codename": "land",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -344,8 +291,6 @@
          {
             "codename": "river",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -358,43 +303,7 @@
       "github_username": "jonascardoso",
       "xda_url": "https://forum.xda-developers.com/member.php?u=5784821",
       "telegram_url": "http://t.me/JonasCardoso",
-      "devices": [
-         {
-            "codename": "gemini",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "capricorn",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "natrium",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "scorpio",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "lithium",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "jonascardoso"
    },
    {
@@ -407,8 +316,6 @@
          {
             "codename": "beryllium",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -425,16 +332,12 @@
          {
             "codename": "cheeseburger",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "dumpling",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -447,15 +350,7 @@
       "github_username": "luizdores",
       "xda_url": "https://forum.xda-developers.com/member.php?u=6826334",
       "telegram_url": "http://t.me/luizdores",
-      "devices": [
-         {
-            "codename": "ocean",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "luizdores"
    },
    {
@@ -464,22 +359,7 @@
       "github_username": "expressluke",
       "xda_url": "https://forum.xda-developers.com/member.php?u=7166349",
       "telegram_url": "https://t.me/ogexpressluke",
-      "devices": [
-         {
-            "codename": "herolte",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "hero2lte",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "expressluke"
    },
    {
@@ -492,16 +372,12 @@
          {
             "codename": "RMX1971",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "r5x",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -556,8 +432,6 @@
          {
             "codename": "andromeda",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -572,32 +446,14 @@
       "telegram_url": "https://t.me/PixelBoot",
       "devices": [
          {
-            "codename": "sailfish",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
-            "codename": "marlin",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         },
-         {
             "codename": "walleye",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "taimen",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -614,8 +470,6 @@
          {
             "codename": "X01BD",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -654,18 +508,9 @@
          {
             "codename": "ginkgo",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ],
             "main_maintainer": true
-         },
-         {
-            "codename": "X01AD",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
          }
       ],
       "ci_username": "saalim"
@@ -676,15 +521,7 @@
       "github_username": "dasshubham762",
       "xda_url": "https://forum.xda-developers.com/m/dasshubham762.8330494/",
       "telegram_url": "http://t.me/dasshubham762",
-      "devices": [
-         {
-            "codename": "violet",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "dasshubham762"
    },
    {
@@ -697,8 +534,6 @@
          {
             "codename": "ginkgo",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -715,8 +550,6 @@
          {
             "codename": "phoenix",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -729,15 +562,7 @@
       "github_username": "subinsmani",
       "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
       "telegram_url": "http://t.me/Subinsmani",
-      "devices": [
-         {
-            "codename": "X00TD",
-            "versions": [
-               "eleven",
-               "eleven_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "subinsmani"
    },
    {
@@ -750,16 +575,12 @@
          {
             "codename": "gauguin",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "picasso",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -785,8 +606,6 @@
          {
             "codename": "jd2019",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -803,8 +622,6 @@
          {
             "codename": "sirius",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }

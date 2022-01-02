@@ -535,12 +535,12 @@
          {
             "version_code": "eleven",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "eleven_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "twelve",
@@ -1637,12 +1637,12 @@
          {
             "version_code": "eleven",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "eleven_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "twelve",
@@ -2251,12 +2251,12 @@
          {
             "version_code": "eleven",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "eleven_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "twelve",

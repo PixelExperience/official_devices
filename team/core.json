@@ -9,8 +9,6 @@
          {
             "codename": "avicii",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -27,8 +25,6 @@
          {
             "codename": "polaris",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -45,8 +41,6 @@
          {
             "codename": "tucana",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -63,16 +57,12 @@
          {
             "codename": "lake",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "raphael",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ],
             "main_maintainer": true
@@ -90,8 +80,6 @@
          {
             "codename": "kebab",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ],
             "main_maintainer": true
@@ -109,16 +97,12 @@
          {
             "codename": "apollo",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "begonia",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ],
             "main_maintainer": true
@@ -126,24 +110,18 @@
          {
             "codename": "mojito",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "sakura",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          },
          {
             "codename": "sweet",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
@@ -160,8 +138,6 @@
          {
             "codename": "beckham",
             "versions": [
-               "eleven",
-               "eleven_plus",
                "twelve"
             ]
          }
