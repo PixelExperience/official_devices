@@ -521,7 +521,15 @@
       "github_username": "dasshubham762",
       "xda_url": "https://forum.xda-developers.com/m/dasshubham762.8330494/",
       "telegram_url": "http://t.me/dasshubham762",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "twelve"
+            ],
+            "main_maintainer": true
+         }
+      ],
       "ci_username": "dasshubham762"
    },
    {
