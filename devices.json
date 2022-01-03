@@ -95,6 +95,12 @@
       "codename": "X00TD",
       "supported_versions": [
          {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-x00td-pixelexperience-aosp",
+            "stable": false,
+            "deprecated": false
+         },
+         {
             "version_code": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-x00td-pixel-experience-aosp.4221031",
             "stable": true,
