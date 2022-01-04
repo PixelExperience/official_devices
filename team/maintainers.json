@@ -570,7 +570,14 @@
       "github_username": "subinsmani",
       "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
       "telegram_url": "http://t.me/Subinsmani",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
       "ci_username": "subinsmani"
    },
    {
