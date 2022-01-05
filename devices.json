@@ -1759,6 +1759,23 @@
       ]
    },
    {
+      "name": "Redmi 8A Dual",
+      "brand": "Xiaomi",
+      "codename": "olivewood",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_olivewood",
+         "kernel_xiaomi_olivewood",
+         "vendor_xiaomi_olivewood"
+      ]
+   },
+   {
       "name": "3/3T",
       "brand": "OnePlus",
       "codename": "oneplus3",

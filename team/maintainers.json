@@ -628,6 +628,22 @@
       "ci_username": "lzgmc"
    },
    {
+      "name": "Karthik",
+      "country": "IN",
+      "github_username": "shield44",
+      "xda_url": "https://forum.xda-developers.com/m/sdm439-olivewood.11497601/",
+      "telegram_url": "https://t.me/shield44",
+      "devices": [
+         {
+            "codename": "olivewood",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "shield44"
+   },
+   {
       "name": "solidv",
       "country": "PT",
       "github_username": "solidv",
