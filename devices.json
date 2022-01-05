@@ -1589,6 +1589,10 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-marlin-pixelexperience-aosp-official.4247199/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
@@ -2164,6 +2168,10 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-sailfish-pixelexperience-aosp-official.4247201/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "stable": false
          }
       ],
       "repositories": [
