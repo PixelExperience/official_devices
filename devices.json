@@ -1592,7 +1592,8 @@
          },
          {
             "version_code": "twelve",
-            "stable": false
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2171,7 +2172,8 @@
          },
          {
             "version_code": "twelve",
-            "stable": false
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
