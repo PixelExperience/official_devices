@@ -410,7 +410,8 @@
          "kernel_oneplus_sm7250",
          "vendor_oneplus_avicii",
          "vendor_oneplus_sm7250-common",
-         "vendor_oneplus-firmware"
+         "vendor_oneplus-firmware",
+         "vendor_oneplus_wfdcommon"
       ]
    },
    {
