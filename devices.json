@@ -177,42 +177,6 @@
       ]
    },
    {
-      "name": "Galaxy A5",
-      "brand": "Samsung",
-      "codename": "a5y17lte",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
-            "deprecated": true
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
-            "deprecated": true
-         }
-      ],
-      "repositories": []
-   },
-   {
-      "name": "Galaxy A7",
-      "brand": "Samsung",
-      "codename": "a7y17lte",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
-            "deprecated": true
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/samsung-a-series-2017/development/rom-pixel-experience-t4147921",
-            "deprecated": true
-         }
-      ],
-      "repositories": []
-   },
-   {
       "name": "Moto Z2 Play",
       "brand": "Motorola",
       "codename": "albus",
@@ -323,28 +287,6 @@
          "device_xiaomi_andromeda",
          "kernel_xiaomi_andromeda",
          "vendor_xiaomi_andromeda"
-      ]
-   },
-   {
-      "name": "Nexus 6P",
-      "brand": "Google",
-      "codename": "angler",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525",
-            "deprecated": true
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/nexus-6p/development/rom-pixel-experience-t3970525",
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_huawei_angler",
-         "kernel_huawei_angler",
-         "vendor_huawei_angler"
       ]
    },
    {
@@ -560,28 +502,6 @@
       ]
    },
    {
-      "name": "Nexus 5X",
-      "brand": "Google",
-      "codename": "bullhead",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437",
-            "deprecated": true
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/nexus-5x/development/pixelexperience-nexus-5x-t3861437",
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_lge_bullhead",
-         "kernel_lge_bullhead",
-         "vendor_lge_bullhead"
-      ]
-   },
-   {
       "name": "Mi 5s",
       "brand": "Xiaomi",
       "codename": "capricorn",
@@ -695,27 +615,6 @@
       ]
    },
    {
-      "name": "Mi Mix 2",
-      "brand": "Xiaomi",
-      "codename": "chiron",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847",
-            "deprecated": true
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-pixel-experience-t4066847",
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_chiron",
-         "vendor_xiaomi_chiron"
-      ]
-   },
-   {
       "name": "Pixel 3 XL",
       "brand": "Google",
       "codename": "crosshatch",
@@ -731,28 +630,6 @@
          "device_google_crosshatch",
          "kernel_google_bluecross",
          "vendor_google_crosshatch"
-      ]
-   },
-   {
-      "name": "Mi A2 Lite",
-      "brand": "Xiaomi",
-      "codename": "daisy",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t4123633"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2-lite/development/rom-pixel-experience-t4123633"
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_daisy",
-         "kernel_xiaomi_daisy",
-         "vendor_xiaomi_daisy"
       ]
    },
    {
@@ -1006,28 +883,6 @@
          "device_xiaomi_ginkgo-kernel",
          "kernel_xiaomi_ginkgo",
          "vendor_xiaomi_ginkgo"
-      ]
-   },
-   {
-      "name": "Mi 9 SE",
-      "brand": "Xiaomi",
-      "codename": "grus",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477",
-            "deprecated": true
-         },
-         {
-            "version_code": "ten_plus",
-            "xda_thread": "https://forum.xda-developers.com/mi-9-se/development/rom-pixel-experience-t4128477",
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_grus",
-         "kernel_xiaomi_grus",
-         "vendor_xiaomi_grus"
       ]
    },
    {
@@ -1449,28 +1304,6 @@
          "device_xiaomi_land",
          "kernel_xiaomi_msm8937",
          "vendor_xiaomi_land"
-      ]
-   },
-   {
-      "name": "Mi A3",
-      "brand": "Xiaomi",
-      "codename": "laurel_sprout",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a3/development/rom-pixel-experience-t3975343"
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_laurel_sprout",
-         "kernel_xiaomi_laurel_sprout",
-         "vendor_xiaomi_laurel_sprout"
       ]
    },
    {
@@ -2237,28 +2070,6 @@
       ]
    },
    {
-      "name": "Redmi 4X",
-      "brand": "Xiaomi",
-      "codename": "santoni",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixel-experience-t4008711"
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_santoni",
-         "kernel_xiaomi_santoni",
-         "vendor_xiaomi_santoni"
-      ]
-   },
-   {
       "name": "Pixel 3A",
       "brand": "Google",
       "codename": "sargo",
@@ -2571,28 +2382,6 @@
       ]
    },
    {
-      "name": "Redmi Note 5/Plus",
-      "brand": "Xiaomi",
-      "codename": "vince",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/official-pixel-ecperience-t4075017"
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_vince",
-         "kernel_xiaomi_vince",
-         "vendor_xiaomi_vince"
-      ]
-   },
-   {
       "name": "Redmi Note 7 Pro",
       "brand": "Xiaomi",
       "codename": "violet",
@@ -2652,28 +2441,6 @@
          "device_google_wahoo",
          "kernel_google_wahoo",
          "vendor_google_walleye"
-      ]
-   },
-   {
-      "name": "Mi 6X",
-      "brand": "Xiaomi",
-      "codename": "wayne",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
-         },
-         {
-            "version_code": "ten_plus",
-            "deprecated": true,
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixel-experience-t4053155"
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_wayne",
-         "kernel_xiaomi_wayne",
-         "vendor_xiaomi_wayne"
       ]
    },
    {
