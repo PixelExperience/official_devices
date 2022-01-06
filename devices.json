@@ -1720,8 +1720,7 @@
       ],
       "repositories": [
          "device_xiaomi_picasso",
-         "vendor_xiaomi_picasso",
-         "vendor_xiaomi_picasso-vendor"
+         "vendor_xiaomi_picasso"
       ]
    },
    {
