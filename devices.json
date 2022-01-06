@@ -1714,7 +1714,7 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
