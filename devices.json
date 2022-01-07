@@ -1731,14 +1731,13 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_picasso",
-         "vendor_xiaomi_picasso",
-         "vendor_xiaomi_picasso-vendor"
+         "vendor_xiaomi_picasso"
       ]
    },
    {
