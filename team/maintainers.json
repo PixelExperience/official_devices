@@ -371,6 +371,28 @@
       "ci_username": "expressluke"
    },
    {
+      "name": "Lynnrin",
+      "country": "CN",
+      "github_username": "lynnrinchan",
+      "xda_url": "",
+      "telegram_url": "http://t.me/LynnrinChan",
+      "devices": [
+         {
+            "codename": "gauguin",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "picasso",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "baolong24"
+   },
+   {
       "name": "MadhavSaladi(BabluS)",
       "country": "IN",
       "github_username": "madhavsaladi",
@@ -599,28 +621,6 @@
          }
       ],
       "ci_username": "subinsmani"
-   },
-   {
-      "name": "Lynnrin",
-      "country": "CN",
-      "github_username": "LynnrinChan",
-      "xda_url": "",
-      "telegram_url": "http://t.me/LynnrinChan",
-      "devices": [
-         {
-            "codename": "gauguin",
-            "versions": [
-               "twelve"
-            ]
-         },
-         {
-            "codename": "picasso",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "baolong24"
    },
    {
       "name": "idkwhoiam322",
