@@ -486,6 +486,18 @@
             "versions": [
                "twelve"
             ]
+         },
+         {
+            "codename": "flame",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "coral",
+            "versions": [
+               "twelve"
+            ]
          }
       ],
       "ci_username": "pixelboot"
