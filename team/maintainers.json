@@ -476,18 +476,6 @@
       "telegram_url": "https://t.me/PixelBoot",
       "devices": [
          {
-            "codename": "sailfish",
-            "versions": [
-               "twelve"
-            ]
-         },
-         {
-            "codename": "marlin",
-            "versions": [
-               "twelve"
-            ]
-         },
-         {
             "codename": "walleye",
             "versions": [
                "twelve"
@@ -495,6 +483,18 @@
          },
          {
             "codename": "taimen",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "flame",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "coral",
             "versions": [
                "twelve"
             ]
