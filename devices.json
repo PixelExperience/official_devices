@@ -2476,5 +2476,39 @@
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
       ]
+  },
+  {
+      "name": "Pixel 4",
+      "brand": "Google",
+      "codename": "flame",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_coral",
+         "kernel_google_msm-4.14",
+         "vendor_google_flame"
+      ]
+   },
+   {
+      "name": "Pixel 4 XL",
+      "brand": "Google",
+      "codename": "coral",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_coral",
+         "kernel_google_msm-4.14",
+         "vendor_google_coral"
+      ]
    }
 ]
