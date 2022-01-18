@@ -610,6 +610,23 @@
       ]
    },
    {
+      "name": "Pixel 4 XL",
+      "brand": "Google",
+      "codename": "coral",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_coral",
+         "kernel_google_msm-4.14",
+         "vendor_google_coral"
+      ]
+   },
+   {
       "name": "Pixel 3 XL",
       "brand": "Google",
       "codename": "crosshatch",
@@ -792,6 +809,23 @@
          "device_oneplus_common",
          "kernel_oneplus_sdm845",
          "vendor_oneplus_sdm845-common"
+      ]
+   },
+   {
+      "name": "Pixel 4",
+      "brand": "Google",
+      "codename": "flame",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_coral",
+         "kernel_google_msm-4.14",
+         "vendor_google_flame"
       ]
    },
    {
@@ -2475,40 +2509,6 @@
          "kernel_xiaomi_sdm660",
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
-      ]
-  },
-  {
-      "name": "Pixel 4",
-      "brand": "Google",
-      "codename": "flame",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_google_coral",
-         "kernel_google_msm-4.14",
-         "vendor_google_flame"
-      ]
-   },
-   {
-      "name": "Pixel 4 XL",
-      "brand": "Google",
-      "codename": "coral",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_google_coral",
-         "kernel_google_msm-4.14",
-         "vendor_google_coral"
       ]
    }
 ]
