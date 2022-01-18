@@ -2215,8 +2215,11 @@
          }
       ],
       "repositories": [
+         "device_qcom_common",
          "device_xiaomi_surya",
+         "device_xiaomi_J20C-sepolicy",
          "kernel_xiaomi_surya",
+         "vendor_qcom_common",
          "vendor_xiaomi_surya",
          "vendor_xiaomi-firmware"
       ]
