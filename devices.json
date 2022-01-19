@@ -1366,6 +1366,25 @@
       ]
    },
    {
+      "name": "Redmi 9 Prime / Poco M2",
+      "brand": "Xiaomi",
+      "codename": "lava",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lava",
+         "device_xiaomi_mt6768-common",
+         "kernel_xiaomi_mt6768",
+         "vendor_xiaomi_lava",
+         "vendor_xiaomi_mt6768-ims"
+      ]
+   },
+   {
       "name": "Moto One Fusion +",
       "brand": "Motorola",
       "codename": "liber",
