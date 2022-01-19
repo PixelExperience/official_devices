@@ -48,6 +48,22 @@
       "ci_username": "ad1tyas1ngh"
    },
    {
+      "name": "Alcatraz323",
+      "country": "CN",
+      "github_username": "Alcatraz323",
+      "xda_url": "https://forum.xda-developers.com/m/alcatraz323.10682425/",
+      "telegram_url": "https://t.me/Alcatraz323",
+      "devices": [
+         {
+            "codename": "aura",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "Alcatraz323"
+   },
+   {
       "name": "Alexander Winkowski",
       "country": "PL",
       "github_username": "dereference23",
