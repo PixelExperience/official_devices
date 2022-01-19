@@ -322,6 +322,23 @@
       ]
    },
    {
+      "name": "Phone 2",
+      "brand": "Razer",
+      "codename": "aura",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_razer_aura",
+         "kernel_razer_sdm845",
+         "vendor_razer_aura"
+      ]
+   },
+   {
       "name": "Nord",
       "brand": "OnePlus",
       "codename": "avicii",
@@ -1888,23 +1905,6 @@
          "device_motorola_potter",
          "kernel_motorola_potter",
          "vendor_motorola_potter"
-      ]
-   },
-   {
-      "name": "Phone 2",
-      "brand": "Razer",
-      "codename": "aura",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": false,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_razer_aura",
-         "kernel_razer_sdm845",
-         "vendor_razer_aura"
       ]
    },
    {
