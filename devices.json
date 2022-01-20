@@ -2549,5 +2549,59 @@
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
       ]
+   },
+   {
+      "name": "Pixel 5",
+      "brand": "Google",
+      "codename": "redfin",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_redfin",
+         "device_google_redbull",
+         "vendor_google_redfin",
+         "kernel_google_redbull"
+      ]
+   },
+   {
+      "name": "Pixel 5a",
+      "brand": "Google",
+      "codename": "barbet",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_barbet",
+         "device_google_redbull",
+         "vendor_google_barbet",
+         "kernel_google_redbull"
+      ]
+   },
+   {
+      "name": "Pixel 4a (5G)",
+      "brand": "Google",
+      "codename": "bramble",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_bramble",
+         "device_google_redbull",
+         "vendor_google_bramble",
+         "kernel_google_redbull"
+      ]
    }
 ]

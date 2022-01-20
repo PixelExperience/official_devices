@@ -27,6 +27,24 @@
             "eleven_plus",
             "twelve"
          ]
+      },
+      {
+         "codename": "redfin",
+         "versions": [
+            "twelve"
+         ]
+      },
+      {
+         "codename": "barbet",
+         "versions": [
+            "twelve"
+         ]
+      },
+      {
+         "codename": "bramble",
+         "versions": [
+            "twelve"
+         ]
       }
    ],
    "ci_username": "jhenrique09"
