@@ -404,6 +404,18 @@
             "versions": [
                "twelve"
             ]
+         },
+         {
+            "codename": "blueline",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "crosshatch",
+            "versions": [
+               "twelve"
+            ]
          }
       ],
       "ci_username": "baolong24"
@@ -551,13 +563,15 @@
             "codename": "blueline",
             "versions": [
                "twelve"
-            ]
+            ],
+            "main_maintainer": true
          },
          {
             "codename": "crosshatch",
             "versions": [
                "twelve"
-            ]
+            ],
+            "main_maintainer": true
          }
       ],
       "ci_username": "reallysnow"
