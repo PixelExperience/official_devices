@@ -840,9 +840,27 @@
          }
       ],
       "repositories": [
+         "device_google_flame",
          "device_google_coral",
          "kernel_google_msm-4.14",
          "vendor_google_flame"
+      ]
+   },
+   {
+      "name": "Pixel 4a",
+      "brand": "Google",
+      "codename": "sunfish",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_sunfish",
+         "kernel_google_msm-4.14",
+         "vendor_google_sunfish"
       ]
    },
    {
