@@ -883,23 +883,6 @@
       ]
    },
    {
-      "name": "Pixel 4a",
-      "brand": "Google",
-      "codename": "sunfish",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_google_sunfish",
-         "kernel_google_msm-4.14",
-         "vendor_google_sunfish"
-      ]
-   },
-   {
       "name": "Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
       "brand": "Xiaomi",
       "codename": "gauguin",
@@ -2297,6 +2280,23 @@
          "vendor_xiaomi_sirius",
          "vendor_xiaomi-firmware",
          "vendor_xiaomi_sdm845-common-extra"
+      ]
+   },
+   {
+      "name": "Pixel 4a",
+      "brand": "Google",
+      "codename": "sunfish",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_google_sunfish",
+         "kernel_google_msm-4.14",
+         "vendor_google_sunfish"
       ]
    },
    {
