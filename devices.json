@@ -255,6 +255,7 @@
       "repositories": [
          "device_xiaomi_alioth",
          "device_xiaomi_sm8250-common",
+         "device_xiaomi_sm8250-extras",
          "kernel_xiaomi_sm8250",
          "vendor_xiaomi_alioth",
          "vendor_xiaomi_sm8250-common"
@@ -316,6 +317,7 @@
       "repositories": [
          "device_xiaomi_apollo",
          "device_xiaomi_sm8250-common",
+         "device_xiaomi_sm8250-extras",
          "kernel_xiaomi_sm8250",
          "vendor_xiaomi_apollo",
          "vendor_xiaomi_sm8250-common"
