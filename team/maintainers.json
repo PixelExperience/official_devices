@@ -241,6 +241,12 @@
             "versions": [
                "twelve"
             ]
+         },
+         {
+            "codename": "violet",
+            "versions": [
+               "twelve"
+            ]
          }
       ],
       "ci_username": "gaurav241"
