@@ -2083,7 +2083,8 @@
          },
          {
             "version_code": "twelve",
-            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-river-pixelexperience-aosp.4394653",
+            "stable": true,
             "deprecated": false
          }
       ],
