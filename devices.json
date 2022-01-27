@@ -2551,7 +2551,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
