@@ -481,6 +481,58 @@
       "ci_username": "surblazer"
    },
    {
+      "name": "Orel Yosupov",
+      "country": "IL",
+      "github_username": "Orel6505",
+      "xda_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+      "telegram_url": "https://t.me/Orel6505",
+      "devices": [
+         {
+            "codename": "beyond0lte",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "beyond1lte",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "beyond2lte",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "beyondx",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "d1",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "d2s",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "d2x",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "orel6505"
+   },
+   {
       "name": "Nicholas Magill",
       "country": "GB",
       "github_username": "inkypen79",
