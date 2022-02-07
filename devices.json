@@ -1085,6 +1085,139 @@
       ]
    },
    {
+      "name": "Galaxy S10e",
+      "brand": "Samsung",
+      "codename": "beyond0lte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyond0lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10",
+      "brand": "Samsung",
+      "codename": "beyond1lte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyond1lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10+",
+      "brand": "Samsung",
+      "codename": "beyond2lte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyond2lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10 5G",
+      "brand": "Samsung",
+      "codename": "beyond0lte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyondx",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy Note10",
+      "brand": "Samsung",
+      "codename": "d1",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_d1",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy Note10+",
+      "brand": "Samsung",
+      "codename": "d2s",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_d2s",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy Note10+ 5G",
+      "brand": "Samsung",
+      "codename": "d2x",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_d2x",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
       "name": "7T Pro",
       "brand": "OnePlus",
       "codename": "hotdog",
