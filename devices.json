@@ -507,25 +507,6 @@
       ]
    },
    {
-      "name": "Galaxy S10 5G",
-      "brand": "Samsung",
-      "codename": "beyondx",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_samsung_beyondx",
-         "device_samsung_exynos9820-common",
-         "kernel_samsung_exynos9820",
-         "vendor_samsung"
-      ]
-   },
-   {
       "name": "Galaxy S10",
       "brand": "Samsung",
       "codename": "beyond1lte",
@@ -558,6 +539,25 @@
       ],
       "repositories": [
          "device_samsung_beyond2lte",
+         "device_samsung_exynos9820-common",
+         "kernel_samsung_exynos9820",
+         "vendor_samsung"
+      ]
+   },
+   {
+      "name": "Galaxy S10 5G",
+      "brand": "Samsung",
+      "codename": "beyondx",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_beyondx",
          "device_samsung_exynos9820-common",
          "kernel_samsung_exynos9820",
          "vendor_samsung"
