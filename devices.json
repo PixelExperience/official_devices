@@ -1701,6 +1701,7 @@
          "device_xiaomi_sm6250-common",
          "kernel_xiaomi_sm6250",
          "vendor_xiaomi_miatoll",
+         "vendor_xiaomi_miatoll-gcam",
          "vendor_xiaomi_sm6250-common"
       ]
    },
