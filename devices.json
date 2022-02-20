@@ -1713,17 +1713,17 @@
          {
             "version_code": "eleven",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven_plus",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
