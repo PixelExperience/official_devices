@@ -1719,11 +1719,6 @@
             "version_code": "eleven_plus",
             "stable": true,
             "deprecated": true
-         },
-         {
-            "version_code": "twelve",
-            "stable": false,
-            "deprecated": true
          }
       ],
       "repositories": [
