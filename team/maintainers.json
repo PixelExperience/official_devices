@@ -213,12 +213,6 @@
             "versions": [
                "twelve"
             ]
-         },
-         {
-            "codename": "haydn",
-            "versions": [
-               "twelve"
-            ]
          }
       ],
       "ci_username": "ecrosoftxiao"
