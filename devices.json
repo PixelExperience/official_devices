@@ -1834,7 +1834,7 @@
       "supported_versions": [
          {
             "version_code": "twelve",
-            "xda_thread" : "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
             "stable": true,
             "deprecated": false
          }
