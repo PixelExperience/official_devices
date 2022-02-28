@@ -1313,6 +1313,12 @@
             "xda_thread": "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [

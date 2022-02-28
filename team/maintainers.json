@@ -300,6 +300,22 @@
       "ci_username": "jarlpenguin"
    },
    {
+      "name": "Jeffrey Jagram",
+      "country": "NL",
+      "github_username": "jef00",
+      "xda_url": "https://forum.xda-developers.com//member.php?u=5607183",
+      "telegram_url": "http://t.me/jef009",
+      "devices": [
+         {
+            "codename": "instantnoodlep",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "jef009"
+   },
+   {
       "name": "Jonas Cardoso",
       "country": "BR",
       "github_username": "jonascardoso",
