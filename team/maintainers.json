@@ -776,5 +776,21 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "emufan",
+      "country": "GR",
+      "github_username": "GPUCode",
+      "xda_url": "",
+      "telegram_url": "http://t.me/emufan4568",
+      "devices": [
+         {
+            "codename": "NB1",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "emufan4568"
    }
 ]
