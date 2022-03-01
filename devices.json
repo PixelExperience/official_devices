@@ -476,8 +476,8 @@
          },
          {
             "version_code": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
-            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
+            "stable": true,
             "deprecated": false
          }
       ],
