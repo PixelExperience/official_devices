@@ -1,5 +1,23 @@
 [
    {
+      "name": "Nokia 8",
+      "brand": "Nokia",
+      "codename": "NB1",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_nokia_NB1",
+         "vendor_nokia_NB1",
+         "kernel_nokia_msm8998"
+      ]
+   },
+   {
       "name": "3 Pro",
       "brand": "Realme",
       "codename": "RMX1851",
@@ -680,23 +698,6 @@
          "kernel_xiaomi_cepheus",
          "vendor_xiaomi_cepheus",
          "vendor_xiaomi-firmware"
-      ]
-   },
-   {
-      "name": "Nokia 8",
-      "brand": "Nokia",
-      "codename": "NB1",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "xda_thread": "",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_nokia_NB1",
-         "vendor_nokia_NB1",
-         "kernel_nokia_msm8998"
       ]
    },
    {
