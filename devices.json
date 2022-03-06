@@ -355,7 +355,8 @@
       "repositories": [
          "device_razer_aura",
          "kernel_razer_sdm845",
-         "vendor_razer_aura"
+         "vendor_razer_aura",
+         "vendor_razer_aura-extra"
       ]
    },
    {
