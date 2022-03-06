@@ -115,7 +115,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-x00td-pixelexperience-aosp",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          },
          {
