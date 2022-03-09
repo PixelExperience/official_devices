@@ -1542,7 +1542,7 @@
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
