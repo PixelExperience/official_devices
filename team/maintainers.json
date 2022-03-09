@@ -268,22 +268,6 @@
       "ci_username": "giasen"
    },
    {
-      "name": "Jacob Deepu",
-      "country": "IN",
-      "github_username": "jacobdeepu",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9732522",
-      "telegram_url": "https://t.me/JacobDeepu",
-      "devices": [
-         {
-            "codename": "land",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "jacobdeepu"
-   },
-   {
       "name": "Jarl-Penguin",
       "country": "KR",
       "github_username": "jarlpenguin",
