@@ -37,14 +37,7 @@
       "github_username": "hlcpereira",
       "xda_url": "https://forum.xda-developers.com/m/hlcpereira.7838323/",
       "telegram_url": "http://t.me/Hlcpereira",
-      "devices": [
-         {
-            "codename": "tucana",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "hlcpereira"
    },
    {
