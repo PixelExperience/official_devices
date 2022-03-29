@@ -2,7 +2,7 @@
 name: Device maintainer form
 about: Apply to be a maintainer at PE here
 title: New maintainer
-assignees: [Hasaber8, Hlcpereira, jhenrique09, Jorg3Lucas, KakatkarAkshay]
+assignees: [Hasaber8, Hlcpereira, jhenrique09, Jorg3Lucas, KakatkarAkshay, jjpprrrr]
 ---
 
 ## Device you want to apply for
