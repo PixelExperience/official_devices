@@ -2777,5 +2777,22 @@
          "vendor_xiaomi_whyred",
          "vendor_xiaomi_sdm660-common"
       ]
+   },
+   {
+      "name": "Z6 Pro",
+      "brand": "Lenovo",
+      "codename": "zippo",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_lenovo_zippo",
+         "device_lenovo_sm8150-common",
+         "kernel_lenovo_sm8150",
+         "vendor_lenovo"
+      ]
    }
 ]
