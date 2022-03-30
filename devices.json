@@ -2793,7 +2793,8 @@
          "device_lenovo_zippo",
          "device_lenovo_sm8150-common",
          "kernel_lenovo_sm8150",
-         "vendor_lenovo"
+         "vendor_lenovo_zippo",
+         "vendor_lenovo-firmware"
       ]
    }
 ]
