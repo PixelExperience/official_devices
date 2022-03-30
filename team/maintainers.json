@@ -732,5 +732,21 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "Zhenxiang Chen",
+      "country": "CN",
+      "github_username": "Lucchetto",
+      "xda_url": "https://forum.xda-developers.com/m/lucchetto00.8794120/",
+      "telegram_url": "http://t.me/pasta_con_tonno",
+      "devices": [
+         {
+            "codename": "zippo",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "lucchetto"
    }
 ]
