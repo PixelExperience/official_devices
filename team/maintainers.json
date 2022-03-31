@@ -748,5 +748,33 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "Rajan Palaniya",
+      "country": "IN",
+      "github_username": "classified",
+      "xda_url": "https://forum.xda-developers.com/m/parth7667.4284286/",
+      "telegram_url": "http://t.me/classified7667",
+      "devices": [
+         {
+            "codename": "hotdogb",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "twelve"
+            ]
+         },
+         {
+            "codename": "hotdog",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "classified7667"
    }
 ]
