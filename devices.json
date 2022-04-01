@@ -1175,7 +1175,7 @@
       ]
    },
    {
-      "name": "Redmi K40 Pro / Pro+ / Mi 11X Pro / Mi 11i",
+      "name": "Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro / Mi 11i",
       "brand": "Xiaomi",
       "codename": "haydn",
       "supported_versions": [
@@ -1183,7 +1183,7 @@
             "version_code": "twelve",
             "xda_thread": "",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [

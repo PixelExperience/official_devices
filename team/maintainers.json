@@ -748,5 +748,21 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "Adarsh Grewal",
+      "country": "IN",
+      "github_username": "adarshgrewal",
+      "xda_url": "",
+      "telegram_url": "http://t.me/grewal",
+      "devices": [
+         {
+            "codename": "haydn",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "adarshgrewal"
    }
 ]
