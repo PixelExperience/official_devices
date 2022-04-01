@@ -2574,7 +2574,8 @@
          "device_google_taimen",
          "device_google_wahoo",
          "kernel_google_wahoo",
-         "vendor_google_taimen"
+         "vendor_google_taimen",
+         "wiki_blobs_walleye"
       ]
    },
    {
@@ -2779,7 +2780,8 @@
          "device_google_walleye",
          "device_google_wahoo",
          "kernel_google_wahoo",
-         "vendor_google_walleye"
+         "vendor_google_walleye",
+         "wiki_blobs_walleye"
       ]
    },
    {
