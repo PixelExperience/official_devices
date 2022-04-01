@@ -549,6 +549,22 @@
       "ci_username": "pixelboot"
    },
    {
+      "name": "Rahul Kantrapally",
+      "country": "UK",
+      "github_username": "rk134",
+      "xda_url": "https://forum.xda-developers.com/m/rk134.9436905/",
+      "telegram_url": "http://t.me/rk_134",
+      "devices": [
+         {
+            "codename": "vince",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "rk134"
+   },
+   {
       "name": "Rahul Krishna",
       "country": "IN",
       "github_username": "rk779",
@@ -764,21 +780,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "Rahul Kantrapally",
-      "country": "UK",
-      "github_username": "rk134",
-      "xda_url": "https://forum.xda-developers.com/m/rk134.9436905/",
-      "telegram_url": "http://t.me/rk_134",
-      "devices": [
-         {
-            "codename": "vince",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "rk134"
    }
 ]

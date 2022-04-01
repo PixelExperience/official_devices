@@ -2685,6 +2685,23 @@
       ]
    },
    {
+      "name": "Redmi 5 Plus",
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_vince",
+         "kernel_xiaomi_vince",
+         "vendor_xiaomi_vince"
+      ]
+   },
+   {
       "name": "Redmi Note 7 Pro",
       "brand": "Xiaomi",
       "codename": "violet",
@@ -2795,23 +2812,6 @@
          "kernel_lenovo_sm8150",
          "vendor_lenovo_zippo",
          "vendor_lenovo-firmware"
-      ]
-   },
-   {
-      "name": "Redmi 5 Plus",
-      "brand": "Xiaomi",
-      "codename": "vince",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": false,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_vince",
-         "kernel_xiaomi_vince",
-         "vendor_xiaomi_vince"
       ]
    }
 ]
