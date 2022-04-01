@@ -2770,7 +2770,7 @@
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
