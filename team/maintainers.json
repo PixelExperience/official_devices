@@ -808,5 +808,21 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "Abd AlRahman NSR",
+      "country": "IQ",
+      "github_username": "jackson177",
+      "xda_url": "https://forum.xda-developers.com/m/abode-ghost.9373430/",
+      "telegram_url": "http://t.me/Alhaialy_20",
+      "devices": [
+         {
+            "codename": "lmi",
+            "versions": [
+               "twelve"
+            ]
+         }
+      ],
+      "ci_username": "jackosn177"
    }
 ]
