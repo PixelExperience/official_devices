@@ -409,7 +409,8 @@
          "device_google_barbet",
          "device_google_redbull",
          "vendor_google_barbet",
-         "kernel_google_barbet"
+         "kernel_google_barbet",
+         "wiki_blobs_redbull"
       ]
    },
    {
@@ -643,7 +644,8 @@
          "device_google_bramble",
          "device_google_redbull",
          "vendor_google_bramble",
-         "kernel_google_redbull"
+         "kernel_google_redbull",
+         "wiki_blobs_redbull"
       ]
    },
    {
@@ -2219,7 +2221,8 @@
          "device_google_redfin",
          "device_google_redbull",
          "vendor_google_redfin",
-         "kernel_google_redbull"
+         "kernel_google_redbull",
+         "wiki_blobs_redbull"
       ]
    },
    {
