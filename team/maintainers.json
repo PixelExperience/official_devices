@@ -152,22 +152,6 @@
       "ci_username": "djchittoor"
    },
    {
-      "name": "Elias E. Gheeraert",
-      "country": "FR",
-      "github_username": "themalachite",
-      "xda_url": "https://forum.xda-developers.com/m/themalachite.9609718/",
-      "telegram_url": "https://t.me/TheMalachite",
-      "devices": [
-         {
-            "codename": "begonia",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "themalachite"
-   },
-   {
       "name": "Evasi0n Xiao",
       "country": "CN",
       "github_username": "ecrosoftxiao",

@@ -97,8 +97,7 @@
             "codename": "begonia",
             "versions": [
                "twelve"
-            ],
-            "main_maintainer": true
+            ]
          },
          {
             "codename": "mojito",
