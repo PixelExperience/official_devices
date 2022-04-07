@@ -487,6 +487,23 @@
       "ci_username": "orel6505"
    },
    {
+      "name": "Patryk Zimnicki",
+      "country": "PL",
+      "github_username": "ArixElo",
+      "xda_url": "https://forum.xda-developers.com/m/patroxgamer.7618683/",
+      "telegram_url": "http://t.me/ArixElo",
+      "devices": [
+         {
+            "codename": "renoir",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "arixelo"
+   },
+   {
       "name": "PixelBoot",
       "country": "MT",
       "github_username": "pixelboot",

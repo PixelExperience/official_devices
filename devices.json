@@ -2208,6 +2208,31 @@
       ]
    },
    {
+      "name": "Mi 11 Lite 5G",
+      "brand": "Xiaomi",
+      "codename": "renoir",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "telegram_url": "https://t.me/arixeloroms",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code":"twelve_plus",
+            "telegram_url": "https://t.me/arixeloroms",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_renoir",
+         "kernel_xiaomi_sm7350",
+         "vendor_xiaomi_renoir",
+         "vendor_xiaomi_sm7350-common"
+      ]
+   },
+   {
       "name": "Pixel 5",
       "brand": "Google",
       "codename": "redfin",
