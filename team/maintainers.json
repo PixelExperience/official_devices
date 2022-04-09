@@ -184,7 +184,8 @@
          {
             "codename": "X01BD",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
