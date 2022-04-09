@@ -419,7 +419,8 @@
          {
             "codename": "merlinx",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
