@@ -503,31 +503,36 @@
          {
             "codename": "walleye",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "taimen",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "flame",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "coral",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "sunfish",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],

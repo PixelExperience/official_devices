@@ -804,6 +804,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1069,6 +1075,12 @@
             "version_code": "twelve",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-flame-pixelexperience-aosp.4406401/",
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -2570,6 +2582,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-sunfish-pixelexperience-aosp.4392819/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2670,6 +2688,12 @@
          },
          {
             "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
             "stable": true,
             "deprecated": false
@@ -2892,6 +2916,12 @@
          },
          {
             "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
             "stable": true,
             "deprecated": false
