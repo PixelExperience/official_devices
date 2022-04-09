@@ -40,7 +40,8 @@
          {
             "codename": "tissot",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
