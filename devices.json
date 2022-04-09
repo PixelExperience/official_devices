@@ -1862,7 +1862,13 @@
       "supported_versions": [
          {
             "version_code": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-12-monet-pixelexperience-aosp-official.4378865/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-monet-pixelexperience-pixelexperience-plus-aosp-official.4378865/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-monet-pixelexperience-pixelexperience-plus-aosp-official.4378865/",
             "stable": true,
             "deprecated": false
          }
@@ -2738,7 +2744,13 @@
       "supported_versions": [
          {
             "version_code": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-12-vangogh-pixelexperience-aosp-official.4380355/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-vangogh-pixelexperience-pixelexperience-plus-aosp-official.4380355/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-vangogh-pixelexperience-pixelexperience-plus-aosp-official.4380355/",
             "stable": true,
             "deprecated": false
          }
