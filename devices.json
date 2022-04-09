@@ -928,6 +928,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1497,6 +1503,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1527,6 +1539,12 @@
          },
          {
             "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true,
             "deprecated": false
