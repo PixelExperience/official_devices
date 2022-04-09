@@ -9,7 +9,8 @@
          "versions": [
             "eleven",
             "eleven_plus",
-            "twelve"
+            "twelve",
+            "twelve_plus"
          ]
       },
       {
@@ -17,25 +18,29 @@
          "versions": [
             "eleven",
             "eleven_plus",
-            "twelve"
+            "twelve",
+            "twelve_plus"
          ]
       },
       {
          "codename": "redfin",
          "versions": [
-            "twelve"
+            "twelve",
+            "twelve_plus"
          ]
       },
       {
          "codename": "barbet",
          "versions": [
-            "twelve"
+            "twelve",
+            "twelve_plus"
          ]
       },
       {
          "codename": "bramble",
          "versions": [
-            "twelve"
+            "twelve",
+            "twelve_plus"
          ]
       }
    ],
