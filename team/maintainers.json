@@ -723,7 +723,8 @@
          {
             "codename": "zippo",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
