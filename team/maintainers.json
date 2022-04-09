@@ -503,13 +503,15 @@
          {
             "codename": "walleye",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "taimen",
             "versions": [
                "twelve"
+               "twelve_plus"
             ]
          },
          {
