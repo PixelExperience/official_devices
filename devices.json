@@ -1941,6 +1941,10 @@
          {
             "version_code": "twelve",
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "deprecated": false
          }
       ],
       "repositories": [
