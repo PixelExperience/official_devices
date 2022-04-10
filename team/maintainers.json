@@ -106,7 +106,8 @@
          {
             "codename": "miatoll",
             "versions": [
-               "twelve"
+               "twelve",
+	       "twelve_plus"
             ]
          }
       ],
