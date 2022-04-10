@@ -9,7 +9,8 @@
          {
             "codename": "avicii",
             "versions": [
-               "twelve"
+               "twelve",
+	       "twelve_plus"
             ]
          }
       ],
