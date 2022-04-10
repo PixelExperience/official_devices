@@ -166,7 +166,8 @@
          {
             "codename": "cepheus",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
