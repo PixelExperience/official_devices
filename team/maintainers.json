@@ -58,7 +58,8 @@
          {
             "codename": "haydn",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
