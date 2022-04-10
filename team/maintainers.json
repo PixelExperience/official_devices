@@ -25,7 +25,8 @@
          {
             "codename": "whyred",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
