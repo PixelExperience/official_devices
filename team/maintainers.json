@@ -122,7 +122,8 @@
          {
             "codename": "vayu",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
