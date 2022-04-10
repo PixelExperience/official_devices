@@ -3024,6 +3024,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
