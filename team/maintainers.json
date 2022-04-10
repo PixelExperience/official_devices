@@ -374,13 +374,15 @@
          {
             "codename": "RMX1971",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "r5x",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
