@@ -252,7 +252,8 @@
          {
             "codename": "instantnoodlep",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],

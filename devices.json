@@ -1534,6 +1534,12 @@
             "xda_thread": "",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
