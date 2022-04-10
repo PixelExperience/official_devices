@@ -135,7 +135,8 @@
          {
             "codename": "beckham",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
