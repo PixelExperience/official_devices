@@ -725,7 +725,8 @@
          {
             "codename": "X00TD",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
