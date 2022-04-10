@@ -668,7 +668,8 @@
          {
             "codename": "lava",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
