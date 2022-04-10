@@ -615,14 +615,16 @@
          {
             "codename": "blueline",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ],
             "main_maintainer": true
          },
          {
             "codename": "crosshatch",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ],
             "main_maintainer": true
          }
