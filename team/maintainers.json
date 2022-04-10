@@ -456,43 +456,50 @@
          {
             "codename": "beyond0lte",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "beyond1lte",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "beyond2lte",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "beyondx",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "d1",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "d2s",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "d2x",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
