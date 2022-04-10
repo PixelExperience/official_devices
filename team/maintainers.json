@@ -816,7 +816,8 @@
          {
             "codename": "sirius",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
