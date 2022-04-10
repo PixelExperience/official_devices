@@ -688,7 +688,8 @@
          {
             "codename": "violet",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ],
             "main_maintainer": true
          }
