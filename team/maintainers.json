@@ -91,7 +91,8 @@
          {
             "codename": "aura",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
