@@ -279,7 +279,8 @@
          {
             "codename": "olivewood",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
