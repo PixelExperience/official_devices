@@ -51,13 +51,15 @@
          {
             "codename": "lake",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
             "codename": "raphael",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ],
             "main_maintainer": true
          }
