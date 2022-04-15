@@ -356,7 +356,8 @@
          {
             "codename": "gauguin",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          },
          {
