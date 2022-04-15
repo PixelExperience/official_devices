@@ -298,7 +298,8 @@
          {
             "codename": "beryllium",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
