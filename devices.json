@@ -2363,6 +2363,12 @@
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4038949/",
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
+            "deprecated": false
          }
       ],
       "repositories": [
