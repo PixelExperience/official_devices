@@ -355,13 +355,6 @@
       "telegram_url": "http://t.me/LynnrinChan",
       "devices": [
          {
-            "codename": "gauguin",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
             "codename": "blueline",
             "versions": [
                "twelve",
