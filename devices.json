@@ -208,6 +208,7 @@
          "device_asus_sdm660-common",
          "kernel_asus_sdm660",
          "vendor_asus_X01BD",
+         "vendor_asus-firmware",
          "vendor_asus_sdm660-common"
       ]
    },
