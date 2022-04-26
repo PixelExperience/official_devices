@@ -208,6 +208,7 @@
          "device_asus_sdm660-common",
          "kernel_asus_sdm660",
          "vendor_asus_X01BD",
+         "vendor_asus-firmware",
          "vendor_asus_sdm660-common"
       ]
    },
@@ -690,7 +691,7 @@
          {
             "version_code": "twelve_plus",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -920,7 +921,7 @@
          {
             "version_code": "twelve_plus",
             "xda_thread": "",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -1230,13 +1231,13 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -2331,6 +2332,11 @@
          },
          {
             "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
             "stable": true,
             "deprecated": false
          }

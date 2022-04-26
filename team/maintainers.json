@@ -143,7 +143,8 @@
          {
             "codename": "platina",
             "versions": [
-               "twelve"
+               "twelve",
+               "twelve_plus"
             ]
          }
       ],
@@ -355,13 +356,6 @@
       "telegram_url": "http://t.me/LynnrinChan",
       "devices": [
          {
-            "codename": "gauguin",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
             "codename": "blueline",
             "versions": [
                "twelve",
@@ -522,7 +516,7 @@
    {
       "name": "Patryk Zimnicki",
       "country": "PL",
-      "github_username": "ArixElo",
+      "github_username": "arixelo",
       "xda_url": "https://forum.xda-developers.com/m/patroxgamer.7618683/",
       "telegram_url": "http://t.me/ArixElo",
       "devices": [
