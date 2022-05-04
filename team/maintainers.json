@@ -160,6 +160,23 @@
       "ci_username": "djchittoor"
    },
    {
+      "name": "Debdeep",
+      "country": "IN",
+      "github_username": "debdeep199x",
+      "xda_url": "https://forum.xda-developers.com/m/debdeep98.8874242/",
+      "telegram_url": "http://telegram.me/debdeep199x",
+      "devices": [
+         {
+            "codename": "RMX2061",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "debdeep199x"
+   },
+   {
       "name": "Evasi0n Xiao",
       "country": "CN",
       "github_username": "ecrosoftxiao",
