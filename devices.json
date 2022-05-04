@@ -2011,6 +2011,32 @@
       ]
    },
    {
+      "name": "Mi 11 Pro",
+      "brand": "Xiaomi",
+      "codename": "mars",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mars",
+         "device_xiaomi_sm8350-common",
+         "kernel_xiaomi_mars",
+         "vendor_xiaomi_mars",
+         "vendor_xiaomi_sm8350-common",
+         "vendor_xiaomi_mars-firmware",
+         "wiki_blobs_mars"
+      ]
+   },
+   {
       "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
       "brand": "Xiaomi",
       "codename": "miatoll",
