@@ -189,6 +189,13 @@
                "twelve",
                "twelve_plus"
             ]
+         },
+         {
+            "codename": "mars",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
          }
       ],
       "ci_username": "ecrosoftxiao"
