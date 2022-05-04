@@ -3111,6 +3111,32 @@
       ]
    },
    {
+      "name": "Mi 11",
+      "brand": "Xiaomi",
+      "codename": "venus",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_venus",
+         "device_xiaomi_sm8350-common",
+         "kernel_xiaomi_venus",
+         "vendor_xiaomi_venus",
+         "vendor_xiaomi_sm8350-common",
+         "vendor_xiaomi_venus-firmware",
+         "wiki_blobs_venus"
+      ]
+   },
+   {
       "name": "Redmi 5 Plus",
       "brand": "Xiaomi",
       "codename": "vince",
