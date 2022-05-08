@@ -323,7 +323,8 @@
          "device_xiaomi_sm8250-extras",
          "kernel_xiaomi_sm8250",
          "vendor_xiaomi_alioth",
-         "vendor_xiaomi_sm8250-common"
+         "vendor_xiaomi_sm8250-common",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
