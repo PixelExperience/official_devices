@@ -2306,6 +2306,11 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-phoenix-phoenixin-pixelexperience-aosp.4366787",
             "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-phoenix-phoenixin-pixelexperience-aosp.4366787",
+            "deprecated": false
          }
       ],
       "repositories": [
