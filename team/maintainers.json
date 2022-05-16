@@ -399,6 +399,13 @@
                "twelve",
                "twelve_plus"
             ]
+         },
+         {
+            "codename": "thyme",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
          }
       ],
       "ci_username": "lynnrinchan"

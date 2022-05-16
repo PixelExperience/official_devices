@@ -3320,5 +3320,28 @@
          "vendor_lenovo_zippo",
          "vendor_lenovo-firmware"
       ]
+   },
+   {
+      "name": "Mi 10S",
+      "brand": "Xiaomi",
+      "codename": "thyme",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_thyme",
+         "kernel_xiaomi_thyme",
+         "vendor_xiaomi_thyme",
+         "vendor_xiaomi_thyme-prebuilt"
+      ]
    }
 ]
