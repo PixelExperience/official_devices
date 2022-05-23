@@ -1837,6 +1837,22 @@
       ]
    },
    {
+      "name": "Mi A3",
+      "brand": "Xiaomi",
+      "codename": "laurel_sprout",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_laurel_sprout",
+         "kernel_xiaomi_laurel_sprout",
+         "vendor_xiaomi_laurel_sprout"
+      ]
+   },
+   {
       "name": "Redmi 9 Prime / Poco M2",
       "brand": "Xiaomi",
       "codename": "lava",
