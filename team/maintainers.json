@@ -177,6 +177,33 @@
       "ci_username": "debdeep199x"
    },
    {
+      "name": "Dylan Neve",
+      "country": "IE",
+      "github_username": "dylanneve1",
+      "xda_url": "https://forum.xda-developers.com/m/dylanneve1.7983014/",
+      "telegram_url": "http://telegram.me/dylanneve1",
+      "devices": [
+         {
+            "codename": "starlte",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ],
+	         "codename": "star2lte",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ],
+            "codename": "crownlte",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "dylanneve1"
+   },
+   {
       "name": "Evasi0n Xiao",
       "country": "CN",
       "github_username": "ecrosoftxiao",
