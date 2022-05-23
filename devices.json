@@ -2157,7 +2157,7 @@
       "repositories": [
          "device_xiaomi_monet",
          "device_xiaomi_sm7250-common",
-         "kernel_xiaomi_sm7250",
+         "kernel_xiaomi_monet",
          "vendor_xiaomi_monet",
          "vendor_xiaomi-firmware"
       ]
@@ -3154,7 +3154,7 @@
       "repositories": [
          "device_xiaomi_vangogh",
          "device_xiaomi_sm7250-common",
-         "kernel_xiaomi_sm7250",
+         "kernel_xiaomi_vangogh",
          "vendor_xiaomi_vangogh",
          "vendor_xiaomi-firmware"
       ]
