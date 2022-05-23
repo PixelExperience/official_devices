@@ -702,6 +702,84 @@
       ]
    },
    {
+      "name": "Galaxy S9",
+      "brand": "Samsung",
+      "codename": "starlte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_starlte",
+         "device_samsung_exynos9810-common",
+         "kernel_samsung_exynos9810",
+         "vendor_samsung_starlte",
+         "vendor_samsung_exynos9810-common"
+      ]
+   },
+   {
+      "name": "Galaxy S9+",  
+      "brand": "Samsung",
+      "codename": "star2lte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",                   
+            "stable": true, 
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399579/",                   
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_star2lte",   
+         "device_samsung_exynos9810-common",
+         "kernel_samsung_exynos9810",
+         "vendor_samsung_star2lte",
+         "vendor_samsung_exynos9810-common"
+      ]
+   },
+   {
+      "name": "Galaxy Note9",
+      "brand": "Samsung",
+      "codename": "crownlte",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399581/",
+            "stable": true, 
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-oss-pixelexperience-plus-unofficial.4399581/",                   
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_crownlte",   
+         "device_samsung_exynos9810-common",
+         "kernel_samsung_exynos9810",
+         "vendor_samsung_crownlte",
+         "vendor_samsung_exynos9810-common"
+      ]
+   },
+   {
       "name": "Pixel 3",
       "brand": "Google",
       "codename": "blueline",
