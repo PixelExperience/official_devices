@@ -2158,7 +2158,8 @@
          "device_xiaomi_monet",
          "device_xiaomi_sm7250-common",
          "kernel_xiaomi_sm7250",
-         "vendor_xiaomi_monet"
+         "vendor_xiaomi_monet",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
@@ -3154,7 +3155,8 @@
          "device_xiaomi_vangogh",
          "device_xiaomi_sm7250-common",
          "kernel_xiaomi_sm7250",
-         "vendor_xiaomi_vangogh"
+         "vendor_xiaomi_vangogh",
+         "vendor_xiaomi-firmware"
       ]
    },
    {
