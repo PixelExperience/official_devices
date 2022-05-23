@@ -1843,7 +1843,8 @@
       "supported_versions": [
          {
             "version_code": "twelve",
-            "stable": false
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
