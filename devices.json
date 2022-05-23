@@ -2278,12 +2278,21 @@
       "codename": "payton",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "deprecated": true
+            "version_code": "twelve",
+            "stable": true,
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_motorola_payton",
+         "kernel_motorola_payton",
          "vendor_motorola_payton"
       ]
    },
