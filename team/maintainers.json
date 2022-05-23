@@ -889,5 +889,22 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "ExactExampl",
+      "country": "UA",
+      "github_username": "ExactExampl",
+      "xda_url": "https://forum.xda-developers.com/m/exactexampl.11733675/",
+      "telegram_url": "https://t.me/ExactXmpl",
+      "devices": [
+         {
+            "codename": "payton",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "exactxmpl"
    }
 ]
