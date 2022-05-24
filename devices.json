@@ -2187,6 +2187,23 @@
       ]
    },
    {
+      "name": "Edge S / Moto G100",
+      "brand": "Motorola",
+      "codename": "nio",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_nio",
+         "kernel_motorola_sm8250",
+         "packages_apps_MotCamera3",
+         "vendor_motorola_nio"
+      ]
+   },
+   {
       "name": "Moto G7 Power",
       "brand": "Motorola",
       "codename": "ocean",

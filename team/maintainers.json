@@ -278,6 +278,12 @@
       "xda_url": "https://forum.xda-developers.com/member.php?u=9506129",
       "telegram_url": "http://t.me/JarlPenguin",
       "devices": [
+         {
+            "codename": "nio",
+            "versions": [
+               "twelve"
+            ]
+         }
       ],
       "ci_username": "jarlpenguin"
    },
