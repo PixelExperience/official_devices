@@ -279,7 +279,7 @@
       "telegram_url": "http://t.me/JarlPenguin",
       "devices": [
          {
-            "codename": "river",
+            "codename": "nio",
             "versions": [
                "twelve"
             ]
