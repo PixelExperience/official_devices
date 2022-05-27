@@ -607,6 +607,20 @@
             ]
          },
          {
+            "codename": "blueline",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         },
+         {
+            "codename": "crosshatch",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         },
+         {
             "codename": "flame",
             "versions": [
                "twelve",
