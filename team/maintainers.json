@@ -151,6 +151,23 @@
       "ci_username": "allanpereira99"
    },
    {
+      "name": "CHRISL7",
+      "country": "BR",
+      "github_username": "CHRISL7",
+      "xda_url": "https://forum.xda-developers.com/m/chrisw444.11220339/",
+      "telegram_url": "http://t.me/CHRISL7",
+      "devices": [
+         {
+            "codename": "spes",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "chrisl7"
+   },
+   {
       "name": "Daniel Jacob",
       "country": "IN",
       "github_username": "djchittoor",
