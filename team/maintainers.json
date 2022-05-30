@@ -184,16 +184,6 @@
       "telegram_url": "http://telegram.me/dylanneve1",
       "devices": [
          {
-            "codename": "starlte",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ],
-            "codename": "star2lte",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ],
             "codename": "crownlte",
             "versions": [
                "twelve",
