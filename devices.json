@@ -2225,7 +2225,6 @@
       "repositories": [
          "device_motorola_nio",
          "kernel_motorola_sm8250",
-         "packages_apps_MotCamera3",
          "vendor_motorola_nio"
       ]
    },
