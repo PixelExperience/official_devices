@@ -1876,7 +1876,8 @@
       "repositories": [
          "device_xiaomi_laurel_sprout",
          "kernel_xiaomi_laurel_sprout",
-         "vendor_xiaomi_laurel_sprout"
+         "vendor_xiaomi_laurel_sprout",
+         "vendor_xiaomi_laurel_sprout-extra"
       ]
    },
    {
