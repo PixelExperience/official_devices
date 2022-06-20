@@ -488,13 +488,6 @@
                "twelve",
                "twelve_plus"
             ]
-         },
-         {
-            "codename": "r5x",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
          }
       ],
       "ci_username": "bablus"
