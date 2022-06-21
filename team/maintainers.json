@@ -873,22 +873,6 @@
       "ci_username": "subinsmani"
    },
    {
-      "name": "Wiktor Rudzki",
-      "country": "PL",
-      "github_username": "zlewchan",
-      "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
-      "telegram_url": "https://t.me/zlewchan",
-      "devices": [
-         {
-            "codename": "laurel_sprout",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "zlewchan"
-   },
-   {
       "name": "Zhenxiang Chen",
       "country": "CN",
       "github_username": "lucchetto",
