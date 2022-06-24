@@ -1442,6 +1442,7 @@
          "device_xiaomi_haydn",
          "kernel_xiaomi_haydn",
          "vendor_xiaomi_haydn",
+         "vendor_xiaomi_haydn-firmware",
          "vendor_xiaomi_haydn-miuicamera",
          "wiki_blobs_haydn"
       ]
