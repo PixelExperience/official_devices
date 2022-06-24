@@ -856,11 +856,11 @@
       "ci_username": "sreekanth"
    },
    {
-      "name": "Subins Mani",
+      "name": "Vivek",
       "country": "IN",
-      "github_username": "subinsmani",
-      "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
-      "telegram_url": "http://t.me/Subinsmani",
+      "github_username": "Vivekachooz",
+      "xda_url": "https://forum.xda-developers.com/m/vivekachooz.10449035/",
+      "telegram_url": "http://t.me/vivekachooz",
       "devices": [
          {
             "codename": "X00TD",
@@ -870,7 +870,7 @@
             ]
          }
       ],
-      "ci_username": "subinsmani"
+      "ci_username": "Vivek"
    },
    {
       "name": "Zhenxiang Chen",
