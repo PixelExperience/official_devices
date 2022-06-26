@@ -2680,6 +2680,7 @@
          "device_xiaomi_sm7350-common",
          "kernel_xiaomi_sm7350",
          "vendor_xiaomi_renoir",
+         "vendor_xiaomi_renoir-firmware",
          "vendor_xiaomi_sm7350-common",
          "wiki_blobs_renoir"
       ]
