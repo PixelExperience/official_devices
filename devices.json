@@ -1394,7 +1394,7 @@
          "kernel_oneplus_sm8150",
          "vendor_oneplus_guacamole",
          "vendor_oneplus_sm8150-common",
-         "vendor_oneplus_apps"
+         "vendor_oneplus_sm8150_apps"
       ]
    },
    {
@@ -1530,7 +1530,7 @@
          "kernel_oneplus_sm8150",
          "vendor_oneplus_hotdog",
          "vendor_oneplus_sm8150-common",
-         "vendor_oneplus_apps"
+         "vendor_oneplus_sm8150_apps"
       ]
    },
    {
@@ -1569,7 +1569,7 @@
          "kernel_oneplus_sm8150",
          "vendor_oneplus_hotdogb",
          "vendor_oneplus_sm8150-common",
-         "vendor_oneplus_apps"
+         "vendor_oneplus_sm8150_apps"
       ]
    },
    {
