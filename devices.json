@@ -1953,13 +1953,20 @@
             "version_code": "twelve",
             "xda_thread": "",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
+	 },
+	 {
+	    "version_code": "twelve_plus",
+	    "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_lavender",
+	 "device_xiaomi_sdm660-common",
          "kernel_xiaomi_lavender",
-         "vendor_xiaomi_lavender"
+         "vendor_xiaomi_lavender",
+	 "vendor_xiaomi_sdm660-common"
       ]
    },
    {
