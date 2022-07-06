@@ -873,6 +873,23 @@
       "ci_username": "vivek"
    },
    {
+      "name": "Wiktor Rudzki",
+      "country": "PL",
+      "github_username": "zlewchan",
+      "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
+      "telegram_url": "https://t.me/zlewchan",
+      "devices": [
+         {
+            "codename": "kane",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "zlewchan"
+   },
+   {
       "name": "Zhenxiang Chen",
       "country": "CN",
       "github_username": "lucchetto",
@@ -954,22 +971,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "Wiktor Rudzki",
-      "country": "PL",
-      "github_username": "zlewchan",
-      "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
-      "telegram_url": "https://t.me/zlewchan",
-      "devices": [
-         {
-            "codename": "kane",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
-      "ci_username": "zlewchan"
    }
 ]
