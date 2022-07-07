@@ -2343,6 +2343,28 @@
       ]
    },
    {
+      "name": "Mi Max 2",
+      "brand": "Xiaomi",
+      "codename": "oxygen",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_oxygen",
+         "kernel_xiaomi_oxygen",
+         "vendor_xiaomi_oxygen"
+      ]
+   },
+   {
       "name": "Moto One Zoom",
       "brand": "Motorola",
       "codename": "parker",
@@ -3398,28 +3420,6 @@
          "device_xiaomi_vince",
          "kernel_xiaomi_vince",
          "vendor_xiaomi_vince"
-      ]
-   },
-   {
-      "name": "Mi Max 2",
-      "brand": "Xiaomi",
-      "codename": "oxygen",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "twelve_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_oxygen",
-         "kernel_xiaomi_oxygen",
-         "vendor_xiaomi_oxygen"
       ]
    },
    {
