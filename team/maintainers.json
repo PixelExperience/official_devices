@@ -713,6 +713,23 @@
       "ci_username": "rk134"
    },
    {
+      "name": "Hali W",
+      "country": "CN",
+      "github_username": "halibw",
+      "xda_url": "https://forum.xda-developers.com/m/halifaxte55.8107554/",
+      "telegram_url": "http://t.me/HarisFY",
+      "devices": [
+         {
+            "codename": "oxygen",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "halibw"
+   },
+   {
       "name": "Rahul Krishna",
       "country": "IN",
       "github_username": "rk779",
