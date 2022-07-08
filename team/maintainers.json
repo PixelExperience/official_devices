@@ -838,6 +838,23 @@
       "ci_username": "sparxfusion"
    },
    {
+      "name": "Shantanu Sarkar",
+      "country": "IN",
+      "github_username": "shantanu-sarkar",
+      "xda_url": "https://forum.xda-developers.com/m/shantanusarkar.11700663/",
+      "telegram_url": "https://t.me/shantanusarkar",
+      "devices": [
+         {
+            "codename": "guacamoleb",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "shantanusarkar"
+   },
+   {
       "name": "Shubham Das",
       "country": "IN",
       "github_username": "dasshubham762",
