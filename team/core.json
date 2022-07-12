@@ -80,16 +80,7 @@
       "github_username": "hasaber8",
       "xda_url": "https://forum.xda-developers.com/m/rohanhasabe8.9506906/",
       "telegram_url": "http://t.me/Hasaber8",
-      "devices": [
-         {
-            "codename": "kebab",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ],
-            "main_maintainer": true
-         }
-      ],
+      "devices": [],
       "ci_username": "hasaber8"
    },
    {
