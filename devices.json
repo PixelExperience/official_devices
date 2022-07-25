@@ -1691,9 +1691,9 @@
       ]
    },
    {
-      "name": "Moto One Vision / Motorola P50",
+      "name": "Moto One Action",
       "brand": "Motorola",
-      "codename": "kane",
+      "codename": "troika",
       "supported_versions": [
          {
             "version_code": "twelve",
@@ -1702,6 +1702,32 @@
          },
          {
             "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_troika",
+         "device_motorola_exynos9610-common",
+         "vendor_motorola_troika",
+         "vendor_motorola_exynos9610-common",
+         "kernel_motorola_exynos9610"
+      ]
+   },
+   {
+      "name": "Moto One Vision / Motorola P50",
+      "brand": "Motorola",
+      "codename": "kane",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-kane-pixelexperience-aosp.4465953/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-kane-pixelexperience-aosp.4465953/",
             "stable": true,
             "deprecated": false
          }

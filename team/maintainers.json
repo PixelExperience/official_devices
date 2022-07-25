@@ -936,6 +936,13 @@
                "twelve",
                "twelve_plus"
             ]
+         },
+         {
+            "codename": "troika",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
          }
       ],
       "ci_username": "zlewchan"
