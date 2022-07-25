@@ -1691,30 +1691,6 @@
       ]
    },
    {
-      "name": "Moto One Action",
-      "brand": "Motorola",
-      "codename": "troika",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "twelve_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_motorola_troika",
-         "device_motorola_exynos9610-common",
-         "vendor_motorola_troika",
-         "vendor_motorola_exynos9610-common",
-         "kernel_motorola_exynos9610"
-      ]
-   },
-   {
       "name": "Moto One Vision / Motorola P50",
       "brand": "Motorola",
       "codename": "kane",
@@ -1984,7 +1960,7 @@
          },
          {
             "version_code": "twelve_plus",
-	    "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
             "stable": true,
             "deprecated": false
          }
@@ -3293,6 +3269,30 @@
          "kernel_xiaomi_tissot",
          "vendor_xiaomi_tissot",
          "vendor_xiaomi_msm8953-common"
+      ]
+   },
+   {
+      "name": "Moto One Action",
+      "brand": "Motorola",
+      "codename": "troika",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_troika",
+         "device_motorola_exynos9610-common",
+         "vendor_motorola_troika",
+         "vendor_motorola_exynos9610-common",
+         "kernel_motorola_exynos9610"
       ]
    },
    {
