@@ -2726,13 +2726,13 @@
             "version_code": "twelve",
             "telegram_url": "https://t.me/arixeloroms",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "telegram_url": "https://t.me/arixeloroms",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [

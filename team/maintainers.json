@@ -642,15 +642,7 @@
       "github_username": "arixelo",
       "xda_url": "https://forum.xda-developers.com/m/patroxgamer.7618683/",
       "telegram_url": "http://t.me/ArixElo",
-      "devices": [
-         {
-            "codename": "renoir",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "arixelo"
    },
    {
