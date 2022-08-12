@@ -3233,7 +3233,8 @@
          "kernel_xiaomi_thyme",
          "vendor_xiaomi_thyme",
          "vendor_xiaomi_thyme-prebuilt",
-         "vendor_xiaomi_thyme-miuicamera"
+         "vendor_xiaomi_thyme-miuicamera",
+         "vendor_xiaomi_thyme-firmware"
       ]
    },
    {
