@@ -646,65 +646,6 @@
       "ci_username": "arixelo"
    },
    {
-      "name": "PixelBoot",
-      "country": "MT",
-      "github_username": "pixelboot",
-      "xda_url": "https://forum.xda-developers.com/m/pixelboot.8086838",
-      "telegram_url": "https://t.me/PixelBoot",
-      "devices": [
-         {
-            "codename": "walleye",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "taimen",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "blueline",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "crosshatch",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "flame",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "coral",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "sunfish",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
-      "ci_username": "pixelboot"
-   },
-   {
       "name": "Rahul Kantrapally",
       "country": "UK",
       "github_username": "rk134",
