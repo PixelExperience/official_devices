@@ -908,6 +908,28 @@
       ]
    },
    {
+      "name": "POCO M3/Redmi 9T",
+      "brand": "Xiaomi",
+      "codename": "chime",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_chime",
+         "kernel_xiaomi_chime",
+         "vendor_xiaomi_chime"
+      ]
+   },
+   {
       "name": "Pixel 4 XL",
       "brand": "Google",
       "codename": "coral",
