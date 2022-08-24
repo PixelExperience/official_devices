@@ -127,6 +127,23 @@
       "ci_username": "dereference"
    },
    {
+      "name": "Alif Fathur",
+      "country": "ID",
+      "github_username": "herobuxx",
+      "xda_url": "https://forum.xda-developers.com/m/herobuxx.9862902/",
+      "telegram_url": "https://t.me/herobuxx",
+      "devices": [
+         {
+            "codename": "chime",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "herobuxx"
+   },
+   {
       "name": "Alisson Grizotti",
       "country": "BR",
       "github_username": "alissongrizotti",
