@@ -1,22 +1,5 @@
 [
    {
-      "name": "Aaradhay Vijay",
-      "country": "IN",
-      "github_username": "inferno964",
-      "xda_url": "https://forum.xda-developers.com/m/aaradhayvijay.11824373/",
-      "telegram_url": "http://t.me/inferno964",
-      "devices": [
-         {
-            "codename": "lavender",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
-      "ci_username": "inferno964"
-   },
-   {
       "name": "Abd AlRahman NSR",
       "country": "IQ",
       "github_username": "jackson177",
