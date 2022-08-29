@@ -603,6 +603,56 @@
       ]
    },
    {
+      "name": "Samsung A72",
+      "brand": "Samsung",
+      "codename": "a72q",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a72q",
+         "device_samsung_sm7125-common",
+         "kernel_samsung_sm7125",
+         "vendor_samsung_sm7125-common"
+      ]
+   },
+   {
+      "name": "Samsung A52 4g",
+      "brand": "Samsung",
+      "codename": "a52q",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a52q",
+         "device_samsung_sm7125-common",
+         "kernel_samsung_sm7125",
+         "vendor_samsung_sm7125-common"
+      ]
+   },
+   {
       "name": "Galaxy S10e",
       "brand": "Samsung",
       "codename": "beyond0lte",
