@@ -736,30 +736,6 @@
       "ci_username": "risen"
    },
    {
-      "name": "Ruchit Marathe",
-      "country": "IN",
-      "github_username": "ryzen5950xt",
-      "xda_url": "https://forum.xda-developers.com/m/ryzen5950xt.12060347/",
-      "telegram_url": "https://t.me/Ryzen5950XT",
-      "devices": [
-         {
-            "codename": "a52q",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "a72q",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
-      "ci_username": "risen"
-   },
-   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "danascape",
