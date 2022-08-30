@@ -625,6 +625,7 @@
          "device_samsung_sm7125-common",
          "kernel_samsung_sm7125",
          "vendor_samsung_sm7125-common"
+         "vendor_samsung_a72q"
       ]
    },
    {
@@ -650,6 +651,7 @@
          "device_samsung_sm7125-common",
          "kernel_samsung_sm7125",
          "vendor_samsung_sm7125-common"
+         "vendor_samsung_a52q"
       ]
    },
    {
