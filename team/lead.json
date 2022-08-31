@@ -5,24 +5,6 @@
    "xda_url": "https://forum.xda-developers.com/m/jhenrique09.6519039/",
    "devices": [
       {
-         "codename": "sargo",
-         "versions": [
-            "eleven",
-            "eleven_plus",
-            "twelve",
-            "twelve_plus"
-         ]
-      },
-      {
-         "codename": "bonito",
-         "versions": [
-            "eleven",
-            "eleven_plus",
-            "twelve",
-            "twelve_plus"
-         ]
-      },
-      {
          "codename": "redfin",
          "versions": [
             "twelve",
