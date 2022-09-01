@@ -979,5 +979,22 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "Immanuel Raj",
+      "country": "IN",
+      "github_username": "iamimmanuelraj",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9376270",
+      "telegram_url": "http://t.me/iamimmanuelraj",
+      "devices": [
+         {
+            "codename": "jasmine_sprout",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "iamimmanuelraj"
    }
 ]
