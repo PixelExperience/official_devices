@@ -169,13 +169,6 @@
                "twelve",
                "twelve_plus"
             ]
-         },
-         {
-            "codename": "sweet",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
          }
       ],
       "ci_username": "zidan44"
