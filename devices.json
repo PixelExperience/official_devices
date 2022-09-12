@@ -571,8 +571,8 @@
             "stable": true,
             "deprecated": true
          },
-	 {
-	    "version_code": "thirteen",
+         {
+            "version_code": "thirteen",
             "stable": false,
             "deprecated": false
          }
