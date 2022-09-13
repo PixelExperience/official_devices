@@ -236,7 +236,7 @@
       ]
    },
    {
-      "name": "Samsung A52 4g",
+      "name": "A52 4g",
       "brand": "Samsung",
       "codename": "a52q",
       "supported_versions": [
@@ -244,12 +244,18 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -262,7 +268,7 @@
       ]
    },
    {
-      "name": "Samsung A72",
+      "name": "A72",
       "brand": "Samsung",
       "codename": "a72q",
       "supported_versions": [
@@ -270,12 +276,18 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/unofficial-rom-12-1-encryption-pixel-experience-plus-for-a52-and-a72.4434401/",
+            "stable": false,
             "deprecated": false
          }
       ],
