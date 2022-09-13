@@ -3550,10 +3550,15 @@
          {
             "version_code": "twelve",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
+            "stable": false,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
             "stable": false,
             "deprecated": false
          }
