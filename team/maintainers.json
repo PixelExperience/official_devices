@@ -404,14 +404,14 @@
       "ci_username": "jonascardoso"
    },
    {
-      "name": "Karthik",
+      "name": "shield44",
       "country": "IN",
       "github_username": "shield44",
       "xda_url": "https://forum.xda-developers.com/m/sdm439-olivewood.11497601/",
       "telegram_url": "https://t.me/shield44",
       "devices": [
          {
-            "codename": "olivewood",
+            "codename": "mi439",
             "versions": [
                "twelve",
                "twelve_plus"
