@@ -693,22 +693,19 @@
          {
             "codename": "hotdogb",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "guacamole",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "hotdog",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],

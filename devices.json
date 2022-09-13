@@ -1465,13 +1465,13 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1484,6 +1484,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1602,13 +1607,13 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1621,6 +1626,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1641,13 +1651,13 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "eleven",
@@ -1660,6 +1670,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
