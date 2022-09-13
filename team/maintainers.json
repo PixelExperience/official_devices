@@ -751,15 +751,13 @@
          {
             "codename": "a52q",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "a72q",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],
