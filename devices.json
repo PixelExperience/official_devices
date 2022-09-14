@@ -2433,9 +2433,9 @@
       ]
    },
    {
-      "name": "Redmi 8A Dual",
+      "name": "Redmi 8/8A/8A Dual",
       "brand": "Xiaomi",
-      "codename": "olivewood",
+      "codename": "mi439",
       "supported_versions": [
          {
             "version_code": "twelve",
@@ -2451,9 +2451,11 @@
          }
       ],
       "repositories": [
-         "device_xiaomi_olivewood",
-         "kernel_xiaomi_olivewood",
-         "vendor_xiaomi_olivewood"
+         "device_xiaomi_mi439",
+         "device_xiaomi_sdm439-common",
+         "kernel_xiaomi_mi439",
+         "vendor_xiaomi_mi439",
+         "vendor_xiaomi_sdm439-common"
       ]
    },
    {
