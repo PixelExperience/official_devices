@@ -752,8 +752,7 @@
          {
             "codename": "ginkgo",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ],
             "main_maintainer": true
          }
@@ -821,8 +820,7 @@
          {
             "codename": "ginkgo",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],
