@@ -2040,11 +2040,16 @@
          {
             "version_code": "twelve",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -2052,8 +2057,7 @@
          "device_xiaomi_lava",
          "device_xiaomi_mt6768-common",
          "kernel_xiaomi_mt6768",
-         "vendor_xiaomi_lava",
-         "vendor_xiaomi_mt6768-ims"
+         "vendor_xiaomi_lava"
       ]
    },
    {
