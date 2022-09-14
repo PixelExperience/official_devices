@@ -2251,6 +2251,32 @@
       ]
    },
    {
+      "name": "Redmi 8/8A/8A Dual",
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "twelve_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mi439",
+         "device_xiaomi_sdm439-common",
+         "kernel_xiaomi_mi439",
+         "vendor_xiaomi_mi439",
+         "vendor_xiaomi_sdm439-common"
+      ]
+   },
+   {
       "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
       "brand": "Xiaomi",
       "codename": "miatoll",
@@ -2430,32 +2456,6 @@
          "kernel_motorola_sdm632",
          "vendor_motorola_ocean",
          "vendor_motorola_sdm632-common"
-      ]
-   },
-   {
-      "name": "Redmi 8/8A/8A Dual",
-      "brand": "Xiaomi",
-      "codename": "mi439",
-      "supported_versions": [
-         {
-            "version_code": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "twelve_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_mi439",
-         "device_xiaomi_sdm439-common",
-         "kernel_xiaomi_mi439",
-         "vendor_xiaomi_mi439",
-         "vendor_xiaomi_sdm439-common"
       ]
    },
    {

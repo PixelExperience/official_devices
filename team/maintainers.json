@@ -404,23 +404,6 @@
       "ci_username": "jonascardoso"
    },
    {
-      "name": "shield44",
-      "country": "IN",
-      "github_username": "shield44",
-      "xda_url": "https://forum.xda-developers.com/m/sdm439-olivewood.11497601/",
-      "telegram_url": "https://t.me/shield44",
-      "devices": [
-         {
-            "codename": "mi439",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
-      "ci_username": "shield44"
-   },
-   {
       "name": "Lakshay Garg",
       "country": "IN",
       "github_username": "lakgarg",
@@ -969,6 +952,23 @@
          }
       ],
       "ci_username": "lzgmc"
+   },
+   {
+      "name": "shield44",
+      "country": "IN",
+      "github_username": "shield44",
+      "xda_url": "https://forum.xda-developers.com/m/sdm439-olivewood.11497601/",
+      "telegram_url": "https://t.me/shield44",
+      "devices": [
+         {
+            "codename": "mi439",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
+      "ci_username": "shield44"
    },
    {
       "name": "solidv",
