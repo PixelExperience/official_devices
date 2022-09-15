@@ -2555,12 +2555,18 @@
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/official-rom-12-1-payton-pixelexperience-aosp.4449627/",
             "telegram_url": "https://t.me/paytonpe",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/official-rom-12-1-payton-pixelexperience-aosp.4449627/",
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
             "telegram_url": "https://t.me/paytonpe",
             "deprecated": false
          }
