@@ -336,8 +336,7 @@
          {
             "codename": "oxygen",
             "versions": [
-               "twelve",
-               "twelve_plus"
+	       "thirteen"
             ]
          }
       ],
