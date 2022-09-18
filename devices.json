@@ -1842,12 +1842,17 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-kane-pixelexperience-aosp.4465953/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-kane-pixelexperience-aosp.4465953/",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -3478,11 +3483,16 @@
          {
             "version_code": "twelve",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
             "deprecated": false
          }
       ],

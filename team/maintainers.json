@@ -865,15 +865,13 @@
          {
             "codename": "kane",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "troika",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],
