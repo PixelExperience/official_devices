@@ -109,6 +109,18 @@
             ]
          },
          {
+            "codename": "sargo",
+            "versions": [
+               "thirteen"
+            ]
+         },
+         {
+            "codename": "bonito",
+            "versions": [
+               "thirteen"
+            ]
+         },
+         {
             "codename": "flame",
             "versions": [
                "twelve",
