@@ -835,7 +835,7 @@
          },
          {
             "version_code": "thirteen",
-            "stable": true,
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -1041,8 +1041,8 @@
          },
          {
             "version_code": "thirteen",
-            "stable": true,
-            "deprecated": true
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1374,8 +1374,8 @@
          },
          {
             "version_code": "thirteen",
-            "stable": true,
-            "deprecated": true
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3143,7 +3143,7 @@
          },
          {
             "version_code": "thirteen",
-            "stable": true,
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -3315,8 +3315,8 @@
          },
          {
             "version_code": "thirteen",
-            "stable": true,
-            "deprecated": true
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
