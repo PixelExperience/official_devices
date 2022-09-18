@@ -1042,7 +1042,7 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -1375,7 +1375,7 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -3315,7 +3315,7 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [

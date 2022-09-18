@@ -119,27 +119,6 @@
             "versions": [
                "thirteen"
             ]
-         },
-         {
-            "codename": "flame",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "coral",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "sunfish",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
          }
       ],
       "ci_username": "pixelboot"
