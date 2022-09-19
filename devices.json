@@ -789,16 +789,22 @@
       "codename": "blueline",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -1057,16 +1063,22 @@
       "codename": "crosshatch",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [

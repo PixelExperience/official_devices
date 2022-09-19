@@ -701,16 +701,14 @@
          {
             "codename": "blueline",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ],
             "main_maintainer": true
          },
          {
             "codename": "crosshatch",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ],
             "main_maintainer": true
          }
