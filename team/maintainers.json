@@ -467,20 +467,6 @@
       "telegram_url": "http://t.me/LynnrinChan",
       "devices": [
          {
-            "codename": "blueline",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "crosshatch",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
             "codename": "thyme",
             "versions": [
                "thirteen"
