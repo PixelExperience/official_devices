@@ -299,7 +299,7 @@
       "country": "IT",
       "github_username": "giasen",
       "xda_url": "https://forum.xda-developers.com/m/giasen.8167844/",
-      "telegram_url": "http://t.me/GiaSen",
+      "telegram_url": "http://t.me/giasen",
       "devices": [
          {
             "codename": "kunlun2",
@@ -318,8 +318,7 @@
          {
             "codename": "dipper",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],
