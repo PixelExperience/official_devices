@@ -304,15 +304,13 @@
          {
             "codename": "kunlun2",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "kunlun2_row",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
