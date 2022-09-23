@@ -45,7 +45,15 @@
       "github_username": "hlcpereira",
       "xda_url": "https://forum.xda-developers.com/m/hlcpereira.7838323/",
       "telegram_url": "http://t.me/Hlcpereira",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "apollo",
+            "versions": [
+               "twelve",
+               "twelve_plus"
+            ]
+         }
+      ],
       "ci_username": "hlcpereira"
    },
    {
