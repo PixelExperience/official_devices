@@ -2449,7 +2449,8 @@
          "kernel_xiaomi_mojito",
          "vendor_xiaomi_mojito",
          "vendor_xiaomi_sm6150-common",
-         "vendor_xiaomi_mojito-vendor"
+         "vendor_xiaomi_mojito-vendor",
+         "wiki_blobs_mojito"
       ]
    },
    {
