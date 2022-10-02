@@ -467,7 +467,7 @@
          "device_xiaomi_apollo",
          "device_xiaomi_sm8250-common",
          "device_xiaomi_sm8250-extras",
-         "kernel_xiaomi_sm8250",
+         "kernel_xiaomi_apollo",
          "vendor_xiaomi_apollo",
          "vendor_xiaomi_sm8250-common"
       ]
@@ -2324,7 +2324,7 @@
          {
             "version_code": "thirteen",
             "stable": false,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2454,7 +2454,8 @@
          "kernel_xiaomi_mojito",
          "vendor_xiaomi_mojito",
          "vendor_xiaomi_sm6150-common",
-         "vendor_xiaomi_mojito-vendor"
+         "vendor_xiaomi_mojito-vendor",
+         "wiki_blobs_mojito"
       ]
    },
    {
