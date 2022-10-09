@@ -827,18 +827,6 @@
       "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
       "telegram_url": "https://t.me/zlewchan",
       "devices": [
-         {
-            "codename": "kane",
-            "versions": [
-               "thirteen"
-            ]
-         },
-         {
-            "codename": "troika",
-            "versions": [
-               "thirteen"
-            ]
-         }
       ],
       "ci_username": "zlewchan"
    },
