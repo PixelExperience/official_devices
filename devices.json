@@ -1888,7 +1888,7 @@
          {
             "version_code": "thirteen",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -3566,7 +3566,7 @@
          {
             "version_code": "thirteen",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
