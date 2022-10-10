@@ -2445,12 +2445,9 @@
       ],
       "repositories": [
          "device_xiaomi_mojito",
-         "device_xiaomi_sm6150-common",
-         "device_xiaomi_sm6150-extras",
+         "device_xiaomi_mojito-sepolicy",
          "kernel_xiaomi_mojito",
          "vendor_xiaomi_mojito",
-         "vendor_xiaomi_sm6150-common",
-         "vendor_xiaomi_mojito-vendor",
          "wiki_blobs_mojito"
       ]
    },
