@@ -736,6 +736,22 @@
       "ci_username": "saalim"
    },
    {
+      "name": "Sakthivel Nadar",
+      "country": "IN",
+      "github_username": "sakthivelnadar",
+      "xda_url": "https://forum.xda-developers.com/m/sparxfusion.8569873/",
+      "telegram_url": "https://t.me/SakthivelNadar",
+      "devices": [
+         {
+            "codename": "lava",
+            "versions": [
+               "thirteen"
+            ]
+         }
+      ],
+      "ci_username": "sparxfusion"
+   },
+   {
       "name": "Shantanu Sarkar",
       "country": "IN",
       "github_username": "shantanu-sarkar",

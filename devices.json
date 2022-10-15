@@ -2129,7 +2129,7 @@
          {
             "version_code": "thirteen",
             "stable": false,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
