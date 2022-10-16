@@ -3280,17 +3280,23 @@
          {
             "version_code": "twelve",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
             "deprecated": false
          }
       ],
       "repositories": [
          "device_qcom_common",
          "device_xiaomi_spes",
+         "device_xiaomi_spes-kernel",
          "kernel_xiaomi_spes",
          "vendor_qcom_common",
          "vendor_xiaomi_spes",
