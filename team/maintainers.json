@@ -164,15 +164,7 @@
       "github_username": "chrisl7",
       "xda_url": "https://forum.xda-developers.com/m/chrisw444.11220339/",
       "telegram_url": "http://t.me/CHRISL7",
-      "devices": [
-         {
-            "codename": "spes",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "chrisl7"
    },
    {
