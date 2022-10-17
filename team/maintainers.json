@@ -209,22 +209,19 @@
          {
             "codename": "starlte",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "star2lte",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "crownlte",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],
