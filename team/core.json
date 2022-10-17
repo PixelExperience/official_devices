@@ -73,9 +73,9 @@
             "codename": "raphael",
             "versions": [
                "twelve",
-               "twelve_plus"
-            ],
-            "main_maintainer": true
+               "twelve_plus",
+               "thirteen"
+            ]
          }
       ],
       "ci_username": "jorgelucas"
