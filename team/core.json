@@ -49,8 +49,7 @@
          {
             "codename": "apollo",
             "versions": [
-               "twelve",
-               "twelve_plus"
+               "thirteen"
             ]
          }
       ],
