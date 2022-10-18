@@ -63,13 +63,6 @@
       "telegram_url": "http://t.me/JorgeLucas",
       "devices": [
          {
-            "codename": "lake",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
             "codename": "raphael",
             "versions": [
                "twelve",
