@@ -9,6 +9,12 @@
             "xda_thread": "",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
