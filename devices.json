@@ -3321,13 +3321,13 @@
       ],
       "repositories": [
          "device_qcom_common",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
          "device_xiaomi_spes",
          "device_xiaomi_spes-kernel",
          "kernel_xiaomi_spes",
          "vendor_qcom_common",
-         "vendor_xiaomi_spes",
-         "vendor_xiaomi_spes-firmware",
-         "vendor_xiaomi_spes-gcam"
+         "vendor_xiaomi_spes"
       ]
    },
    {
