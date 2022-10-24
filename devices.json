@@ -1614,12 +1614,18 @@
             "version_code": "twelve",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": false,
             "deprecated": false
          }
       ],
@@ -1627,7 +1633,6 @@
          "device_xiaomi_haydn",
          "kernel_xiaomi_haydn",
          "vendor_xiaomi_haydn",
-         "vendor_xiaomi_haydn-extras",
          "vendor_xiaomi_haydn-firmware",
          "wiki_blobs_haydn"
       ]
