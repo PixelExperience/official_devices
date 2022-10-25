@@ -3,6 +3,25 @@
    "country": "BR",
    "github_username": "jhenrique09",
    "xda_url": "https://forum.xda-developers.com/m/jhenrique09.6519039/",
-   "devices": [],
+   "devices": [
+      {
+         "codename": "redfin",
+         "versions": [
+            "thirteen"
+         ]
+      },
+      {
+         "codename": "barbet",
+         "versions": [
+            "thirteen"
+         ]
+      },
+      {
+         "codename": "bramble",
+         "versions": [
+            "thirteen"
+         ]
+      }
+   ],
    "ci_username": "jhenrique09"
 }
