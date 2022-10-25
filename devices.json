@@ -565,6 +565,11 @@
             "version_code": "twelve_plus",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -886,6 +891,11 @@
             "version_code": "twelve_plus",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3006,6 +3016,11 @@
             "version_code": "twelve_plus",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
