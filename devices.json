@@ -3550,13 +3550,13 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen",
@@ -3891,13 +3891,13 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen",
