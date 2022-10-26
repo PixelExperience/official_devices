@@ -3557,6 +3557,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3892,6 +3897,11 @@
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
             "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen",
+            "stable": false,
             "deprecated": false
          }
       ],
