@@ -828,11 +828,11 @@
       "ci_username": "vivekachooz"
    },
    {
-      "name": "Wiktor Rudzki",
+      "name": "The Vision",
       "country": "PL",
-      "github_username": "zlewchan",
+      "github_username": "Th3V1son",
       "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
-      "telegram_url": "https://t.me/zlewchan",
+      "telegram_url": "https://t.me/Th3V1son",
       "devices": [
          {
             "codename": "instantnoodle",
@@ -841,7 +841,7 @@
             ]
          }
       ],
-      "ci_username": "zlewchan"
+      "ci_username": "TheVision"
    },
    {
       "name": "Zhenxiang Chen",
