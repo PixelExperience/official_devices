@@ -812,6 +812,22 @@
       "ci_username": "sreekanth"
    },
    {
+      "name": "The Vision",
+      "country": "PL",
+      "github_username": "th3v1son",
+      "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
+      "telegram_url": "https://t.me/Th3V1son",
+      "devices": [
+         {
+            "codename": "instantnoodle",
+            "versions": [
+               "thirteen"
+            ]
+         }
+      ],
+      "ci_username": "thevision"
+   },
+   {
       "name": "Vivek",
       "country": "IN",
       "github_username": "vivekachooz",
@@ -826,22 +842,6 @@
          }
       ],
       "ci_username": "vivekachooz"
-   },
-   {
-      "name": "The Vision",
-      "country": "PL",
-      "github_username": "Th3V1son",
-      "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
-      "telegram_url": "https://t.me/Th3V1son",
-      "devices": [
-         {
-            "codename": "instantnoodle",
-            "versions": [
-               "thirteen"
-            ]
-         }
-      ],
-      "ci_username": "TheVision"
    },
    {
       "name": "Zhenxiang Chen",
