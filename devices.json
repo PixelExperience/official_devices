@@ -3560,6 +3560,7 @@
          },
          {
             "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-taimen-pixel-experience-aosp-beta.4511401/",
             "stable": false,
             "deprecated": false
          }
@@ -3907,6 +3908,7 @@
          },
          {
             "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-walleye-pixel-experience-aosp-beta.4511417/",
             "stable": false,
             "deprecated": false
          }
