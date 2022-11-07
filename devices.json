@@ -395,7 +395,7 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
