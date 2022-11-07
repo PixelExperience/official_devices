@@ -885,28 +885,6 @@
       "ci_username": "idkwhoiam322"
    },
    {
-      "name": "lzgmc",
-      "country": "US",
-      "github_username": "lzgmc",
-      "xda_url": "https://forum.xda-developers.com/m/lzgmc.7277634/",
-      "telegram_url": "https://t.me/lzgmc",
-      "devices": [
-         {
-            "codename": "jd2019",
-            "versions": [
-               "thirteen"
-            ]
-         },
-         {
-            "codename": "alioth",
-            "versions": [
-               "thirteen"
-            ]
-         }
-      ],
-      "ci_username": "lzgmc"
-   },
-   {
       "name": "shield44",
       "country": "IN",
       "github_username": "shield44",
