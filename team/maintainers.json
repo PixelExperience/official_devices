@@ -825,7 +825,8 @@
          {
             "codename": "instantnoodle",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
