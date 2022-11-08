@@ -151,7 +151,8 @@
          {
             "codename": "vayu",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
