@@ -1544,7 +1544,13 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-ginkgo-willow-pixelexperience-13.4494293/",
-            "stable": false,
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-ginkgo-willow-pixelexperience-13.4494293/",
+            "stable": true,
             "deprecated": false
          }
       ],
