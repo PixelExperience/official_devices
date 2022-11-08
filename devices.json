@@ -6,13 +6,16 @@
       "supported_versions": [
          {
             "version_code": "twelve",
-            "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen",
-            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
             "stable": false,
             "deprecated": false
          }
