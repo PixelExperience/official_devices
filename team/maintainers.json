@@ -699,13 +699,15 @@
          {
             "codename": "a52q",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
             "codename": "a72q",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
