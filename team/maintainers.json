@@ -208,19 +208,22 @@
          {
             "codename": "starlte",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
             "codename": "star2lte",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
             "codename": "crownlte",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
