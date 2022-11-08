@@ -879,7 +879,7 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499563/",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -3262,7 +3262,7 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499561/",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
