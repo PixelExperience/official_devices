@@ -3987,7 +3987,7 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "stable": true,
             "deprecated": false
          }
       ],
