@@ -7,19 +7,22 @@
       {
          "codename": "redfin",
          "versions": [
-            "thirteen"
+            "thirteen",
+            "thirteen_plus"
          ]
       },
       {
          "codename": "barbet",
          "versions": [
-            "thirteen"
+            "thirteen",
+            "thirteen_plus"
          ]
       },
       {
          "codename": "bramble",
          "versions": [
-            "thirteen"
+            "thirteen",
+            "thirteen_plus"
          ]
       }
    ],
