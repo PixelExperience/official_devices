@@ -13,11 +13,6 @@
             "version_code": "thirteen",
             "stable": false,
             "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": false,
-            "deprecated": false
          }
       ],
       "repositories": [
@@ -3421,7 +3416,7 @@
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
