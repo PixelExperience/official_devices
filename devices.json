@@ -2776,7 +2776,13 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "stable": true,
+            "telegram_url": "https://t.me/paytonpe",
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
             "telegram_url": "https://t.me/paytonpe",
             "deprecated": false
          }
