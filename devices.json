@@ -1664,7 +1664,7 @@
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
