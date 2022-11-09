@@ -782,7 +782,8 @@
          {
             "codename": "guacamoleb",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
