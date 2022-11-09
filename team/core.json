@@ -144,19 +144,22 @@
          {
             "codename": "begonia",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
             "codename": "mojito",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
             "codename": "sakura",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],

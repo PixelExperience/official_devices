@@ -676,7 +676,13 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
-            "stable": false,
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -2544,7 +2550,13 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
-            "stable": false,
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -3241,6 +3253,12 @@
          },
          {
             "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-sakura-sakurain-pixel-experience-official-aosp.4390723/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-sakura-sakurain-pixel-experience-official-aosp.4390723/",
             "stable": true,
             "deprecated": false
