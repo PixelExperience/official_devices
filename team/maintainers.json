@@ -264,7 +264,8 @@
          {
             "codename": "payton",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
