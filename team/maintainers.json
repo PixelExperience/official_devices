@@ -611,6 +611,23 @@
       "ci_username": "arixelo"
    },
    {
+      "name": "Pulkit Agarwal",
+      "country": "IN",
+      "github_username": "Pulkit077",
+      "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
+      "telegram_url": "https://t.me/Pulkit077",
+      "devices": [
+         {
+            "codename": "sweet",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "pulkit077"
+   },
+   {
       "name": "Rahul Kantrapally",
       "country": "UK",
       "github_username": "rk134",
