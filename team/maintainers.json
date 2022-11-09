@@ -521,7 +521,8 @@
          {
             "codename": "merlinx",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
