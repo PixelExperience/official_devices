@@ -3596,16 +3596,24 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-sweet-sweetin-pixel-experience-official-aosp.4267135/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_sweet",
-         "device_xiaomi_sm6150-common",
-         "device_xiaomi_sm6150-extras",
          "kernel_xiaomi_sweet",
-         "vendor_xiaomi_sweet",
-         "vendor_xiaomi_sm6150-common",
-         "vendor_xiaomi_sweet-vendor"
+         "vendor_xiaomi_sweet"
       ]
    },
    {
