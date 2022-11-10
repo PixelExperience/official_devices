@@ -9,7 +9,8 @@
          {
             "codename": "lavender",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],

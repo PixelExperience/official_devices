@@ -2282,8 +2282,13 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "stable":true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-lavender-pixelexperience-aosp.4494403/",
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
             "deprecated": false
          }
       ],
