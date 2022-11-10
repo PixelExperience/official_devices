@@ -3959,6 +3959,29 @@
       ]
    },
    {
+      "name": "Poco X4 Pro 5G",
+      "brand": "Xiaomi",
+      "codename": "veux",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_veux",
+         "device_xiaomi_veux-kernel",
+         "kernel_xiaomi_sm6375",
+         "vendor_xiaomi_veux"
+      ]
+   },
+   {
       "name": "Redmi 5 Plus",
       "brand": "Xiaomi",
       "codename": "vince",
@@ -4136,29 +4159,6 @@
          "kernel_lenovo_sm8150",
          "vendor_lenovo_zippo",
          "vendor_lenovo-firmware"
-      ]
-   },
-   {
-      "name": "Poco X4 Pro 5G",
-      "brand": "Xiaomi",
-      "codename": "veux",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_veux",
-         "device_xiaomi_veux-kernel",
-         "kernel_xiaomi_sm6375",
-         "vendor_xiaomi_veux"
       ]
    }
 ]
