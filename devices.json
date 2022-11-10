@@ -2643,13 +2643,19 @@
       "supported_versions": [
          {
             "version_code": "twelve",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
             "deprecated": false
          }
       ],
       "repositories": [
          "device_motorola_nio",
+         "device_motorola_sm8250-common",
          "kernel_motorola_sm8250",
-         "vendor_motorola_nio"
+         "vendor_motorola_nio",
+         "vendor_motorola_sm8250-common"
       ]
    },
    {
