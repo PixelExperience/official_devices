@@ -3731,7 +3731,7 @@
          {
             "version_code": "thirteen",
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
