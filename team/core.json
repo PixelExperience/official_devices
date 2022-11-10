@@ -67,7 +67,8 @@
             "versions": [
                "twelve",
                "twelve_plus",
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],

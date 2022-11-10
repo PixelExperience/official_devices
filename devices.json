@@ -3080,6 +3080,11 @@
             "version_code": "thirteen",
             "stable": false,
             "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
