@@ -969,5 +969,22 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "kleidione",
+      "country": "BR",
+      "github_username": "kleidione",
+      "xda_url": "",
+      "telegram_url": "http://t.me/kleidione",
+      "devices": [
+         {
+            "codename": "veux",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "kleidione"
    }
 ]
