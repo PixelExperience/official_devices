@@ -457,22 +457,6 @@
       "ci_username": "expressluke"
    },
    {
-      "name": "Lynnrin",
-      "country": "CN",
-      "github_username": "lynnrinchan",
-      "xda_url": "",
-      "telegram_url": "http://t.me/LynnrinChan",
-      "devices": [
-         {
-            "codename": "thyme",
-            "versions": [
-               "thirteen"
-            ]
-         }
-      ],
-      "ci_username": "lynnrinchan"
-   },
-   {
       "name": "MadhavSaladi(BabluS)",
       "country": "IN",
       "github_username": "madhavsaladi",
