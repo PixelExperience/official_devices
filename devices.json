@@ -1625,7 +1625,14 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -1784,7 +1791,14 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": true,
             "deprecated": false
          }
       ],
@@ -1828,7 +1842,14 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": true,
             "deprecated": false
          }
       ],
