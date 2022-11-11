@@ -286,22 +286,19 @@
          {
             "codename": "kunlun2",
             "versions": [
-               "thirteen",
-               "thirteen_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "kunlun2_row",
             "versions": [
-               "thirteen",
-               "thirteen_plus"
+               "thirteen"
             ]
          },
          {
             "codename": "dipper",
             "versions": [
-               "thirteen",
-               "thirteen_plus"
+               "thirteen"
             ]
          }
       ],
