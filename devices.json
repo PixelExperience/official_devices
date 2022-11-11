@@ -2541,16 +2541,24 @@
       ]
    },
    {
-      "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
+      "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
       "brand": "Xiaomi",
       "codename": "miatoll",
       "supported_versions": [
          {
             "version_code": "twelve",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
             "deprecated": false
          }
       ],
@@ -2559,6 +2567,7 @@
          "device_xiaomi_sm6250-common",
          "kernel_xiaomi_sm6250",
          "vendor_xiaomi_miatoll",
+         "vendor_xiaomi_miatoll-fw",
          "vendor_xiaomi_miatoll-gcam",
          "vendor_xiaomi_sm6250-common"
       ]
