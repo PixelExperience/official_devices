@@ -2240,7 +2240,12 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
             "deprecated": false
          }
       ],
