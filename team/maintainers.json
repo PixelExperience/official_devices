@@ -638,14 +638,16 @@
          {
             "codename": "blueline",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ],
             "main_maintainer": true
          },
          {
             "codename": "crosshatch",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ],
             "main_maintainer": true
          }

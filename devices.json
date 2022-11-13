@@ -859,6 +859,12 @@
             "deprecated": false
          },
          {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "",
             "stable": true,
@@ -1150,6 +1156,12 @@
       "supported_versions": [
          {
             "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
             "xda_thread": "",
             "stable": true,
             "deprecated": false
