@@ -892,7 +892,8 @@
          {
             "codename": "mi439",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
