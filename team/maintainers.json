@@ -919,5 +919,29 @@
          }
       ],
       "ci_username": "solidv"
+   },
+   {
+      "name": "windowz414",
+      "country": "TR",
+      "github_username": "windowz414",
+      "xda_url": "https://forum.xda-developers.com/m/windowz414.9468504/",
+      "telegram_url": "http://t.me/lndscpr",
+      "devices": [
+         {
+            "codename": "taimen",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "walleye",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "windowz414"
    }
 ]
