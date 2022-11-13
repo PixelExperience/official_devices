@@ -874,13 +874,15 @@
          {
             "codename": "jd2019",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
             "codename": "alioth",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
