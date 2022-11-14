@@ -129,22 +129,6 @@
       ]
    },
    {
-      "name": "Zenfone Max M1",
-      "brand": "ASUS",
-      "codename": "X00P",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_asus_X00P",
-         "kernel_asus_X00P",
-         "vendor_asus_X00P"
-      ]
-   },
-   {
       "name": "Zenfone Max Pro M1",
       "brand": "ASUS",
       "codename": "X00TD",
@@ -2814,12 +2798,6 @@
             "xda_thread": "https://forum.xda-developers.com/t/4196403/",
             "stable": true,
             "deprecated": true
-         },
-         {
-            "version_code": "twelve",
-            "xda_thread": "",
-            "stable": false,
-            "deprecated": false
          }
       ],
       "repositories": [
