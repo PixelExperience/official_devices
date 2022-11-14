@@ -75,7 +75,8 @@
          {
             "codename": "haydn",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
