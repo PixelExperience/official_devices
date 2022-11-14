@@ -123,13 +123,6 @@
                "thirteen",
                "thirteen_plus"
             ]
-         },
-         {
-            "codename": "sunfish",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
          }
       ],
       "ci_username": "pixelboot"
