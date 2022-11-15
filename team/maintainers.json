@@ -583,22 +583,6 @@
       "ci_username": "rk134"
    },
    {
-      "name": "Rahul Krishna",
-      "country": "IN",
-      "github_username": "rk779",
-      "xda_url": "https://forum.xda-developers.com/m/rk585.7985055/",
-      "telegram_url": "http://t.me/rk585",
-      "devices": [
-         {
-            "codename": "X01BD",
-            "versions": [
-               "twelve"
-            ]
-         }
-      ],
-      "ci_username": "rk779"
-   },
-   {
       "name": "Rajan Palaniya",
       "country": "IN",
       "github_username": "classified",
