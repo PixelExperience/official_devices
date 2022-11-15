@@ -1535,6 +1535,30 @@
       ]
    },
    {
+      "name": "Redmi 10/10C/10 Power",
+      "brand": "Xiaomi",
+      "codename": "fog",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_fog",
+         "device_xiaomi_fog-kernel",
+         "vendor_xiaomi_fog"
+      ]
+   },
+   {
       "name": "Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
       "brand": "Xiaomi",
       "codename": "gauguin",
