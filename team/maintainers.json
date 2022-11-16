@@ -881,6 +881,13 @@
       "telegram_url": "https://t.me/shield44",
       "devices": [
          {
+            "codename": "fog",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
             "codename": "mi439",
             "versions": [
                "thirteen",
