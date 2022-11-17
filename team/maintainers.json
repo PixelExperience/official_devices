@@ -922,14 +922,7 @@
       "telegram_url": "http://t.me/lndscpr",
       "devices": [
          {
-            "codename": "taimen",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "walleye",
+            "codename": "rosemary",
             "versions": [
                "thirteen",
                "thirteen_plus"

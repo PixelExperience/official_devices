@@ -4322,5 +4322,28 @@
          "vendor_lenovo_zippo",
          "vendor_lenovo-firmware"
       ]
+   },
+   {
+      "name": "Redmi Note 10s",
+      "brand": "Xiaomi",
+      "codename": "rosemary",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_redmi_rosemary",
+         "kernel_redmi_rosemary",
+         "vendor_redmi_rosemary",
+         "vendor_redmi_rosemary-firmware"
+      ]
    }
 ]
