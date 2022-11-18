@@ -457,23 +457,6 @@
       "ci_username": "maluueu"
    },
    {
-      "name": "Matsvei Niaverau",
-      "country": "BY",
-      "github_username": "surblazer",
-      "xda_url": "https://forum.xda-developers.com/m/ud4.5213841/",
-      "telegram_url": "https://t.me/surblazer",
-      "devices": [
-         {
-            "codename": "merlinx",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "surblazer"
-   },
-   {
       "name": "Nicholas Magill",
       "country": "GB",
       "github_username": "inkypen79",
