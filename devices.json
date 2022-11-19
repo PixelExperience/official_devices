@@ -3102,7 +3102,13 @@
          },
          {
             "version_code": "thirteen",
-            "stable": false,
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4038949/",
             "deprecated": false
          }
