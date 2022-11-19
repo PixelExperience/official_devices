@@ -26,7 +26,8 @@
          {
             "codename": "polaris",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
