@@ -54,15 +54,7 @@
       "country": "IN",
       "github_username": "abhinavgupta371",
       "telegram_url": "http://t.me/abhinavgupta371",
-      "devices": [
-         {
-            "codename": "tissot",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "abhinavgupta371"
    },
    {
