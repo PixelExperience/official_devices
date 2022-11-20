@@ -46,7 +46,6 @@ Our OTA system is automatic, you should not worry about updating some script. Th
 | devices | Array with the device and the respective version that you maintain | Yes |
 | xda_url | Direct url of your XDA profile (eg: https://forum.xda-developers.com/member.php?u=6519039) | No |
 | telegram_url | Direct url of your Telegram profile | No |
-| main_maintainer | Used in co-maintainer cases, set to true to keep your name at the top on the list of maintainers | No |
 
 ### 4. Device Image
 
