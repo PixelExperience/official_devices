@@ -126,7 +126,8 @@
          {
             "codename": "chime",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
