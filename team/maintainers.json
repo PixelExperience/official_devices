@@ -592,16 +592,14 @@
             "versions": [
                "thirteen",
                "thirteen_plus"
-            ],
-            "main_maintainer": true
+            ]
          },
          {
             "codename": "crosshatch",
             "versions": [
                "thirteen",
                "thirteen_plus"
-            ],
-            "main_maintainer": true
+            ]
          }
       ],
       "ci_username": "reallysnow"
@@ -642,8 +640,7 @@
             "versions": [
                "thirteen",
                "thirteen_plus"
-            ],
-            "main_maintainer": true
+            ]
          }
       ],
       "ci_username": "saalim"
@@ -677,8 +674,7 @@
             "versions": [
                "twelve",
                "twelve_plus"
-            ],
-            "main_maintainer": true
+            ]
          }
       ],
       "ci_username": "dasshubham762"
