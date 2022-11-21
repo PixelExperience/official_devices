@@ -178,7 +178,8 @@
          {
             "codename": "beckham",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
