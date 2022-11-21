@@ -83,6 +83,23 @@
       "ci_username": "adarshgrewal"
    },
    {
+      "name": "Ahmad Rulim",
+      "country": "ID",
+      "github_username": "rulim34",
+      "xda_url": "https://forum.xda-developers.com/m/rulim34.9913118/",
+      "telegram_url": "http://t.me/rulim34",
+      "devices": [
+         {
+            "codename": "veux",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "rulim34"
+   },
+   {
       "name": "Alcatraz323",
       "country": "CN",
       "github_username": "alcatraz323",
