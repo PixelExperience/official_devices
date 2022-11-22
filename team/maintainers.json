@@ -258,7 +258,8 @@
          {
             "codename": "cepheus",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          },
          {
