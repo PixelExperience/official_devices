@@ -668,31 +668,6 @@
       ]
    },
    {
-      "name": "Moto Edge 20",
-      "brand": "Motorola",
-      "codename": "berlin",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_motorola_berlin",
-         "device_motorola_sm7325-common",
-         "kernel_motorola_sm7325",
-         "vendor_motorola_berlin",
-         "vendor_motorola_sm7325-common",
-         "wiki_blobs_berlin"
-      ]
-   },
-   {
       "name": "Redmi Note 8 Pro",
       "brand": "Xiaomi",
       "codename": "begonia",
@@ -740,6 +715,31 @@
          "kernel_xiaomi_begonia",
          "vendor_xiaomi-firmware",
          "vendor_xiaomi_begonia"
+      ]
+   },
+   {
+      "name": "Moto Edge 20",
+      "brand": "Motorola",
+      "codename": "berlin",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_berlin",
+         "device_motorola_sm7325-common",
+         "kernel_motorola_sm7325",
+         "vendor_motorola_berlin",
+         "vendor_motorola_sm7325-common",
+         "wiki_blobs_berlin"
       ]
    },
    {
