@@ -4229,7 +4229,8 @@
          "device_xiaomi_veux",
          "device_xiaomi_veux-kernel",
          "kernel_xiaomi_sm6375",
-         "vendor_xiaomi_veux"
+         "vendor_xiaomi_veux",
+         "wiki_blobs_veux"
       ]
    },
    {
