@@ -4216,7 +4216,7 @@
       ]
    },
    {
-      "name": "Poco X4 Pro 5G",
+      "name": "POCO X4 Pro 5G / Redmi Note 11E Pro / Redmi Note 11 Pro 5G / Redmi Note 11 Pro+ 5G",
       "brand": "Xiaomi",
       "codename": "veux",
       "supported_versions": [
@@ -4235,7 +4235,8 @@
          "device_xiaomi_veux",
          "device_xiaomi_veux-kernel",
          "kernel_xiaomi_sm6375",
-         "vendor_xiaomi_veux"
+         "vendor_xiaomi_veux",
+         "wiki_blobs_veux"
       ]
    },
    {
