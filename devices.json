@@ -2075,11 +2075,23 @@
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-xiaomi-mi-a2-pixelexperience-aosp-25-07-2022.4406351/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-xiaomi-mi-a2-pixelexperience-aosp-25-07-2022.4406351/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mi-a2-pixelexperience-aosp.4522151/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-mi-a2-pixelexperience-aosp.4522151/",
             "stable": true,
             "deprecated": false
          }
