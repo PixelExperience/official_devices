@@ -95,13 +95,13 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-rmx2061-pixelexperience-aosp-official.4510477/",
-	    "stable": true,
+            "stable": true,
             "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-rmx2061-pixelexperience-aosp-official.4510477/",
-	    "stable": true,
+            "stable": true,
             "deprecated": false
          }
       ],
