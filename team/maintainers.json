@@ -194,7 +194,8 @@
          {
             "codename": "RMX2061",
             "versions": [
-               "thirteen"
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
