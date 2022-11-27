@@ -26,7 +26,9 @@
             "codename": "lmi",
             "versions": [
                "twelve",
-               "twelve_plus"
+               "twelve_plus",
+               "thirteen",
+               "thirteen_plus"
             ]
          }
       ],
