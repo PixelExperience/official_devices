@@ -2559,6 +2559,17 @@
             "version_code": "twelve_plus",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/updated-13-04-2022-rom-official-12-1-twelve-pixel-experience-for-k30-pro-zoom-poco-f2-pro-lmi-lmipro.4275995/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen-plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
