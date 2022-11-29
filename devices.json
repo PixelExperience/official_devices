@@ -3406,23 +3406,6 @@
       ]
    },
    {
-      "name": "Redmi 5A",
-      "brand": "Xiaomi",
-      "codename": "riva",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-riva-pixelexperience-aosp-official.4206805/",
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_riva",
-         "kernel_xiaomi_riva",
-         "vendor_xiaomi_riva"
-      ]
-   },
-   {
       "name": "Moto G7",
       "brand": "Motorola",
       "codename": "river",
