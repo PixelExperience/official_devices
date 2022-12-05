@@ -495,6 +495,23 @@
       "ci_username": "maluueu"
    },
    {
+      "name": "Nalinish Ranjan",
+      "country": "IN",
+      "github_username": "nranjan-17",
+      "xda_url": "https://forum.xda-developers.com/m/nalinish-05.11157831",
+      "telegram_url": "https://t.me/HyperPower17",
+      "devices": [
+         {
+            "codename": "mido",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "nranjan17"
+   },
+   {
       "name": "Nicholas Magill",
       "country": "GB",
       "github_username": "inkypen79",
@@ -914,22 +931,5 @@
          }
       ],
       "ci_username": "windowz414"
-   },
-   {
-      "name": "Nalinish Ranjan",
-      "country": "IN",
-      "github_username": "NRanjan-17",
-      "xda_url": "https://forum.xda-developers.com/m/nalinish-05.11157831",
-      "telegram_url": "https://t.me/HyperPower17",
-      "devices": [
-         {
-            "codename": "mido",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "NRanjan-17"
    }
 ]
