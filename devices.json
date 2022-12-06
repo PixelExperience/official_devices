@@ -3448,19 +3448,19 @@
       ]
    },
    {
-      "name": "Redmi Note 10s",
+      "name": "Redmi Note 10S/11 SE/POCO M5S",
       "brand": "Xiaomi",
       "codename": "rosemary",
       "supported_versions": [
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
