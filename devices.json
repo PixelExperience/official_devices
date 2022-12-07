@@ -2727,11 +2727,13 @@
          },
          {
             "version_code": "thirteen",
-            "deprecated": false
+            "deprecated": false,
+            "stable": true
          },
          {
             "version_code": "thirteen_plus",
-            "deprecated": false
+            "deprecated": false,
+            "stable": true
          }
       ],
       "repositories": [
