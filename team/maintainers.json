@@ -512,6 +512,23 @@
       "ci_username": "inkypen"
    },
    {
+      "name": "Nipin NA",
+      "country": "IN",
+      "github_username": "Joker-V2",
+      "xda_url": "https://forum.xda-developers.com/m/joker02.7981777/",
+      "telegram_url": "https://t.me/Joker_V2_0",
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "joker"
+   },
+   {
       "name": "Orel Yosupov",
       "country": "IL",
       "github_username": "orel6505",
