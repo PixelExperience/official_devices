@@ -591,7 +591,19 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-oneplus-nord-avicii-pixel-experience-aosp.4352603",
             "stable": true,
             "deprecated": false
-         }
+         },
+         {
+            "version_code": "thirteen",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         },
+	 {
+  	     "version_code": "thirteen_plus",
+             "xda_thread": "",
+             "stable": true,
+             "deprecated": false
+ 	 }
       ],
       "repositories": [
          "device_oneplus_avicii",
