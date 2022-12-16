@@ -25,8 +25,6 @@
          {
             "codename": "lmi",
             "versions": [
-               "twelve",
-               "twelve_plus",
                "thirteen",
                "thirteen_plus"
             ]
@@ -40,15 +38,7 @@
       "github_username": "sakilmondal",
       "xda_url": "https://forum.xda-developers.com/member.php?u=6151980",
       "telegram_url": "http://t.me/SakilMondal",
-      "devices": [
-         {
-            "codename": "whyred",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "sakilmondal"
    },
    {
@@ -247,13 +237,6 @@
                "thirteen",
                "thirteen_plus"
             ]
-         },
-         {
-            "codename": "mars",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
          }
       ],
       "ci_username": "ecrosoftxiao"
@@ -418,22 +401,7 @@
       "github_username": "xlexip",
       "xda_url": "https://forum.xda-developers.com/m/xlexip.11110723/",
       "telegram_url": "https://t.me/xLexip",
-      "devices": [
-         {
-            "codename": "cheeseburger",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "dumpling",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "xlexip"
    },
    {
@@ -442,15 +410,7 @@
       "github_username": "madhavsaladi",
       "xda_url": "https://forum.xda-developers.com/member.php?u=8482987",
       "telegram_url": "http://t.me/BabluS",
-      "devices": [
-         {
-            "codename": "RMX1971",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "bablus"
    },
    {
@@ -534,57 +494,7 @@
       "github_username": "orel6505",
       "xda_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
       "telegram_url": "https://t.me/Orel6505",
-      "devices": [
-         {
-            "codename": "beyond0lte",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "beyond1lte",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "beyond2lte",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "beyondx",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "d1",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "d2s",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         },
-         {
-            "codename": "d2x",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "orel6505"
    },
    {
@@ -757,15 +667,7 @@
       "github_username": "sreekanthpalakurthi",
       "xda_url": "https://forum.xda-developers.com/m/sreekanthpalakurthi.8555981/",
       "telegram_url": "http://t.me/SreekanthPalakurthi",
-      "devices": [
-         {
-            "codename": "phoenix",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "sreekanth"
    },
    {

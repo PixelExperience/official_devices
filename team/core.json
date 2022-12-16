@@ -29,13 +29,6 @@
                "thirteen",
                "thirteen_plus"
             ]
-         },
-         {
-            "codename": "venus",
-            "versions": [
-               "twelve",
-               "twelve_plus"
-            ]
          }
       ],
       "ci_username": "jjpprrrr"
