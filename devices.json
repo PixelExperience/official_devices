@@ -208,18 +208,6 @@
       "codename": "X01BD",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/4221219/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/4221219/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/4368929/",
             "stable": false,
@@ -387,18 +375,6 @@
       "codename": "alioth",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-alioth-aliothin-pixel-experience-official-aosp.4323569/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-alioth-aliothin-pixel-experience-official-aosp.4323569/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/",
             "stable": false,
@@ -439,17 +415,6 @@
       "codename": "andromeda",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/4131417/",
             "stable": false,
@@ -485,18 +450,6 @@
       "brand": "Xiaomi",
       "codename": "apollo",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/4249647/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/4249647/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/4249647/",
@@ -568,18 +521,6 @@
       "brand": "OnePlus",
       "codename": "avicii",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixel-experience-t4145763",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-oneplus-nord-avicii-pixel-experience-aosp.4352603",
@@ -656,18 +597,6 @@
       "codename": "beckham",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-beckham-pixel-experience-aosp.4238561/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-beckham-pixel-experience-aosp.4238561/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-beta-aosp.4358873",
             "stable": false,
@@ -703,18 +632,6 @@
       "brand": "Xiaomi",
       "codename": "begonia",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-11-begonia-pixel-experience-official-aosp.4196041/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-11-begonia-pixel-experience-official-aosp.4196041/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-begonia-begoniain-pixel-experience-official-aosp.4196041/",
@@ -957,16 +874,6 @@
       "codename": "bonito",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
@@ -1060,18 +967,6 @@
       "brand": "Xiaomi",
       "codename": "cepheus",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "",
@@ -1416,18 +1311,6 @@
       "codename": "dipper",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": false,
@@ -1705,18 +1588,6 @@
       "codename": "ginkgo",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-stable-ginkgo-willow-pixel-experience.4247435",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-stable-ginkgo-willow-pixel-experience.4247435",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683",
             "stable": false,
@@ -1763,18 +1634,6 @@
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/",
             "stable": false,
             "deprecated": true
          },
@@ -1943,18 +1802,6 @@
             "deprecated": true
          },
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
             "stable": true,
@@ -1990,18 +1837,6 @@
          {
             "version_code": "twelve_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/",
             "stable": false,
             "deprecated": true
          },
@@ -2147,18 +1982,6 @@
       "codename": "jd2019",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-unofficial-jd2019-pixel-experience-for-lenovo-z5s-august-22-2021.4228875/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-unofficial-jd2019-pixel-experience-for-lenovo-z5s-august-22-2021.4228875/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
@@ -2225,18 +2048,6 @@
       "codename": "kebab",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053",
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-oneplus-8t-pixel-experience-aosp-2020-12-04.4198053",
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
@@ -2271,18 +2082,6 @@
       "brand": "Lenovo",
       "codename": "kunlun2",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
@@ -2322,18 +2121,6 @@
       "brand": "Lenovo",
       "codename": "kunlun2_row",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
@@ -2416,11 +2203,6 @@
          },
          {
             "version_code": "eleven_plus",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "twelve",
             "stable": false,
             "deprecated": true
          }
@@ -2807,18 +2589,6 @@
       "brand": "Xiaomi",
       "codename": "mojito",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-mojito-sunny-pixel-experience-official-aosp.4264285/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-mojito-sunny-pixel-experience-official-aosp.4264285/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-mojito-sunny-pixel-experience-official-aosp.4264285/",
@@ -3214,18 +2984,6 @@
       "codename": "polaris",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/4038949/",
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/4038949/",
@@ -3346,20 +3104,6 @@
       "brand": "Xiaomi",
       "codename": "raphael",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/",
-            "telegram_url": "https://t.me/peraphaelofficial",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/",
-            "telegram_url": "https://t.me/peraphaelofficial",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "stable": false,
@@ -3558,16 +3302,6 @@
       "codename": "sakura",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/",
             "stable": false,
@@ -3630,16 +3364,6 @@
       "codename": "sargo",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
@@ -3700,18 +3424,6 @@
       "brand": "Xiaomi",
       "codename": "sirius",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/4039373/",
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/4039373/",
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "stable": false,
@@ -3933,18 +3645,6 @@
       "codename": "sweet",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-sweet-sweetin-pixel-experience-official-aosp.4267135/",
             "stable": false,
@@ -3980,18 +3680,6 @@
       "brand": "Google",
       "codename": "taimen",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-pixelexperience-aosp-official.4244497/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-pixelexperience-aosp-official.4244497/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/",
@@ -4060,18 +3748,6 @@
       "brand": "Xiaomi",
       "codename": "tissot",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-tissot-pixel-experience-aosp.4193737",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-tissot-pixel-experience-aosp.4193737",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-tissot-pixelexperience-aosp-beta.4351515",
@@ -4226,18 +3902,6 @@
       "codename": "vayu",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
@@ -4347,18 +4011,6 @@
       "codename": "violet",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
             "stable": false,
@@ -4393,18 +4045,6 @@
       "brand": "Google",
       "codename": "walleye",
       "supported_versions": [
-         {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/",
