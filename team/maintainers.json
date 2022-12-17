@@ -374,22 +374,6 @@
       "ci_username": "jef009"
    },
    {
-      "name": "Lakshay Garg",
-      "country": "IN",
-      "github_username": "lakgarg",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=9537214",
-      "telegram_url": "http://t.me/planckton",
-      "devices": [
-         {
-            "codename": "beryllium",
-            "versions": [
-               "thirteen"
-            ]
-         }
-      ],
-      "ci_username": "lakshay18"
-   },
-   {
       "name": "Lexip",
       "country": "DE",
       "github_username": "xlexip",
@@ -397,15 +381,6 @@
       "telegram_url": "https://t.me/xLexip",
       "devices": [],
       "ci_username": "xlexip"
-   },
-   {
-      "name": "MadhavSaladi(BabluS)",
-      "country": "IN",
-      "github_username": "madhavsaladi",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=8482987",
-      "telegram_url": "http://t.me/BabluS",
-      "devices": [],
-      "ci_username": "bablus"
    },
    {
       "name": "Marlon Alkan",
@@ -481,15 +456,6 @@
          }
       ],
       "ci_username": "joker"
-   },
-   {
-      "name": "Orel Yosupov",
-      "country": "IL",
-      "github_username": "orel6505",
-      "xda_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
-      "telegram_url": "https://t.me/Orel6505",
-      "devices": [],
-      "ci_username": "orel6505"
    },
    {
       "name": "Pulkit Agarwal",
