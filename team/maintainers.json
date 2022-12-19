@@ -75,6 +75,23 @@
       "ci_username": "adarshgrewal"
    },
    {
+      "name": "Aditya Singh",
+      "country": "IN",
+      "github_username": "ad1tyas1ngh",
+      "xda_url": "https://forum.xda-developers.com/m/ad1tyas1ngh.11053817",
+      "telegram_url": "http://t.me/Ad1tyaS1ngh",
+      "devices": [
+         {
+            "codename": "davinci",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "ad1tyas1ngh"
+   },
+   {
       "name": "Ahmad Rulim",
       "country": "ID",
       "github_username": "rulim34",

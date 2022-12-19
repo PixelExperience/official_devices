@@ -1291,12 +1291,21 @@
             "xda_thread": "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687",
             "stable": false,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_davinci",
-         "kernel_xiaomi_davinci",
-         "kernel_xiaomi_davinci-headers",
+         "kernel_xiaomi_sm6150",
          "vendor_xiaomi_davinci"
       ]
    },
