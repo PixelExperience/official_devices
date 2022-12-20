@@ -341,6 +341,23 @@
       "ci_username": "halibw"
    },
    {
+      "name": "hiper25",
+      "country": "CN",
+      "github_username": "hiper25",
+      "xda_url": "",
+      "telegram_url": "hiper25",
+      "devices": [
+         {
+            "codename": "Spacewar",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "hiper25"
+   },
+   {
       "name": "Immanuel Raj",
       "country": "IN",
       "github_username": "iamimmanuelraj",
