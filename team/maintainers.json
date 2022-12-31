@@ -730,6 +730,65 @@
       "ci_username": "emufan4568"
    },
    {
+      "name": "expressluke",
+      "country": "GB",
+      "github_username": "expressluke",
+      "xda_url": "https://forum.xda-developers.com/m/expressluke.7166349/",
+      "telegram_url": "https://t.me/ogexpressluke",
+      "devices": [
+         {
+            "codename": "beyond0lte",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "beyond1lte",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "beyond2lte",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "beyondx",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "d1",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "d2s",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "d2x",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "expressluke"
+   },
+   {
       "name": "hiper25",
       "country": "CN",
       "github_username": "hiper25",
@@ -827,64 +886,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "expressluke",
-      "country": "GB",
-      "github_username": "expressluke",
-      "xda_url": "https://forum.xda-developers.com/m/expressluke.7166349/",
-      "telegram_url": "https://t.me/ogexpressluke",
-      "devices": [
-         {
-            "codename": "beyond0lte",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "beyond1lte",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "beyond2lte",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "beyondx",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "d1",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "d2s",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "d2x",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "expressluke"
    }
 ]
