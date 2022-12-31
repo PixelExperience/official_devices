@@ -754,6 +754,18 @@
       "codename": "beyond0lte",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
             "stable": false,
@@ -778,6 +790,18 @@
       "brand": "Samsung",
       "codename": "beyond1lte",
       "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
@@ -804,6 +828,18 @@
       "codename": "beyond2lte",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
             "stable": false,
@@ -828,6 +864,18 @@
       "brand": "Samsung",
       "codename": "beyondx",
       "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
+            "stable": true,
+            "deprecated": false
+         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/",
@@ -1228,6 +1276,18 @@
       "codename": "d1",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
             "stable": false,
@@ -1253,6 +1313,18 @@
       "codename": "d2s",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
             "stable": false,
@@ -1277,6 +1349,18 @@
       "brand": "Samsung",
       "codename": "d2x",
       "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
+            "stable": true,
+            "deprecated": false
+         },
          {
             "version_code": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/",
