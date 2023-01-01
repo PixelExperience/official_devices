@@ -2188,6 +2188,29 @@
       ]
    },
    {
+      "name": "9RT",
+      "brand": "OnePlus",
+      "codename": "martini",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_martini",
+         "vendor_oneplus_martini",
+         "kernel_oneplus_martini",
+         "wiki_blobs_martini"
+      ]
+   },
+   {
       "name": "Z6 Lite",
       "brand": "Lenovo",
       "codename": "kunlun2",
