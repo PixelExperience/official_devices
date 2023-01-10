@@ -2571,11 +2571,13 @@
       "supported_versions": [
          {
             "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-martini-pixelexperience-aosp.4539797/",
             "stable": true,
             "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-martini-pixelexperience-aosp.4539797/",
             "stable": true,
             "deprecated": false
          }
