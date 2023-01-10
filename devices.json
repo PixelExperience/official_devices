@@ -575,7 +575,6 @@
          "kernel_oneplus_sm7250",
          "vendor_oneplus_avicii",
          "vendor_oneplus_sm7250-common",
-         "vendor_oneplus-firmware",
          "vendor_oneplus_wfdcommon"
       ]
    },
@@ -1928,6 +1927,7 @@
          "device_oneplus_hotdog",
          "device_oneplus_sm8150-common",
          "kernel_oneplus_sm8150",
+         "vendor_oneplus-firmware",
          "vendor_oneplus_hotdog",
          "vendor_oneplus_sm8150-common",
          "vendor_oneplus_sm8150_apps"
@@ -1967,6 +1967,7 @@
          "device_oneplus_hotdogb",
          "device_oneplus_sm8150-common",
          "kernel_oneplus_sm8150",
+         "vendor_oneplus-firmware",
          "vendor_oneplus_hotdogb",
          "vendor_oneplus_sm8150-common",
          "vendor_oneplus_sm8150_apps"
