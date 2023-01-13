@@ -203,6 +203,23 @@
       "ci_username": "chrisl7"
    },
    {
+      "name": "Debayan Kar",
+      "country": "IN",
+      "github_username": "kardebayan",
+      "xda_url": "",
+      "telegram_url": "http://telegram.me/kardebayan",
+      "devices": [
+         {
+            "codename": "G",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "kardebayan"
+   },
+   {
       "name": "Debdeep",
       "country": "IN",
       "github_username": "debdeep199x",

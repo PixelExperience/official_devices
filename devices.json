@@ -113,6 +113,28 @@
       ]
    },
    {
+      "name": "G",
+      "brand": "10.or",
+      "codename": "G",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_10or_G",
+         "vendor_10or_G",
+         "kernel_10or_G"
+      ]
+   },
+   {
       "name": "Phone (1)",
       "brand": "Nothing",
       "codename": "Spacewar",
