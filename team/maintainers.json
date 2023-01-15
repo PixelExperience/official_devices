@@ -733,8 +733,7 @@
          {
             "codename": "zippo",
             "versions": [
-               "thirteen",
-               "thirteen_plus"
+               "thirteen"
             ]
          }
       ],
