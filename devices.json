@@ -2086,7 +2086,8 @@
       "repositories": [
          "device_xiaomi_jasmine_sprout",
          "kernel_xiaomi_jasmine_sprout",
-         "vendor_xiaomi_jasmine_sprout"
+         "vendor_xiaomi_jasmine_sprout",
+         "wiki_blobs_jasmine_sprout"
       ]
    },
    {
