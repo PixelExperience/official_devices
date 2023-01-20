@@ -367,6 +367,23 @@
       "ci_username": "halibw"
    },
    {
+      "name": "Himanshu Tyagi",
+      "country": "IN",
+      "github_username": "manshutyagi",
+      "xda_url": "https://forum.xda-developers.com/m/manshutyagi.11257767/",
+      "telegram_url": "https://t.me/ManshuTyagi",
+      "devices": [
+         {
+            "codename": "RM6785",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "manshutyagi"
+   },
+   {
       "name": "Immanuel Raj",
       "country": "IN",
       "github_username": "iamimmanuelraj",
@@ -441,23 +458,6 @@
       "telegram_url": "https://t.me/xLexip",
       "devices": [],
       "ci_username": "xlexip"
-   },
-   {
-      "name": "Himanshu Tyagi",
-      "country": "IN",
-      "github_username": "ManshuTyagi",
-      "xda_url": "https://forum.xda-developers.com/m/manshutyagi.11257767/",
-      "telegram_url": "https://t.me/ManshuTyagi",
-      "devices": [
-         {
-            "codename": "RM6785",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "manshutyagi"
    },
    {
       "name": "Marlon Alkan",

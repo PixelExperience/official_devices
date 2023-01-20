@@ -22,6 +22,29 @@
       ]
    },
    {
+      "name": "6/7",
+      "brand": "Realme",
+      "codename": "RM6785",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_realme_RM6785",
+         "kernel_realme_mt6785",
+         "vendor_realme_RM6785",
+         "vendor_realme-firmware"
+      ]
+   },
+   {
       "name": "3 Pro",
       "brand": "Realme",
       "codename": "RMX1851",
@@ -110,29 +133,6 @@
          "device_realme_sm7125-common",
          "kernel_realme_sm7125",
          "vendor_realme_RMX2061"
-      ]
-   },
-   {
-      "name": "6/7",
-      "brand": "Realme",
-      "codename": "RM6785",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_realme_RM6785",
-         "kernel_realme_mt6785",
-         "vendor_realme_RM6785",
-         "vendor_realme-firmware"
       ]
    },
    {
