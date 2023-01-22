@@ -3404,12 +3404,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
