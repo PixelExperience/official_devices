@@ -12,7 +12,14 @@
                "thirteen",
                "thirteen_plus"
             ]
-         }
+         },
+	 {
+	    "codename": "platina",
+            "versions": [
+               "thirteen",
+	       "thirteen_plus"
+	    ]
+	 }
       ],
       "ci_username": "aaradhayvijay"
    },
