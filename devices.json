@@ -455,7 +455,7 @@
       ]
    },
    {
-      "name": "Mi Mix 3 5G",
+      "name": "Mi MIX 3 5G",
       "brand": "Xiaomi",
       "codename": "andromeda",
       "supported_versions": [
@@ -2479,7 +2479,7 @@
       ]
    },
    {
-      "name": "Mi Mix",
+      "name": "Mi MIX",
       "brand": "Xiaomi",
       "codename": "lithium",
       "supported_versions": [
@@ -3151,7 +3151,7 @@
       ]
    },
    {
-      "name": "Mi Mix 2s",
+      "name": "Mi MIX 2S",
       "brand": "Xiaomi",
       "codename": "polaris",
       "supported_versions": [
@@ -3397,7 +3397,7 @@
       ]
    },
    {
-      "name": "Redmi Note 10S / 11 SE / POCO M5S",
+      "name": "Redmi Note 10S / 11 SE / POCO M5s",
       "brand": "Xiaomi",
       "codename": "rosemary",
       "supported_versions": [
