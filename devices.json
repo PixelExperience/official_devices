@@ -415,7 +415,7 @@
       ]
    },
    {
-      "name": "Redmi K40/Poco F3/Mi 11X",
+      "name": "Redmi K40/POCO F3/Mi 11X",
       "brand": "Xiaomi",
       "codename": "alioth",
       "supported_versions": [
@@ -735,7 +735,7 @@
       ]
    },
    {
-      "name": "Poco F1",
+      "name": "POCO F1",
       "brand": "Xiaomi",
       "codename": "beryllium",
       "supported_versions": [
@@ -2369,7 +2369,7 @@
       ]
    },
    {
-      "name": "Redmi 9 Prime / Poco M2",
+      "name": "Redmi 9 Prime / POCO M2",
       "brand": "Xiaomi",
       "codename": "lava",
       "supported_versions": [
@@ -2505,7 +2505,7 @@
       ]
    },
    {
-      "name": "Poco F2 Pro",
+      "name": "POCO F2 Pro",
       "brand": "Xiaomi",
       "codename": "lmi",
       "supported_versions": [
@@ -3031,7 +3031,7 @@
       ]
    },
    {
-      "name": "Redmi K30/Poco X2",
+      "name": "Redmi K30/POCO X2",
       "brand": "Xiaomi",
       "codename": "phoenix",
       "supported_versions": [
@@ -3779,7 +3779,7 @@
       ]
    },
    {
-      "name": "Poco X3",
+      "name": "POCO X3",
       "brand": "Xiaomi",
       "codename": "surya",
       "supported_versions": [
@@ -4069,7 +4069,7 @@
       ]
    },
    {
-      "name": "Poco X3 Pro",
+      "name": "POCO X3 Pro",
       "brand": "Xiaomi",
       "codename": "vayu",
       "supported_versions": [
