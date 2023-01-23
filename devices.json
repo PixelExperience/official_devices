@@ -3141,12 +3141,24 @@
             "version_code": "twelve_plus",
             "stable": false,
             "deprecated": true
-         }
+         },
+  	 {
+	    "version_code": "thirteen",
+            "stable": false,
+            "deprecated": false
+	 },
+	 {
+            "version_code": "thirteen_plus",
+            "stable": false,
+            "deprecated": false
+	 }
       ],
       "repositories": [
          "device_xiaomi_platina",
-         "kernel_xiaomi_platina",
+	 "device_xiaomi_sdm660-common",
+         "kernel_xiaomi_sdm660",
          "vendor_xiaomi_platina",
+	 "vendor_xiaomi_sdm660-common",
          "vendor_xiaomi-firmware"
       ]
    },
