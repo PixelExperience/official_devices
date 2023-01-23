@@ -22,7 +22,7 @@
       ]
    },
    {
-      "name": "6/7",
+      "name": "6 / 7",
       "brand": "Realme",
       "codename": "RM6785",
       "supported_versions": [
@@ -415,7 +415,7 @@
       ]
    },
    {
-      "name": "Redmi K40/Poco F3/Mi 11X",
+      "name": "Redmi K40 / POCO F3 / Mi 11X",
       "brand": "Xiaomi",
       "codename": "alioth",
       "supported_versions": [
@@ -455,7 +455,7 @@
       ]
    },
    {
-      "name": "Mi Mix 3 5G",
+      "name": "Mi MIX 3 5G",
       "brand": "Xiaomi",
       "codename": "andromeda",
       "supported_versions": [
@@ -491,7 +491,7 @@
       ]
    },
    {
-      "name": "Mi 10T/Mi 10T Pro/Redmi K30S",
+      "name": "Mi 10T / Mi 10T Pro / Redmi K30S",
       "brand": "Xiaomi",
       "codename": "apollo",
       "supported_versions": [
@@ -735,7 +735,7 @@
       ]
    },
    {
-      "name": "Poco F1",
+      "name": "POCO F1",
       "brand": "Xiaomi",
       "codename": "beryllium",
       "supported_versions": [
@@ -1151,7 +1151,7 @@
       ]
    },
    {
-      "name": "POCO M3/Redmi 9T/Redmi 9T NFC/Redmi 9 Power",
+      "name": "POCO M3 / Redmi 9T / Redmi 9T NFC / Redmi 9 Power",
       "brand": "Xiaomi",
       "codename": "chime",
       "supported_versions": [
@@ -1404,7 +1404,7 @@
       ]
    },
    {
-      "name": "Redmi K20/Mi 9T",
+      "name": "Redmi K20 / Mi 9T",
       "brand": "Xiaomi",
       "codename": "davinci",
       "supported_versions": [
@@ -1629,7 +1629,7 @@
       ]
    },
    {
-      "name": "Redmi 10/10C/10 Power",
+      "name": "Redmi 10 / 10C / 10 Power",
       "brand": "Xiaomi",
       "codename": "fog",
       "supported_versions": [
@@ -1653,7 +1653,7 @@
       ]
    },
    {
-      "name": "Redmi Note 9 Pro 5G/Mi 10i/Mi 10T Lite",
+      "name": "Redmi Note 9 Pro 5G / Mi 10i / Mi 10T Lite",
       "brand": "Xiaomi",
       "codename": "gauguin",
       "supported_versions": [
@@ -1715,7 +1715,7 @@
       ]
    },
    {
-      "name": "Redmi Note 8/8T",
+      "name": "Redmi Note 8 / 8T",
       "brand": "Xiaomi",
       "codename": "ginkgo",
       "supported_versions": [
@@ -2329,7 +2329,7 @@
       ]
    },
    {
-      "name": "Redmi 3S/3X",
+      "name": "Redmi 3S / 3X",
       "brand": "Xiaomi",
       "codename": "land",
       "supported_versions": [
@@ -2369,7 +2369,7 @@
       ]
    },
    {
-      "name": "Redmi 9 Prime / Poco M2",
+      "name": "Redmi 9 Prime / POCO M2",
       "brand": "Xiaomi",
       "codename": "lava",
       "supported_versions": [
@@ -2402,7 +2402,7 @@
       ]
    },
    {
-      "name": "Redmi Note 7/7S",
+      "name": "Redmi Note 7 / 7S",
       "brand": "Xiaomi",
       "codename": "lavender",
       "supported_versions": [
@@ -2479,7 +2479,7 @@
       ]
    },
    {
-      "name": "Mi Mix",
+      "name": "Mi MIX",
       "brand": "Xiaomi",
       "codename": "lithium",
       "supported_versions": [
@@ -2505,7 +2505,7 @@
       ]
    },
    {
-      "name": "Poco F2 Pro",
+      "name": "POCO F2 Pro",
       "brand": "Xiaomi",
       "codename": "lmi",
       "supported_versions": [
@@ -2647,7 +2647,7 @@
       ]
    },
    {
-      "name": "Redmi 8/8A/8A Dual",
+      "name": "Redmi 8 / 8A / 8A Dual",
       "brand": "Xiaomi",
       "codename": "mi439",
       "supported_versions": [
@@ -2721,7 +2721,7 @@
       ]
    },
    {
-      "name": "Redmi Note 4/4X",
+      "name": "Redmi Note 4 / 4X",
       "brand": "Xiaomi",
       "codename": "mido",
       "supported_versions": [
@@ -2907,7 +2907,7 @@
       ]
    },
    {
-      "name": "3/3T",
+      "name": "3 / 3T",
       "brand": "OnePlus",
       "codename": "oneplus3",
       "supported_versions": [
@@ -3031,7 +3031,7 @@
       ]
    },
    {
-      "name": "Redmi K30/Poco X2",
+      "name": "Redmi K30 / POCO X2",
       "brand": "Xiaomi",
       "codename": "phoenix",
       "supported_versions": [
@@ -3151,7 +3151,7 @@
       ]
    },
    {
-      "name": "Mi Mix 2s",
+      "name": "Mi MIX 2S",
       "brand": "Xiaomi",
       "codename": "polaris",
       "supported_versions": [
@@ -3240,7 +3240,7 @@
       ]
    },
    {
-      "name": "5 Series (5/5s/5i)",
+      "name": "5 / 5s / 5i",
       "brand": "Realme",
       "codename": "r5x",
       "supported_versions": [
@@ -3272,7 +3272,7 @@
       ]
    },
    {
-      "name": "Redmi K20 Pro/Mi 9T Pro",
+      "name": "Redmi K20 Pro / Mi 9T Pro",
       "brand": "Xiaomi",
       "codename": "raphael",
       "supported_versions": [
@@ -3397,7 +3397,7 @@
       ]
    },
    {
-      "name": "Redmi Note 10S/11 SE/POCO M5S",
+      "name": "Redmi Note 10S / 11 SE / POCO M5s",
       "brand": "Xiaomi",
       "codename": "rosemary",
       "supported_versions": [
@@ -3779,7 +3779,7 @@
       ]
    },
    {
-      "name": "Poco X3",
+      "name": "POCO X3",
       "brand": "Xiaomi",
       "codename": "surya",
       "supported_versions": [
@@ -3983,7 +3983,7 @@
       ]
    },
    {
-      "name": "Mi CC9 Pro/Note 10",
+      "name": "Mi CC9 Pro / Note 10",
       "brand": "Xiaomi",
       "codename": "tucana",
       "supported_versions": [
@@ -4069,7 +4069,7 @@
       ]
    },
    {
-      "name": "Poco X3 Pro",
+      "name": "POCO X3 Pro",
       "brand": "Xiaomi",
       "codename": "vayu",
       "supported_versions": [
@@ -4261,7 +4261,7 @@
       ]
    },
    {
-      "name": "Redmi Note 5 Global/Pro",
+      "name": "Redmi Note 5 Global / Pro",
       "brand": "Xiaomi",
       "codename": "whyred",
       "supported_versions": [
