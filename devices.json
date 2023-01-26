@@ -3675,6 +3675,7 @@
          "device_qcom_common",
          "device_qcom_qssi",
          "device_qcom_vendor-common",
+         "device_qcom_wlan",
          "device_xiaomi_spes",
          "device_xiaomi_spes-kernel",
          "kernel_xiaomi_spes",
