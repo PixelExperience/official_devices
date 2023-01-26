@@ -3675,6 +3675,7 @@
          "device_qcom_common",
          "device_qcom_qssi",
          "device_qcom_vendor-common",
+         "device_qcom_wlan",
          "device_xiaomi_spes",
          "device_xiaomi_spes-kernel",
          "kernel_xiaomi_spes",
@@ -3813,10 +3814,23 @@
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_qcom_common",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
          "device_xiaomi_surya",
          "device_xiaomi_J20C-sepolicy",
          "kernel_xiaomi_surya",

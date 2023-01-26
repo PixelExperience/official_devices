@@ -205,7 +205,14 @@
                "thirteen",
                "thirteen_plus"
             ]
-         }
+         },
+         {
+            "codename": "surya",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+         ]
+      }
       ],
       "ci_username": "chrisl7"
    },
