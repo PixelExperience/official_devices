@@ -166,7 +166,14 @@
       "telegram_url": "https://t.me/herobuxx",
       "devices": [
          {
-            "codename": "chime",
+            "codename": "citrus",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "lime",
             "versions": [
                "thirteen",
                "thirteen_plus"

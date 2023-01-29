@@ -1155,20 +1155,10 @@
       ]
    },
    {
-      "name": "POCO M3 / Redmi 9T / Redmi 9T NFC / Redmi 9 Power",
+      "name": "POCO M3",
       "brand": "Xiaomi",
-      "codename": "chime",
+      "codename": "citrus",
       "supported_versions": [
-         {
-            "version_code": "twelve",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "twelve_plus",
-            "stable": false,
-            "deprecated": true
-         },
          {
             "version_code": "thirteen",
             "stable": true,
@@ -1182,8 +1172,10 @@
       ],
       "repositories": [
          "device_xiaomi_chime",
+         "device_xiaomi_citrus",
          "kernel_xiaomi_chime",
          "vendor_xiaomi_chime"
+         "vendor_xiaomi_citrus"
       ]
    },
    {
@@ -2478,6 +2470,30 @@
          "vendor_motorola_liber",
          "vendor_motorola_sm6150-common",
          "kernel_motorola_sm6150"
+      ]
+   },
+   {
+      "name": "Redmi 9T / Redmi 9T NFC / Redmi 9 Power",
+      "brand": "Xiaomi",
+      "codename": "lime",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_chime",
+         "device_xiaomi_lime",
+         "kernel_xiaomi_chime",
+         "vendor_xiaomi_chime"
+         "vendor_xiaomi_lime"
       ]
    },
    {
