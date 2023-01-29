@@ -1845,13 +1845,13 @@
             "version_code": "thirteen",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
