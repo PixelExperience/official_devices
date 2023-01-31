@@ -546,6 +546,23 @@
       "ci_username": "joker"
    },
    {
+      "name": "Philipp Albrecht",
+      "country": "DE",
+      "github_username": "MajorP93",
+      "xda_url": "https://forum.xda-developers.com/m/majorp93.6377356/",
+      "telegram_url": "https://t.me/MajorP93",
+      "devices": [
+         {
+            "codename": "avicii",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "majorp93"
+   },
+   {
       "name": "Pulkit Agarwal",
       "country": "IN",
       "github_username": "pulkit077",
