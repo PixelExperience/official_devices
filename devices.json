@@ -971,13 +971,13 @@
          },
          {
             "version_code": "thirteen",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499563/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-bonito-pixel-experience-aosp.4499563/",
             "stable": true,
             "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499563/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-bonito-pixel-experience-aosp.4499563/",
             "stable": true,
             "deprecated": false
          }
@@ -1595,7 +1595,7 @@
          },
          {
             "version_code": "twelve_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-flame-pixelexperience-aosp.4406401/",
             "stable": false,
             "deprecated": true
          },
@@ -3574,13 +3574,13 @@
          },
          {
             "version_code": "thirteen",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499561/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sargo-pixel-experience-aosp.4499561/",
             "stable": true,
             "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499561/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sargo-pixel-experience-aosp.4499561/",
             "stable": true,
             "deprecated": false
          }
@@ -3785,17 +3785,19 @@
          },
          {
             "version_code": "twelve_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-sunfish-pixelexperience-aosp.4392819/",
             "stable": false,
             "deprecated": true
          },
          {
             "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/",
             "stable": true,
             "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/",
             "stable": true,
             "deprecated": false
          }
