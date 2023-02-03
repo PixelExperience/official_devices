@@ -734,31 +734,6 @@
       ]
    },
    {
-      "name": "Moto Edge 30",
-      "brand": "Motorola",
-      "codename": "dubai",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_motorola_dubai",
-         "device_motorola_sm7325-common",
-         "kernel_motorola_sm7325",
-         "vendor_motorola_dubai",
-         "vendor_motorola_sm7325-common",
-         "wiki_blobs_dubai"
-      ]
-   },
-   {
       "name": "POCO F1",
       "brand": "Xiaomi",
       "codename": "beryllium",
@@ -1490,6 +1465,31 @@
          "vendor_xiaomi-firmware",
          "device_xiaomi_sdm845-common",
          "vendor_xiaomi_sdm845-common"
+      ]
+   },
+   {
+      "name": "Moto Edge 30",
+      "brand": "Motorola",
+      "codename": "dubai",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_motorola_dubai",
+         "device_motorola_sm7325-common",
+         "kernel_motorola_sm7325",
+         "vendor_motorola_dubai",
+         "vendor_motorola_sm7325-common",
+         "wiki_blobs_dubai"
       ]
    },
    {
