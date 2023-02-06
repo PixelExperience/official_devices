@@ -46,15 +46,7 @@
       "github_username": "sakilmondal",
       "xda_url": "https://forum.xda-developers.com/member.php?u=6151980",
       "telegram_url": "http://t.me/SakilMondal",
-      "devices": [
-         {
-            "codename": "whyred",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "sakilmondal"
    },
    {
