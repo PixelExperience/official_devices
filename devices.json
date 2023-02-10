@@ -4388,7 +4388,7 @@
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
