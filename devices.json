@@ -1587,20 +1587,21 @@
       "codename": "fajita",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-fajita-pixelexperience-aosp-official.4266611/",
-            "deprecated": true
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-unofficial-pixelexperience-13-aosp-oneplus-6t.4500721/",
+            "deprecated": false
          },
          {
-            "version_code": "eleven_plus",
-            "stable": false,
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-fajita-pixelexperience-aosp-official.4266611/",
-            "deprecated": true
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-unofficial-pixelexperience-13-aosp-oneplus-6t.4500721/",
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_oneplus_fajita",
+         "vendor_oneplus_fajita",
          "device_oneplus_sdm845-common",
          "device_oneplus_common",
          "kernel_oneplus_sdm845",
