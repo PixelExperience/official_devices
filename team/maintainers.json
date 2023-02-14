@@ -168,6 +168,23 @@
       "ci_username": "bagualisson"
    },
    {
+      "name": "Anand S",
+      "country": "IN",
+      "github_username": "AnandSuresh02",
+      "xda_url": "https://forum.xda-developers.com/m/anandsuresh02.12176781/",
+      "telegram_url": "https://t.me/AnandSuresh02",
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "anand02"
+   },
+   {
       "name": "CHRISL7",
       "country": "BR",
       "github_username": "chrisl7",
