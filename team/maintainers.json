@@ -105,6 +105,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "clover",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "alcatraz323"
