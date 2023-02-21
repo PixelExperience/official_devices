@@ -1175,6 +1175,29 @@
       ]
    },
    {
+      "name": "Mi PAD 4(Plus)",
+      "brand": "Xiaomi",
+      "codename": "clover",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_clover",
+         "kernel_xiaomi_clover",
+         "vendor_xiaomi_clover",
+         "vendor_xiaomi_clover-extra"
+      ]
+   },
+   {
       "name": "Pixel 4 XL",
       "brand": "Google",
       "codename": "coral",
