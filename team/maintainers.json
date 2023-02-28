@@ -136,6 +136,20 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "tulip",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "whyred",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "herobuxx"
