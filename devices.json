@@ -2897,6 +2897,32 @@
       ]
    },
    {
+      "name": "POCO F4 / Redmi K40S",
+      "brand": "Xiaomi",
+      "codename": "munch",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_munch",
+         "device_xiaomi_sm8250-common",
+         "kernel_xiaomi_sm8250",
+         "vendor_xiaomi_munch",
+         "vendor_xiaomi_sm8250-common"
+      ]
+   },
+   {
       "name": "Mi 5s Plus",
       "brand": "Xiaomi",
       "codename": "natrium",
