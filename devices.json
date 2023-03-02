@@ -2919,7 +2919,8 @@
          "device_xiaomi_sm8250-common",
          "kernel_xiaomi_sm8250",
          "vendor_xiaomi_munch",
-         "vendor_xiaomi_sm8250-common"
+         "vendor_xiaomi_sm8250-common",
+         "wiki_blobs_munch"
       ]
    },
    {
