@@ -181,30 +181,6 @@
       ]
    },
    {
-      "name": "Redmi Note 6 Pro",
-      "brand": "Xiaomi",
-      "codename": "tulip",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_tulip",
-         "device_xiaomi_sdm660-common",
-         "kernel_xiaomi_sdm660",
-         "vendor_xiaomi_tulip",
-         "vendor_xiaomi_sdm660-common"
-      ]
-   },
-   {
       "name": "Zenfone Max Pro M1",
       "brand": "ASUS",
       "codename": "X00TD",
@@ -4149,6 +4125,30 @@
          "vendor_xiaomi_tucana",
          "vendor_xiaomi_sm6150-common",
          "kernel_xiaomi_tucana"
+      ]
+   },
+   {
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "tulip",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_tulip",
+         "device_xiaomi_sdm660-common",
+         "kernel_xiaomi_sdm660",
+         "vendor_xiaomi_tulip",
+         "vendor_xiaomi_sdm660-common"
       ]
    },
    {
