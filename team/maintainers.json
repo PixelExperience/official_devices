@@ -17,15 +17,6 @@
       "ci_username": "jackson177"
    },
    {
-      "name": "Abdul Sakil Mondal",
-      "country": "IN",
-      "github_username": "sakilmondal",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=6151980",
-      "telegram_url": "http://t.me/SakilMondal",
-      "devices": [],
-      "ci_username": "sakilmondal"
-   },
-   {
       "name": "Abhinav Gupta",
       "country": "IN",
       "github_username": "abhinavgupta371",
@@ -132,6 +123,20 @@
          },
          {
             "codename": "lime",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "tulip",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "whyred",
             "versions": [
                "thirteen",
                "thirteen_plus"
