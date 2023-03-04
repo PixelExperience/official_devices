@@ -4353,11 +4353,13 @@
          {
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": true,
             "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
+            "stable": true,
             "deprecated": false
          }
       ],
