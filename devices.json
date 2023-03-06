@@ -2473,13 +2473,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
