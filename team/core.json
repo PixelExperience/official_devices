@@ -96,6 +96,20 @@
             ]
          },
          {
+            "codename": "blueline",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "crosshatch",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
             "codename": "sargo",
             "versions": [
                "thirteen",
