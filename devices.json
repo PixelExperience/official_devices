@@ -3763,6 +3763,7 @@
       ],
       "repositories": [
          "device_qcom_common",
+         "device_qcom_common-sepolicy",
          "device_qcom_qssi",
          "device_qcom_vendor-common",
          "device_qcom_wlan",
@@ -3920,6 +3921,7 @@
       ],
       "repositories": [
          "device_qcom_common",
+         "device_qcom_common-sepolicy",
          "device_qcom_qssi",
          "device_qcom_vendor-common",
          "device_qcom_wlan",
