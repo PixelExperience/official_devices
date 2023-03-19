@@ -881,23 +881,6 @@
       "ci_username": "hiper25"
    },
    {
-      "name": "kleidione",
-      "country": "BR",
-      "github_username": "kleidione",
-      "xda_url": "",
-      "telegram_url": "http://t.me/kleidione",
-      "devices": [
-         {
-            "codename": "berlin",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "kleidione"
-   },
-   {
       "name": "lzgmc",
       "country": "US",
       "github_username": "lzgmc",
