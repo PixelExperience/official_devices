@@ -12,7 +12,21 @@
                "thirteen",
                "thirteen_plus"
             ]
-         }
+         },
+	 {
+            "codename": "platina",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "whyred",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+	 }
       ],
       "ci_username": "aaradhayvijay"
    },
@@ -140,6 +154,13 @@
          },
          {
             "codename": "lime",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+	 {
+            "codename": "platina",
             "versions": [
                "thirteen",
                "thirteen_plus"
