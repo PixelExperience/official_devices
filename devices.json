@@ -3769,10 +3769,12 @@
          "device_qcom_vendor-common",
          "device_qcom_wlan",
          "device_xiaomi_spes",
+         "device_xiaomi_sm6225-common",
          "device_xiaomi_spes-kernel",
-         "kernel_xiaomi_spes",
+         "kernel_xiaomi_sm6225",
          "vendor_qcom_common",
-         "vendor_xiaomi_spes"
+         "vendor_xiaomi_spes",
+         "vendor_xiaomi_sm6225-common"
       ]
    },
    {
