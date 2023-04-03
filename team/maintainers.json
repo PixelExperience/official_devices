@@ -680,30 +680,6 @@
       "ci_username": "classified7667"
    },
    {
-      "name": "ReallySnow",
-      "country": "SG",
-      "github_username": "reallysnow",
-      "xda_url": "",
-      "telegram_url": "http://t.me/reallysnow",
-      "devices": [
-         {
-            "codename": "blueline",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "crosshatch",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "reallysnow"
-   },
-   {
       "name": "Ruchit Marathe",
       "country": "IN",
       "github_username": "risenid",
