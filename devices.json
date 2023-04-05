@@ -1114,13 +1114,21 @@
             "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/",
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
-         "device_oneplus_msm8998-common",
          "device_oneplus_cheeseburger",
          "kernel_oneplus_msm8998",
-         "vendor_oneplus_msm8998-common",
          "vendor_oneplus_cheeseburger"
       ]
    },
