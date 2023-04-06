@@ -1698,9 +1698,16 @@
          }
       ],
       "repositories": [
+         "device_qcom_common",
+         "device_qcom_common-sepolicy",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
          "device_xiaomi_fog",
          "device_xiaomi_fog-kernel",
-         "vendor_xiaomi_fog"
+         "device_xiaomi_sm6225-common",
+         "vendor_xiaomi_fog",
+         "vendor_xiaomi_sm6225-common"
       ]
    },
    {
