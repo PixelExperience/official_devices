@@ -291,6 +291,32 @@
       ]
    },
    {
+      "name": "Galaxy A51 4G",
+      "brand": "Samsung",
+      "codename": "a51",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+	    "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-pixelexperience-thirteen-for-galaxy-a51-4g.4573443/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+	    "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-pixelexperience-thirteen-for-galaxy-a51-4g.4573443/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a51",
+         "device_samsung_universal9611-common",
+         "kernel_samsung_universal9611",
+         "vendor_samsung_a51",
+         "vendor_samsung_universal9611-common"
+      ]
+   },
+   {
       "name": "A52 4g",
       "brand": "Samsung",
       "codename": "a52q",

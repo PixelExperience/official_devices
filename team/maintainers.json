@@ -701,6 +701,23 @@
       "ci_username": "classified7667"
    },
    {
+      "name": "Royna",
+      "country": "KR",
+      "github_username": "roynatech2544",
+      "xda_url": "https://forum.xda-developers.com/m/royna.9396490/",
+      "telegram_url": "http://t.me/roynatech",
+      "devices": [
+         {
+            "codename": "a51",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "royna"
+   },
+   {
       "name": "Ruchit Marathe",
       "country": "IN",
       "github_username": "risenid",
