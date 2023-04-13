@@ -3221,12 +3221,44 @@
             "version_code": "twelve",
             "stable": false,
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_picasso",
          "kernel_xiaomi_picasso",
          "vendor_xiaomi_picasso"
+      ]
+   },
+   {
+      "name": "Redmi K30i 5G",
+      "brand": "Xiaomi",
+      "codename": "picasso_48m",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_picasso",
+         "kernel_xiaomi_picasso",
+         "vendor_xiaomi_picasso_48m"
       ]
    },
    {
