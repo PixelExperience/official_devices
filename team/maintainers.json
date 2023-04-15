@@ -535,6 +535,30 @@
       "ci_username": "jef009"
    },
    {
+      "name": "Kagura Rinko",
+      "country": "CN",
+      "github_username": "kagurarinko",
+      "xda_url": "",
+      "telegram_url": "http://t.me/KaguraRinko",
+      "devices": [
+         {
+            "codename": "picasso",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "picasso_48m",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "kagurarinko"
+   },
+   {
       "name": "Lexip",
       "country": "DE",
       "github_username": "xlexip",
@@ -1035,29 +1059,5 @@
          }
       ],
       "ci_username": "windowz414"
-   },
-   {
-      "name": "Kagura Rinko",
-      "country": "CN",
-      "github_username": "KaguraRinko",
-      "xda_url": "",
-      "telegram_url": "http://t.me/KaguraRinko",
-      "devices": [
-         {
-            "codename": "picasso",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "picasso_48m",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "KaguraRinko"
    }
 ]
