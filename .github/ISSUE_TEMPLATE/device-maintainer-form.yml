@@ -1,7 +1,7 @@
 body:
 - attributes:
     label: Device you want to apply for
-    description: 'Redmi Note 7 (lavender)'
+    description: 'Example: Redmi Note 7 (lavender)'
   type: input
   validations:
     required: true
