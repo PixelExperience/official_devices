@@ -1,0 +1,37 @@
+body:
+- attributes:
+    label: Device you want to apply for
+    description: 'Redmi Note 7 (lavender)'
+  type: input
+  validations:
+    required: true
+- attributes:
+    description: One URL per line
+    label: Device Tree Sources
+  type: textarea
+  validations:
+    required: true
+- attributes:
+    label: Number of ROM's you maintain officially
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: Any Exceptions/special concern?
+  type: textarea
+  validations:
+    required: true
+- attributes:
+    label: Telegram username
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: GitHub username
+  type: input
+  validations:
+    required: true
+name: Device maintainer form
+description: Apply to be a maintainer at PE here
+title: New maintainer
+assignees: [Hasaber8, Hlcpereira, jhenrique09, Jorg3Lucas, KakatkarAkshay, jjpprrrr, jro1979oliver, ZIDAN44]
