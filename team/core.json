@@ -164,6 +164,13 @@
       "telegram_url": "https://t.me/ZIDAN44",
       "devices": [
          {
+            "codename": "begonia",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
             "codename": "mojito",
             "versions": [
                "thirteen",
