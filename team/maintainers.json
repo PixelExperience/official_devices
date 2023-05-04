@@ -320,6 +320,23 @@
       "ci_username": "exactxmpl"
    },
    {
+      "name": "Flower sea",
+      "country": "CN",
+      "github_username": "FlowerSea0208",
+      "xda_url": "https://forum.xda-developers.com/m/flower-sea.11535253/",
+      "telegram_url": "http://t.me/FlowerSea0208",
+      "devices": [
+         {
+            "codename": "mars",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "flowersea0208"
+   },
+   {
       "name": "Gaurav",
       "country": "IN",
       "github_username": "gaurav241",
