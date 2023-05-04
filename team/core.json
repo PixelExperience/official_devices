@@ -41,23 +41,6 @@
       "ci_username": "jjpprrrr"
    },
    {
-      "name": "Henrique Pereira",
-      "country": "BR",
-      "github_username": "hlcpereira",
-      "xda_url": "https://forum.xda-developers.com/m/hlcpereira.7838323/",
-      "telegram_url": "http://t.me/Hlcpereira",
-      "devices": [
-         {
-            "codename": "apollo",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "hlcpereira"
-   },
-   {
       "name": "Jorge Lucas",
       "country": "BR",
       "github_username": "jorg3lucas",
