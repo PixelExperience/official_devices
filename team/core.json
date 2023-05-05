@@ -93,20 +93,6 @@
             ]
          },
          {
-            "codename": "sargo",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "bonito",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
             "codename": "flame",
             "versions": [
                "thirteen",
