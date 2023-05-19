@@ -142,7 +142,8 @@
          "device_realme_RMX2061",
          "device_realme_sm7125-common",
          "kernel_realme_sm7125",
-         "vendor_realme_RMX2061"
+         "vendor_realme_RMX2061",
+	 "vendor_realme_sm7125-common"
       ]
    },
    {
