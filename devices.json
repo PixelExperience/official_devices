@@ -1619,13 +1619,26 @@
             "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperience-aosp-official.4286169/",
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-enchilada-13-pixelexperience-13-for-oneplus-6-aosp.4583487/",
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-enchilada-13-pixelexperience-13-for-oneplus-6-aosp.4583487/",
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_oneplus_enchilada",
          "device_oneplus_sdm845-common",
-         "device_oneplus_common",
-         "vendor_oneplus_sdm845-common"
+         "vendor_oneplus_enchilada",
+         "vendor_oneplus_sdm845-common",
+         "kernel_oneplus_sdm845"
       ]
    },
    {
@@ -1676,7 +1689,6 @@
          "device_oneplus_fajita",
          "vendor_oneplus_fajita",
          "device_oneplus_sdm845-common",
-         "device_oneplus_common",
          "kernel_oneplus_sdm845",
          "vendor_oneplus_sdm845-common"
       ]
