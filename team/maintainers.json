@@ -1014,6 +1014,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "enchilada",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "snnbyyds"
