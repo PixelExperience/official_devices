@@ -474,24 +474,21 @@
          },
          {
             "version_code": "thirteen",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp-10-31-22.4512511/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp-10-31-22.4512511/",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_alioth",
-         "device_xiaomi_sm8250-common",
-         "kernel_xiaomi_sm8250",
+         "kernel_xiaomi_alioth",
          "vendor_xiaomi_alioth",
-         "vendor_xiaomi_sm8250-common",
-         "vendor_xiaomi-firmware",
          "wiki_blobs_alioth"
       ]
    },
