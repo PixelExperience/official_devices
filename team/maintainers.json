@@ -717,6 +717,23 @@
       "ci_username": "classified7667"
    },
    {
+      "name": "Reza Bagas Rifaldy",
+      "country": "ID",
+      "github_username": "grettorosella",
+      "xda_url": "https://forum.xda-developers.com/m/grettorosella.9905080/",
+      "telegram_url": "https://t.me/GrettoRosella",
+      "devices": [
+         {
+            "codename": "alioth",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "grettorosella"
+   },
+   {
       "name": "Royna",
       "country": "KR",
       "github_username": "roynatech2544",
@@ -1058,22 +1075,5 @@
          }
       ],
       "ci_username": "windowz414"
-   },
-   {
-      "name": "Reza Bagas Rifaldy",
-      "country": "ID",
-      "github_username": "GrettoRosella",
-      "xda_url": "https://forum.xda-developers.com/m/grettorosella.9905080/",
-      "telegram_url": "https://t.me/GrettoRosella",
-      "devices": [
-         {
-            "codename": "alioth",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "GrettoRosella"
    }
 ]
