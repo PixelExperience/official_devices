@@ -1657,6 +1657,16 @@
             "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-evert-pixelexperience-normal-plus-aosp.4247629/",
             "deprecated": true
+         },
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
