@@ -487,7 +487,7 @@
       ],
       "repositories": [
          "device_xiaomi_alioth",
-         "kernel_xiaomi_alioth",
+         "kernel_xiaomi_sm8250",
          "vendor_xiaomi_alioth",
          "wiki_blobs_alioth"
       ]
