@@ -169,6 +169,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "lake",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "jro1979oliver"
