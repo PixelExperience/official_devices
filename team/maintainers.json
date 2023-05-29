@@ -635,6 +635,23 @@
       "ci_username": "joker"
    },
    {
+      "name": "PawiX25",
+      "country": "PL",
+      "github_username": "pawix25",
+      "xda_url": "",
+      "telegram_url": "http://t.me/PawiX25",
+      "devices": [
+         {
+            "codename": "renoir",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "pawix"
+   },
+   {
       "name": "Philipp Albrecht",
       "country": "DE",
       "github_username": "majorp93",
