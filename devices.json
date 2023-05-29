@@ -3575,6 +3575,16 @@
       "codename": "renoir",
       "supported_versions": [
          {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         },
+         {
             "version_code": "twelve",
             "telegram_url": "https://t.me/arixeloroms",
             "stable": false,
@@ -3590,7 +3600,7 @@
       "repositories": [
          "device_xiaomi_renoir",
          "device_xiaomi_sm7350-common",
-         "kernel_xiaomi_sm7350",
+         "kernel_xiaomi_sm8350",
          "vendor_xiaomi_renoir",
          "vendor_xiaomi_renoir-firmware",
          "vendor_xiaomi_sm7350-common",
