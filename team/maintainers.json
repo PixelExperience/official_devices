@@ -425,13 +425,13 @@
       "xda_url": "https://forum.xda-developers.com/member.php?u=9376270",
       "telegram_url": "http://t.me/iamimmanuelraj",
       "devices": [
-	{
-	    "codename": "lavender",
+         {
+            "codename": "lavender",
             "versions": [
                "thirteen",
                "thirteen_plus"
             ]
-	 },
+         },
          {
             "codename": "jasmine_sprout",
             "versions": [
@@ -661,7 +661,7 @@
    {
       "name": "Prashant",
       "country": "IN",
-      "github_username": "Prashant-1695",
+      "github_username": "prashant-1695",
       "xda_url": "https://forum.xda-developers.com/m/prashant1605.11764883/",
       "telegram_url": "https://t.me/ImPrashantt",
       "devices": [
