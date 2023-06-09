@@ -1538,6 +1538,30 @@
       ]
    },
    {
+      "name": "Nord N200 5G",
+      "brand": "OnePlus",
+      "codename": "dre",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_oneplus_dre",
+         "vendor_oneplus_dre",
+         "kernel_oneplus_sdm4350"
+      ]
+   },
+   {
       "name": "Moto Edge 30",
       "brand": "Motorola",
       "codename": "dubai",
