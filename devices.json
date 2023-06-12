@@ -1546,13 +1546,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
