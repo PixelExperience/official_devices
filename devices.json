@@ -2651,6 +2651,31 @@
       ]
    },
    {
+      "name": "Xiaomi 11 Lite NE 5G",
+      "brand": "Xiaomi",
+      "codename": "lisa",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lisa",
+         "kernel_xiaomi_lisa",
+         "vendor_xiaomi_lisa",
+         "vendor_xiaomi_lisa-firmware",
+         "vendor_xiaomi_lisa-miuicamera",
+         "wiki_blobs_lisa"
+      ]
+   },
+   {
       "name": "Mi MIX",
       "brand": "Xiaomi",
       "codename": "lithium",
@@ -3629,31 +3654,6 @@
          "vendor_xiaomi_renoir-firmware",
          "vendor_xiaomi_sm7350-common",
          "wiki_blobs_renoir"
-      ]
-   },
-   {
-      "name": "Xiaomi 11 Lite NE 5G",
-      "brand": "Xiaomi",
-      "codename": "lisa",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_lisa",
-         "kernel_xiaomi_lisa",
-         "vendor_xiaomi_lisa",
-         "vendor_xiaomi_lisa-firmware",
-         "vendor_xiaomi_lisa-miuicamera",
-         "wiki_blobs_lisa"
       ]
    },
    {
