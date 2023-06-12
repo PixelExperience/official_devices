@@ -828,6 +828,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "lisa",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "dasshubham762"
