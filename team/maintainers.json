@@ -197,6 +197,13 @@
       "telegram_url": "http://t.me/CHRISL7",
       "devices": [
          {
+            "codename": "spes",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
             "codename": "surya",
             "versions": [
                "thirteen",
