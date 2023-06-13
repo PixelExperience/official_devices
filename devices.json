@@ -1195,6 +1195,31 @@
       ]
    },
    {
+      "name": "Mi MIX 2",
+      "brand": "Xiaomi",
+      "codename": "chiron",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_msm8998-common",
+         "vendor_xiaomi_msm8998-common",
+         "kernel_xiaomi_msm8998",
+         "device_xiaomi_chiron",
+         "vendor_xiaomi_chiron",
+         "wiki_blobs_chiron"
+      ]
+   },
+   {
       "name": "POCO M3",
       "brand": "Xiaomi",
       "codename": "citrus",
