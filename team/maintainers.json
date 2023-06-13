@@ -1072,22 +1072,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "windowz414",
-      "country": "TR",
-      "github_username": "windowz414",
-      "xda_url": "https://forum.xda-developers.com/m/windowz414.9468504/",
-      "telegram_url": "http://t.me/BeruKobayashi",
-      "devices": [
-         {
-            "codename": "rosemary",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "windowz414"
    }
 ]
