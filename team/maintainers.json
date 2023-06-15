@@ -999,23 +999,6 @@
       "ci_username": "expressluke"
    },
    {
-      "name": "hiper25",
-      "country": "CN",
-      "github_username": "hiper25",
-      "xda_url": "",
-      "telegram_url": "hiper25",
-      "devices": [
-         {
-            "codename": "Spacewar",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "hiper25"
-   },
-   {
       "name": "lzgmc",
       "country": "US",
       "github_username": "lzgmc",

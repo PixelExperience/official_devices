@@ -147,28 +147,6 @@
       ]
    },
    {
-      "name": "Phone (1)",
-      "brand": "Nothing",
-      "codename": "Spacewar",
-      "supported_versions": [
-         {
-            "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
-         },
-         {
-            "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
-         }
-      ],
-      "repositories": [
-         "device_nothing_Spacewar",
-         "vendor_nothing_Spacewar",
-         "kernel_nothing_sm7325"
-      ]
-   },
-   {
       "name": "Mini 5G",
       "brand": "Nubia",
       "codename": "TP1803",
