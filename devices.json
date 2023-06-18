@@ -2263,7 +2263,13 @@
          "device_xiaomi_jasmine_sprout",
          "kernel_xiaomi_jasmine_sprout",
          "vendor_xiaomi_jasmine_sprout",
-         "wiki_blobs_jasmine_sprout"
+         "wiki_blobs_jasmine_sprout",
+         "device_qcom_common",
+         "device_qcom_common-sepolicy",
+         "device_qcom_qssi",
+         "device_qcom_vendor-common",
+         "device_qcom_wlan",
+         "vendor_qcom_common"
       ]
    },
    {
