@@ -752,28 +752,16 @@
       "codename": "beryllium",
       "supported_versions": [
          {
-            "version_code": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "xda_thread": "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119",
-            "stable": false,
-            "deprecated": true
-         },
-         {
-            "version_code": "twelve",
+            "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
             "stable": false,
-            "deprecated": true
+            "deprecated": false
          },
          {
-            "version_code": "twelve_plus",
+            "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697",
             "stable": false,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
