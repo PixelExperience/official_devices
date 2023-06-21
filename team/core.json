@@ -176,13 +176,6 @@
                "thirteen",
                "thirteen_plus"
             ]
-         },
-         {
-            "codename": "berlin",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
          }
       ],
       "ci_username": "jro1979oliver"
