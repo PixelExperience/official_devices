@@ -741,8 +741,10 @@
       ],
       "repositories": [
          "device_motorola_berlin",
+         "device_motorola_sm7325-common",
          "kernel_motorola_sm7325",
          "vendor_motorola_berlin",
+         "vendor_motorola_sm7325-common",
          "wiki_blobs_berlin"
       ]
    },
