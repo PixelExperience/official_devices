@@ -4503,13 +4503,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
