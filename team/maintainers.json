@@ -6,6 +6,13 @@
       "xda_url": "https://forum.xda-developers.com/m/aaradhayvijay.12618323/",
       "telegram_url": "http://t.me/AaradhayVijay",
       "devices": [
+	 {
+	    "codename": "lavender",
+	    "versions": [
+ 	       "thirteen",
+	       "thirteen_plus"
+	    ]
+	 },
          {
             "codename": "platina",
             "versions": [
@@ -433,13 +440,6 @@
       "telegram_url": "http://t.me/iamimmanuelraj",
       "devices": [
          {
-            "codename": "lavender",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
             "codename": "jasmine_sprout",
             "versions": [
                "thirteen",
@@ -664,23 +664,6 @@
          }
       ],
       "ci_username": "majorp93"
-   },
-   {
-      "name": "Prashant",
-      "country": "IN",
-      "github_username": "prashant-1695",
-      "xda_url": "https://forum.xda-developers.com/m/prashant1605.11764883/",
-      "telegram_url": "https://t.me/ImPrashantt",
-      "devices": [
-         {
-            "codename": "lavender",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "prashant1695"
    },
    {
       "name": "Pulkit Agarwal",
