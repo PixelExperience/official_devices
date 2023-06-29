@@ -6,13 +6,13 @@
       "xda_url": "https://forum.xda-developers.com/m/aaradhayvijay.12618323/",
       "telegram_url": "http://t.me/AaradhayVijay",
       "devices": [
-	 {
-	    "codename": "lavender",
-	    "versions": [
- 	       "thirteen",
-	       "thirteen_plus"
-	    ]
-	 },
+         {
+            "codename": "lavender",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
          {
             "codename": "platina",
             "versions": [
