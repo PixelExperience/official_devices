@@ -197,6 +197,23 @@
       "ci_username": "anilshebin"
    },
    {
+      "name": "Arindam Bhattacharjee",
+      "country": "IN",
+      "github_username": "userariii",
+      "xda_url": "https://forum.xda-developers.com/m/cruecy.9792504/",
+      "telegram_url": "https://t.me/CRUECY",
+      "devices": [
+         {
+            "codename": "PL2",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "userariii"
+   },
+   {
       "name": "CHRISL7",
       "country": "BR",
       "github_username": "chrisl7",
