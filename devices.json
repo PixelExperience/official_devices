@@ -1,4 +1,28 @@
 [
+  {
+      "name": "6.1",
+      "brand": "Nokia",
+         "codename": "PL2",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_nokia_PL2",
+         "device_nokia_sdm660-common",
+         "vendor_nokia_PL2",
+         "vendor_nokia_sdm660-common",
+         "kernel_nokia_sdm660"
+      ]
+   }, 
    {
       "name": "8",
       "brand": "Nokia",
