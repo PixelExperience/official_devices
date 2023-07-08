@@ -2642,7 +2642,7 @@
          "device_xiaomi_lavender",
          "device_xiaomi_sdm660-common",
          "kernel_xiaomi_lavender",
-	 "kernel_xiaomi_sdm660",
+         "kernel_xiaomi_sdm660",
          "vendor_xiaomi_lavender",
          "vendor_xiaomi_sdm660-common"
       ]
