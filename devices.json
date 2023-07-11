@@ -42,6 +42,7 @@
          "device_nokia_sdm660-common",
          "vendor_nokia_PL2",
          "vendor_nokia_sdm660-common",
+         "vendor_nokia_Camera",
          "kernel_nokia_sdm660"
       ]
    },
