@@ -3382,9 +3382,11 @@
          }
       ],
       "repositories": [
+         "device_xiaomi_picasso_48m",
          "device_xiaomi_picasso",
          "kernel_xiaomi_picasso",
-         "vendor_xiaomi_picasso"
+         "vendor_xiaomi_picasso",
+         "vendor_xiaomi_picasso_48m"
       ]
    },
    {
@@ -3404,8 +3406,10 @@
          }
       ],
       "repositories": [
+         "device_xiaomi_picasso_48m",
          "device_xiaomi_picasso",
          "kernel_xiaomi_picasso",
+         "vendor_xiaomi_picasso",
          "vendor_xiaomi_picasso_48m"
       ]
    },
