@@ -47,6 +47,31 @@
       ]
    },
    {
+      "name": "6.1 Plus",
+      "brand": "Nokia",
+      "codename": "DRG",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_nokia_DRG",
+         "device_nokia_sdm660-common",
+         "vendor_nokia_DRG",
+         "vendor_nokia_sdm660-common",
+         "vendor_nokia_Camera",
+         "kernel_nokia_sdm660"
+      ]
+   },
+   {
       "name": "6 / 7",
       "brand": "Realme",
       "codename": "RM6785",

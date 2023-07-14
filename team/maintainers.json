@@ -209,6 +209,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "DRG",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "userariii"
