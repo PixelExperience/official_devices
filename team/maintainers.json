@@ -806,23 +806,6 @@
       "ci_username": "saalim"
    },
    {
-      "name": "Sajid Shahriar",
-      "country": "BD",
-      "github_username": "sajidshahriar72543",
-      "xda_url": "https://forum.xda-developers.com/m/sazidshahriar39.10042192/",
-      "telegram_url": "http://t.me/paperboy22",
-      "devices": [
-         {
-            "codename": "beryllium",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "sajidshahriar72543"
-   },
-   {
       "name": "Shantanu Sarkar",
       "country": "IN",
       "github_username": "shantanu-sarkar",
