@@ -507,23 +507,6 @@
       "ci_username": "jarlpenguin"
    },
    {
-      "name": "Jayanth Kandula",
-      "country": "IN",
-      "github_username": "jayanthkandula",
-      "xda_url": "https://forum.xda-developers.com/m/jayanthk.8207118",
-      "telegram_url": "http://t.me/jayanthk",
-      "devices": [
-         {
-            "codename": "munch",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "jayanthkandula"
-   },
-   {
       "name": "Jeffrey Jagram",
       "country": "NL",
       "github_username": "jef00",
