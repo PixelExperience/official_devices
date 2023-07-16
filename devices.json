@@ -4042,11 +4042,13 @@
          "device_qcom_wlan",
          "device_xiaomi_spes",
          "device_xiaomi_sm6225-common",
+         "device_xiaomi_sm6225-common-miuicamera",
          "device_xiaomi_spes-kernel",
          "kernel_xiaomi_sm6225",
          "vendor_qcom_common",
          "vendor_xiaomi_spes",
-         "vendor_xiaomi_sm6225-common"
+         "vendor_xiaomi_sm6225-common",
+         "vendor_xiaomi_sm6225-common-miuicamera"
       ]
    },
    {
@@ -4201,10 +4203,12 @@
          "device_qcom_vendor-common",
          "device_qcom_wlan",
          "device_xiaomi_surya",
+         "device_xiaomi_surya-miuicamera",
          "device_xiaomi_J20C-sepolicy",
          "kernel_xiaomi_surya",
          "vendor_qcom_common",
          "vendor_xiaomi_surya",
+         "vendor_xiaomi_surya-miuicamera",
          "vendor_xiaomi-firmware"
       ]
    },
