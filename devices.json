@@ -1286,6 +1286,7 @@
          "device_xiaomi_citrus",
          "kernel_xiaomi_chime",
          "vendor_xiaomi_chime",
+         "vendor_xiaomi_chime-perf",
          "vendor_xiaomi_citrus"
       ]
    },
