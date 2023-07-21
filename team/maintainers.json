@@ -1001,6 +1001,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "dre",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "lzgmc"
