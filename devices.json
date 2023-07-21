@@ -1618,19 +1618,20 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_oneplus_dre",
          "vendor_oneplus_dre",
          "kernel_oneplus_sdm4350"
+         "wiki_blobs_dre"
       ]
    },
    {
