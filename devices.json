@@ -1630,7 +1630,7 @@
       "repositories": [
          "device_oneplus_dre",
          "vendor_oneplus_dre",
-         "kernel_oneplus_sdm4350"
+         "kernel_oneplus_sdm4350",
          "wiki_blobs_dre"
       ]
    },
