@@ -738,28 +738,11 @@
       "ci_username": "grettorosella"
    },
    {
-      "name": "Royna",
-      "country": "KR",
-      "github_username": "roynatech2544",
-      "xda_url": "https://forum.xda-developers.com/m/royna.9396490/",
-      "telegram_url": "http://t.me/roynatech",
-      "devices": [
-         {
-            "codename": "a51",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "royna"
-   },
-   {
       "name": "Ruchit Marathe",
       "country": "IN",
       "github_username": "risenid",
       "xda_url": "https://forum.xda-developers.com/m/ryzen5950xt.12060347/",
-      "telegram_url": "https://t.me/Ryzen5950XT",
+      "telegram_url": "https://t.me/RisenID",
       "devices": [
          {
             "codename": "a52q",
