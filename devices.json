@@ -2931,6 +2931,7 @@
       "repositories": [
          "device_oneplus_martini",
          "vendor_oneplus_martini",
+         "vendor_oneplus-firmware",
          "kernel_oneplus_martini",
          "wiki_blobs_martini"
       ]
