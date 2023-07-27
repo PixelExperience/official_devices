@@ -221,6 +221,23 @@
       "ci_username": "userariii"
    },
    {
+      "name": "Beru Krugermeier",
+      "country": "TR",
+      "github_username": "windowz414",
+      "xda_url": "https://forum.xda-developers.com/m/windowz414.9468504/",
+      "telegram_url": "http://t.me/KrugerBeru",
+      "devices": [
+         {
+            "codename": "rosemary",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "windowz414"
+   },
+   {
       "name": "CHRISL7",
       "country": "BR",
       "github_username": "chrisl7",
@@ -1066,22 +1083,5 @@
          }
       ],
       "ci_username": "thevision"
-   },
-   {
-      "name": "Beru Krugermeier",
-      "country": "TR",
-      "github_username": "windowz414",
-      "xda_url": "https://forum.xda-developers.com/m/windowz414.9468504/",
-      "telegram_url": "http://t.me/KrugerBeru",
-      "devices": [
-         {
-            "codename": "rosemary",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "windowz414"
    }
 ]
