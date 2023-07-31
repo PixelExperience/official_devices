@@ -794,7 +794,11 @@
          "device_xiaomi_begonia-kernel",
          "kernel_xiaomi_begonia",
          "vendor_xiaomi-firmware",
-         "vendor_xiaomi_begonia"
+         "vendor_xiaomi_begonia",
+         "device_mediatek_common",
+         "vendor_mediatek-opensource",
+         "vendor_mediatek_ims",
+         "vendor_mediatek_interfaces"
       ]
    },
    {
