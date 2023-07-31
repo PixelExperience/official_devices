@@ -3831,7 +3831,10 @@
          "device_redmi_rosemary",
          "kernel_redmi_rosemary",
          "vendor_redmi_rosemary",
-         "vendor_redmi_rosemary-firmware"
+         "vendor_redmi_rosemary-firmware",
+         "device_mediatek_common",
+         "vendor_mediatek-opensource",
+         "vendor_mediatek_interfaces"
       ]
    },
    {
