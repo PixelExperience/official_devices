@@ -1870,14 +1870,14 @@
          {
             "version_code": "thirteen",
             "xda_thread": "",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
