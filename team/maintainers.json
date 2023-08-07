@@ -589,6 +589,23 @@
       "ci_username": "kagurarinko"
    },
    {
+      "name": "Kartik Lashkare",
+      "country": "IN",
+      "github_username": "kartik-commits",
+      "xda_url": "https://forum.xda-developers.com/m/kartiklashkare.11243305/",
+      "telegram_url": "https://t.me/kartik_ane_nenu",
+      "devices": [
+         {
+            "codename": "redwood",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "kartik-commits"
+   },
+   {
       "name": "Lexip",
       "country": "DE",
       "github_username": "xlexip",

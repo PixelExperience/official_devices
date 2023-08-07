@@ -25,6 +25,30 @@
       ]
    },
    {
+      "name": "X5 Pro 5G",
+      "brand": "Xiaomi",
+         "codename": "redwood",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_redwood",
+         "device_xiaomi_sm7325-common",
+         "vendor_xiaomi_redwood",
+         "vendor_xiaomi_sm7325-common",
+         "kernel_xiaomi_sm7325"
+      ]
+   },
+   {
       "name": "8",
       "brand": "Nokia",
       "codename": "NB1",
