@@ -2691,13 +2691,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/",
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -3527,13 +3527,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-platina-pixelexperience-aosp.4546773/",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-platina-pixelexperience-aosp.4546773/",
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
