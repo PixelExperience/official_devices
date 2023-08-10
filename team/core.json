@@ -200,5 +200,29 @@
          }
       ],
       "ci_username": "jro1979oliver"
+   },
+   {
+      "name": "Ruchit Marathe",
+      "country": "IN",
+      "github_username": "risenid",
+      "xda_url": "https://forum.xda-developers.com/m/ryzen5950xt.12060347/",
+      "telegram_url": "https://t.me/RisenID",
+      "devices": [
+         {
+            "codename": "a52q",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "a72q",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "risen"
    }
 ]
