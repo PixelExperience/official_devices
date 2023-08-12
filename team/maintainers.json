@@ -1076,5 +1076,29 @@
          }
       ],
       "ci_username": "thevision"
+   },
+   {
+      "name": "Asriadi Rahim",
+      "country": "ID",
+      "github_username": "asriadirahim",
+      "xda_url": "https://forum.xda-developers.com/m/anno.8072142/",
+      "telegram_url": "https://t.me/asriadirahim",
+      "devices": [
+         {
+            "codename": "taimen",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "walleye",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "asriadirahim"
    }
 ]
