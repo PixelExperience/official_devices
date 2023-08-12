@@ -65,20 +65,6 @@
       "telegram_url": "https://t.me/PixelBoot",
       "devices": [
          {
-            "codename": "sailfish",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "marlin",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
             "codename": "walleye",
             "versions": [
                "thirteen",
