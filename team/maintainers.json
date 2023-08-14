@@ -873,22 +873,6 @@
       "ci_username": "lucchetto"
    },
    {
-      "name": "emufan",
-      "country": "GR",
-      "github_username": "gpucode",
-      "xda_url": "",
-      "telegram_url": "http://t.me/emufan4568",
-      "devices": [
-         {
-            "codename": "NB1",
-            "versions": [
-               "thirteen"
-            ]
-         }
-      ],
-      "ci_username": "emufan4568"
-   },
-   {
       "name": "expressluke",
       "country": "GB",
       "github_username": "expressluke",
