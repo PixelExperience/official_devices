@@ -956,30 +956,6 @@
       "ci_username": "lzgmc"
    },
    {
-      "name": "shield44",
-      "country": "IN",
-      "github_username": "shield44",
-      "xda_url": "https://forum.xda-developers.com/m/sdm439-olivewood.11497601/",
-      "telegram_url": "https://t.me/shield44",
-      "devices": [
-         {
-            "codename": "fog",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "mi439",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "shield44"
-   },
-   {
       "name": "snnbyyds114514",
       "country": "CN",
       "github_username": "snnbyyds",
