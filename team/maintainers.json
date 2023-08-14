@@ -327,23 +327,6 @@
       "ci_username": "broly"
    },
    {
-      "name": "Evasi0n Xiao",
-      "country": "CN",
-      "github_username": "ecrosoftxiao",
-      "xda_url": "",
-      "telegram_url": "http://t.me/Evasi0nXiao",
-      "devices": [
-         {
-            "codename": "cepheus",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "ecrosoftxiao"
-   },
-   {
       "name": "ExactExampl",
       "country": "UA",
       "github_username": "exactexampl",
