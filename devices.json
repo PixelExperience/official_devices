@@ -3754,7 +3754,8 @@
          "vendor_xiaomi_redwood",
          "vendor_xiaomi_sm7325-common",
          "vendor_xiaomi_redwood-firmware",
-         "kernel_xiaomi_sm7325"
+         "kernel_xiaomi_sm7325",
+         "wiki_blobs_redwood"
       ]
    },
    {
