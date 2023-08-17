@@ -4339,7 +4339,8 @@
          "device_google_wahoo",
          "kernel_google_wahoo",
          "vendor_google_taimen",
-         "wiki_blobs_wahoo"
+         "wiki_blobs_wahoo",
+         "packages_apps_GoogleCamera"
       ]
    },
    {
@@ -4743,7 +4744,8 @@
          "device_google_wahoo",
          "kernel_google_wahoo",
          "vendor_google_walleye",
-         "wiki_blobs_wahoo"
+         "wiki_blobs_wahoo",
+         "packages_apps_GoogleCamera"
       ]
    },
    {
