@@ -2841,7 +2841,8 @@
       "repositories": [
          "device_xiaomi_lmi",
          "kernel_xiaomi_lmi",
-         "vendor_xiaomi_lmi"
+         "vendor_xiaomi_lmi",
+         "vendor_xiaomi_lmi-miuicamera"
       ]
    },
    {
