@@ -17,30 +17,6 @@
       "ci_username": "kakatkarakshay"
    },
    {
-      "name": "Chenyang Zhong",
-      "country": "CN",
-      "github_username": "jjpprrrr",
-      "xda_url": "https://forum.xda-developers.com/m/jjpprrrr.9585779/",
-      "telegram_url": "http://t.me/jjpprrrr",
-      "devices": [
-         {
-            "codename": "polaris",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "venus",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "jjpprrrr"
-   },
-   {
       "name": "Jorge Lucas",
       "country": "BR",
       "github_username": "jorg3lucas",
@@ -87,15 +63,6 @@
          }
       ],
       "ci_username": "pixelboot"
-   },
-   {
-      "name": "Rohan Hasabe (Hasaber8)",
-      "country": "IN",
-      "github_username": "hasaber8",
-      "xda_url": "https://forum.xda-developers.com/m/rohanhasabe8.9506906/",
-      "telegram_url": "http://t.me/Hasaber8",
-      "devices": [],
-      "ci_username": "hasaber8"
    },
    {
       "name": "Ruchit Marathe",

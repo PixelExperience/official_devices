@@ -3567,13 +3567,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4038949/",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4038949/",
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -4602,12 +4602,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
