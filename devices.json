@@ -3755,6 +3755,7 @@
          "vendor_xiaomi_redwood",
          "vendor_xiaomi_sm7325-common",
          "vendor_xiaomi_redwood-firmware",
+         "vendor_xiaomi_redwood-miuicamera",
          "kernel_xiaomi_sm7325",
          "wiki_blobs_redwood"
       ]
