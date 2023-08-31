@@ -327,37 +327,6 @@
       "ci_username": "broly"
    },
    {
-      "name": "ExactExampl",
-      "country": "UA",
-      "github_username": "exactexampl",
-      "xda_url": "https://forum.xda-developers.com/m/exactexampl.11733675/",
-      "telegram_url": "https://t.me/ExactXmpl",
-      "devices": [
-         {
-            "codename": "payton",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "sargo",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "bonito",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "exactxmpl"
-   },
-   {
       "name": "Flower Sea",
       "country": "CN",
       "github_username": "flowersea0208",
