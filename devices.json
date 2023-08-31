@@ -3836,13 +3836,13 @@
       "supported_versions": [
          {
             "version_code": "thirteen",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
