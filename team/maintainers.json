@@ -960,29 +960,5 @@
          }
       ],
       "ci_username": "solidv"
-   },
-   {
-      "name": "x0x00044",
-      "country": "PL",
-      "github_username": "x0x00044",
-      "xda_url": "https://forum.xda-developers.com/m/zlewchan.11964223/",
-      "telegram_url": "http://t.me/x0x00044",
-      "devices": [
-         {
-            "codename": "chiron",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "Spacewar",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "thevision"
    }
 ]
