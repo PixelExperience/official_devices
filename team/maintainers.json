@@ -664,37 +664,6 @@
       "ci_username": "majorp93"
    },
    {
-      "name": "PixelBoot",
-      "country": "MT",
-      "github_username": "pixelboot",
-      "xda_url": "https://forum.xda-developers.com/m/pixelboot.8086838",
-      "telegram_url": "https://t.me/PixelBoot",
-      "devices": [
-         {
-            "codename": "flame",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "coral",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "sunfish",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "pixelboot"
-   },
-   {
       "name": "Pulkit Agarwal",
       "country": "IN",
       "github_username": "pulkit077",
