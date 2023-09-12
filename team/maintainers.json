@@ -57,6 +57,21 @@
       "ci_username": "alcatraz323"
    },
    {
+      "name": "Alejandro Vargas",
+      "country": "MX",
+      "github_username": "alejandrovargas22",
+      "devices": [
+         {
+            "codename": "lavender",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "alejandrovargas22"
+   },
+   {
       "name": "Alexander Winkowski",
       "country": "PL",
       "github_username": "dereference23",
