@@ -631,15 +631,6 @@
       "ci_username": "classified7667"
    },
    {
-      "name": "Reza Bagas Rifaldy",
-      "country": "ID",
-      "github_username": "grettorosella",
-      "xda_url": "https://forum.xda-developers.com/m/grettorosella.9905080/",
-      "telegram_url": "https://t.me/GrettoRosella",
-      "devices": [],
-      "ci_username": "grettorosella"
-   },
-   {
       "name": "Saalim",
       "country": "IN",
       "github_username": "danascape",
@@ -747,15 +738,6 @@
          }
       ],
       "ci_username": "lucchetto"
-   },
-   {
-      "name": "expressluke",
-      "country": "GB",
-      "github_username": "expressluke",
-      "xda_url": "https://forum.xda-developers.com/m/expressluke.7166349/",
-      "telegram_url": "https://t.me/ogexpressluke",
-      "devices": [],
-      "ci_username": "expressluke"
    },
    {
       "name": "lzgmc",
