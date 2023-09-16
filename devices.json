@@ -526,13 +526,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -885,13 +885,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
@@ -922,13 +922,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
@@ -959,13 +959,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
@@ -996,13 +996,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
@@ -1458,13 +1458,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
@@ -1495,13 +1495,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
@@ -1532,13 +1532,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "twelve",
