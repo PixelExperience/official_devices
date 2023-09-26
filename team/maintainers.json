@@ -113,23 +113,6 @@
       "ci_username": "herobuxx"
    },
    {
-      "name": "Alisson Grizotti",
-      "country": "BR",
-      "github_username": "bagualisson",
-      "xda_url": "https://forum.xda-developers.com/m/alisson1397.7677621/",
-      "telegram_url": "http://t.me/bagualisson",
-      "devices": [
-         {
-            "codename": "vayu",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "bagualisson"
-   },
-   {
       "name": "Anand S",
       "country": "IN",
       "github_username": "anandsuresh02",
