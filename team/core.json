@@ -115,6 +115,20 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "taimen",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "walleye",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "jro1979oliver"
