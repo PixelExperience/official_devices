@@ -1193,6 +1193,30 @@
       ]
    },
    {
+      "name": "Mi 9 SE",
+      "brand": "Xiaomi",
+      "codename": "grus",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/rom-unofficial-monthly-pixel-experience-13-normal-plus-for-xiaomi-mi-9-se.4561293/",
+            "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/rom-unofficial-monthly-pixel-experience-13-normal-plus-for-xiaomi-mi-9-se.4561293/",
+            "stable": true,
+            "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_grus",
+         "kernel_xiaomi_grus",
+         "vendor_xiaomi-firmware"
+      ]
+   },
+   {
       "name": "5",
       "brand": "OnePlus",
       "codename": "cheeseburger",
