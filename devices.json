@@ -416,6 +416,32 @@
       ]
    },
    {
+      "name": "A52s 5G",
+      "brand": "Samsung",
+      "codename": "a52sxq",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a52sxq",
+         "device_samsung_sm7325-common",
+         "kernel_samsung_sm7325",
+         "vendor_samsung_sm7325-common",
+         "vendor_samsung_a52sxq"
+      ]
+   },
+   {
       "name": "A72",
       "brand": "Samsung",
       "codename": "a72q",
@@ -451,6 +477,32 @@
          "kernel_samsung_sm7125",
          "vendor_samsung_sm7125-common",
          "vendor_samsung_a72q"
+      ]
+   },
+   {
+      "name": "M52 5G",
+      "brand": "Samsung",
+      "codename": "m52xq",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_m52xq",
+         "device_samsung_sm7325-common",
+         "kernel_samsung_sm7325",
+         "vendor_samsung_sm7325-common",
+         "vendor_samsung_m52xq"
       ]
    },
    {
