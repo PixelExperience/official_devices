@@ -655,6 +655,30 @@
       "ci_username": "dasshubham762"
    },
    {
+      "name": "Simon1511",
+      "country": "DE",
+      "github_username": "simon1511",
+      "xda_url": "https://xdaforums.com/m/simon1511.7334446/",
+      "telegram_url": "https://t.me/Simon1511",
+      "devices": [
+         {
+            "codename": "a52sxq",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "m52xq",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "simon1511"
+   },
+   {
       "name": "Simone Esposito",
       "country": "IT",
       "github_username": "darkjoker360",
@@ -728,30 +752,6 @@
          }
       ],
       "ci_username": "lzgmc"
-   },
-   {
-      "name": "Simon1511",
-      "country": "DE",
-      "github_username": "Simon1511",
-      "xda_url": "https://xdaforums.com/m/simon1511.7334446/",
-      "telegram_url": "https://t.me/Simon1511",
-      "devices": [
-         {
-            "codename": "a52sxq",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "m52xq",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "Simon1511"
    },
    {
       "name": "snnbyyds114514",
