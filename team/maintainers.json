@@ -130,23 +130,6 @@
       "ci_username": "anandsuresh02"
    },
    {
-      "name": "AnilShebin",
-      "country": "IN",
-      "github_username": "anilshebin",
-      "xda_url": "https://forum.xda-developers.com/m/anilshebin.12565149/",
-      "telegram_url": "https://t.me/AnilShebin",
-      "devices": [
-         {
-            "codename": "RMX1971",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "anilshebin"
-   },
-   {
       "name": "Arindam Bhattacharjee",
       "country": "IN",
       "github_username": "userariii",
