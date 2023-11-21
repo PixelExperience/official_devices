@@ -480,6 +480,32 @@
       ]
    },
    {
+      "name": "A73 5G",
+      "brand": "Samsung",
+      "codename": "a73xq",
+      "supported_versions": [
+         {
+            "version_code": "thirteen",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": false
+         },
+         {
+            "version_code": "thirteen_plus",
+            "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_samsung_a73xq",
+         "device_samsung_sm7325-common",
+         "kernel_samsung_sm7325",
+         "vendor_samsung_sm7325-common",
+         "vendor_samsung_a73xq"
+      ]
+   },
+   {
       "name": "Moto Z2 Play",
       "brand": "Motorola",
       "codename": "albus",

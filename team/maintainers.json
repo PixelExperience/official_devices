@@ -674,6 +674,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "a73xq",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "simon1511"
