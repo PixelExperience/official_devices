@@ -156,30 +156,6 @@
       "ci_username": "userariii"
    },
    {
-      "name": "CHRISL7",
-      "country": "BR",
-      "github_username": "chrisl7",
-      "xda_url": "https://forum.xda-developers.com/m/chrisw444.11220339/",
-      "telegram_url": "http://t.me/CHRISL7",
-      "devices": [
-         {
-            "codename": "spes",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "surya",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "chrisl7"
-   },
-   {
       "name": "Debdeep",
       "country": "IN",
       "github_username": "debdeep199x",
