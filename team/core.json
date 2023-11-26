@@ -22,7 +22,15 @@
       "github_username": "jorg3lucas",
       "xda_url": "https://forum.xda-developers.com/m/jorge-lucas.9604887/",
       "telegram_url": "http://t.me/JorgeLucas",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "raphael",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "jorgelucas"
    },
    {
