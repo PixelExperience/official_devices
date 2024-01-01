@@ -1680,7 +1680,7 @@
       ],
       "repositories": [
          "device_xiaomi_dipper",
-         "kernel_xiaomi_dipper",
+         "kernel_xiaomi_sdm845",
          "vendor_xiaomi_dipper",
          "vendor_xiaomi-firmware",
          "device_xiaomi_sdm845-common",
