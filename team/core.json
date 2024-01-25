@@ -129,6 +129,13 @@
                "thirteen",
                "thirteen_plus"
             ]
+         },
+         {
+            "codename": "nio",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
          }
       ],
       "ci_username": "jro1979oliver"
