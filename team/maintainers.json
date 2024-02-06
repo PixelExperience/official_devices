@@ -739,30 +739,6 @@
       "ci_username": "lzgmc"
    },
    {
-      "name": "snnbyyds114514",
-      "country": "CN",
-      "github_username": "snnbyyds",
-      "xda_url": "https://forum.xda-developers.com/m/snnbyyds114514.12310335/",
-      "telegram_url": "http://t.me/snnbyyds",
-      "devices": [
-         {
-            "codename": "fajita",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "enchilada",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "snnbyyds"
-   },
-   {
       "name": "solidv",
       "country": "PT",
       "github_username": "solidv",
