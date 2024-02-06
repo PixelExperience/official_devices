@@ -1794,15 +1794,15 @@
          },
          {
             "version_code": "thirteen",
-            "stable": true,
+            "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-enchilada-13-pixelexperience-13-for-oneplus-6-aosp.4583487/",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
-            "stable": true,
+            "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-enchilada-13-pixelexperience-13-for-oneplus-6-aosp.4583487/",
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -1858,15 +1858,15 @@
       "supported_versions": [
          {
             "version_code": "thirteen",
-            "stable": true,
+            "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-official-pixelexperience-13-aosp-oneplus-6t.4500721/",
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
-            "stable": true,
+            "stable": false,
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-fajita-official-pixelexperience-13-aosp-oneplus-6t.4500721/",
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
