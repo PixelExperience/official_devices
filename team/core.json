@@ -17,6 +17,54 @@
       "ci_username": "jorgelucas"
    },
    {
+      "name": "Pulkit Agarwal",
+      "country": "IN",
+      "github_username": "pulkit077",
+      "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
+      "telegram_url": "https://t.me/Pulkit077",
+      "devices": [
+         {
+            "codename": "sweet",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "pulkit077"
+   },
+   {
+      "name": "Rajan Palaniya",
+      "country": "IN",
+      "github_username": "classified",
+      "xda_url": "https://forum.xda-developers.com/m/parth7667.4284286/",
+      "telegram_url": "http://t.me/classified7667",
+      "devices": [
+         {
+            "codename": "hotdogb",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "hotdog",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
+      "ci_username": "classified7667"
+   },
+   {
       "name": "Ruchit Marathe",
       "country": "IN",
       "github_username": "risenid",
@@ -122,53 +170,5 @@
          }
       ],
       "ci_username": "jro1979oliver"
-   },
-   {
-      "name": "Pulkit Agarwal",
-      "country": "IN",
-      "github_username": "pulkit077",
-      "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
-      "telegram_url": "https://t.me/Pulkit077",
-      "devices": [
-         {
-            "codename": "sweet",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "pulkit077"
-   },
-   {
-      "name": "Rajan Palaniya",
-      "country": "IN",
-      "github_username": "classified",
-      "xda_url": "https://forum.xda-developers.com/m/parth7667.4284286/",
-      "telegram_url": "http://t.me/classified7667",
-      "devices": [
-         {
-            "codename": "hotdogb",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "guacamole",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         },
-         {
-            "codename": "hotdog",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "classified7667"
    }
 ]
