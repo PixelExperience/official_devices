@@ -337,23 +337,6 @@
       "ci_username": "iamimmanuelraj"
    },
    {
-      "name": "InFeRnO",
-      "country": "IN",
-      "github_username": "inferno0230",
-      "xda_url": "https://forum.xda-developers.com/m/inferno0230.12118995/",
-      "telegram_url": "http://t.me/inferno0230",
-      "devices": [
-         {
-            "codename": "martini",
-            "versions": [
-               "thirteen",
-               "thirteen_plus"
-            ]
-         }
-      ],
-      "ci_username": "inferno0230"
-   },
-   {
       "name": "Jarl-Penguin",
       "country": "KR",
       "github_username": "jarlpenguin",
