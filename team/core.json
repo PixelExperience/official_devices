@@ -5,7 +5,15 @@
       "github_username": "jorg3lucas",
       "xda_url": "https://forum.xda-developers.com/m/jorge-lucas.9604887/",
       "telegram_url": "http://t.me/JorgeLucas",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "raphael",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "jorgelucas"
    },
    {
@@ -14,7 +22,15 @@
       "github_username": "pulkit077",
       "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
       "telegram_url": "https://t.me/Pulkit077",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "sweet",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "pulkit077"
    },
    {
@@ -23,7 +39,29 @@
       "github_username": "classified",
       "xda_url": "https://forum.xda-developers.com/m/parth7667.4284286/",
       "telegram_url": "http://t.me/classified7667",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "hotdogb",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "hotdog",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "classified7667"
    },
    {
@@ -32,7 +70,22 @@
       "github_username": "risenid",
       "xda_url": "https://forum.xda-developers.com/m/ryzen5950xt.12060347/",
       "telegram_url": "https://t.me/RisenID",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "a52q",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "a72q",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "risen"
    },
    {
@@ -41,7 +94,22 @@
       "github_username": "zidan44",
       "xda_url": "https://forum.xda-developers.com/m/zidan44.9782219/",
       "telegram_url": "https://t.me/ZIDAN44",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "begonia",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "mojito",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "zidan44"
    },
    {
@@ -50,7 +118,57 @@
       "github_username": "jro1979oliver",
       "xda_url": "https://forum.xda-developers.com/m/jeferson1979.8863813/",
       "telegram_url": "http://t.me/jro1979oliver",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "beckham",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "evert",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "lake",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "berlin",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "taimen",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "walleye",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         },
+         {
+            "codename": "nio",
+            "versions": [
+               "thirteen",
+               "thirteen_plus"
+            ]
+         }
+      ],
       "ci_username": "jro1979oliver"
    }
 ]

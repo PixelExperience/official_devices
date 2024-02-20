@@ -7,12 +7,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -54,12 +54,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -179,13 +179,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-rmx2061-pixelexperience-aosp-official.4510477/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-rmx2061-pixelexperience-aosp-official.4510477/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -249,12 +249,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "twelve",
@@ -333,13 +333,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4501617/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4501617/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -398,13 +398,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4434401/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4434401/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -424,13 +424,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -462,13 +462,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4434401/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4434401/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -488,13 +488,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -615,13 +615,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4131417/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4131417/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -686,12 +686,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -722,13 +722,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-oneplus-nord-avicii-pixel-experience-aosp.4540109",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-oneplus-nord-avicii-pixel-experience-aosp.4540109",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -794,13 +794,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -832,13 +832,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -862,13 +862,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/",
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/",
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1351,12 +1351,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1376,12 +1376,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1484,13 +1484,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4399581/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4399581/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1669,13 +1669,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1696,13 +1696,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-13-dre-pixelexperience-for-oneplus-nord-n200-5g-aosp.4592973/",
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -1834,13 +1834,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2028,13 +2028,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-ginkgo-willow-pixelexperience-13.4494293/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-official-ginkgo-willow-pixelexperience-13.4494293/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2066,13 +2066,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2104,13 +2104,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2230,13 +2230,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2270,13 +2270,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2309,12 +2309,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2348,13 +2348,13 @@
             "version_code": "thirteen",
             "xda_thread": "",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2388,13 +2388,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-mi-a2-pixelexperience-aosp.4522151/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-mi-a2-pixelexperience-aosp.4522151/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2428,12 +2428,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2494,12 +2494,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2532,13 +2532,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2571,13 +2571,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2620,13 +2620,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g7-plus-pixelexperience-aosp.4605383/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-moto-g7-plus-pixelexperience-aosp.4605383/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2742,12 +2742,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2793,12 +2793,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2817,12 +2817,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2880,12 +2880,12 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/updated-13-04-2022-rom-official-12-1-twelve-pixel-experience-for-k30-pro-zoom-poco-f2-pro-lmi-lmipro.4275995/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2904,13 +2904,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2963,12 +2963,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3095,12 +3095,12 @@
          },
          {
             "version_code": "thirteen",
-            "deprecated": true,
+            "deprecated": false,
             "stable": true
          },
          {
             "version_code": "thirteen_plus",
-            "deprecated": true,
+            "deprecated": false,
             "stable": true
          }
       ],
@@ -3135,13 +3135,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pixelexperience-aosp.4423487/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pixelexperience-aosp.4423487/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3171,13 +3171,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3209,13 +3209,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4378865/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4378865/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3236,13 +3236,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3294,12 +3294,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3377,13 +3377,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4453453/",
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4453453/",
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3519,12 +3519,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3543,12 +3543,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3767,12 +3767,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3823,12 +3823,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4130,13 +4130,13 @@
             "version_code": "thirteen",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4355535/",
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
             "xda_thread": "https://forum.xda-developers.com/t/4355535/",
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4213,13 +4213,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4399579/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4399579/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4251,13 +4251,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4399579/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4399579/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4374,13 +4374,13 @@
             "version_code": "thirteen",
             "xda_thread": "",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4410,12 +4410,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4478,13 +4478,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4520469/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4520469/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4616,13 +4616,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/4380355/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/4380355/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4776,13 +4776,13 @@
             "version_code": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4813,12 +4813,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4894,12 +4894,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": true
+            "deprecated": false
          }
       ],
       "repositories": [
