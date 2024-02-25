@@ -74,6 +74,7 @@
          {
             "codename": "a52q",
             "versions": [
+               "fourteen",
                "thirteen",
                "thirteen_plus"
             ]
