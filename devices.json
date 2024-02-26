@@ -844,6 +844,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-14-begonia-begoniain-pixel-experience-official-aosp.4196041/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3183,6 +3189,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-mojito-sunny-pixel-experience-official-aosp.4264285/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-14-mojito-sunny-pixel-experience-official-aosp.4264285/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
