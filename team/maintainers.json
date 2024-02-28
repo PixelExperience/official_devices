@@ -38,7 +38,14 @@
       "github_username": "kakatkarakshay",
       "xda_url": "https://forum.xda-developers.com/m/cryllicbuster273.10543397/",
       "telegram_url": "http://t.me/KakatkarAkshay",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "avicii",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "kakatkarakshay"
    },
    {
