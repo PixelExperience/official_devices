@@ -2100,6 +2100,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2138,6 +2144,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2264,6 +2276,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-pro-official-pixel-experience-aosp.4401291/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -2304,6 +2322,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [

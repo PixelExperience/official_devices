@@ -284,7 +284,14 @@
       "github_username": "shantanu-sarkar",
       "xda_url": "https://forum.xda-developers.com/m/shantanusarkar.11700663/",
       "telegram_url": "https://t.me/shantanusarkar",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "guacamoleb",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "shantanusarkar"
    },
    {
