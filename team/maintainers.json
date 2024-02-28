@@ -250,7 +250,14 @@
       "github_username": "joker-v2",
       "xda_url": "https://forum.xda-developers.com/m/joker02.7981777/",
       "telegram_url": "https://t.me/Joker_V2_0",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "joker"
    },
    {
@@ -286,7 +293,14 @@
       "github_username": "dasshubham762",
       "xda_url": "https://forum.xda-developers.com/m/dasshubham762.8330494/",
       "telegram_url": "http://t.me/dasshubham762",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "dasshubham762"
    },
    {
