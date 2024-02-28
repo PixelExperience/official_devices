@@ -14,7 +14,14 @@
       "github_username": "pulkit077",
       "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
       "telegram_url": "https://t.me/Pulkit077",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "sweet",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "pulkit077"
    },
    {
@@ -35,6 +42,12 @@
       "devices": [
          {
             "codename": "a52q",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "a72q",
             "versions": [
                "fourteen"
             ]
