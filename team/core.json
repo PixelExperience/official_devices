@@ -77,7 +77,38 @@
       "github_username": "jro1979oliver",
       "xda_url": "https://forum.xda-developers.com/m/jeferson1979.8863813/",
       "telegram_url": "http://t.me/jro1979oliver",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "berlin",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "nio",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "beckham",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "lake",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "evert",
+            "versions": [
+               "fourteen"
+            ]
+   }
+],
       "ci_username": "jro1979oliver"
    }
 ]
