@@ -281,26 +281,7 @@
       "github_username": "simon1511",
       "xda_url": "https://xdaforums.com/m/simon1511.7334446/",
       "telegram_url": "https://t.me/Simon1511",
-      "devices": [
-         {
-            "codename": "a52sxq",
-            "versions": [
-               "fourteen"
-            ]
-         },
-         {
-            "codename": "a73xq",
-            "versions": [
-               "fourteen"
-            ]
-         },
-         {
-            "codename": "m52xq",
-            "versions": [
-               "fourteen"
-            ]
-         }
-      ],
+      "devices": [],
       "ci_username": "simon1511"
    },
    {
