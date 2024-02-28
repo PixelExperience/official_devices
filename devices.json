@@ -616,6 +616,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/4131417/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4131417/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
