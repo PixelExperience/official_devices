@@ -436,6 +436,11 @@
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -474,6 +479,11 @@
             "xda_thread": "https://forum.xda-developers.com/t/4434401/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -499,6 +509,11 @@
             "version_code": "thirteen_plus",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
             "deprecated": true
          }
       ],
@@ -2927,6 +2942,11 @@
             "version_code": "thirteen_plus",
             "xda_thread": "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-m52-5g.4595059/",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
             "deprecated": true
          }
       ],
