@@ -90,7 +90,20 @@
       "github_username": "userariii",
       "xda_url": "https://forum.xda-developers.com/m/cruecy.9792504/",
       "telegram_url": "https://t.me/CRUECY",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "DRG",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "PL2",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "userariii"
    },
    {
