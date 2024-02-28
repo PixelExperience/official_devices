@@ -234,7 +234,14 @@
       "github_username": "inkypen79",
       "xda_url": "https://forum.xda-developers.com/member.php?u=9382231",
       "telegram_url": "https://t.me/Inkypen",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "andromeda",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "inkypen"
    },
    {
