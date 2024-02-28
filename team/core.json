@@ -64,6 +64,12 @@
             "versions": [
                "fourteen"
             ]
+         },
+         {
+            "codename": "a72q",
+            "versions": [
+               "fourteen"
+            ]
          }
       ],
       "ci_username": "risen"
