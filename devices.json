@@ -727,7 +727,8 @@
          {
             "version_code": "fourteen",
             "stable": false,
-            "telegram_url": "https://t.me/penord"
+            "telegram_url": "https://t.me/penord",
+            "deprecated": false
          }
       ],
       "repositories": [
