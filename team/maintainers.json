@@ -167,7 +167,14 @@
       "github_username": "gaurav241",
       "xda_url": "https://forum.xda-developers.com/member.php?u=8029593",
       "telegram_url": "http://t.me/Gaurav24",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "X01BD",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "gaurav241"
    },
    {
