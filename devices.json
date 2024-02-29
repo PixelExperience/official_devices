@@ -1523,6 +1523,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/4399581/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399581/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4308,6 +4314,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/4399579/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -4346,6 +4358,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/4399579/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/4399579/",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [

@@ -121,7 +121,26 @@
       "github_username": "dylanneve1",
       "xda_url": "https://forum.xda-developers.com/m/dylanneve1.7983014/",
       "telegram_url": "http://telegram.me/dylanneve1",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "starlte",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "star2lte",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "crownlte",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "dylanneve1"
    },
    {
