@@ -350,6 +350,12 @@
             "xda_thread": "https://forum.xda-developers.com/t/4501617/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
