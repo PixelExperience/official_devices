@@ -835,6 +835,7 @@
          "device_motorola_sdm660-common",
          "kernel_motorola_msm8998",
          "vendor_motorola_beckham",
+         "vendor_motorola-extra",
          "vendor_motorola_sdm660-common"
       ]
    },
@@ -914,6 +915,7 @@
          "device_motorola_sm7325-common",
          "kernel_motorola_sm7325",
          "vendor_motorola_berlin",
+         "vendor_motorola-extra",
          "vendor_motorola_sm7325-common",
          "wiki_blobs_berlin"
       ]
@@ -1896,6 +1898,7 @@
          "device_motorola_evert",
          "kernel_motorola_msm8998",
          "vendor_motorola_evert",
+         "vendor_motorola-extra",
          "vendor_motorola_sdm660-common",
          "device_motorola_sdm660-common"
       ]
@@ -2711,6 +2714,7 @@
          "device_motorola_lake",
          "device_motorola_sdm660-common",
          "vendor_motorola_lake",
+         "vendor_motorola-extra",
          "vendor_motorola_sdm660-common",
          "kernel_motorola_msm8998"
       ]
@@ -3418,6 +3422,7 @@
          "device_motorola_nio",
          "device_motorola_sm8250-common",
          "kernel_motorola_sm8250",
+         "vendor_motorola-extra",
          "vendor_motorola_nio",
          "vendor_motorola_sm8250-common"
       ]
