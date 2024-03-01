@@ -271,7 +271,14 @@
       "github_username": "nranjan-17",
       "xda_url": "https://forum.xda-developers.com/m/nalinish-05.11157831",
       "telegram_url": "https://t.me/HyperPower17",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "mido",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "nranjan17"
    },
    {
