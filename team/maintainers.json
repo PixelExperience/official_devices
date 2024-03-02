@@ -183,7 +183,26 @@
       "github_username": "giasen",
       "xda_url": "https://forum.xda-developers.com/m/giasen.8167844/",
       "telegram_url": "http://t.me/giasen",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "kunlun2",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "kunlun2_row",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "dipper",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "giasen"
    },
    {
