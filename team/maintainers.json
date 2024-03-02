@@ -272,7 +272,14 @@
       "github_username": "kartik-commits",
       "xda_url": "https://forum.xda-developers.com/m/kartiklashkare.11243305/",
       "telegram_url": "https://t.me/kartik_ane_nenu",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "redwood",
+            "versions": [
+               "fourteen"
+            ]
+         }      
+      ],
       "ci_username": "kartikcommits"
    },
    {
