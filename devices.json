@@ -3442,7 +3442,8 @@
          "kernel_motorola_sm8250",
          "vendor_motorola-extra",
          "vendor_motorola_nio",
-         "vendor_motorola_sm8250-common"
+         "vendor_motorola_sm8250-common",
+         "wiki_blobs_nio"
       ]
    },
    {
