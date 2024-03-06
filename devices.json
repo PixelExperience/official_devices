@@ -3080,6 +3080,11 @@
             "version_code": "thirteen_plus",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -3088,7 +3093,6 @@
          "kernel_xiaomi_sm8350",
          "vendor_xiaomi_mars",
          "vendor_xiaomi_sm8350-common",
-         "vendor_xiaomi_mars-firmware",
          "wiki_blobs_mars"
       ]
    },
@@ -4854,15 +4858,19 @@
             "version_code": "thirteen_plus",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_venus",
          "device_xiaomi_sm8350-common",
-         "kernel_xiaomi_venus",
+         "kernel_xiaomi_sm8350",
          "vendor_xiaomi_venus",
          "vendor_xiaomi_sm8350-common",
-         "vendor_xiaomi_venus-firmware",
          "wiki_blobs_venus"
       ]
    },
