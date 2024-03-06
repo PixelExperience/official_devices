@@ -149,7 +149,14 @@
       "github_username": "broly1",
       "xda_url": "https://forum.xda-developers.com/m/broly.5605146/",
       "telegram_url": "https://t.me/Broly_1",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "kebab",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "broly"
    },
    {
