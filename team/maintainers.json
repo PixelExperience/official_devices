@@ -274,8 +274,22 @@
       "github_username": "jef00",
       "xda_url": "https://forum.xda-developers.com//member.php?u=5607183",
       "telegram_url": "http://t.me/jef009",
-      "devices": [],
-      "ci_username": "jef009"
+     "devices": [
+    {
+      "codename": "instantnoodlep",
+      "versions": [
+        "fourteen"
+      ]
+    },
+    {
+      "codename": "instantnoodle",
+      "versions": [
+        "fourteen"
+      ]
+    }
+  ],
+   "ci_username": "jef009"
+
    },
    {
       "name": "Kagura Rinko",
