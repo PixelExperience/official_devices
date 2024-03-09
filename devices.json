@@ -2870,10 +2870,9 @@
             "deprecated": true
          },
          {
-            "version_code": "fourteen",
-            "xda_thread": "https://xdaforums.com/t/rom-official-14-lavender-pixelexperience-aosp.4470689/",
+            "version_code": "fourteen", 
             "stable": false,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
