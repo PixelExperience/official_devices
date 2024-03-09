@@ -81,7 +81,14 @@
       "github_username": "anandsuresh02",
       "xda_url": "https://forum.xda-developers.com/m/anandsuresh02.12176781/",
       "telegram_url": "https://t.me/AnandSuresh02",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "anandsuresh02"
    },
    {
@@ -465,7 +472,14 @@
       "github_username": "vivekachooz",
       "xda_url": "https://forum.xda-developers.com/m/vivekachooz.10449035/",
       "telegram_url": "http://t.me/vivekachooz",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "vivekachooz"
    },
    {
