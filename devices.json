@@ -3112,7 +3112,7 @@
          "kernel_xiaomi_sm8350",
          "vendor_xiaomi_mars",
          "vendor_xiaomi_sm8350-common",
-         "wiki_blobs_mars"
+         "wiki_blobs_sm8350"
       ]
    },
    {
@@ -4890,7 +4890,7 @@
          "kernel_xiaomi_sm8350",
          "vendor_xiaomi_venus",
          "vendor_xiaomi_sm8350-common",
-         "wiki_blobs_venus"
+         "wiki_blobs_sm8350"
       ]
    },
    {
