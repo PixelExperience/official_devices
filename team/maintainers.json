@@ -312,7 +312,20 @@
       "github_username": "maluueu",
       "xda_url": "https://forum.xda-developers.com/m/maluueu.11669459/",
       "telegram_url": "https://t.me/maluueu",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "monet",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "vangogh",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "maluueu"
    },
    {
