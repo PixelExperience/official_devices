@@ -3236,6 +3236,11 @@
             "version_code": "thirteen_plus",
             "deprecated": true,
             "stable": true
+         },
+         {
+            "version_code": "fourteen",
+            "deprecated": false,
+            "stable": false
          }
       ],
       "repositories": [
@@ -4906,7 +4911,7 @@
       ]
    },
    {
-      "name": "POCO X4 Pro 5G / Redmi Note 11 Pro 5G / Redmi Note 11 Pro+ 5G",
+      "name": "POCO X4 Pro 5G / Redmi Note 11 Pro 5G / Redmi Note 11 Pro+ 5G / Redmi Note 11E Pro",
       "brand": "Xiaomi",
       "codename": "veux",
       "supported_versions": [
@@ -4921,12 +4926,18 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
          "device_xiaomi_veux",
          "device_xiaomi_veux-kernel",
          "kernel_xiaomi_sm6375",
+         "vendor_xiaomi_miuicamera-veux",
          "vendor_xiaomi_veux",
          "wiki_blobs_veux"
       ]

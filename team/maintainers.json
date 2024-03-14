@@ -47,7 +47,20 @@
       "github_username": "dereference23",
       "xda_url": "https://forum.xda-developers.com/m/dereference23.9347858",
       "telegram_url": "https://t.me/dereference",
-      "devices": [],
+      "devices": [
+         {
+            "codename": "miatoll",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "veux",
+            "versions": [
+               "fourteen"
+            ]
+         }
+      ],
       "ci_username": "dereference"
    },
    {
