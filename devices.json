@@ -3011,6 +3011,12 @@
             "version_code": "thirteen_plus",
             "stable": true,
             "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "xda_thread": "https://xdaforums.com/t/updated-27-10-2023-rom-official-13-thirteen-pixel-experience-for-k30-pro-zoom-poco-f2-pro-lmi-lmipro.4275995/",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
