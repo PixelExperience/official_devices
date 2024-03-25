@@ -3985,13 +3985,20 @@
          {
             "version_code": "thirteen_plus",
             "stable": true,
+            "deprecated": true
+         },
+         {
+            "version_code": "fourteen",
+            "stable": false,
             "deprecated": false
          }
       ],
       "repositories": [
+         "device_google_gs_common",
          "device_google_redfin",
          "device_google_redbull",
          "vendor_google_redfin",
+         "vendor_google-extra",
          "kernel_google_redbull",
          "wiki_blobs_redbull"
       ]
