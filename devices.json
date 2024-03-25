@@ -784,12 +784,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -1210,12 +1210,12 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -3980,7 +3980,7 @@
          {
             "version_code": "thirteen",
             "stable": true,
-            "deprecated": false
+            "deprecated": true
          },
          {
             "version_code": "thirteen_plus",
