@@ -139,6 +139,24 @@
             "versions": [
                "fourteen"
             ]
+         },
+         {
+            "codename": "redfin",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "barbet",
+            "versions": [
+               "fourteen"
+            ]
+         },
+         {
+            "codename": "bramble",
+            "versions": [
+               "fourteen"
+            ]
          }
       ],
       "ci_username": "jro1979oliver"
